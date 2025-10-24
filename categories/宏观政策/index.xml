@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>宏观政策 on 特斯拉日报</title>
+    <link>http://localhost:1316/TeslaDaily/categories/%E5%AE%8F%E8%A7%82%E6%94%BF%E7%AD%96/</link>
+    <description>Recent content in 宏观政策 on 特斯拉日报</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Oct 2025 22:19:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1316/TeslaDaily/categories/%E5%AE%8F%E8%A7%82%E6%94%BF%E7%AD%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSD硬件承诺罗生门：特斯拉“设计为自动驾驶”背后的技术与法律博弈</title>
+      <link>http://localhost:1316/TeslaDaily/posts/658093d45f705733f2a49be5fd7d6a73_ai/</link>
+      <pubDate>Wed, 22 Oct 2025 22:19:29 +0000</pubDate>
+      <guid>http://localhost:1316/TeslaDaily/posts/658093d45f705733f2a49be5fd7d6a73_ai/</guid>
+      <description>&lt;p&gt;特斯拉近日悄然修改了其官网关于FSD（完全自动驾驶）硬件的描述，从“所有车辆都配备了自动驾驶硬件”变为“设计为自动驾驶”。这一细微的措辞变化，却如同投入湖面的石子，激起了市场关于其FSD技术路线、商业承诺乃至潜在法律风险的层层波澜。对于关注高科技与智能出行的投资者而言，这不仅是特斯拉自身信誉的拷问，更是对未来自动驾驶投资逻辑的一次深度重构。&lt;/p&gt;&#xA;&lt;h2 id=&#34;硬件承诺的演变从全系标配到为自动驾驶设计&#34;&gt;硬件承诺的演变：从“全系标配”到“为自动驾驶设计”&lt;/h2&gt;&#xA;&lt;p&gt;回顾特斯拉的FSD征程，其硬件承诺可谓跌宕起伏。早在2016年末，特斯拉曾豪迈宣称：“现在生产的所有特斯拉汽车都配备了完全自动驾驶硬件。”彼时，市场被描绘的愿景是：即便软件仍在迭代，硬件（HW2系统）已具备实现全自动驾驶的潜力，仅需OTA（空中下载）更新即可解锁终极功能，无需额外加装传感器或电脑。这一大胆宣言，无疑是吸引用户为尚未成熟的FSD软件预付费的关键。&lt;/p&gt;&#xA;&lt;p&gt;然而，现实却远比愿景骨感。&lt;/p&gt;&#xA;&lt;h2 id=&#34;历史回顾与硬件迭代&#34;&gt;历史回顾与硬件迭代：&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;HW2时代（2016）：&lt;/strong&gt; 首次独立开发的硬件平台，承诺“全系标配FSD硬件”。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HW3登场：&lt;/strong&gt; HW2算力瓶颈显现，特斯拉开始为已购买FSD的用户免费升级到更强大的HW3电脑。但值得玩味的是，未购买FSD的用户无此待遇；而那些订阅FSD服务的用户，却被收取1000美元的“硬件升级费”，即便他们当初购买车辆时，被告知已拥有“所有必要硬件”。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;HW4/HW5接力：&lt;/strong&gt; 随着技术演进，HW4已然面世，HW5/AI5也箭在弦上。这清晰地表明，HW3的性能瓶颈已是公开的秘密，甚至连特斯拉自身也心知肚明。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;核心逻辑：&lt;/strong&gt; 特斯拉最初的“一步到位”硬件策略，似乎随着软件的复杂度和用户期待的升高，变得力不从心。每一次的硬件迭代，都伴随着用户对于初期承诺兑现与否的疑虑。&lt;/p&gt;&#xA;&lt;h2 id=&#34;技术困境与升级陷阱hw3性能瓶颈与用户之惑&#34;&gt;技术困境与升级陷阱：HW3性能瓶颈与用户之惑&lt;/h2&gt;&#xA;&lt;p&gt;特斯拉“设计为自动驾驶”的新表述，无疑是承认了一个残酷的事实：现有部分车辆，特别是搭载HW3甚至更早硬件的老款车型，其算力可能已无法支撑最新FSD软件所需的海量数据处理与复杂决策。换言之，即便软件能力突飞猛进，硬件“拖后腿”正成为FSD全面落地的阿喀琉斯之踵。&lt;/p&gt;&#xA;&lt;h2 id=&#34;关键挑战&#34;&gt;关键挑战：&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;算力鸿沟：&lt;/strong&gt; 最新FSD软件对计算资源的需求呈指数级增长，HW3的算力瓶颈日益凸显。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;用户体验：&lt;/strong&gt; 硬件性能不足直接影响FSD功能的流畅性、稳定性和安全性，导致用户体验与高昂付费不符。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;升级成本：&lt;/strong&gt; 特斯拉面临着为数十万辆甚至更多车辆进行硬件升级的巨大潜在成本，而公司目前似乎在“踢皮球”，迟迟不愿提供明确的解决方案。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;思考点：&lt;/strong&gt; 这对已投入数千甚至上万美元购买FSD服务的用户而言，无疑是沉重的打击。他们的“未来投资”是否会因硬件落后而贬值？等待遥遥无期的免费升级，还是自费升级？这不仅是技术问题，更是复杂的商业伦理与用户关系维护的挑战。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
