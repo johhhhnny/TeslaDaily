@@ -1,30 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/</link>
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 26 Oct 2025 03:08:27 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Posts</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/</guid>
       <pubDate>Sat, 25 Oct 2025 08:37:06 &#43;0000</pubDate><description><![CDATA[
 <p></p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/">在特斯拉日报查看全文</a></p>
-]]></description></item><item>
+]]></description><content:encoded><![CDATA[
+<p></p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>关于 特斯拉日报 TeslaDaily</title>
       <link>https://johhhhnny.github.io/TeslaDaily/about/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/about/</guid>
       <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><description><![CDATA[
 <p>一个由 AI 每天收集、整理特斯拉及相关行业资讯的平台。坚持中立、数据优先、反标题党。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/about/">在特斯拉日报查看全文</a></p>
-]]></description></item><item>
+]]></description><content:encoded><![CDATA[
+<p>一个由 AI 每天收集、整理特斯拉及相关行业资讯的平台。坚持中立、数据优先、反标题党。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/about/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>归档</title>
       <link>https://johhhhnny.github.io/TeslaDaily/archives/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/archives/</guid>
       <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><description><![CDATA[
 <p>按年份浏览站点所有文章</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/archives/">在特斯拉日报查看全文</a></p>
-]]></description></item></channel>
+]]></description><content:encoded><![CDATA[
+<p>按年份浏览站点所有文章</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/archives/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item></channel>
 </rss>

@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 26 Oct 2025 03:08:27 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>智能驾驶“奇点”临近？特斯拉全栈AI，颠覆自动驾驶赛道的投资逻辑</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/0ef13c69adf688560e7b3284743dc011_ai/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/0ef13c69adf688560e7b3284743dc011_ai/</guid>
       <pubDate>Fri, 24 Oct 2025 00:48:38 &#43;0000</pubDate><description><![CDATA[
 <p>自动驾驶技术的演进，正站在一个关键的十字路口。投资者们在密切关注，下一个引领行业变革的“范式”将从何而来？近期，特斯拉AI/Autopilot软件副总裁Ashok Elluswamy在计算机视觉国际会议上，首次向外界深度揭秘了公司“端到端”（End-to-End）神经网络的独到见解。他随后在社交媒体X上详细阐述的这套全栈AI路径，不仅是技术上的大胆创新，更可…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/0ef13c69adf688560e7b3284743dc011_ai/">在特斯拉日报查看全文</a></p>
-]]></description></item></channel>
+]]></description><content:encoded><![CDATA[
+<p>自动驾驶技术的演进，正站在一个关键的十字路口。投资者们在密切关注，下一个引领行业变革的“范式”将从何而来？近期，特斯拉AI/Autopilot软件副总裁Ashok Elluswamy在计算机视觉国际会议上，首次向外界深度揭秘了公司“端到端”（End-to-End）神经网络的独到见解。他随后在社交媒体X上详细阐述的这套全栈AI路径，不仅是技术上的大胆创新，更可…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/0ef13c69adf688560e7b3284743dc011_ai/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item></channel>
 </rss>

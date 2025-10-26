@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/%E9%AB%98%E9%98%B6%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6/</link>
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E9%AB%98%E9%98%B6%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 26 Oct 2025 03:08:27 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E9%AB%98%E9%98%B6%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>FSD V14.1.2狂暴模式重磅回归：特斯拉自动驾驶“极限挑战”与投资新机？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/489e7836ba1aa48b77f8e4ad38b38992_ai/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/489e7836ba1aa48b77f8e4ad38b38992_ai/</guid>
       <pubDate>Thu, 16 Oct 2025 02:25:52 &#43;0000</pubDate><description><![CDATA[
 <p>特斯拉日前向早期测试者推送了FSD V14.1.2版本，其中最引人瞩目的，莫过于“狂暴模式”（Mad Max Mode）的强势回归。这一更新不仅是技术栈的微调，更可能预示着特斯拉在L2+级自动驾驶策略上的大胆尝试，对追求极致体验的投资者和高科技爱好者而言，无疑又抛出了一个值得深思的议题。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/489e7836ba1aa48b77f8e4ad38b38992_ai/">在特斯拉日报查看全文</a></p>
-]]></description></item></channel>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉日前向早期测试者推送了FSD V14.1.2版本，其中最引人瞩目的，莫过于“狂暴模式”（Mad Max Mode）的强势回归。这一更新不仅是技术栈的微调，更可能预示着特斯拉在L2+级自动驾驶策略上的大胆尝试，对追求极致体验的投资者和高科技爱好者而言，无疑又抛出了一个值得深思的议题。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/489e7836ba1aa48b77f8e4ad38b38992_ai/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item></channel>
 </rss>

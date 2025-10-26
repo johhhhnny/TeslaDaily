@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/nhtsa/</link>
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/nhtsa/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 26 Oct 2025 03:08:27 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/nhtsa/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>激进FSD“疯狂麦克斯”模式直面NHTSA：速度与安全的天平如何权衡？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/3e798f63b4a67c9a4acd97a86a5c87e4_ai/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/3e798f63b4a67c9a4acd97a86a5c87e4_ai/</guid>
       <pubDate>Fri, 24 Oct 2025 00:46:37 &#43;0000</pubDate><description><![CDATA[
 <p>特斯拉Full Self-Driving（FSD）监督版推出的“疯狂麦克斯”（Mad Max）速度模式，无疑是近期科技与金融圈的热议焦点。然而，这项旨在模拟更激进、更“拟人化”驾驶风格的创新，迅速引来了美国国家公路交通安全管理局（NHTSA）的审慎关注，要求特斯拉提供更多关于其“速度配置文件”的详细信息。这不禁让市场和投资者开始思考：当自动驾驶技术加速迭代，…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/3e798f63b4a67c9a4acd97a86a5c87e4_ai/">在特斯拉日报查看全文</a></p>
-]]></description></item></channel>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉Full Self-Driving（FSD）监督版推出的“疯狂麦克斯”（Mad Max）速度模式，无疑是近期科技与金融圈的热议焦点。然而，这项旨在模拟更激进、更“拟人化”驾驶风格的创新，迅速引来了美国国家公路交通安全管理局（NHTSA）的审慎关注，要求特斯拉提供更多关于其“速度配置文件”的详细信息。这不禁让市场和投资者开始思考：当自动驾驶技术加速迭代，…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/3e798f63b4a67c9a4acd97a86a5c87e4_ai/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item></channel>
 </rss>

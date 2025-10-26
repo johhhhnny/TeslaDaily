@@ -1,23 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3/</link>
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 26 Oct 2025 03:08:27 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉FSD硬件承诺巨变：从“全系标配”到“设计为自动驾驶”，投资人如何解读？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/658093d45f705733f2a49be5fd7d6a73_ai/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/658093d45f705733f2a49be5fd7d6a73_ai/</guid>
       <pubDate>Wed, 22 Oct 2025 02:02:16 &#43;0000</pubDate><description><![CDATA[
 <p>特斯拉，这家以颠覆性创新闻名的电动汽车巨头，最近悄然修改了其官网关于全自动驾驶（Full Self-Driving, FSD）硬件的描述。从昔日“所有车辆均配备自动驾驶硬件”，到如今的“车辆专为自动驾驶设计”，这一细微但关键的措辞转变，不仅是语言层面的调整，更可能是FSD技术路线、商业模式乃至法律风险考量的一次深刻反思。对于关注特斯拉及其未来科技蓝图的投资者…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/658093d45f705733f2a49be5fd7d6a73_ai/">在特斯拉日报查看全文</a></p>
-]]></description></item><item>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉，这家以颠覆性创新闻名的电动汽车巨头，最近悄然修改了其官网关于全自动驾驶（Full Self-Driving, FSD）硬件的描述。从昔日“所有车辆均配备自动驾驶硬件”，到如今的“车辆专为自动驾驶设计”，这一细微但关键的措辞转变，不仅是语言层面的调整，更可能是FSD技术路线、商业模式乃至法律风险考量的一次深刻反思。对于关注特斯拉及其未来科技蓝图的投资者…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/658093d45f705733f2a49be5fd7d6a73_ai/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉FSD V14.2：普及前夜的AI博弈与投资布局前瞻</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/6eeed33be6235f550948fccb07b1bda1_ai/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/6eeed33be6235f550948fccb07b1bda1_ai/</guid>
       <pubDate>Mon, 20 Oct 2025 02:20:41 &#43;0000</pubDate><description><![CDATA[
 <p>特斯拉FSD（Full Self-Driving）软件的迭代之路，从未停止过牵动全球科技与资本市场的神经。当业界还在消化FSD V14.1.x系列的小范围测试反馈时，埃隆·马斯克的一则最新声明，无疑为投资者和技术爱好者描绘了FSD大规模普及的全新路线图：所有目光，都将聚焦FSD V14.2。这不仅仅是版本号的更迭，更预示着特斯拉自动驾驶技术商业化进程中的一个…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/6eeed33be6235f550948fccb07b1bda1_ai/">在特斯拉日报查看全文</a></p>
-]]></description></item></channel>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉FSD（Full Self-Driving）软件的迭代之路，从未停止过牵动全球科技与资本市场的神经。当业界还在消化FSD V14.1.x系列的小范围测试反馈时，埃隆·马斯克的一则最新声明，无疑为投资者和技术爱好者描绘了FSD大规模普及的全新路线图：所有目光，都将聚焦FSD V14.2。这不仅仅是版本号的更迭，更预示着特斯拉自动驾驶技术商业化进程中的一个…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/6eeed33be6235f550948fccb07b1bda1_ai/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item></channel>
 </rss>
