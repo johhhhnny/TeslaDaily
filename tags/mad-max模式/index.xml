@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mad Max模式 on 特斯拉日报</title>
+    <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/mad-max%E6%A8%A1%E5%BC%8F/</link>
-    <description>Recent content in Mad Max模式 on 特斯拉日报</description>
-    <generator>Hugo</generator>
+    <description>每日精选，一页速览特斯拉动态</description>
+    <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Oct 2025 08:38:17 +0000</lastBuildDate>
-    <atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/mad-max%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/mad-max%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>FSD v14.1.2上线，万众期待的“Banish”未至，新模式“Mad Max”能否燃爆自动驾驶赛道？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/2eae1d9599e6177ee42572c480b96e88_ai/</link>
-      <pubDate>Wed, 15 Oct 2025 08:38:17 +0000</pubDate>
-      <guid>https://johhhhnny.github.io/TeslaDaily/posts/2eae1d9599e6177ee42572c480b96e88_ai/</guid>
-      <description>&lt;p&gt;特斯拉（Tesla）的完全自动驾驶（FSD）系统，不仅是其技术实力的象征，更是影响其未来估值和市场地位的关键。每一次版本迭代，都牵动着全球科技爱好者和投资者的神经。近日，特斯拉AI副总裁Ashok Elluswamy在X平台上“剧透”，FSD v14.1.2版本将面向早期内测用户推出，并预告一个“万众期待的新功能”即将首次亮相。然而，当靴子真正落地，这次更新却带来了意料之外的“反转”剧情，引发市场对FSD发展路径的深度思考。&lt;/p&gt;&#xA;&lt;h2 id=&#34;预期偏差神秘新功能揭晓竟非反向召唤&#34;&gt;预期偏差：神秘新功能揭晓，竟非“反向召唤”？&lt;/h2&gt;&#xA;&lt;p&gt;在Elluswamy的“诱人”预告下，市场对这个“万众期待”的功能充满了遐想，几乎所有目光都聚焦在了传说中的“Banish”功能。这个也被称为“Park Seek”或“反向召唤”的特性，旨在彻底颠覆泊车体验：你只需在目的地附近下车，车辆便能自行寻找并驶入停车位。想象一下，雨雪天气或赶时间时，车辆自动“打发”自己去停车，这对于日常出行效率的提升，无疑是划时代的。这一构想与FSD v14.1中引入的目的地泊车选项（如自动入库、寻找空位）完美契合，被视为FSD迈向更高级别自动化的重要里程碑。&lt;/p&gt;&#xA;&lt;p&gt;然而，当FSD v14.1.2版本正式推送后，期待中的“Banish”并未现身。取而代之的是一个名为“Mad Max”的全新“速度模式”（Speed Profile），它被描述为比现有“Hurry”模式更为激进的驾驶风格。这让不少翘首以盼的早期用户和投资者感到些许“失落”，毕竟“Mad Max”与“万众期待的功能首次亮相”这番描述的落差，着实有点大。&lt;/p&gt;&#xA;&lt;h2 id=&#34;banish究竟为何方神圣跳票背后深思&#34;&gt;“Banish”究竟为何方神圣？跳票背后深思&lt;/h2&gt;&#xA;&lt;p&gt;“Banish”自马斯克（Elon Musk）数年前“画饼”以来，一直是特斯拉智能泊车领域最受关注的焦点。早在2022年，马斯克就曾透露，该功能将提供多种泊车选项：如“离门口最近”、“靠近购物车停放处”或“停车场尽头”。这不仅是简单的自动泊车，更是将泊车决策权赋予车辆，彻底解放驾驶员。该功能若能实现，意味着车辆将具备更高级的环境感知、路径规划和避障能力，即使车内无人，也能在复杂停车场环境中独立运行。&lt;/p&gt;&#xA;&lt;p&gt;虽然“Banish”目前还未能实装，但可以预见，它将不会是完全的“撒手不管”。参考特斯拉现有的“智动召唤”（Actually Smart Summon），用户很可能仍需通过Tesla App按下按钮，并实时监控车辆的摄像头反馈，确保安全。这既是技术成熟度的考量，也是法规和安全责任的平衡点。&lt;/p&gt;&#xA;&lt;p&gt;那么，“Banish”为何“跳票”？这背后可能反映了自动驾驶技术在真实世界落地中的复杂性。停车场环境远比开放道路复杂，包含大量行人、不规则障碍物、多层结构以及GPS信号弱区，对车辆的感知、决策和执行能力提出极高要求。此外，监管政策、法律责任认定，以及如何确保在各种极端情况下的绝对安全，都是需要特斯拉耐心攻克的难题。这或许是特斯拉选择优先打磨核心驾驶功能，而非急于推出这类高级辅助泊车功能的战略考量。对于投资者而言，每一次高级功能的延迟，都提醒着自动驾驶技术从“概念”到“现实”仍需漫长且艰巨的投入。&lt;/p&gt;&#xA;&lt;h2 id=&#34;mad-max模式激进驾驶双刃剑&#34;&gt;“Mad Max”模式：激进驾驶，双刃剑？&lt;/h2&gt;&#xA;&lt;p&gt;此番FSD v14.1.2版本带来的真正“新宠”——“Mad Max”速度模式，其命名本身就暗示了其激进的特性。这表明特斯拉在FSD的驾驶风格上正尝试更多的可能性，旨在满足不同用户对驾驶体验的个性化需求。对于追求效率和动态驾驶的用户而言，这无疑增加了FSD的吸引力，或将带来更流畅、更果断的自动驾驶体验。它也可能是特斯拉在持续优化FSD响应速度和交通流适应性上的一个尝试。&lt;/p&gt;&#xA;&lt;p&gt;然而，“Mad Max”模式也可能是一把“双刃剑”。过于激进的驾驶风格可能引发安全隐忧，特别是在复杂的城市交通或恶劣天气条件下。监管机构是否会对此类“激进”模式持保留态度？其对车辆能耗、轮胎磨损以及潜在交通事故风险的影响，都是投资者需要关注的潜在风险。市场对自动驾驶的接受度，往往建立在安全、平稳的基石之上。特斯拉在性能与安全之间如何取得平衡，将直接影响其FSD的市场普及率和品牌形象。&lt;/p&gt;&#xA;&lt;h2 id=&#34;投资展望fsd进阶之路机遇与挑战并存&#34;&gt;投资展望：FSD进阶之路，机遇与挑战并存&lt;/h2&gt;&#xA;&lt;p&gt;特斯拉FSD的每次更新，无论是带来惊喜还是些许遗憾，都提醒着我们自动驾驶领域仍处于高速发展期。从投资视角看，FSD不仅仅是一个软件功能，更是特斯拉未来利润增长的“引擎”和估值重塑的“催化剂”。软件订阅收入、数据积累、以及由FSD驱动的潜在Robotaxi业务，都蕴含着巨大的长期价值。特斯拉在AI和自动驾驶领域的持续投入与迭代，正逐步构建其在智能出行生态中的核心竞争力。&lt;/p&gt;&#xA;&lt;p&gt;但与此同时，挑战也如影随形。激烈的市场竞争，包括传统车企与科技巨头的不断涌入；全球各地日益严格的自动驾驶法规；以及消费者对自动驾驶技术成熟度与安全性的信心，都是悬在特斯拉FSD头上的“达摩克利斯之剑”。“Banish”的延迟，以及“Mad Max”模式带来的风险与机遇并存的局面，都在考验着投资者对特斯拉长期战略的耐心与判断力。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;致投资者：&lt;/strong&gt; 在评估特斯拉FSD的投资价值时，我们不应只关注短期内新功能的“发布”与“跳票”，更应聚焦于其底层技术的持续突破、数据飞轮效应的强化、以及商业模式的清晰化。这些看似细微的迭代，最终将汇聚成FSD从“实验室”走向“现实”、从“辅助”迈向“完全”的关键路径。市场对FSD的每一次审视，都是对未来智能出行时代的一次投票。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;不同声音：&lt;/strong&gt;&#xA;有业内观察家认为，特斯拉FSD的迭代节奏似乎总在“吊胃口”与“兑现”之间徘徊，这种营销策略虽然能保持热度，但也可能透支一部分用户的耐心和市场信心。他们呼吁，真正的价值在于功能的安全、稳定和大规模落地，而非层出不穷的“预览”与“预告”，毕竟对于投资者和消费者而言，可靠的实际表现远比华丽的承诺更具说服力。&lt;/p&gt;</description>
-    </item>
-  </channel>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/2eae1d9599e6177ee42572c480b96e88_ai/</guid>
+      <pubDate>Wed, 15 Oct 2025 08:38:17 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉（Tesla）的完全自动驾驶（FSD）系统，不仅是其技术实力的象征，更是影响其未来估值和市场地位的关键。每一次版本迭代，都牵动着全球科技爱好者和投资者的神经。近日，特斯拉AI副总裁Ashok Elluswamy在X平台上“剧透”，FSD v14.1.2版本将面向早期内测用户推出，并预告一个“万众期待的新功能”即将首次亮相。然而，当靴子真正落地，这次更新…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/2eae1d9599e6177ee42572c480b96e88_ai/">在特斯拉日报查看全文</a></p>
+]]></description></item></channel>
 </rss>

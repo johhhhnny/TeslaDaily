@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>故事 on 特斯拉日报</title>
+    <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/categories/%E6%95%85%E4%BA%8B/</link>
-    <description>Recent content in 故事 on 特斯拉日报</description>
-    <generator>Hugo</generator>
+    <description>每日精选，一页速览特斯拉动态</description>
+    <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Oct 2025 20:39:39 +0000</lastBuildDate>
-    <atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>从工厂地板到万亿帝国——特斯拉22年生死突围记</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/story/%E4%BB%8E%E5%B7%A5%E5%8E%82%E5%9C%B0%E6%9D%BF%E5%88%B0%E4%B8%87%E4%BA%BF%E5%B8%9D%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89-22-%E5%B9%B4%E7%94%9F%E6%AD%BB%E7%AA%81%E5%9B%B4%E8%AE%B0/</link>
-      <pubDate>Fri, 24 Oct 2025 20:39:39 +0000</pubDate>
-      <guid>https://johhhhnny.github.io/TeslaDaily/posts/story/%E4%BB%8E%E5%B7%A5%E5%8E%82%E5%9C%B0%E6%9D%BF%E5%88%B0%E4%B8%87%E4%BA%BF%E5%B8%9D%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89-22-%E5%B9%B4%E7%94%9F%E6%AD%BB%E7%AA%81%E5%9B%B4%E8%AE%B0/</guid>
-      <description>&lt;h2 id=&#34;1-引言电流驱动的革命序曲&#34;&gt;1. 引言：电流驱动的革命序曲&lt;/h2&gt;&#xA;&lt;p&gt;2025 年的加州硅谷，当一辆搭载 FSD V14 系统的特斯拉 Model 3 在高速公路上自动完成变道、超车与匝道衔接时，很少有人会回溯二十年前那个关于电动汽车的疯狂构想。这家以 19 世纪交流电先驱尼古拉・特斯拉命名的公司，用二十多年时间完成了从 “行业笑柄” 到 “全球车企市值之王” 的蜕变。&lt;/p&gt;&#xA;&lt;p&gt;特斯拉的使命从未改变 ——“加速世界向可持续能源的转变”。这不仅是一句印在官网的宣言，更是贯穿其发展历程的精神内核。从 2008 年首款 Roadster 跑车划破燃油车垄断的夜空，到 2024 年全球 200 万辆的交付成绩单；从电池技术的不断突破到超级充电网络的全球蔓延，特斯拉正在重塑汽车工业的底层逻辑，更在改写人类与能源相处的方式。它的故事里，有梦想的炽烈、危机的刺骨、创新的锋芒，更有对未来的无限遐想。&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-起源与创立硅谷车库里的叛逆种子&#34;&gt;2. 起源与创立：硅谷车库里的叛逆种子&lt;/h2&gt;&#xA;&lt;h3 id=&#34;21-创始人的初心碰撞&#34;&gt;2.1 创始人的初心碰撞&lt;/h3&gt;&#xA;&lt;p&gt;2003 年的美国汽车市场，正被底特律的燃油巨兽们牢牢掌控，电动汽车不过是环保主义者的小众玩具。但在硅谷，两个工程师却看到了不一样的未来 —— 马丁・艾伯哈德（Martin Eberhard）和马克・塔彭宁（Marc Tarpenning）。&lt;/p&gt;&#xA;&lt;p&gt;艾伯哈德曾创办过研发电子书阅读器的 NuvoMedia 公司，对电池技术与用户需求有着敏锐洞察；塔彭宁则是他的老搭档，擅长技术落地与商业运营。两人在一次环保论坛上偶然相遇，当聊到通用汽车 EV1 电动汽车项目的夭折时，艾伯哈德抛出了一个大胆观点：“不是消费者不想要电动车，而是车企没造出好电动车。”&lt;/p&gt;</description>
-    </item>
-  </channel>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/story/%E4%BB%8E%E5%B7%A5%E5%8E%82%E5%9C%B0%E6%9D%BF%E5%88%B0%E4%B8%87%E4%BA%BF%E5%B8%9D%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89-22-%E5%B9%B4%E7%94%9F%E6%AD%BB%E7%AA%81%E5%9B%B4%E8%AE%B0/</guid>
+      <pubDate>Fri, 24 Oct 2025 20:39:39 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉的使命从未改变 ——“加速世界向可持续能源的转变”。这不仅是一句印在官网的宣言，更是贯穿其发展历程的精神内核。从 2008 年首款 Roadster 跑车划破燃油车垄断的夜空，到 2024 年全球 200 万辆的交付成绩单；从电池技术的不断突破到超级充电网络的全球蔓延，特斯拉正在重塑汽车工业的底层逻辑，更在改写人类与能源相处的方式。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/story/%E4%BB%8E%E5%B7%A5%E5%8E%82%E5%9C%B0%E6%9D%BF%E5%88%B0%E4%B8%87%E4%BA%BF%E5%B8%9D%E5%9B%BD%E7%89%B9%E6%96%AF%E6%8B%89-22-%E5%B9%B4%E7%94%9F%E6%AD%BB%E7%AA%81%E5%9B%B4%E8%AE%B0/">在特斯拉日报查看全文</a></p>
+]]></description></item></channel>
 </rss>

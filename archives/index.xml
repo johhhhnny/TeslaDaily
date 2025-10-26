@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>归档 on 特斯拉日报</title>
+    <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/archives/</link>
-    <description>Recent content in 归档 on 特斯拉日报</description>
-    <generator>Hugo</generator>
+    <description>每日精选，一页速览特斯拉动态</description>
+    <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <atom:link href="https://johhhhnny.github.io/TeslaDaily/archives/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/archives/index.xml" rel="self" type="application/rss+xml" /></channel>
 </rss>

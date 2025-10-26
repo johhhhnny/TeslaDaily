@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FSD升级 on 特斯拉日报</title>
+    <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/fsd%E5%8D%87%E7%BA%A7/</link>
-    <description>Recent content in FSD升级 on 特斯拉日报</description>
-    <generator>Hugo</generator>
+    <description>每日精选，一页速览特斯拉动态</description>
+    <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Oct 2025 00:52:48 +0000</lastBuildDate>
-    <atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd%E5%8D%87%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd%E5%8D%87%E7%BA%A7/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉近1.3万辆Model 3/Y召回：电池核心故障，挑战与机遇并存的电动巨头？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/eb753104a3ad3fecc59cffa25252d2ae_ai/</link>
-      <pubDate>Fri, 24 Oct 2025 00:52:48 +0000</pubDate>
-      <guid>https://johhhhnny.github.io/TeslaDaily/posts/eb753104a3ad3fecc59cffa25252d2ae_ai/</guid>
-      <description>&lt;p&gt;电动车市场的风起云涌从未停歇，而行业领军者特斯拉（Tesla）近期又成为了焦点。一起针对近1.3万辆Model 3和Model Y的召回事件，与同时发布的FSD（Full Self-Driving）系统重要升级，如同硬币的两面，一端是质量控制的严峻考量，另一端则是技术创新的持续跃进。对于关注高科技、电动汽车以及资本市场的投资者而言，这不仅是一则新闻，更是一次深入审视特斯拉内在价值与未来走向的契机。&lt;/p&gt;&#xA;&lt;h2 id=&#34;一-近13万辆model-3y紧急召回电池心脏病警报&#34;&gt;一、 近1.3万辆Model 3/Y紧急召回：电池“心脏病”警报&lt;/h2&gt;&#xA;&lt;p&gt;近期，特斯拉在美国市场发布了一项召回公告，涉及12,963辆特定批次的Model 3（2025款）和Model Y（2026款）车型。这次召回并非简单的软件补丁，而是直指车辆核心——&lt;strong&gt;电池包接触器存在制造缺陷&lt;/strong&gt;。这一缺陷可能导致行驶过程中车辆突发性失去动力，无疑触及了行车安全的红线。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;核心事实速览：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;涉事车辆：&lt;/strong&gt; 12,963辆2025款Model 3及2026款Model Y。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;故障根源：&lt;/strong&gt; 电池包接触器存在制造缺陷，可能导致意外的动力中断。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;解决方案：&lt;/strong&gt; 特斯拉将免费检查并更换受影响车辆的电池包接触器。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;执行方式：&lt;/strong&gt; 此次维修需车主前往服务中心进行物理检修，而非远程OTA（Over-The-Air）软件更新。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;通知时限：&lt;/strong&gt; 召回信函预计在12月9日前发送给受影响车主。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;从数据上看，特斯拉今年前三季度已累计生产超过120万辆电动车，此次召回数量仅占同期总产量的约1%。比例虽小，但电池核心部件的硬件故障却不容忽视。它引发了投资者对特斯拉在高速扩张下，如何平衡生产效率与质量控制的深度思考。这究竟是成长过程中的“小插曲”，还是对供应链管理和生产流程的敲响警钟？&lt;/p&gt;&#xA;&lt;h2 id=&#34;二-特斯拉fsd-v1413智能驾驶迎来视觉强化新篇章&#34;&gt;二、 特斯拉FSD V14.1.3：智能驾驶迎来“视觉强化”新篇章&lt;/h2&gt;&#xA;&lt;p&gt;正当召回事件引发市场关注之际，特斯拉在智能驾驶领域也传来了令人振奋的消息。FSD V14.1.3版本正式发布，其中一项引人注目的新功能，便是集成了源自其Robotaxi（无人驾驶出租车）车队技术的**“自动窄视野清洗”（automatic narrow field washing）**功能。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;FSD V14.1.3亮点解析：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;创新功能：&lt;/strong&gt; 引入“Robotaxi级”前向摄像头自清洁系统。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;技术原理：&lt;/strong&gt; 通过优化的空气动力学清洗，实现前向摄像头的快速高效自清洁。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;核心目的：&lt;/strong&gt; 确保关键传感器的视野始终清晰无碍，尤其是在高速行驶或恶劣天气条件下，极大提升视觉感知系统的可靠性与稳定性。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;战略意义：&lt;/strong&gt; 这项原本为高度自动驾驶服务设计的技术下放至民用FSD，不仅是特斯拉技术普惠的体现，更预示着其对未来L4/L5级自动驾驶的落地决心与信心。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;FSD的每一次迭代，都牵动着资本市场对特斯拉未来增长潜力的预期。这次针对摄像头清洁的精细化升级，看似微小，实则关乎自动驾驶系统“感知”的生命线。它向市场传递出一个清晰信号：特斯拉在自动驾驶的“最后一公里”——即极端场景下的可靠性与鲁棒性方面，正投入重兵攻坚。&lt;/p&gt;</description>
-    </item>
-  </channel>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/eb753104a3ad3fecc59cffa25252d2ae_ai/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:52:48 &#43;0000</pubDate><description><![CDATA[
+<p>电动车市场的风起云涌从未停歇，而行业领军者特斯拉（Tesla）近期又成为了焦点。一起针对近1.3万辆Model 3和Model Y的召回事件，与同时发布的FSD（Full Self-Driving）系统重要升级，如同硬币的两面，一端是质量控制的严峻考量，另一端则是技术创新的持续跃进。对于关注高科技、电动汽车以及资本市场的投资者而言，这不仅是一则新闻，更是一次…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/eb753104a3ad3fecc59cffa25252d2ae_ai/">在特斯拉日报查看全文</a></p>
+]]></description></item></channel>
 </rss>

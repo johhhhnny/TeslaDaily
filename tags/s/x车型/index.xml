@@ -1,19 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S/X车型 on 特斯拉日报</title>
+    <title>特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/s/x%E8%BD%A6%E5%9E%8B/</link>
-    <description>Recent content in S/X车型 on 特斯拉日报</description>
-    <generator>Hugo</generator>
+    <description>每日精选，一页速览特斯拉动态</description>
+    <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Oct 2025 02:17:24 +0000</lastBuildDate>
-    <atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/s/x%E8%BD%A6%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <lastBuildDate>Sun, 26 Oct 2025 02:53:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/s/x%E8%BD%A6%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉FSD V14.1.3突袭扩张：S/X车型解锁，普通用户尝鲜，自动驾驶投资风口将至？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/8865fa1264a1c47fa380b33cfcd03824_ai/</link>
-      <pubDate>Tue, 21 Oct 2025 02:17:24 +0000</pubDate>
-      <guid>https://johhhhnny.github.io/TeslaDaily/posts/8865fa1264a1c47fa380b33cfcd03824_ai/</guid>
-      <description>&lt;p&gt;特斯拉FSD（完全自动驾驶）系统V14.1.3版本正悄然席卷北美市场，此次更新不仅覆盖了此前仅限于特定测试者的圈子，更首次向非KOL（关键意见领袖）用户开放，并将支持车型扩展至Model S和Model X。这标志着FSD技术从精英测试走向更广泛的用户群体，无疑是自动驾驶领域的一个重要里程碑，也为相关投资带来了新的审视视角。投资者们，这波技术革新会是特斯拉估值的新引擎，还是面临更大规模应用挑战的开始？&lt;/p&gt;&#xA;&lt;h2 id=&#34;普及前夜fsd-v1413的野心&#34;&gt;普及前夜：FSD V14.1.3的“野心”&lt;/h2&gt;&#xA;&lt;p&gt;过去几天，特斯拉在内部小范围测试FSD V14.1.3后，迅速将其推送给早期访问用户，令人惊讶的是，数小时内连非KOL用户也收到了此次Beta更新。这与此前V14系列版本（如V14.1、V14.1.1、V14.1.2）主要集中于修复Bug并优先提供给KOL用户的策略有所不同。更值得注意的是，马斯克此前在X平台预告，V14.2版本将实现“全面铺开”，向绝大多数用户开放。此次V14.1.3的意外扩张，无疑是V14系列“普及野心”的明确信号。&lt;/p&gt;&#xA;&lt;p&gt;如果此次小范围扩张未发现重大问题，预计更多批次的用户将在短期内陆续收到更新。对于投资者而言，FSD的广泛推送意味着其商业化潜力的加速释放。订阅模式的用户基数有望快速增长，为特斯拉带来持续的软件营收流，这在资本市场往往能享有更高的估值溢价。但同时也要警惕，新版本初期可能存在的“bug”或“退步”，这要求驾驶者在初期使用时务必保持高度警惕，FSD毕竟仍处于Beta阶段。&lt;/p&gt;&#xA;&lt;h2 id=&#34;车型版图扩张sx与cybertruck的期待&#34;&gt;车型版图扩张：S/X与Cybertruck的期待&lt;/h2&gt;&#xA;&lt;p&gt;长期以来，FSD V14版本仅支持Model 3和Model Y车型。但随着V14.1.3的推出，Model S和Model X首次被纳入FSD V14的支持范围，这无疑是产品线覆盖的重要进展。高端豪华车型的用户加入，不仅能提供更丰富的驾驶场景数据，也可能为FSD订阅服务带来更高价值的客户群体。&lt;/p&gt;&#xA;&lt;p&gt;遗憾的是，Cybertruck目前仍未获得FSD V14的全部功能。不过，特斯拉AI副总裁已明确表示，Cybertruck将在本月底前获得FSD V14的完整功能集，包括此前V13版本缺失的“驻车启动FSD”功能。这意味着，Cybertruck在补齐自动驾驶能力后，将更具市场竞争力。&lt;/p&gt;&#xA;&lt;p&gt;对投资者而言，FSD车型支持的全面化，构建了一个更加统一和强大的数据收集网络，这是AI模型持续迭代和优化的基石。更广阔的用户群体和更丰富的车型数据，将加速FSD从L2+向更高阶自动驾驶迈进。但同时，不同车型平台、传感器配置的差异，也可能在技术适配和稳定性上带来新的挑战。&lt;/p&gt;&#xA;&lt;h2 id=&#34;核心功能透视mad-max与智能决策&#34;&gt;核心功能透视：“Mad Max”与智能决策&lt;/h2&gt;&#xA;&lt;p&gt;FSD V14.1.3沿袭了V14.1.2的核心更新内容，其中最受关注的莫过于“Mad Max”驾驶模式。该模式允许车辆以更快的速度行驶，并执行更激进的变道操作，赋予驾驶者更高的自由度。同时，此版本移除了设置中的速度偏移选项，车辆行驶速度将完全由驾驶者选择的驾驶模式决定。&lt;/p&gt;&#xA;&lt;p&gt;此外，V14在复杂城市交通中的表现也备受瞩目。此前V14.1.2在纽约市繁忙交通中的演示视频显示，其能够出色应对施工区域、密集车流、行人穿梭及路边停靠等复杂场景。这体现了特斯拉在感知和决策算法上的显著进步。&lt;/p&gt;&#xA;&lt;p&gt;“Mad Max”模式的引入，一方面展现了特斯拉对其AI决策能力的信心，另一方面也引发了关于安全性和法规合规性的讨论。在部分市场，激进的驾驶行为可能触及监管红线。投资者需要关注，特斯拉如何在技术前瞻性和全球法规兼容性之间找到平衡点，这关乎FSD在全球范围内的推广速度和潜在的市场空间。&lt;/p&gt;&#xA;&lt;h2 id=&#34;风险与机遇并存投资者的思考&#34;&gt;风险与机遇并存：投资者的思考&lt;/h2&gt;&#xA;&lt;p&gt;此次FSD V14.1.3的扩张，与此前浮出水面的地图更新（版本号NA-2025.44）共同作用，预示着特斯拉在软硬件协同方面正持续加码。一个精确且实时更新的地图数据，对于FSD的路径规划和环境理解至关重要。&lt;/p&gt;&#xA;&lt;p&gt;然而，我们必须清醒认识到，FSD仍是一个不断迭代的Beta产品。每一次大规模推送，都可能带来新的不确定性。回顾历史，特斯拉FSD在商业化道路上并非一帆风顺，其技术成熟度、安全性以及全球范围内的法规适用性，始终是悬在头顶的“达摩克利斯之剑”。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;投资者如何把握FSD的脉搏？&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;关注数据流&lt;/strong&gt;：FSD订阅用户增长率、用户使用里程、以及事故率等关键运营数据，将是衡量其商业化进展和技术稳定性的核心指标。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;审视竞争格局&lt;/strong&gt;：虽然特斯拉是自动驾驶领域的头部玩家，但Waymo、Cruise等L4玩家以及传统车企的自研和合作项目也在加速推进。FSD的“护城河”能否持续加固，需要长期观察。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;洞察法规演进&lt;/strong&gt;：全球各地对自动驾驶的法规框架仍在完善中。任何重大的法规变化，都可能对FSD的推广和商业模式产生深远影响。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;技术边界与伦理&lt;/strong&gt;：FSD的“类人”驾驶风格，尤其是在“Mad Max”模式下，引发了关于机器决策与人类社会伦理的讨论。这可能影响消费者接受度，甚至导致监管审查。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;FSD V14.1.3的这次扩张，无疑是特斯拉加速其自动驾驶愿景的重要一步。它既可能为特斯拉带来新的增长曲线，也可能在更广泛的场景中暴露潜在的技术和合规挑战。投资者在享受技术红利的同时，也需警惕其中蕴含的风险，避免盲目追逐短期热点，而应将目光放长远，洞察自动驾驶技术对整个交通、物流乃至社会结构变革的深层影响。&lt;/p&gt;</description>
-    </item>
-  </channel>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/8865fa1264a1c47fa380b33cfcd03824_ai/</guid>
+      <pubDate>Tue, 21 Oct 2025 02:17:24 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉FSD（完全自动驾驶）系统V14.1.3版本正悄然席卷北美市场，此次更新不仅覆盖了此前仅限于特定测试者的圈子，更首次向非KOL（关键意见领袖）用户开放，并将支持车型扩展至Model S和Model X。这标志着FSD技术从精英测试走向更广泛的用户群体，无疑是自动驾驶领域的一个重要里程碑，也为相关投资带来了新的审视视角。投资者们，这波技术革新会是特斯拉估…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/8865fa1264a1c47fa380b33cfcd03824_ai/">在特斯拉日报查看全文</a></p>
+]]></description></item></channel>
 </rss>
