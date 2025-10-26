@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>特斯拉日报</title>
+    <title>Categories | 特斯拉日报</title>
     <link>https://johhhhnny.github.io/TeslaDaily/categories/</link>
-    <description>每日精选，一页速览特斯拉动态</description>
+    <description>Recent content in Categories</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 26 Oct 2025 03:08:27 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 26 Oct 2025 03:39:39 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉</title>
       <link>https://johhhhnny.github.io/TeslaDaily/categories/%E7%89%B9%E6%96%AF%E6%8B%89/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/categories/%E7%89%B9%E6%96%AF%E6%8B%89/</guid>
@@ -72,17 +72,6 @@
 <p><a href="https://johhhhnny.github.io/TeslaDaily/categories/model-y/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
-      <title>Feature</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/categories/feature/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/categories/feature/</guid>
-      <pubDate>Fri, 24 Oct 2025 20:39:39 &#43;0000</pubDate><description><![CDATA[
-<p></p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/categories/feature/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p></p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/categories/feature/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
       <title>故事</title>
       <link>https://johhhhnny.github.io/TeslaDaily/categories/%E6%95%85%E4%BA%8B/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/categories/%E6%95%85%E4%BA%8B/</guid>
@@ -92,6 +81,17 @@
 ]]></description><content:encoded><![CDATA[
 <p></p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/categories/%E6%95%85%E4%BA%8B/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>Feature</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/categories/feature/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/categories/feature/</guid>
+      <pubDate>Fri, 24 Oct 2025 20:39:39 &#43;0000</pubDate><description><![CDATA[
+<p></p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/categories/feature/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p></p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/categories/feature/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
       <title>TechCrunch Disrupt 2025</title>
