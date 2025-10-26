@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FSD on 特斯拉日报</title>
+    <link>https://johhhhnny.github.io/TeslaDaily/categories/fsd/</link>
+    <description>Recent content in FSD on 特斯拉日报</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 23 Oct 2025 02:12:42 +0000</lastBuildDate>
+    <atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/fsd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>特斯拉FSD V14 Lite驾临HW3：算力桎梏下的智能驾驶“续命”之战与投资新机遇</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/a76eb24edd062c8a487f864f39bdb24e_ai/</link>
+      <pubDate>Thu, 23 Oct 2025 02:12:42 +0000</pubDate>
+      <guid>https://johhhhnny.github.io/TeslaDaily/posts/a76eb24edd062c8a487f864f39bdb24e_ai/</guid>
+      <description>&lt;p&gt;特斯拉（Tesla）在2025年Q3财报电话会议上抛出重磅消息，犹如一道闪电划破智能驾驶领域的天空：备受期待的FSD（Full Self-Driving）V14“轻量版”（Lite）将于2026年Q2向其Hardware 3（HW3）车型推送。这不仅是老车主的福音，更是拷问智能驾驶未来走向、牵动万亿级资本市场神经的关键一役。究竟“Lite”意味着何种算力博弈、功能权衡？它将如何重塑特斯拉的软件服务版图，又给投资者带来哪些深层思考？&lt;/p&gt;&#xA;&lt;h2 id=&#34;hw3智能驾驶历史现状与特斯拉的不变承诺&#34;&gt;HW3智能驾驶：历史、现状与特斯拉的“不变”承诺&lt;/h2&gt;&#xA;&lt;p&gt;当下的智能驾驶赛道，算力鸿沟已然显现。目前，搭载HW3的特斯拉车型仍停留在FSD V12.6版本——这在某种程度上，可以理解为V13的“精简版”。与此同时，HW4车型早已跃升至FSD V14，并预计在年末前迎来V14.2和V14.3的迭代。这种“代际差”无疑给HW3车主带来焦虑，也让市场对特斯拉的承诺产生疑问。&lt;/p&gt;&#xA;&lt;p&gt;然而，特斯拉高管在财报会上重申，公司对HW3车型的支持“从未放弃”，承诺将继续投入研发。对于HW3的硬件升级路径，特斯拉则持审慎态度：明确表示只有在“完全解决自动驾驶问题”之后，才会启动大规模硬件替换。此举意在避免盲目升级、重复投资，确保计算能力与AI算法需求精准匹配。这策略究竟是高瞻远瞩，还是拖延战术？仁者见仁智者见智。&lt;/p&gt;&#xA;&lt;h2 id=&#34;v14-lite算力瓶颈下的智慧权衡与功能预期&#34;&gt;V14 Lite：算力瓶颈下的“智慧”权衡与功能预期&lt;/h2&gt;&#xA;&lt;p&gt;计划于2026年Q2发布的FSD V14 Lite，其核心目标是在HW3的固有算力框架下，尽可能地复刻V14的驾驶体验。这并非简单的版本移植，而是一场深度优化与功能剪裁的“手术”。参照此前V12.6承载V13部分特性、却未直接冠以V13之名的做法，V14 Lite很可能采取类似策略，以清晰区分其与HW4全功能版的差异。&lt;/p&gt;&#xA;&lt;p&gt;HW3面临的核心挑战并非单纯的计算速度，而是&lt;strong&gt;内存（RAM）瓶颈&lt;/strong&gt;。要知道，HW4已将内存容量翻倍，但即便如此，特斯拉仍感到捉襟见肘。随着AI模型的几何级膨胀，对内存的需求犹如饕餮巨兽。马斯克曾透露，即将问世的AI5计算机，其内存容量将达到HW4的9倍，高达144GB！这组数据足以说明，智能驾驶的未来，是围绕“大模型、大数据、大算力、大内存”构建的。&lt;/p&gt;&#xA;&lt;p&gt;因此，投资者不应奢望V14 Lite能与HW4上的V14实现完全对齐，例如其平顺性、模型参数规模及部分高级功能。当前HW3车型便已缺失FSD V13的一些关键特性，如“停车启动FSD”及FSD模式下的倒车或换挡能力。这些限制，预示着V14 Lite将是一场在硬件边界上舞蹈的“性能艺术”。&lt;/p&gt;&#xA;&lt;h2 id=&#34;投资洞察fsd-lite对特斯拉生态与产业链的深远影响&#34;&gt;投资洞察：FSD Lite对特斯拉生态与产业链的深远影响&lt;/h2&gt;&#xA;&lt;p&gt;FSD V14 Lite的推出，不仅关乎用户体验，更对特斯拉的商业模式、估值逻辑乃至整个智能驾驶产业链投下长长的影子。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;用户体验与市场留存：&lt;/strong&gt;&#xA;一方面，V14 Lite的到来有望“续命”数百万HW3车主的FSD订阅，有效防止用户流失，维持其软件服务收入的稳定增长。这对于看重ARPU（每用户平均收入）的投资者而言是积极信号。&#xA;另一方面，这种“精简版”的体验，是否会加剧新老车型间的智能驾驶鸿沟，从而影响品牌长期口碑？若“Lite”版与全功能版体验差异过大，用户期待值与实际感受的落差，可能会演变成潜在的市场风险。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;硬件迭代与供应链机会：&lt;/strong&gt;&#xA;特斯拉推迟HW3大规模升级的决策，凸显其在CAPEX（资本支出）上的审慎，也是对未来技术方向的精准预判。一旦自动驾驶真正“解决”，届时将触发规模空前的HW3硬件替换潮。这为上游的芯片制造商（如英伟达NVIDIA、AMD，或特斯拉自研Dojo芯片的供应商）、高精度传感器、内存颗粒（DRAM）供应商等，打开了巨大的增长空间。谁能抓住这波“换芯”机遇？值得长期关注。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;盈利模式与估值重构：&lt;/strong&gt;&#xA;FSD订阅服务是特斯拉构建高科技企业估值的核心支柱之一。V14 Lite的普及，无疑将扩大FSD订阅基数，增强软件营收的确定性。然而，若Robotaxi（自动驾驶出租车）的商业化愿景，需要HW4乃至AI5级别的极致算力才能实现，那么大量的HW3车型能否有效融入Robotaxi车队，将直接影响Robotaxi服务未来市场渗透率及估值潜力。这促使我们重新思考：特斯拉究竟是“软件公司”，还是被硬件限制的“软件公司”？&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;启发性思考：&lt;/strong&gt; 投资者应如何平衡特斯拉在智能驾驶领域的“普及性”（覆盖更多老车型）与“先进性”（追求极致性能）策略？FSD Lite的长期价值，是停留在“维持基本服务”，还是能真正提供“颠覆性体验”？这其中的细微差别，可能决定着数万亿美元的市场走向。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;然而，并非所有观察家都对V14 Lite持乐观态度。有专家指出，“Lite”版本本质上是硬件瓶颈下的妥协产物，而非技术上的突破。它可能只是一个“拖延战术”，用于安抚现有车主并争取时间，直到更强大的硬件平台（如AI5）成熟。更有甚者质疑，在未来全自动驾驶L5普及的浪潮中，HW3的“Lite”版本是否会因其功能限制而逐渐被边缘化，成为一个鸡肋？这种对“Lite”战略的质疑，提醒投资者在展望特斯拉智能驾驶前景时，需保持清醒的独立思考，而非盲目追逐短期利好。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
