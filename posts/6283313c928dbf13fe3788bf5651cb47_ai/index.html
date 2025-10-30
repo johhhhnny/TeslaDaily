@@ -15,6 +15,20 @@
 <link rel="icon" type="image/png" sizes="32x32" href="https://johhhhnny.github.io/TeslaDaily/favicon-32.png"> 
 <link rel="icon" type="image/png" sizes="64x64" href="https://johhhhnny.github.io/TeslaDaily/favicon-64.png"> 
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-BN17CKCDBD"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-BN17CKCDBD');
+        }
+      </script>
 </head>
 <body>
   <header class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
@@ -207,8 +221,8 @@
 
       <div id="recommended" class="my-14">
         <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">为你推荐</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/c1e7ed97aca6430b6a7e87088a11400d_ai/"></a>
 
@@ -243,7 +257,8 @@
 
 	</div>
 </article>
-        </div>
+          </div>
+        
       </div>
 
     </footer>
