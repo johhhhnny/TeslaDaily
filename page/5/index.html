@@ -60,20 +60,6 @@
 <link rel="icon" type="image/png" sizes="32x32" href="https://johhhhnny.github.io/TeslaDaily/favicon-32.png"> 
 <link rel="icon" type="image/png" sizes="64x64" href="https://johhhhnny.github.io/TeslaDaily/favicon-64.png"> 
 
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-BN17CKCDBD"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-BN17CKCDBD');
-        }
-      </script>
 </head>
 <body>
   <header class="py-6 border-b"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
@@ -151,15 +137,22 @@
     
     <div class="tradingview-widget-container rounded-2xl border overflow-hidden mt-2">
       <div id="tradingview_tsla_info"></div>
-      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-      {
-        "symbol": "NASDAQ:TSLA",
-        "locale": "zh_CN",
-        "colorTheme": "light",
-        "isTransparent": false,
-        "width": "100%",
-        "height": 260
-      }
+      <script type="text/javascript">
+        
+        var tradingViewConfig = {
+          "symbol": "NASDAQ:TSLA",
+          "locale": "zh_CN",
+          "colorTheme": "light",
+          "isTransparent": false,
+          "width": "100%",
+          "height": 260
+        };
+        
+        var script = document.createElement('script');
+        script.src = "https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js";
+        script.async = true;
+        script.textContent = JSON.stringify(tradingViewConfig);
+        document.getElementById('tradingview_tsla_info').appendChild(script);
       </script>
     </div>
     <div class="mt-3 flex items-center justify-between">
@@ -191,7 +184,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/daily/daily-2025-11-04-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251104-rivian-ai%E5%A4%A7%E6%A3%8B%E5%B1%80115%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%BC%E6%B3%A8%E5%B7%A5%E4%B8%9Aai%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8D%E5%A1%91%E5%88%B6%E9%80%A0%E4%B8%9A%E6%9C%AA%E6%9D%A5/5a5aac1504113e69d4fdc22f2c3f6058_hu_8736d3ecc3bfd2b1.png" alt="特斯拉日报" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251104-rivian-ai%E5%A4%A7%E6%A3%8B%E5%B1%80115%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%BC%E6%B3%A8%E5%B7%A5%E4%B8%9Aai%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8D%E5%A1%91%E5%88%B6%E9%80%A0%E4%B8%9A%E6%9C%AA%E6%9D%A5/5a5aac1504113e69d4fdc22f2c3f6058_hu_53bba98ca10e67dd.png" alt="特斯拉日报" width="750" height="422">
 
 	  </figure>
 
@@ -208,7 +201,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/daily/daily-2025-11-03-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/daily-2025-11-03/33d6add89f68f051f47b84174071a512_hu_41a49617a611682d.png" alt="特斯拉日报" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/daily-2025-11-03/33d6add89f68f051f47b84174071a512_hu_ca657f3448286a5e.png" alt="特斯拉日报" width="750" height="422">
 
 	  </figure>
 
@@ -225,7 +218,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/daily/daily-2025-11-02-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251029-fsd%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E7%89%B9%E6%96%AF%E6%8B%89cybercab%E8%B7%AF%E6%B5%8B%E6%8F%AD%E7%A7%98%E9%87%8F%E4%BA%A7q2%E7%9B%AE%E6%A0%87%E4%B8%8B%E7%9A%84%E6%8A%95%E8%B5%84%E5%8D%9A%E5%BC%88/52b1bd65f5eec1c306f5349852eb678e_hu_9620ec308418010d.png" alt="特斯拉日报" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251029-fsd%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E7%89%B9%E6%96%AF%E6%8B%89cybercab%E8%B7%AF%E6%B5%8B%E6%8F%AD%E7%A7%98%E9%87%8F%E4%BA%A7q2%E7%9B%AE%E6%A0%87%E4%B8%8B%E7%9A%84%E6%8A%95%E8%B5%84%E5%8D%9A%E5%BC%88/52b1bd65f5eec1c306f5349852eb678e_hu_eefa9c281936d1af.png" alt="特斯拉日报" width="750" height="422">
 
 	  </figure>
 
@@ -312,7 +305,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251102-%E7%89%B9%E6%96%AF%E6%8B%89roadster%E7%BB%88%E6%9E%81%E6%82%AC%E5%BF%B5%E6%8F%AD%E6%99%93%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E5%91%8A%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%BC%94%E7%A4%BA%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%96%B0%E7%BA%AA%E5%85%83%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%9C%A8%E5%93%AA/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251102-%E7%89%B9%E6%96%AF%E6%8B%89roadster%E7%BB%88%E6%9E%81%E6%82%AC%E5%BF%B5%E6%8F%AD%E6%99%93%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E5%91%8A%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%BC%94%E7%A4%BA%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%96%B0%E7%BA%AA%E5%85%83%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%9C%A8%E5%93%AA/52b1bd65f5eec1c306f5349852eb678e_hu_9620ec308418010d.png" alt="特斯拉Roadster终极悬念揭晓：马斯克预告“史诗级”演示，智能出行新纪元投资机会在哪？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251102-%E7%89%B9%E6%96%AF%E6%8B%89roadster%E7%BB%88%E6%9E%81%E6%82%AC%E5%BF%B5%E6%8F%AD%E6%99%93%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E5%91%8A%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%BC%94%E7%A4%BA%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%96%B0%E7%BA%AA%E5%85%83%E6%8A%95%E8%B5%84%E6%9C%BA%E4%BC%9A%E5%9C%A8%E5%93%AA/52b1bd65f5eec1c306f5349852eb678e_hu_eefa9c281936d1af.png" alt="特斯拉Roadster终极悬念揭晓：马斯克预告“史诗级”演示，智能出行新纪元投资机会在哪？" width="750" height="422">
 
 	  </figure>
 
@@ -329,7 +322,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251102-%E7%89%B9%E6%96%AF%E6%8B%89roadster%E9%80%80%E6%AC%BE%E7%BD%97%E7%94%9F%E9%97%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%94%87%E6%9E%AA%E8%88%8C%E5%89%91ai%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8A%95%E8%B5%84%E9%A3%8E%E5%90%91%E6%A0%87%E4%BD%95%E5%9C%A8/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251102-%E7%89%B9%E6%96%AF%E6%8B%89roadster%E9%80%80%E6%AC%BE%E7%BD%97%E7%94%9F%E9%97%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%94%87%E6%9E%AA%E8%88%8C%E5%89%91ai%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8A%95%E8%B5%84%E9%A3%8E%E5%90%91%E6%A0%87%E4%BD%95%E5%9C%A8/ac517d481e875e054043d25d7955601e_hu_98a3c8fdfe3f7782.png" alt="特斯拉Roadster退款罗生门：马斯克、奥特曼唇枪舌剑，AI与电动车投资风向标何在？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251102-%E7%89%B9%E6%96%AF%E6%8B%89roadster%E9%80%80%E6%AC%BE%E7%BD%97%E7%94%9F%E9%97%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%94%87%E6%9E%AA%E8%88%8C%E5%89%91ai%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8A%95%E8%B5%84%E9%A3%8E%E5%90%91%E6%A0%87%E4%BD%95%E5%9C%A8/ac517d481e875e054043d25d7955601e_hu_b18d87a50b7a9d17.png" alt="特斯拉Roadster退款罗生门：马斯克、奥特曼唇枪舌剑，AI与电动车投资风向标何在？" width="750" height="422">
 
 	  </figure>
 
@@ -346,7 +339,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251101-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%92%E6%80%BC%E5%A5%A5%E7%89%B9%E6%9B%BC5%E4%B8%87%E7%BE%8E%E5%85%83%E9%80%80%E6%AC%BE%E8%83%8C%E5%90%8E%E7%9A%84ai%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BD%97%E7%94%9F%E9%97%A8%E6%8A%95%E8%B5%84%E4%BA%BA%E5%A6%82%E4%BD%95%E6%B4%9E%E5%AF%9F%E5%B7%A8%E5%A4%B4%E5%8D%9A%E5%BC%88/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%92%E6%80%BC%E5%A5%A5%E7%89%B9%E6%9B%BC5%E4%B8%87%E7%BE%8E%E5%85%83%E9%80%80%E6%AC%BE%E8%83%8C%E5%90%8E%E7%9A%84ai%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BD%97%E7%94%9F%E9%97%A8%E6%8A%95%E8%B5%84%E4%BA%BA%E5%A6%82%E4%BD%95%E6%B4%9E%E5%AF%9F%E5%B7%A8%E5%A4%B4%E5%8D%9A%E5%BC%88/c69b0c071e72ce616c458c3ce81a235a_hu_72c989933163206a.png" alt="马斯克怒怼奥特曼：5万美元退款背后的AI与电动车“罗生门”，投资人如何洞察巨头博弈？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%92%E6%80%BC%E5%A5%A5%E7%89%B9%E6%9B%BC5%E4%B8%87%E7%BE%8E%E5%85%83%E9%80%80%E6%AC%BE%E8%83%8C%E5%90%8E%E7%9A%84ai%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BD%97%E7%94%9F%E9%97%A8%E6%8A%95%E8%B5%84%E4%BA%BA%E5%A6%82%E4%BD%95%E6%B4%9E%E5%AF%9F%E5%B7%A8%E5%A4%B4%E5%8D%9A%E5%BC%88/c69b0c071e72ce616c458c3ce81a235a_hu_a60eb3b818be5a0b.png" alt="马斯克怒怼奥特曼：5万美元退款背后的AI与电动车“罗生门”，投资人如何洞察巨头博弈？" width="750" height="422">
 
 	  </figure>
 
@@ -363,7 +356,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251101-%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A3%9E%E8%A1%8C%E8%B7%91%E8%BD%A6%E9%A2%84%E5%91%8A%E5%BC%95%E7%88%86%E5%B8%82%E5%9C%BAroadster%E6%96%B0%E7%89%88%E6%9C%AC%E7%A7%91%E6%8A%80%E7%9B%9B%E5%AE%B4%E8%BF%98%E6%98%AF%E6%8A%95%E8%B5%84%E8%BF%B7%E5%B1%80/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A3%9E%E8%A1%8C%E8%B7%91%E8%BD%A6%E9%A2%84%E5%91%8A%E5%BC%95%E7%88%86%E5%B8%82%E5%9C%BAroadster%E6%96%B0%E7%89%88%E6%9C%AC%E7%A7%91%E6%8A%80%E7%9B%9B%E5%AE%B4%E8%BF%98%E6%98%AF%E6%8A%95%E8%B5%84%E8%BF%B7%E5%B1%80/956ef740f62955a252e7dd3e93fa88af_hu_f0babae02c6dd7a7.png" alt="马斯克“飞行跑车”预告引爆市场：Roadster新版本，科技盛宴还是投资迷局？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A3%9E%E8%A1%8C%E8%B7%91%E8%BD%A6%E9%A2%84%E5%91%8A%E5%BC%95%E7%88%86%E5%B8%82%E5%9C%BAroadster%E6%96%B0%E7%89%88%E6%9C%AC%E7%A7%91%E6%8A%80%E7%9B%9B%E5%AE%B4%E8%BF%98%E6%98%AF%E6%8A%95%E8%B5%84%E8%BF%B7%E5%B1%80/956ef740f62955a252e7dd3e93fa88af_hu_51cf93a21f7bcfc2.png" alt="马斯克“飞行跑车”预告引爆市场：Roadster新版本，科技盛宴还是投资迷局？" width="750" height="422">
 
 	  </figure>
 
@@ -380,7 +373,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251101-20%E4%BA%BF%E9%87%91%E7%A9%B9%E7%82%B9%E4%BA%AE%E7%A9%BA%E5%A4%A9%E9%98%B2%E5%BE%A1%E6%96%B0%E7%AF%87%E7%AB%A0spacex%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E5%86%9B%E5%B7%A5%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-20%E4%BA%BF%E9%87%91%E7%A9%B9%E7%82%B9%E4%BA%AE%E7%A9%BA%E5%A4%A9%E9%98%B2%E5%BE%A1%E6%96%B0%E7%AF%87%E7%AB%A0spacex%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E5%86%9B%E5%B7%A5%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/40242acf7ba950e0fd45de3eabd337c0_hu_5e695386b20a078e.png" alt="20亿“金穹”点亮空天防御新篇章：SpaceX如何重塑军工投资格局？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-20%E4%BA%BF%E9%87%91%E7%A9%B9%E7%82%B9%E4%BA%AE%E7%A9%BA%E5%A4%A9%E9%98%B2%E5%BE%A1%E6%96%B0%E7%AF%87%E7%AB%A0spacex%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E5%86%9B%E5%B7%A5%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/40242acf7ba950e0fd45de3eabd337c0_hu_8cca6b79e4323bbc.png" alt="20亿“金穹”点亮空天防御新篇章：SpaceX如何重塑军工投资格局？" width="750" height="422">
 
 	  </figure>
 
@@ -397,7 +390,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251101-%E5%AE%89%E5%A4%A7%E7%95%A51%E4%BA%BF%E6%98%9F%E9%93%BE%E5%90%88%E7%BA%A6%E6%8A%98%E6%88%9F%E6%B2%89%E6%B2%992025%E5%AE%BD%E5%B8%A6%E7%9B%AE%E6%A0%87%E6%A2%A6%E7%A2%8E%E6%95%B0%E5%AD%97%E5%9F%BA%E5%BB%BA%E6%8A%95%E8%B5%84%E8%BF%B7%E9%9B%BE%E9%87%8D%E9%87%8D/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E5%AE%89%E5%A4%A7%E7%95%A51%E4%BA%BF%E6%98%9F%E9%93%BE%E5%90%88%E7%BA%A6%E6%8A%98%E6%88%9F%E6%B2%89%E6%B2%992025%E5%AE%BD%E5%B8%A6%E7%9B%AE%E6%A0%87%E6%A2%A6%E7%A2%8E%E6%95%B0%E5%AD%97%E5%9F%BA%E5%BB%BA%E6%8A%95%E8%B5%84%E8%BF%B7%E9%9B%BE%E9%87%8D%E9%87%8D/e759c95cc957b3f85aab533a11ae1847_hu_a2e11b77b02ca652.png" alt="安大略$1亿星链合约“折戟沉沙”：2025宽带目标梦碎，数字基建投资迷雾重重？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E5%AE%89%E5%A4%A7%E7%95%A51%E4%BA%BF%E6%98%9F%E9%93%BE%E5%90%88%E7%BA%A6%E6%8A%98%E6%88%9F%E6%B2%89%E6%B2%992025%E5%AE%BD%E5%B8%A6%E7%9B%AE%E6%A0%87%E6%A2%A6%E7%A2%8E%E6%95%B0%E5%AD%97%E5%9F%BA%E5%BB%BA%E6%8A%95%E8%B5%84%E8%BF%B7%E9%9B%BE%E9%87%8D%E9%87%8D/e759c95cc957b3f85aab533a11ae1847_hu_2b50be6b251e7078.png" alt="安大略$1亿星链合约“折戟沉沙”：2025宽带目标梦碎，数字基建投资迷雾重重？" width="750" height="422">
 
 	  </figure>
 
@@ -414,7 +407,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251101-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%88%98%E7%95%A5%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90v4%E8%B6%85%E5%85%85%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%8D%87%E7%BA%A7%E5%8F%A0%E5%8A%A02000%E8%8B%B1%E9%87%8C%E7%BD%AE%E6%8D%A2%E7%A6%8F%E5%88%A9%E5%89%91%E6%8C%87%E4%BD%95%E6%96%B9/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%88%98%E7%95%A5%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90v4%E8%B6%85%E5%85%85%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%8D%87%E7%BA%A7%E5%8F%A0%E5%8A%A02000%E8%8B%B1%E9%87%8C%E7%BD%AE%E6%8D%A2%E7%A6%8F%E5%88%A9%E5%89%91%E6%8C%87%E4%BD%95%E6%96%B9/ff686995e379802a92a8f01b87a42baa_hu_63990e704da84394.png" alt="特斯拉充电战略深度解析：V4超充无障碍升级，叠加2000英里置换福利，剑指何方？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251101-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%88%98%E7%95%A5%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90v4%E8%B6%85%E5%85%85%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%8D%87%E7%BA%A7%E5%8F%A0%E5%8A%A02000%E8%8B%B1%E9%87%8C%E7%BD%AE%E6%8D%A2%E7%A6%8F%E5%88%A9%E5%89%91%E6%8C%87%E4%BD%95%E6%96%B9/ff686995e379802a92a8f01b87a42baa_hu_354d14dbc2dfd9bd.png" alt="特斯拉充电战略深度解析：V4超充无障碍升级，叠加2000英里置换福利，剑指何方？" width="750" height="422">
 
 	  </figure>
 
@@ -431,7 +424,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251031-luminar%E7%88%86%E9%9B%B7%E8%A3%81%E5%91%9825cfo%E7%A6%BB%E8%81%8C%E7%8E%B0%E9%87%91%E6%B5%81%E5%8D%B1%E6%9C%BA%E5%80%92%E8%AE%A1%E6%97%B6%E8%87%B32026/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-luminar%E7%88%86%E9%9B%B7%E8%A3%81%E5%91%9825cfo%E7%A6%BB%E8%81%8C%E7%8E%B0%E9%87%91%E6%B5%81%E5%8D%B1%E6%9C%BA%E5%80%92%E8%AE%A1%E6%97%B6%E8%87%B32026/60fdd8109b5aae7004e2e570bb1f7cca_hu_d757a50a5251f013.png" alt="Luminar爆雷：裁员25%、CFO离职，现金流危机倒计时至2026？！" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-luminar%E7%88%86%E9%9B%B7%E8%A3%81%E5%91%9825cfo%E7%A6%BB%E8%81%8C%E7%8E%B0%E9%87%91%E6%B5%81%E5%8D%B1%E6%9C%BA%E5%80%92%E8%AE%A1%E6%97%B6%E8%87%B32026/60fdd8109b5aae7004e2e570bb1f7cca_hu_97459a91226831b9.png" alt="Luminar爆雷：裁员25%、CFO离职，现金流危机倒计时至2026？！" width="750" height="422">
 
 	  </figure>
 
@@ -448,7 +441,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251031-%E6%9C%88%E7%90%83%E7%AB%9E%E9%80%9F%E5%8D%87%E7%BA%A7spacex%E6%98%9F%E8%88%B0%E7%99%BB%E6%9C%88%E7%98%A6%E8%BA%AB%E8%BF%8E%E6%88%98nasa%E6%97%B6%E9%99%90%E5%A4%AA%E7%A9%BA%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80%E5%B0%86%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-%E6%9C%88%E7%90%83%E7%AB%9E%E9%80%9F%E5%8D%87%E7%BA%A7spacex%E6%98%9F%E8%88%B0%E7%99%BB%E6%9C%88%E7%98%A6%E8%BA%AB%E8%BF%8E%E6%88%98nasa%E6%97%B6%E9%99%90%E5%A4%AA%E7%A9%BA%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80%E5%B0%86%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98/a762a8e2f459e79d9f0b3345fb2a4369_hu_a6bdb4700dd6ddb5.png" alt="月球竞速升级！SpaceX星舰登月“瘦身”迎战NASA时限，太空投资格局将如何演变？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-%E6%9C%88%E7%90%83%E7%AB%9E%E9%80%9F%E5%8D%87%E7%BA%A7spacex%E6%98%9F%E8%88%B0%E7%99%BB%E6%9C%88%E7%98%A6%E8%BA%AB%E8%BF%8E%E6%88%98nasa%E6%97%B6%E9%99%90%E5%A4%AA%E7%A9%BA%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80%E5%B0%86%E5%A6%82%E4%BD%95%E6%BC%94%E5%8F%98/a762a8e2f459e79d9f0b3345fb2a4369_hu_a155985cf4755eaa.png" alt="月球竞速升级！SpaceX星舰登月“瘦身”迎战NASA时限，太空投资格局将如何演变？" width="750" height="422">
 
 	  </figure>
 
@@ -465,7 +458,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251031-%E7%89%B9%E6%96%AF%E6%8B%89100gw%E7%AE%97%E5%8A%9B%E5%A5%87%E7%82%B9%E9%97%B2%E7%BD%AE%E8%BD%A6%E9%98%9F%E8%83%BD%E5%90%A6%E9%87%8D%E5%A1%91ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-%E7%89%B9%E6%96%AF%E6%8B%89100gw%E7%AE%97%E5%8A%9B%E5%A5%87%E7%82%B9%E9%97%B2%E7%BD%AE%E8%BD%A6%E9%98%9F%E8%83%BD%E5%90%A6%E9%87%8D%E5%A1%91ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/a9ccc7edb9026e80bc730ab47ab2c8d2_hu_7c9c8b94806ff078.png" alt="特斯拉100GW算力奇点：闲置车队能否重塑AI基础设施投资格局？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-%E7%89%B9%E6%96%AF%E6%8B%89100gw%E7%AE%97%E5%8A%9B%E5%A5%87%E7%82%B9%E9%97%B2%E7%BD%AE%E8%BD%A6%E9%98%9F%E8%83%BD%E5%90%A6%E9%87%8D%E5%A1%91ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/a9ccc7edb9026e80bc730ab47ab2c8d2_hu_a44d8f7646a135ed.png" alt="特斯拉100GW算力奇点：闲置车队能否重塑AI基础设施投资格局？" width="750" height="422">
 
 	  </figure>
 
@@ -482,7 +475,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251031-%E6%98%9F%E9%93%BE%E9%A3%8E%E6%9A%B4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%90%A8%E7%9C%81%E7%94%B5%E5%8A%9B%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BD%95%E6%96%A5%E8%B5%8411%E4%B8%87%E6%8B%A5%E6%8A%B1%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AC%E5%9C%9F%E9%80%9A%E4%BF%A1%E5%B7%A8%E5%A4%B4sasktel%E9%9D%A2%E4%B8%B4%E4%BD%95%E7%A7%8D%E6%8C%91%E6%88%98/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-%E6%98%9F%E9%93%BE%E9%A3%8E%E6%9A%B4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%90%A8%E7%9C%81%E7%94%B5%E5%8A%9B%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BD%95%E6%96%A5%E8%B5%8411%E4%B8%87%E6%8B%A5%E6%8A%B1%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AC%E5%9C%9F%E9%80%9A%E4%BF%A1%E5%B7%A8%E5%A4%B4sasktel%E9%9D%A2%E4%B8%B4%E4%BD%95%E7%A7%8D%E6%8C%91%E6%88%98/8d8516ebfda95fe3d8dceece6dc5fedc_hu_a9a708b9c05ee876.png" alt="星链风暴：加拿大萨省电力巨头为何斥资$11万拥抱马斯克？本土通信巨头SaskTel面临何种挑战？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-%E6%98%9F%E9%93%BE%E9%A3%8E%E6%9A%B4%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%90%A8%E7%9C%81%E7%94%B5%E5%8A%9B%E5%B7%A8%E5%A4%B4%E4%B8%BA%E4%BD%95%E6%96%A5%E8%B5%8411%E4%B8%87%E6%8B%A5%E6%8A%B1%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AC%E5%9C%9F%E9%80%9A%E4%BF%A1%E5%B7%A8%E5%A4%B4sasktel%E9%9D%A2%E4%B8%B4%E4%BD%95%E7%A7%8D%E6%8C%91%E6%88%98/8d8516ebfda95fe3d8dceece6dc5fedc_hu_fa46801285e6039d.png" alt="星链风暴：加拿大萨省电力巨头为何斥资$11万拥抱马斯克？本土通信巨头SaskTel面临何种挑战？" width="750" height="422">
 
 	  </figure>
 
@@ -499,7 +492,7 @@
 	
 	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251031-cybertruck%E8%84%B1%E8%90%BD%E9%97%A86197%E8%BE%86%E8%BD%A6%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%9B%9E%E6%98%AF%E4%BA%A4%E4%BB%98%E9%98%B5%E7%97%9B%E8%BF%98%E6%98%AF%E8%B4%A8%E9%87%8F%E8%AD%A6%E9%92%9F/"></a>
 
-	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-cybertruck%E8%84%B1%E8%90%BD%E9%97%A86197%E8%BE%86%E8%BD%A6%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%9B%9E%E6%98%AF%E4%BA%A4%E4%BB%98%E9%98%B5%E7%97%9B%E8%BF%98%E6%98%AF%E8%B4%A8%E9%87%8F%E8%AD%A6%E9%92%9F/727d0c5f9ad8ca0b71eb603d7ba09023_hu_2ab41f98bcdb4b09.png" alt="Cybertruck“脱落门”：6197辆车紧急召回，是交付阵痛还是质量警钟？" width="750" height="422">
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer" src="/TeslaDaily/images/20251031-cybertruck%E8%84%B1%E8%90%BD%E9%97%A86197%E8%BE%86%E8%BD%A6%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%9B%9E%E6%98%AF%E4%BA%A4%E4%BB%98%E9%98%B5%E7%97%9B%E8%BF%98%E6%98%AF%E8%B4%A8%E9%87%8F%E8%AD%A6%E9%92%9F/727d0c5f9ad8ca0b71eb603d7ba09023_hu_f5de516c6ff3c102.png" alt="Cybertruck“脱落门”：6197辆车紧急召回，是交付阵痛还是质量警钟？" width="750" height="422">
 
 	  </figure>
 
@@ -628,7 +621,6 @@
   </div>
   
 </div></footer>
-      <script defer src="/TeslaDaily/js/insertoggle.474f9b0e08021c6519cff4e46df14ccf148285b2d3a23d6321d6e10f25c291fb.js" integrity="sha256-R0&#43;bDggCHGUZz/TkbfFMzxSChbLToj1jIdbhDyXCkfs=" crossorigin="anonymous"></script>
       <script defer src="/TeslaDaily/js/search.a00accf8d758700bf188d58caa9ab342a1c449893382f43257870feecd286aaf.js" integrity="sha256-oArM&#43;NdYcAvxiNWMqpqzQqHESYkzgvQyV4cP7s0oaq8=" crossorigin="anonymous"></script>
 </body>
 </html>
