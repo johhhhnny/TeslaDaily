@@ -5,7 +5,7 @@
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Nov 2025 02:09:09 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E7%89%B9%E6%96%AF%E6%8B%89fsd/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 15 Nov 2025 04:25:14 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E7%89%B9%E6%96%AF%E6%8B%89fsd/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉FSD视觉瓶颈破局？车载AI新警报与免费清洗背后的投资逻辑</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251114-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%A7%86%E8%A7%89%E7%93%B6%E9%A2%88%E7%A0%B4%E5%B1%80%E8%BD%A6%E8%BD%BDai%E6%96%B0%E8%AD%A6%E6%8A%A5%E4%B8%8E%E5%85%8D%E8%B4%B9%E6%B8%85%E6%B4%97%E8%83%8C%E5%90%8E%E7%9A%84%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251114-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%A7%86%E8%A7%89%E7%93%B6%E9%A2%88%E7%A0%B4%E5%B1%80%E8%BD%A6%E8%BD%BDai%E6%96%B0%E8%AD%A6%E6%8A%A5%E4%B8%8E%E5%85%8D%E8%B4%B9%E6%B8%85%E6%B4%97%E8%83%8C%E5%90%8E%E7%9A%84%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/</guid>
@@ -15,6 +15,28 @@
 ]]></description><content:encoded><![CDATA[
 <p>自动驾驶的未来，视觉为王？当特斯拉全力押注“纯视觉”方案时，一个看似不起眼的细节，却可能成为FSD（完全自动驾驶）性能落地的关键瓶颈。最近，特斯拉FSD v14.1.7更新带来一项重磅升级：针对前置摄像头视野受阻，新增车载智能弹窗提示，并提供免费清洁服务。这背后蕴藏着怎样的技术趋势、投资机会与潜在风险？</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251114-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%A7%86%E8%A7%89%E7%93%B6%E9%A2%88%E7%A0%B4%E5%B1%80%E8%BD%A6%E8%BD%BDai%E6%96%B0%E8%AD%A6%E6%8A%A5%E4%B8%8E%E5%85%8D%E8%B4%B9%E6%B8%85%E6%B4%97%E8%83%8C%E5%90%8E%E7%9A%84%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉FSD安全数据揭秘：与Waymo的透明度之战，谁能定义自动驾驶未来？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251114-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98%E4%B8%8Ewaymo%E7%9A%84%E9%80%8F%E6%98%8E%E5%BA%A6%E4%B9%8B%E6%88%98%E8%B0%81%E8%83%BD%E5%AE%9A%E4%B9%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%AA%E6%9D%A5/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251114-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98%E4%B8%8Ewaymo%E7%9A%84%E9%80%8F%E6%98%8E%E5%BA%A6%E4%B9%8B%E6%88%98%E8%B0%81%E8%83%BD%E5%AE%9A%E4%B9%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%AA%E6%9D%A5/</guid>
+      <pubDate>Fri, 14 Nov 2025 04:23:25 &#43;0000</pubDate><description><![CDATA[
+<p>近期，特斯拉发布了其迄今为止最详尽的自动辅助驾驶（ADAS）软件安全性能报告。此举意义非凡，恰逢数周前Waymo联席CEO Tekedra Mawakana在TechCrunch Disrupt峰会上公开呼吁整个行业提升数据透明度。这不仅仅是一份报告，更像是对行业领军者“灵魂拷问”的回应，预示着自动驾驶领域的“数据之战”正逐步升级。投资者应关注，这份报告究竟…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251114-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98%E4%B8%8Ewaymo%E7%9A%84%E9%80%8F%E6%98%8E%E5%BA%A6%E4%B9%8B%E6%88%98%E8%B0%81%E8%83%BD%E5%AE%9A%E4%B9%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>近期，特斯拉发布了其迄今为止最详尽的自动辅助驾驶（ADAS）软件安全性能报告。此举意义非凡，恰逢数周前Waymo联席CEO Tekedra Mawakana在TechCrunch Disrupt峰会上公开呼吁整个行业提升数据透明度。这不仅仅是一份报告，更像是对行业领军者“灵魂拷问”的回应，预示着自动驾驶领域的“数据之战”正逐步升级。投资者应关注，这份报告究竟…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251114-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E6%8F%AD%E7%A7%98%E4%B8%8Ewaymo%E7%9A%84%E9%80%8F%E6%98%8E%E5%BA%A6%E4%B9%8B%E6%88%98%E8%B0%81%E8%83%BD%E5%AE%9A%E4%B9%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>FSD安全报告重磅出炉：自动驾驶能否颠覆出行与投资格局？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251114-fsd%E5%AE%89%E5%85%A8%E6%8A%A5%E5%91%8A%E9%87%8D%E7%A3%85%E5%87%BA%E7%82%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%83%BD%E5%90%A6%E9%A2%A0%E8%A6%86%E5%87%BA%E8%A1%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251114-fsd%E5%AE%89%E5%85%A8%E6%8A%A5%E5%91%8A%E9%87%8D%E7%A3%85%E5%87%BA%E7%82%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%83%BD%E5%90%A6%E9%A2%A0%E8%A6%86%E5%87%BA%E8%A1%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/</guid>
+      <pubDate>Fri, 14 Nov 2025 04:22:49 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉（Tesla）近期发布了一份重磅的FSD（完全自动驾驶，监督版）安全统计报告，犹如一枚深水炸弹，在自动驾驶（ADAS）和投资圈激起千层浪。这不仅仅是技术数据的更新，更是对未来出行模式与投资逻辑的一次深刻拷问。究竟FSD的安全表现如何？它能否成为下一轮科技革命的核心驱动力，为投资者带来超额回报？让我们深度剖析这些关键数据。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251114-fsd%E5%AE%89%E5%85%A8%E6%8A%A5%E5%91%8A%E9%87%8D%E7%A3%85%E5%87%BA%E7%82%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%83%BD%E5%90%A6%E9%A2%A0%E8%A6%86%E5%87%BA%E8%A1%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉（Tesla）近期发布了一份重磅的FSD（完全自动驾驶，监督版）安全统计报告，犹如一枚深水炸弹，在自动驾驶（ADAS）和投资圈激起千层浪。这不仅仅是技术数据的更新，更是对未来出行模式与投资逻辑的一次深刻拷问。究竟FSD的安全表现如何？它能否成为下一轮科技革命的核心驱动力，为投资者带来超额回报？让我们深度剖析这些关键数据。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251114-fsd%E5%AE%89%E5%85%A8%E6%8A%A5%E5%91%8A%E9%87%8D%E7%A3%85%E5%87%BA%E7%82%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%83%BD%E5%90%A6%E9%A2%A0%E8%A6%86%E5%87%BA%E8%A1%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
       <title>马斯克揭示：特斯拉FSD V14“犹豫症”终结时间点，智能驾驶新纪元临近？</title>
