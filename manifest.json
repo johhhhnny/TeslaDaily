@@ -1,0 +1,51 @@
+{
+  "name": "特斯拉日报",
+  "short_name": "特斯拉日报",
+  "description": "特斯拉最新资讯、深度分析和投资洞察",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "images/logo-tire-classic.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "最新文章",
+      "short_name": "文章",
+      "description": "查看最新文章",
+      "url": "/posts/",
+      "icons": [
+        {
+          "src": "favicon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "日报归档",
+      "short_name": "日报",
+      "description": "浏览历史日报",
+      "url": "/daily/",
+      "icons": [
+        {
+          "src": "favicon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}
