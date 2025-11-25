@@ -5,7 +5,29 @@
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 25 Nov 2025 11:22:54 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 25 Nov 2025 12:43:33 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>**特斯拉Autosteer拟取消“Beta”标签，引入智能注意力提示**</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/</guid>
+      <pubDate>Tue, 25 Nov 2025 12:41:36 &#43;0000</pubDate><description><![CDATA[
+<p>“Beta”标签移除： 特斯拉计划从Autosteer (自动转向辅助) 功能中移除“Beta” (测试版) 标签。 信息源于2025.38软件更新代码分析。 此举表明特斯拉认为Autosteer核心软件堆栈已达商业级成熟度。 * 首次使用Autosteer时，仍会显示需要驾驶员监督的警告。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>“Beta”标签移除： 特斯拉计划从Autosteer (自动转向辅助) 功能中移除“Beta” (测试版) 标签。 信息源于2025.38软件更新代码分析。 此举表明特斯拉认为Autosteer核心软件堆栈已达商业级成熟度。 * 首次使用Autosteer时，仍会显示需要驾驶员监督的警告。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>幽蓝之点：FSD v14.2的无声告白与特斯拉的自动驾驶棋局</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E5%B9%BD%E8%93%9D%E4%B9%8B%E7%82%B9fsd-v142%E7%9A%84%E6%97%A0%E5%A3%B0%E5%91%8A%E7%99%BD%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E5%B9%BD%E8%93%9D%E4%B9%8B%E7%82%B9fsd-v142%E7%9A%84%E6%97%A0%E5%A3%B0%E5%91%8A%E7%99%BD%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/</guid>
+      <pubDate>Tue, 25 Nov 2025 12:41:16 &#43;0000</pubDate><description><![CDATA[
+<p>在数字时代，每一次软件迭代都可能在看似平静的表象下，埋藏着颠覆性的密码。当特斯拉向其“早期体验计划”（Early Access Program, EAP）成员推送Full Self-Driving（FSD，全自动驾驶系统）v14.2版本时，许多人期待着更为流畅的转弯、更精准的变道。然而，真正的惊喜，却并非那些显而易见的驾驶性能提升，而是一个不起眼的“幽蓝之点…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E5%B9%BD%E8%93%9D%E4%B9%8B%E7%82%B9fsd-v142%E7%9A%84%E6%97%A0%E5%A3%B0%E5%91%8A%E7%99%BD%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>在数字时代，每一次软件迭代都可能在看似平静的表象下，埋藏着颠覆性的密码。当特斯拉向其“早期体验计划”（Early Access Program, EAP）成员推送Full Self-Driving（FSD，全自动驾驶系统）v14.2版本时，许多人期待着更为流畅的转弯、更精准的变道。然而，真正的惊喜，却并非那些显而易见的驾驶性能提升，而是一个不起眼的“幽蓝之点…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E5%B9%BD%E8%93%9D%E4%B9%8B%E7%82%B9fsd-v142%E7%9A%84%E6%97%A0%E5%A3%B0%E5%91%8A%E7%99%BD%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉FSD V14.2小范围推送：自动驾驶技术栈的深度进化与市场潜力</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251121-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v142%E5%B0%8F%E8%8C%83%E5%9B%B4%E6%8E%A8%E9%80%81%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%8A%80%E6%9C%AF%E6%A0%88%E7%9A%84%E6%B7%B1%E5%BA%A6%E8%BF%9B%E5%8C%96%E4%B8%8E%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251121-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v142%E5%B0%8F%E8%8C%83%E5%9B%B4%E6%8E%A8%E9%80%81%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%8A%80%E6%9C%AF%E6%A0%88%E7%9A%84%E6%B7%B1%E5%BA%A6%E8%BF%9B%E5%8C%96%E4%B8%8E%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B/</guid>
