@@ -5,18 +5,7 @@
     <description>每日精选，一页速览特斯拉动态</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 25 Nov 2025 12:43:33 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
-      <title>**特斯拉Autosteer拟取消“Beta”标签，引入智能注意力提示**</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/</guid>
-      <pubDate>Tue, 25 Nov 2025 12:41:36 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> “Beta”标签移除： 特斯拉计划从Autosteer (自动转向辅助) 功能中移除“Beta” (测试版) 标签。 信息源于2025.38软件更新代码分析。 此举表明特斯拉认为Autosteer核心软件堆栈已达商业级成熟度。 * 首次使用Autosteer时，仍会显示需要驾驶员监督的警告。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>“Beta”标签移除： 特斯拉计划从Autosteer (自动转向辅助) 功能中移除“Beta” (测试版) 标签。 信息源于2025.38软件更新代码分析。 此举表明特斯拉认为Autosteer核心软件堆栈已达商业级成熟度。 * 首次使用Autosteer时，仍会显示需要驾驶员监督的警告。</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E7%89%B9%E6%96%AF%E6%8B%89autosteer%E6%8B%9F%E5%8F%96%E6%B6%88beta%E6%A0%87%E7%AD%BE%E5%BC%95%E5%85%A5%E6%99%BA%E8%83%BD%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8F%90%E7%A4%BA/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>软件更新</category><category>特斯拉</category><category>自动驾驶</category><category>FSD</category></item><item>
+    <lastBuildDate>Tue, 25 Nov 2025 13:01:29 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
       <title>幽蓝之点：FSD v14.2的无声告白与特斯拉的自动驾驶棋局</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E5%B9%BD%E8%93%9D%E4%B9%8B%E7%82%B9fsd-v142%E7%9A%84%E6%97%A0%E5%A3%B0%E5%91%8A%E7%99%BD%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E5%B9%BD%E8%93%9D%E4%B9%8B%E7%82%B9fsd-v142%E7%9A%84%E6%97%A0%E5%A3%B0%E5%91%8A%E7%99%BD%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/</guid>
@@ -555,5 +544,16 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
 <p>特斯拉近期针对其备受瞩目的Cybertruck电动皮卡越野灯条缺陷发布了硬件解决方案，此举不仅是对一次召回事件的直接回应，更在深层次上触及了新兴产品品控、供应链管理以及品牌信任度的核心议题。作为资深科技投资分析师，我们认为，此次硬件升级的效率和方案的周密性，将是观察特斯拉在产能爬坡与质量控制之间如何平衡的关键窗口，并可能对Cybertruck的初期市场表现和…</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251120-%E7%89%B9%E6%96%AF%E6%8B%89cybertruck%E7%81%AF%E6%9D%A1%E5%8F%AC%E5%9B%9E%E7%A1%AC%E4%BB%B6%E5%8D%87%E7%BA%A7%E8%83%BD%E5%90%A6%E9%87%8D%E5%A1%91%E4%BA%A4%E4%BB%98%E4%BF%A1%E5%BF%83%E4%B8%8E%E5%93%81%E7%89%8C%E4%BB%B7%E5%80%BC/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Cybertruck</category><category>召回</category></item></channel>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Cybertruck</category><category>召回</category></item><item>
+      <title>特斯拉充电网络“轻资产”扩张提速：首个商业超级充电站的战略深意</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251120-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E8%BD%BB%E8%B5%84%E4%BA%A7%E6%89%A9%E5%BC%A0%E6%8F%90%E9%80%9F%E9%A6%96%E4%B8%AA%E5%95%86%E4%B8%9A%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251120-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E8%BD%BB%E8%B5%84%E4%BA%A7%E6%89%A9%E5%BC%A0%E6%8F%90%E9%80%9F%E9%A6%96%E4%B8%AA%E5%95%86%E4%B8%9A%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/</guid>
+      <pubDate>Thu, 20 Nov 2025 20:26:59 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉近日在佛罗里达州兰德奥莱克斯（Land O’ Lakes）开设了北美首个“商业超级充电站”（Supercharger for Business），这标志着其超级充电网络战略的一次重大革新。分析认为，这一新模式通过引入第三方所有权和投资，并由特斯拉进行全面管理，旨在显著加速充电基础设施的扩张，同时降低特斯拉自身的资本支出，从而在电动汽车普及浪潮中进一步巩…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251120-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E8%BD%BB%E8%B5%84%E4%BA%A7%E6%89%A9%E5%BC%A0%E6%8F%90%E9%80%9F%E9%A6%96%E4%B8%AA%E5%95%86%E4%B8%9A%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉近日在佛罗里达州兰德奥莱克斯（Land O’ Lakes）开设了北美首个“商业超级充电站”（Supercharger for Business），这标志着其超级充电网络战略的一次重大革新。分析认为，这一新模式通过引入第三方所有权和投资，并由特斯拉进行全面管理，旨在显著加速充电基础设施的扩张，同时降低特斯拉自身的资本支出，从而在电动汽车普及浪潮中进一步巩…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251120-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E8%BD%BB%E8%B5%84%E4%BA%A7%E6%89%A9%E5%BC%A0%E6%8F%90%E9%80%9F%E9%A6%96%E4%B8%AA%E5%95%86%E4%B8%9A%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item></channel>
 </rss>
