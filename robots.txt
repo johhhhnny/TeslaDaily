@@ -1,5 +1,17 @@
 User-agent: *
 Allow: /
+Allow: /daily/
+Allow: /story/
+Allow: /posts/
+Allow: /archives/
+Allow: /about/
 
-# 站点地图位置
+# Sitemap location
+Sitemap: https://johhhhnny.github.io/TeslaDaily/sitemap.xml
 Sitemap: https://johhhhnny.github.io/TeslaDaily/sitemap_index.xml
+Sitemap: https://johhhhnny.github.io/TeslaDaily/sitemap_posts.xml
+Sitemap: https://johhhhnny.github.io/TeslaDaily/sitemap_daily.xml
+Sitemap: https://johhhhnny.github.io/TeslaDaily/sitemap_story.xml
+
+# Crawl delay (optional, helps prevent server overload)
+Crawl-delay: 1
