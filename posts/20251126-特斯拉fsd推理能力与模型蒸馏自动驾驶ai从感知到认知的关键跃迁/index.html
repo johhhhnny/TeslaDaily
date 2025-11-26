@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<meta name="google-site-verification" content="v2g5WeUWzHxKcSYMyfBqkcQy0Hnw82Kqp6nwJyxd5yE" />
+
+<title>特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁 | 特斯拉日报</title>
+
+<meta name="description" content="在新能源汽车与AI深度融合的时代浪潮下，自动驾驶技术正经历从量变到质变的关键阶段。特斯拉FSD系统近日宣布将引入推理能力（Reasoning）并采用模型蒸馏（Distillation）技术，此举不仅代表了其在自动驾驶技术栈上的重大突破，更预示着整个行业AI范式将从纯粹的感知与反应迈向更高维度的认知与决策。作为深耕新能源与AI产业链的行业观察家，我们认为这一发…">
+
+
+<link rel="canonical" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E4%BB%8E%E6%84%9F%E7%9F%A5%E5%88%B0%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E8%B7%83%E8%BF%81/">
+
+
+<meta property="og:title" content="特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁 | 特斯拉日报">
+<meta property="og:description" content="在新能源汽车与AI深度融合的时代浪潮下，自动驾驶技术正经历从量变到质变的关键阶段。特斯拉FSD系统近日宣布将引入推理能力（Reasoning）并采用模型蒸馏（Distillation）技术，此举不仅代表了其在自动驾驶技术栈上的重大突破，更预示着整个行业AI范式将从纯粹的感知与反应迈向更高维度的认知与决策。作为深耕新能源与AI产业链的行业观察家，我们认为这一发…">
+<meta property="og:url" content="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E4%BB%8E%E6%84%9F%E7%9F%A5%E5%88%B0%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E8%B7%83%E8%BF%81/">
+<meta property="og:type" content="article">
+
+
+
+<meta property="article:published_time" content="2025-11-26T20:23:31Z">
+
+<meta property="article:modified_time" content="2025-11-26T20:23:31Z">
+
+
+<meta property="article:author" content="老张">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁 | 特斯拉日报">
+<meta name="twitter:description" content="在新能源汽车与AI深度融合的时代浪潮下，自动驾驶技术正经历从量变到质变的关键阶段。特斯拉FSD系统近日宣布将引入推理能力（Reasoning）并采用模型蒸馏（Distillation）技术，此举不仅代表了其在自动驾驶技术栈上的重大突破，更预示着整个行业AI范式将从纯粹的感知与反应迈向更高维度的认知与决策。作为深耕新能源与AI产业链的行业观察家，我们认为这一发…">
+<meta name="twitter:site" content="@TeslaDaily">
+
+
+<meta name="keywords" content=", 特斯拉, Tesla">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁",
+  "description": "在新能源汽车与AI深度融合的时代浪潮下，自动驾驶技术正经历从量变到质变的关键阶段。特斯拉FSD系统近日宣布将引入推理能力（Reasoning）并采用模型蒸馏（Distillation）技术，此举不仅代表了其在自动驾驶技术栈上的重大突破，更预示着整个行业AI范式将从纯粹的感知与反应迈向更高维度的认知与决策。作为深耕新能源与AI产业链的行业观察家，我们认为这一发…",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E4%BB%8E%E6%84%9F%E7%9F%A5%E5%88%B0%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E8%B7%83%E8%BF%81\/"
+  },
+  "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E4%BB%8E%E6%84%9F%E7%9F%A5%E5%88%B0%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E8%B7%83%E8%BF%81\/",
+  "datePublished": "2025-11-26T20:23:31Z",
+  "dateModified": "2025-11-26T20:23:31Z",
+  "author": {
+    "@type": "Person",
+    "name": "老张"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "特斯拉日报",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/images\/logo-tire-classic.svg"
+    }
+  }
+}
+</script>
+
+
+
+      <link rel="stylesheet" href="/TeslaDaily/css/main.min.0ed04894cb44c2b94c2fc3cd4eab1b7622f25031fb03aa77974e360e68b77dba.css" integrity="sha256-DtBIlMtEwrlML8PNTqsbdiLyUDH7A6p3l042Dmi3fbo=" crossorigin="anonymous">
+
+<link rel="icon" type="image/svg+xml" href="https://johhhhnny.github.io/TeslaDaily/favicon.svg"> 
+<link rel="icon" type="image/x-icon" href="https://johhhhnny.github.io/TeslaDaily/favicon.ico"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://johhhhnny.github.io/TeslaDaily/favicon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://johhhhnny.github.io/TeslaDaily/favicon-32.png"> 
+<link rel="icon" type="image/png" sizes="64x64" href="https://johhhhnny.github.io/TeslaDaily/favicon-64.png"> 
+
+</head>
+<body>
+  <header class="py-6"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+	<div class="flex items-center">
+		<div class="flex items-center">
+			<button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
+				<svg width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+					<path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"></path>
+				</svg>
+				<span class="rounded-full p-2.5">
+					<img src="/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="group-hover:animate-spin" />
+				</span>
+			</button>
+			<div class="relative rounded-full py-1.5 px-6 bg-zinc-100 hover:bg-zinc-200 text-xl font-bold uppercase mx-2">
+				<h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="https://johhhhnny.github.io/TeslaDaily/">
+				<span class="uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+				</a></h2>
+			</div>
+		</div>
+		<div class="flex items-center ml-auto space-x-2">
+			<button class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="search-bar">
+				<svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path id="path1" class="transition-all ease-linear" d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+					<path id="path2" class="transition-all ease-linear hidden" d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
+				</svg>
+			</button>
+			<a class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/feed.xml" rel="noopener" aria-label="订阅RSS">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path d="M2 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"></path>
+					<path d="M2 2.5a.5.5 0 0 1 .5-.5c6.627 0 12 5.373 12 12a.5.5 0 0 1-1 0C13.5 8.134 7.866 2.5 2.5 2.5a.5.5 0 0 1-.5-.5z"></path>
+					<path d="M2 6a.5.5 0 0 1 .5-.5A7.5 7.5 0 0 1 10 13.5a.5.5 0 0 1-1 0A6.5 6.5 0 0 0 2.5 6.5.5.5 0 0 1 2 6z"></path>
+				</svg>
+			</a>
+		</div>
+	</div>
+  <nav id="menu-bar" class="block mt-3 open">
+    <ul class="flex items-center flex flex-nowrap whitespace-nowrap overflow-x-auto space-x-4">
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/">首页</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/daily/">每日特报</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/story/">特有故事</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/archives/">特新消息</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/about/">关于</a>
+    </li>
+    </ul>
+  </nav>
+<div id="search-bar" class="block mt-3 close">
+	<form id="search" class="flex items-stretch" action="https://www.google.com/search" method="get" target="_blank">
+		<input type="hidden" name="sitesearch" value="johhhhnny.github.io/TeslaDaily">
+		<input class="w-full block px-6 py-2 rounded-l-full focus:outline-none border border-zinc-200" type="text" name="q" placeholder="搜索...">
+		<button class="flex items-center px-7 py-2.5 rounded-r-full border border-zinc-200" type="submit">
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-pulse" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+			</svg>
+		</button>
+	</form>
+</div></div></header>
+  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+	<ul class="flex space-x-4 text-sm text-zinc-500">
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/">特斯拉日报</a>
+		</li>
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/posts/">文章</a>
+		</li>
+	</ul>
+</div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+
+  <article class="md:col-span-2 prose lg:prose-lg">
+
+    <header class="not-prose">
+
+      <h1 id="title" class="text-4xl font-bold leading-normal">特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁</h1>
+
+      <div id="lead" class="my-6">
+
+        <p class="font-bold">在新能源汽车与AI深度融合的时代浪潮下，自动驾驶技术正经历从量变到质变的关键阶段。特斯拉FSD系统近日宣布将引入推理能力（Reasoning）并采用模型蒸馏（Distillation）技术，此举不仅代表了其在自动驾驶技术栈上的重大突破，更预示着整个行业AI范式将从纯粹的感知与反应迈向更高维度的认知与决策。作为深耕新能源与AI产业链的行业观察家，我们认为这一发… </p>
+
+      </div>
+
+      <div id="writer" class="flex items-center space-x-4"><img class="w-12 h-12 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/lao_zhang.png" alt="老张 avatar"><ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+
+          <li class="font-semibold my-2">老张</li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2025-11-26T20:23:31&#43;00:00">November 26, 2025</time>
+          </li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            1 min read
+          </li>
+
+        </ul>
+
+      </div>
+
+    </header>
+
+    <figure id="featureimage" class="rounded-xl aspect-video">
+      <img class="rounded-lg" src="https://johhhhnny.github.io/TeslaDaily/images/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E4%BB%8E%E6%84%9F%E7%9F%A5%E5%88%B0%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E8%B7%83%E8%BF%81/7511349918aa5153b1d969dbe3a39456_hu_c0006a39300a0e62.jpg" alt="" width="750"
+        height="422" loading="lazy">
+
+    </figure>
+
+    <div id="content" class="mb-14">
+      <h2 id="特斯拉fsd推理能力与模型蒸馏自动驾驶ai从感知到认知的关键跃迁">特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁</h2>
+<p>在新能源汽车与AI深度融合的时代浪潮下，自动驾驶技术正经历从量变到质变的关键阶段。特斯拉FSD系统近日宣布将引入推理能力（Reasoning）并采用模型蒸馏（Distillation）技术，此举不仅代表了其在自动驾驶技术栈上的重大突破，更预示着整个行业AI范式将从纯粹的感知与反应迈向更高维度的认知与决策。作为深耕新能源与AI产业链的行业观察家，我们认为这一发展将深刻影响自动驾驶的商业化进程、技术护城河的构建以及产业链的竞争格局。</p>
+<h2 id="自动驾驶ai的认知升级从快思考到慢思考">自动驾驶AI的认知升级：从“快思考”到“慢思考”</h2>
+<p>特斯拉FSD此次升级的核心在于为系统赋予更高级的“推理能力”，旨在弥补现有模型在复杂、不确定性场景下的“常识”缺失。当前主流的端到端（End-to-End）自动驾驶AI模型，尽管在车道保持、制动、转向等基础驾驶操作上表现出色，但其本质上更接近于人类的“系统1思维”（System 1 Thinking），即一种快速、直觉式的反应机制。这种模式擅长将像素信息直接映射为控制指令，反应迅速且精准。</p>
+<p>然而，在面对诸如施工人员手持“慢行”标志但实际在聊天并挥手示意通行、或前方车道临时封闭需要提前规划变道路径等复杂边缘场景（Edge Cases）时，纯粹的“快思考”模型往往难以理解深层语境和潜在意图，从而导致犹豫或误判。特斯拉招聘信息中明确指出，现有模型在“物理推理”方面仍有不足，甚至难以区分左右方向。因此，引入“系统2思维”（System 2 Thinking），即一种缓慢、深思熟虑、逻辑推理的能力，成为自动驾驶AI从“辅助”走向“自主”的关键一步。这将使车辆能够像人类一样，在行动前对问题进行更深层次的思考和判断，从而提升应对复杂路况的鲁棒性和安全性。</p>
+<h2 id="模型蒸馏实现ai推理能力规模化落地的核心路径">模型蒸馏：实现AI推理能力规模化落地的核心路径</h2>
+<p>尽管推理能力对于自动驾驶至关重要，但开发和部署能够进行复杂推理的大型AI模型面临巨大的算力挑战。这类模型通常需要庞大的计算资源和较长的思考时间，这与车载芯片有限的算力以及自动驾驶对实时性、低延迟的要求相悖。模型蒸馏技术正是解决这一矛盾的核心策略，它为高级推理能力向终端车辆的规模化部署提供了可行路径。</p>
+<p>模型蒸馏的原理是将一个在数据中心训练的、计算资源需求巨大的“教师模型”（Teacher Model）所学到的知识和决策逻辑，通过特定的训练方法迁移到一个体积更小、运行效率更高的“学生模型”（Student Model）中。特斯拉计划利用其强大的数据中心对海量的复杂驾驶边缘案例进行推理训练，生成完美的决策方案，这些方案随后被用于训练车载“学生模型”。这意味着，车辆无需在本地执行耗时且算力密集的大规模推理，而是通过“学生模型”快速调用已蒸馏的推理智慧，从而在保持像素级反应速度的同时，获得“推理天才”般的直觉和判断力。</p>
+<p>值得注意的是，模型蒸馏对于特斯拉现有硬件平台，特别是HW3（Hardware 3）车主而言，具有里程碑式的意义。它不仅是实现未来FSD V14等高级版本功能的关键技术，更是确保老旧硬件平台也能享受到最新AI进步的唯一途径，极大地延长了硬件的使用寿命和系统的兼容性，这对于降低用户升级成本、加速FSD的普及具有重要的商业价值。</p>
+<h2 id="产业影响重塑竞争格局与产业链生态">产业影响：重塑竞争格局与产业链生态</h2>
+<p>特斯拉FSD在推理能力和模型蒸馏方面的进展，将对整个自动驾驶产业链产生深远影响，加速行业洗牌并重塑生态系统。</p>
+<h4 id="对竞争对手的影响">对竞争对手的影响：</h4>
+<p>特斯拉此举将进一步拉大其在自动驾驶领域的技术领先优势，为行业树立新的技术标杆。对于其他传统车企、造车新势力以及专注于L4/L5级自动驾驶解决方案的科技公司而言，这将形成巨大的竞争压力。它们必须加速在AI基础理论、算法创新和数据积累上的投入，以追赶特斯拉在认知智能上的突破，否则可能面临技术壁垒加高、市场份额被侵蚀的风险。尤其对于那些尚未形成数据飞轮效应的企业，其商业模式和技术路线将面临严峻考验。</p>
+<h4 id="对供应链的影响">对供应链的影响：</h4>
+<ul>
+<li><strong>AI芯片与算力需求：</strong> 推理能力的提升和模型蒸馏的实施，将对车载AI推理芯片提出更高要求，不仅需要强大的算力，更要注重能效比和低延迟表现。这利好英伟达、高通等高性能计算芯片供应商，同时也推动自研芯片厂商如特斯拉自身FSD芯片的发展。</li>
+<li><strong>数据生态：</strong> 高质量、多样化的复杂边缘案例数据成为训练和蒸馏推理模型的关键。数据采集、标注、模拟仿真以及数据闭环验证的需求将进一步增长，相关服务提供商和技术平台迎来发展机遇。</li>
+<li><strong>软件与算法框架：</strong> 推动更先进的AI算法框架、模型压缩与优化技术、以及大规模分布式训练平台的发展，软件定义汽车的趋势将更加凸显。</li>
+</ul>
+<h4 id="对商业模式与用户体验的影响">对商业模式与用户体验的影响：</h4>
+<p>随着FSD系统认知能力的增强，其在复杂交通环境中的表现将更加接近人类驾驶员，从而显著提升用户信任度和接受度。这将直接提升FSD订阅服务的吸引力，加速其商业化变现。从长期来看，FSD向“无监督驾驶”（Unsupervised Driving）的迈进，将为Robotaxi等自动驾驶出行服务模式的落地奠定更坚实的基础，极大地拓展自动驾驶技术的潜在市场空间和商业化想象力。用户体验将从“辅助驾驶”向“自主出行”转变，安全性和舒适性都将达到前所未有的高度。</p>
+<h4 id="对政策法规的潜在影响">对政策法规的潜在影响：</h4>
+<p>技术上的突破，特别是AI推理能力的提升，将加速L3及以上级别自动驾驶的法规制定和落地进程。监管机构将需要更深入地理解和评估AI系统的决策逻辑和安全性，同时对数据安全、伦理考量以及责任划分等问题提出新的要求。</p>
+<h2 id="技术护城河的深化与商业化展望">技术护城河的深化与商业化展望</h2>
+<p>特斯拉在FSD中引入推理能力并辅以模型蒸馏技术，不仅是对现有技术栈的迭代升级，更是对其核心技术护城河的进一步深化。其护城河已包括庞大的真实世界驾驶数据、强大的AI研发团队、软硬件垂直整合能力以及独特的FSD商业模式。现在，通过在AI核心能力层面实现从感知到认知的跃迁，特斯拉正在构建一个更难以被模仿的竞争优势。</p>
+<p>这种“快思考+慢思考”的混合AI架构，结合高效的模型蒸馏技术，有望加速特斯拉实现其Robotaxi的宏伟愿景，并进一步巩固其在智能电动汽车领域的领导地位。从长远来看，具备强大推理能力的自动驾驶系统，将是决定企业能否在未来智能出行时代构建坚固护城河的关键要素，也将深刻影响整个出行产业的未来格局。</p>
+<h2 id="结语">结语</h2>
+<p>特斯拉此番在FSD中引入推理能力并辅以模型蒸馏技术，无疑是自动驾驶AI发展历程中的一个里程碑事件。它不仅标志着AI从纯粹的模式识别迈向了更深层次的认知理解，也为自动驾驶技术的大规模商业化落地打开了新的局面。对于整个新能源与AI产业链而言，这预示着一场深刻的技术范式转移和竞争格局重塑。未来，具备强大“慢思考”能力的自动驾驶系统，将是决定企业在智能出行时代能否构建坚固护城河的关键要素。我们作为行业观察家，将持续关注这一前沿技术如何赋能产业升级，并为投资者提供更深度的洞察。</p>
+<div class="flex items-center space-x-4 my-8">
+    <span class="font-semibold">分享:</span>
+
+    
+    <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20251126-%25E7%2589%25B9%25E6%2596%25AF%25E6%258B%2589fsd%25E6%258E%25A8%25E7%2590%2586%25E8%2583%25BD%25E5%258A%259B%25E4%25B8%258E%25E6%25A8%25A1%25E5%259E%258B%25E8%2592%25B8%25E9%25A6%258F%25E8%2587%25AA%25E5%258A%25A8%25E9%25A9%25BE%25E9%25A9%25B6ai%25E4%25BB%258E%25E6%2584%259F%25E7%259F%25A5%25E5%2588%25B0%25E8%25AE%25A4%25E7%259F%25A5%25E7%259A%2584%25E5%2585%25B3%25E9%2594%25AE%25E8%25B7%2583%25E8%25BF%2581%2f&text=%e7%89%b9%e6%96%af%e6%8b%89FSD%e6%8e%a8%e7%90%86%e8%83%bd%e5%8a%9b%e4%b8%8e%e6%a8%a1%e5%9e%8b%e8%92%b8%e9%a6%8f%ef%bc%9a%e8%87%aa%e5%8a%a8%e9%a9%be%e9%a9%b6AI%e4%bb%8e%e6%84%9f%e7%9f%a5%e5%88%b0%e8%ae%a4%e7%9f%a5%e7%9a%84%e5%85%b3%e9%94%ae%e8%b7%83%e8%bf%81" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20251126-%25E7%2589%25B9%25E6%2596%25AF%25E6%258B%2589fsd%25E6%258E%25A8%25E7%2590%2586%25E8%2583%25BD%25E5%258A%259B%25E4%25B8%258E%25E6%25A8%25A1%25E5%259E%258B%25E8%2592%25B8%25E9%25A6%258F%25E8%2587%25AA%25E5%258A%25A8%25E9%25A9%25BE%25E9%25A9%25B6ai%25E4%25BB%258E%25E6%2584%259F%25E7%259F%25A5%25E5%2588%25B0%25E8%25AE%25A4%25E7%259F%25A5%25E7%259A%2584%25E5%2585%25B3%25E9%2594%25AE%25E8%25B7%2583%25E8%25BF%2581%2f" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20251126-%25E7%2589%25B9%25E6%2596%25AF%25E6%258B%2589fsd%25E6%258E%25A8%25E7%2590%2586%25E8%2583%25BD%25E5%258A%259B%25E4%25B8%258E%25E6%25A8%25A1%25E5%259E%258B%25E8%2592%25B8%25E9%25A6%258F%25E8%2587%25AA%25E5%258A%25A8%25E9%25A9%25BE%25E9%25A9%25B6ai%25E4%25BB%258E%25E6%2584%259F%25E7%259F%25A5%25E5%2588%25B0%25E8%25AE%25A4%25E7%259F%25A5%25E7%259A%2584%25E5%2585%25B3%25E9%2594%25AE%25E8%25B7%2583%25E8%25BF%2581%2f&title=%e7%89%b9%e6%96%af%e6%8b%89FSD%e6%8e%a8%e7%90%86%e8%83%bd%e5%8a%9b%e4%b8%8e%e6%a8%a1%e5%9e%8b%e8%92%b8%e9%a6%8f%ef%bc%9a%e8%87%aa%e5%8a%a8%e9%a9%be%e9%a9%b6AI%e4%bb%8e%e6%84%9f%e7%9f%a5%e5%88%b0%e8%ae%a4%e7%9f%a5%e7%9a%84%e5%85%b3%e9%94%ae%e8%b7%83%e8%bf%81" target="_blank"
+        rel="noopener" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+        </svg>
+    </a>
+
+</div></div>
+
+    <footer id="content-footer" class="not-prose">
+
+      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
+
+        <h2 class="text-xl font-semibold">Comment</h2>
+
+        <p>Disqus comment here</p></div>
+
+      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl"><img class="w-20 h-20 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/lao_zhang.png" alt="老张"><h2 class="text-xl font-bold my-4">Written by : 老张</h2><p class="mb-4">深耕汽车行业的观察家，洞悉产业链上下游的博弈。从宏观视角解读特斯拉对传统车企和能源行业的颠覆。</p>
+
+        <ul class="flex flex-wrap space-x-4">
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+              </svg>
+              <span class="ml-2">Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+              </svg>
+              <span class="ml-2">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+
+              </svg>
+              <span class="ml-2">Instagram</span>
+            </a>
+          </li>
+
+        </ul>
+
+      </div>
+
+      <div id="related-post" class="">
+
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%87%8D%E6%9E%84%E4%B8%80%E5%9C%BA%E6%8A%BC%E6%B3%A8%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%8F%98%E9%9D%A9/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251126-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%87%8D%E6%9E%84%E4%B8%80%E5%9C%BA%E6%8A%BC%E6%B3%A8%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%8F%98%E9%9D%A9/f3d69fe9c53a0518170933434fcff2c8_hu_e6ada213861063c2.jpg" alt="通用汽车软件架构重构：一场押注未来的硬核变革！" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">通用汽车软件架构重构：一场押注未来的硬核变革！</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">嘿，各位科技狂热者们！最近，通用汽车（GM）的软件团队搞了个大新闻，简直是科技圈的“黑客帝国”矩阵重构！表面上看是高管离职潮，但作为深度关注前沿技术的极客，我一眼就看出，这绝非简单的“人员变动”，而是通用汽车在“软件定义汽车”浪潮下，一次彻底的、硬核的、面向未来的战略级组织架构大洗牌！这波操作，简直让人肾上腺素飙升！</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/ada.png" alt="Ada"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">Ada</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2025-11-26T20:24:39&#43;00:00">2025-11-26</time>
+		</div>
+
+	</div>
+</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-redwood-materials-%E8%9E%8D%E8%B5%8435%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%8E%E8%A3%81%E5%91%985/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251126-redwood-materials-%E8%9E%8D%E8%B5%8435%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%8E%E8%A3%81%E5%91%985/71f71b635f9b9edf4c43646b8ae1afec_hu_9b31d09465514b2f.jpg" alt="Redwood Materials 融资3.5亿美元后裁员5%" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">Redwood Materials 融资3.5亿美元后裁员5%</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">公司动态: 电池回收与正极材料制造商Redwood Materials据报裁员约5%。 背景: 此次裁员发生在其完成3.5亿美元E轮融资，公司估值达60亿美元之后。 规模: Redwood Materials现有员工约1200人，此次裁员影响数十名员工。 信息来源: 裁员消息源自彭博社；公司发言人拒绝对裁员置评。</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/subaojun.png" alt="速报君"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">速报君</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2025-11-26T20:24:19&#43;00:00">2025-11-26</time>
+		</div>
+
+	</div>
+</article>
+
+        </div>
+      </div>
+
+    </footer>
+
+  </article>
+
+  
+  <aside class="md:col-span-1"><div class="lg:sticky lg:top-8"><div class="rounded-2xl p-4 bg-zinc-100 mb-10">
+  <img class="aspect-video rounded" src="/TeslaDaily/images/ad-slot.svg" alt="广告位">
+  <p class="text-right text-xs mt-2 leading-none text-zinc-500">广告位</p>
+</div>
+	<div class="mb-6">
+		<h2 class="font-bold text-xl mb-4">目录</h2>
+		<div class="prose prose-sm max-w-none">
+			<nav id="TableOfContents">
+  <ul>
+    <li><a href="#特斯拉fsd推理能力与模型蒸馏自动驾驶ai从感知到认知的关键跃迁">特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁</a></li>
+    <li><a href="#自动驾驶ai的认知升级从快思考到慢思考">自动驾驶AI的认知升级：从“快思考”到“慢思考”</a></li>
+    <li><a href="#模型蒸馏实现ai推理能力规模化落地的核心路径">模型蒸馏：实现AI推理能力规模化落地的核心路径</a></li>
+    <li><a href="#产业影响重塑竞争格局与产业链生态">产业影响：重塑竞争格局与产业链生态</a></li>
+    <li><a href="#技术护城河的深化与商业化展望">技术护城河的深化与商业化展望</a></li>
+    <li><a href="#结语">结语</a></li>
+  </ul>
+</nav>
+		</div>
+	</div>
+	
+
+	<div class="space-y-6">
+
+		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
+
+		<article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%87%8D%E6%9E%84%E4%B8%80%E5%9C%BA%E6%8A%BC%E6%B3%A8%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%8F%98%E9%9D%A9/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251126-%E9%80%9A%E7%94%A8%E6%B1%BD%E8%BD%A6%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E9%87%8D%E6%9E%84%E4%B8%80%E5%9C%BA%E6%8A%BC%E6%B3%A8%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%8F%98%E9%9D%A9/f3d69fe9c53a0518170933434fcff2c8_hu_7dafb6bec6a8739.jpg" alt="通用汽车软件架构重构：一场押注未来的硬核变革！" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">通用汽车软件架构重构：一场押注未来的硬核变革！</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-redwood-materials-%E8%9E%8D%E8%B5%8435%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%8E%E8%A3%81%E5%91%985/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251126-redwood-materials-%E8%9E%8D%E8%B5%8435%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%8E%E8%A3%81%E5%91%985/71f71b635f9b9edf4c43646b8ae1afec_hu_fa2ee985ea4b9c66.jpg" alt="Redwood Materials 融资3.5亿美元后裁员5%" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Redwood Materials 融资3.5亿美元后裁员5%</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 速报君</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89%E5%A5%A5%E6%96%AF%E6%B1%80robotaxi%E8%BD%A6%E9%98%9F%E5%B0%86%E7%BF%BB%E5%80%8D%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E6%8F%90%E9%80%9F%E8%BF%98%E6%98%AF%E6%8C%91%E6%88%98%E4%BE%9D%E6%97%A7/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251126-%E7%89%B9%E6%96%AF%E6%8B%89%E5%A5%A5%E6%96%AF%E6%B1%80robotaxi%E8%BD%A6%E9%98%9F%E5%B0%86%E7%BF%BB%E5%80%8D%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E6%8F%90%E9%80%9F%E8%BF%98%E6%98%AF%E6%8C%91%E6%88%98%E4%BE%9D%E6%97%A7/80f42bd273b65c7685ee8391c3075cd0_hu_a1e58217fde463f.jpg" alt="特斯拉奥斯汀Robotaxi车队将翻倍：自动驾驶商业化提速还是挑战依旧？" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">特斯拉奥斯汀Robotaxi车队将翻倍：自动驾驶商业化提速还是挑战依旧？</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 老K</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E4%BB%8E%E6%84%9F%E7%9F%A5%E5%88%B0%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E8%B7%83%E8%BF%81/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%B8%8E%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E4%BB%8E%E6%84%9F%E7%9F%A5%E5%88%B0%E8%AE%A4%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E8%B7%83%E8%BF%81/7511349918aa5153b1d969dbe3a39456_hu_bc27336ef055311.jpg" alt="特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">特斯拉FSD推理能力与模型蒸馏：自动驾驶AI从感知到认知的关键跃迁</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 老张</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%9D%80%E5%85%A5%E9%9F%A9%E5%9B%BDv14%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%E7%82%B8%E8%A3%82sx%E8%BD%A6%E4%B8%BB%E6%8F%90%E5%89%8D%E4%BD%93%E9%AA%8C%E6%9C%AA%E6%9D%A5%E9%A9%BE%E9%A9%B6/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251126-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%9D%80%E5%85%A5%E9%9F%A9%E5%9B%BDv14%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80%E7%82%B8%E8%A3%82sx%E8%BD%A6%E4%B8%BB%E6%8F%90%E5%89%8D%E4%BD%93%E9%AA%8C%E6%9C%AA%E6%9D%A5%E9%A9%BE%E9%A9%B6/2903ba9ee64b64ef0cfa98b116c04c14_hu_92a494dd570695af.jpg" alt="特斯拉FSD杀入韩国，V14全球首秀炸裂！S/X车主提前体验未来驾驶！" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">特斯拉FSD杀入韩国，V14全球首秀炸裂！S/X车主提前体验未来驾驶！</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article>
+
+	</div>
+
+</div></aside>
+
+</div>
+
+</main>
+  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+
+  <div class="flex flex-wrap space-y-6 mb-4">
+
+    <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+
+      <a class="flex items-center group" href="https://johhhhnny.github.io/TeslaDaily/">
+        <img src="https://johhhhnny.github.io/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="mr-2 group-hover:animate-spin" />
+        <span class="text-2xl font-semibold uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+      </a>
+
+      <p class="font-semibold">
+        每日精选，速览特斯拉动态。<br>专注高效与纯净的阅读体验。
+      </p>
+
+      <p>如果你是投资者、车主、从业者或研究者，特斯拉日报能帮助你更高效地获得关键信息与背景脉络。</p>
+
+    </div>
+
+    <div class="self-center flex flex-col w-full md:w-2/5">
+
+<ul id="social-media" class="flex items-center space-x-4">
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+				<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.twitter.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.github.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.instagram.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"></path>
+			</svg>
+		</a>
+	</li>
+</ul>
+
+    </div>
+    
+  </div>
+
+  <div class="my-8">
+    <ul class="flex items-center space-x-4">
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/">首页</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/daily/">每日特报</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/story/">特有故事</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/archives/">特新消息</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/about/">关于</a></li>
+      
+    </ul>
+  </div>
+
+  <div class="border-t pt-4">
+
+    <p class="text-sm">Copyright © 2025. All rights reserved. 特斯拉日报 · TeslaDaily</p>
+    <p class="text-xs text-zinc-500 mt-2">本网站为独立媒体，与特斯拉公司无关。</p>
+
+  </div>
+  
+</div></footer>
+      <script defer src="/TeslaDaily/js/search.2aa505bea24ff6b2d06c4b3bc39fbded258d41001148b9d70c82f1a803c2954d.js" integrity="sha256-KqUFvqJP9rLQbEs7w5&#43;97SWNQQARSLnXDILxqAPClU0=" crossorigin="anonymous"></script>
+</body>
+</html>
