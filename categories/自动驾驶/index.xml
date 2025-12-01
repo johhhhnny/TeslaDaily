@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Nov 2025 20:25:41 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 01 Dec 2025 01:54:20 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉Robovan：自动驾驶房车的未来展望与产业深思</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89robovan%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%88%BF%E8%BD%A6%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B%E4%B8%8E%E4%BA%A7%E4%B8%9A%E6%B7%B1%E6%80%9D/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89robovan%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%88%BF%E8%BD%A6%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B%E4%B8%8E%E4%BA%A7%E4%B8%9A%E6%B7%B1%E6%80%9D/</guid>
@@ -15,6 +15,17 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉人工智能总监Ashok Elluswamy与YCombinator首席执行官Garry Tan之间近期在社交媒体上的互动，暗示了特斯拉正在积极推进其Robovan项目，并将其定位为自动驾驶房车的潜在解决方案。尽管此前有消息称，特斯拉在专注于Cybercab的同时，Robovan项目被暂时搁置，但最新的迹象表明，特斯拉正从更宏观的视角布局未来出行生态，R…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89robovan%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%88%BF%E8%BD%A6%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%B1%95%E6%9C%9B%E4%B8%8E%E4%BA%A7%E4%B8%9A%E6%B7%B1%E6%80%9D/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉FSD v14.2.1速度配置文件更新：用户反馈与调整争议</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/</guid>
+      <pubDate>Sun, 30 Nov 2025 01:50:52 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉(Tesla)近期发布FSD (Full Self-Driving，全自动驾驶系统) v14.2.1版本，用户对其中速度配置文件(Speed Profiles)的调整表达不满。 - 主要问题点: - “Hurry” (加速) 模式：高速公路限速为超速10 MPH (英里/小时)。例如，在55 MPH限速区，最高仅行驶65 MPH。 - “Standar…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉(Tesla)近期发布FSD (Full Self-Driving，全自动驾驶系统) v14.2.1版本，用户对其中速度配置文件(Speed Profiles)的调整表达不满。 - 主要问题点: - “Hurry” (加速) 模式：高速公路限速为超速10 MPH (英里/小时)。例如，在55 MPH限速区，最高仅行驶65 MPH。 - “Standar…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
       <title>代码与地中海的交响：特斯拉FSD欧洲拓荒记</title>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>体育博彩领域再掀波澜！传媒巨头ESPN正式宣布，旗下独立博彩应用ESPN Bet将于今年12月关闭。这项与Penn Entertainment高达15亿美元的10年期授权合作，竟在上线一年多后便画上句号，令人咋舌。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251106-espn-bet%E7%BB%88%E5%B1%8015%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%88%E4%BD%9C%E6%80%A5%E5%88%B9%E8%BD%A6%E6%90%BA%E6%89%8Bdraftkings%E8%83%BD%E5%90%A6%E9%87%8D%E5%A1%91%E4%BD%93%E8%82%B2%E5%8D%9A%E5%BD%A9%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>体育流媒体：碎片化割据，是投资陷阱还是下一片蓝海？</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251106-%E4%BD%93%E8%82%B2%E6%B5%81%E5%AA%92%E4%BD%93%E7%A2%8E%E7%89%87%E5%8C%96%E5%89%B2%E6%8D%AE%E6%98%AF%E6%8A%95%E8%B5%84%E9%99%B7%E9%98%B1%E8%BF%98%E6%98%AF%E4%B8%8B%E4%B8%80%E7%89%87%E8%93%9D%E6%B5%B7/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251106-%E4%BD%93%E8%82%B2%E6%B5%81%E5%AA%92%E4%BD%93%E7%A2%8E%E7%89%87%E5%8C%96%E5%89%B2%E6%8D%AE%E6%98%AF%E6%8A%95%E8%B5%84%E9%99%B7%E9%98%B1%E8%BF%98%E6%98%AF%E4%B8%8B%E4%B8%80%E7%89%87%E8%93%9D%E6%B5%B7/</guid>
-      <pubDate>Thu, 06 Nov 2025 01:21:36 &#43;0000</pubDate><description><![CDATA[
-<p>NFL传奇球星JJ Watt的一声叹息，精准点破了当前体育流媒体市场的“痛点”：选择前所未有地多，但观看体验却前所未有地糟心。 YouTube TV与Disney的版权大战，直接导致数百万订阅用户无缘《周一夜赛》，这不仅是球迷的烦恼，更是投资者必须深度审视的行业结构性问题。在看似繁荣的表象下，体育流媒体正面临深度碎片化的挑战。那么，这究竟是一个暗藏风险的“泥…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251106-%E4%BD%93%E8%82%B2%E6%B5%81%E5%AA%92%E4%BD%93%E7%A2%8E%E7%89%87%E5%8C%96%E5%89%B2%E6%8D%AE%E6%98%AF%E6%8A%95%E8%B5%84%E9%99%B7%E9%98%B1%E8%BF%98%E6%98%AF%E4%B8%8B%E4%B8%80%E7%89%87%E8%93%9D%E6%B5%B7/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>NFL传奇球星JJ Watt的一声叹息，精准点破了当前体育流媒体市场的“痛点”：选择前所未有地多，但观看体验却前所未有地糟心。 YouTube TV与Disney的版权大战，直接导致数百万订阅用户无缘《周一夜赛》，这不仅是球迷的烦恼，更是投资者必须深度审视的行业结构性问题。在看似繁荣的表象下，体育流媒体正面临深度碎片化的挑战。那么，这究竟是一个暗藏风险的“泥…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251106-%E4%BD%93%E8%82%B2%E6%B5%81%E5%AA%92%E4%BD%93%E7%A2%8E%E7%89%87%E5%8C%96%E5%89%B2%E6%8D%AE%E6%98%AF%E6%8A%95%E8%B5%84%E9%99%B7%E9%98%B1%E8%BF%98%E6%98%AF%E4%B8%8B%E4%B8%80%E7%89%87%E8%93%9D%E6%B5%B7/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>

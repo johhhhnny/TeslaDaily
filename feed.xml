@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 30 Nov 2025 20:25:43 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 01 Dec 2025 01:54:20 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
       <title>北境飞羽：芬兰无人机送餐的冰雪与未来</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E5%8C%97%E5%A2%83%E9%A3%9E%E7%BE%BD%E8%8A%AC%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%80%81%E9%A4%90%E7%9A%84%E5%86%B0%E9%9B%AA%E4%B8%8E%E6%9C%AA%E6%9D%A5/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E5%8C%97%E5%A2%83%E9%A3%9E%E7%BE%BD%E8%8A%AC%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%80%81%E9%A4%90%E7%9A%84%E5%86%B0%E9%9B%AA%E4%B8%8E%E6%9C%AA%E6%9D%A5/</guid>
@@ -149,15 +149,26 @@
 <p>各位硬核科技粉们，今天我必须跟大家分享一个让我肾上腺素飙升的消息！埃隆·马斯克（Elon Musk）最近在X平台（就是我们说的推特啦）上亲自揭示了SpaceX（他的太空探索公司）的一项“杀手级”政策：在世界任何地方发生自然灾害时，Starlink（星链低轨卫星互联网服务）将无条件提供免费服务！这不只是一条新闻，这简直是科技巨头用实际行动，狠狠地“打脸”那些长…</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E6%98%9F%E9%93%BE%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80%E4%B8%8D%E6%AD%A2%E4%BA%8E%E6%AD%A4%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8F%AD%E7%A7%98spacex%E7%81%BE%E9%9A%BE%E6%8F%B4%E5%8A%A9%E5%BD%BB%E5%BA%95%E6%89%93%E8%84%B8%E5%AA%92%E4%BD%93%E5%81%8F%E8%A7%81/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>特新消息</category><category>Spacex</category><category>埃隆·马斯克</category></item><item>
+      <title>特斯拉FSD v14.2.1速度配置文件更新：用户反馈与调整争议</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/</guid>
+      <pubDate>Sun, 30 Nov 2025 01:50:52 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉(Tesla)近期发布FSD (Full Self-Driving，全自动驾驶系统) v14.2.1版本，用户对其中速度配置文件(Speed Profiles)的调整表达不满。 - 主要问题点: - “Hurry” (加速) 模式：高速公路限速为超速10 MPH (英里/小时)。例如，在55 MPH限速区，最高仅行驶65 MPH。 - “Standar…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉(Tesla)近期发布FSD (Full Self-Driving，全自动驾驶系统) v14.2.1版本，用户对其中速度配置文件(Speed Profiles)的调整表达不满。 - 主要问题点: - “Hurry” (加速) 模式：高速公路限速为超速10 MPH (英里/小时)。例如，在55 MPH限速区，最高仅行驶65 MPH。 - “Standar…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251130-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1421%E9%80%9F%E5%BA%A6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E6%9B%B4%E6%96%B0%E7%94%A8%E6%88%B7%E5%8F%8D%E9%A6%88%E4%B8%8E%E8%B0%83%E6%95%B4%E4%BA%89%E8%AE%AE/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
       <title>特斯拉日报 2025-11-30</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-11-30/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-11-30/</guid>
       <pubDate>Sun, 30 Nov 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> 韩国Cybertruck首秀：11月27日，Cybertruck在韩国首次向30位车主交付，FSD Supervised计划于2025年底前登陆韩国Cybertruck。 中国市场表现：Model Y和Model 3在中国Autohome真实世界能耗测试中领先，Model Y截至10月仍是中国20万-30万人民币高端电动车销量冠军，中国交付中心Model Y和Model 3车辆爆满，预示Q4交付强劲。 荷兰市场拓展：Model 3 Standard版本预计12月在荷兰上市，售价约€36,990， …</p>
+<p><strong>[每日特报]</strong> 特斯拉Cybertruck在韩国首次交付30辆，FSD Supervised计划年底前登陆Cybertruck。 特斯拉柏林超级工厂将从2026年1月4日起，扩展免费“Giga Train”服务，提升员工通勤效率。 特斯拉AI总监暗示Robovan（自动驾驶房车）项目正在积极开发中。 埃隆·马斯克透露，Optimus机器人将通过“自复制”能力实现大规模生产，并公布其复数形式为“Optimi”。 特斯拉Model Y和Model 3在中国Autohome能耗测试中表现领先，Model Y在2025 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-11-30/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>韩国Cybertruck首秀：11月27日，Cybertruck在韩国首次向30位车主交付，FSD Supervised计划于2025年底前登陆韩国Cybertruck。 中国市场表现：Model Y和Model 3在中国Autohome真实世界能耗测试中领先，Model Y截至10月仍是中国20万-30万人民币高端电动车销量冠军，中国交付中心Model Y和Model 3车辆爆满，预示Q4交付强劲。 荷兰市场拓展：Model 3 Standard版本预计12月在荷兰上市，售价约€36,990， …</p>
+<p>特斯拉Cybertruck在韩国首次交付30辆，FSD Supervised计划年底前登陆Cybertruck。 特斯拉柏林超级工厂将从2026年1月4日起，扩展免费“Giga Train”服务，提升员工通勤效率。 特斯拉AI总监暗示Robovan（自动驾驶房车）项目正在积极开发中。 埃隆·马斯克透露，Optimus机器人将通过“自复制”能力实现大规模生产，并公布其复数形式为“Optimi”。 特斯拉Model Y和Model 3在中国Autohome能耗测试中表现领先，Model Y在2025 …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-11-30/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Optimus</category><category>Gigafactory</category><category>Supercharger</category><category>Cybertruck</category></item><item>
       <title>纽约州立法打击个性化定价</title>
@@ -544,16 +555,5 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
 <p>在一个由政治极化撕裂的世界里，两位各自领域的巨匠——一位是特立独行的科技狂人埃隆·马斯克，另一位是描绘宏大未来景象的电影导演詹姆斯·卡梅隆——却在浩瀚的宇宙和深邃的硅基智慧前沿，找到了令人惊讶的共鸣。这并非一次偶然的相遇，而是长达十余载的惺惺相惜，在科技浪潮的喧嚣中，他们以各自的方式，共同审视着人类的未来。</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251127-%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E4%B8%8E%E7%A1%85%E5%9F%BA%E5%8D%B1%E6%9C%BA%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8D%A1%E6%A2%85%E9%9A%86%E7%9A%84%E7%A7%91%E6%8A%80%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>自动驾驶</category><category>人工智能</category><category>埃隆·马斯克</category></item><item>
-      <title>两年磨一剑！特斯拉Delta V3超充站终极上线，这才是硬核基建的未来！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251127-%E4%B8%A4%E5%B9%B4%E7%A3%A8%E4%B8%80%E5%89%91%E7%89%B9%E6%96%AF%E6%8B%89delta-v3%E8%B6%85%E5%85%85%E7%AB%99%E7%BB%88%E6%9E%81%E4%B8%8A%E7%BA%BF%E8%BF%99%E6%89%8D%E6%98%AF%E7%A1%AC%E6%A0%B8%E5%9F%BA%E5%BB%BA%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251127-%E4%B8%A4%E5%B9%B4%E7%A3%A8%E4%B8%80%E5%89%91%E7%89%B9%E6%96%AF%E6%8B%89delta-v3%E8%B6%85%E5%85%85%E7%AB%99%E7%BB%88%E6%9E%81%E4%B8%8A%E7%BA%BF%E8%BF%99%E6%89%8D%E6%98%AF%E7%A1%AC%E6%A0%B8%E5%9F%BA%E5%BB%BA%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
-      <pubDate>Thu, 27 Nov 2025 01:25:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 各位硬核科技爱好者们，你们听说了吗？！特斯拉在不列颠哥伦比亚省Delta市期待已久的全新V3超级充电站，终于，终于，终于上线了！这可不仅仅是又一个充电桩那么简单，它代表着特斯拉在电动汽车基础设施领域又迈出了坚实的一步，更是对那些质疑其扩张速度的唱衰者一记响亮的耳光！足足等了两年啊，这漫长的等待，只为解锁更极致的充电体验！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251127-%E4%B8%A4%E5%B9%B4%E7%A3%A8%E4%B8%80%E5%89%91%E7%89%B9%E6%96%AF%E6%8B%89delta-v3%E8%B6%85%E5%85%85%E7%AB%99%E7%BB%88%E6%9E%81%E4%B8%8A%E7%BA%BF%E8%BF%99%E6%89%8D%E6%98%AF%E7%A1%AC%E6%A0%B8%E5%9F%BA%E5%BB%BA%E7%9A%84%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>各位硬核科技爱好者们，你们听说了吗？！特斯拉在不列颠哥伦比亚省Delta市期待已久的全新V3超级充电站，终于，终于，终于上线了！这可不仅仅是又一个充电桩那么简单，它代表着特斯拉在电动汽车基础设施领域又迈出了坚实的一步，更是对那些质疑其扩张速度的唱衰者一记响亮的耳光！足足等了两年啊，这漫长的等待，只为解锁更极致的充电体验！</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251127-%E4%B8%A4%E5%B9%B4%E7%A3%A8%E4%B8%80%E5%89%91%E7%89%B9%E6%96%AF%E6%8B%89delta-v3%E8%B6%85%E5%85%85%E7%AB%99%E7%BB%88%E6%9E%81%E4%B8%8A%E7%BA%BF%E8%BF%99%E6%89%8D%E6%98%AF%E7%A1%AC%E6%A0%B8%E5%9F%BA%E5%BB%BA%E7%9A%84%E6%9C%AA%E6%9D%A5/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category></item></channel>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category><category>人工智能</category><category>埃隆·马斯克</category></item></channel>
 </rss>
