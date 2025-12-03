@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Dec 2025 22:25:48 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E7%89%B9%E6%96%AF%E6%8B%89/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 03 Dec 2025 01:35:03 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E7%89%B9%E6%96%AF%E6%8B%89/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉服务订阅模式的战略深化：高附加值服务重塑汽车盈利格局</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%8D%E5%8A%A1%E8%AE%A2%E9%98%85%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E5%8C%96%E9%AB%98%E9%99%84%E5%8A%A0%E5%80%BC%E6%9C%8D%E5%8A%A1%E9%87%8D%E5%A1%91%E6%B1%BD%E8%BD%A6%E7%9B%88%E5%88%A9%E6%A0%BC%E5%B1%80/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%8D%E5%8A%A1%E8%AE%A2%E9%98%85%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E5%8C%96%E9%AB%98%E9%99%84%E5%8A%A0%E5%80%BC%E6%9C%8D%E5%8A%A1%E9%87%8D%E5%A1%91%E6%B1%BD%E8%BD%A6%E7%9B%88%E5%88%A9%E6%A0%BC%E5%B1%80/</guid>
@@ -15,6 +15,50 @@
 ]]></description><content:encoded><![CDATA[
 <p>近期，特斯拉宣布自2026年1月1日起，将美国市场Model 3和Model Y车型的挡风玻璃保护计划月费上调33%，从12美元增至16美元。此举不仅是简单的价格调整，更是特斯拉在汽车服务生态领域持续深耕，并寻求提升经常性收入（Recurring Revenue）和客户生命周期价值（Customer Lifetime Value, CLTV）的战略性体现。作…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%8D%E5%8A%A1%E8%AE%A2%E9%98%85%E6%A8%A1%E5%BC%8F%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E5%8C%96%E9%AB%98%E9%99%84%E5%8A%A0%E5%80%BC%E6%9C%8D%E5%8A%A1%E9%87%8D%E5%A1%91%E6%B1%BD%E8%BD%A6%E7%9B%88%E5%88%A9%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉固件惊现IMX00N代码：自动驾驶摄像头升级在即，HW5前瞻性布局浮现？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%BA%E4%BB%B6%E6%83%8A%E7%8E%B0imx00n%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%91%84%E5%83%8F%E5%A4%B4%E5%8D%87%E7%BA%A7%E5%9C%A8%E5%8D%B3hw5%E5%89%8D%E7%9E%BB%E6%80%A7%E5%B8%83%E5%B1%80%E6%B5%AE%E7%8E%B0/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%BA%E4%BB%B6%E6%83%8A%E7%8E%B0imx00n%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%91%84%E5%83%8F%E5%A4%B4%E5%8D%87%E7%BA%A7%E5%9C%A8%E5%8D%B3hw5%E5%89%8D%E7%9E%BB%E6%80%A7%E5%B8%83%E5%B1%80%E6%B5%AE%E7%8E%B0/</guid>
+      <pubDate>Tue, 02 Dec 2025 01:30:38 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉，作为电动汽车和自动驾驶领域的领军企业，其每一次硬件或软件的迭代升级都牵动着全球科技与资本市场的神经。近日，知名特斯拉固件黑客@greentheonly在最新软件版本中发现了“IMX00N”这一全新摄像头型号代码，这预示着特斯拉可能正在为其自动驾驶系统准备新一轮的外部摄像头硬件升级。市场分析人士认为，这一发现不仅是特斯拉持续优化其视觉感知系统的最新例证…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%BA%E4%BB%B6%E6%83%8A%E7%8E%B0imx00n%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%91%84%E5%83%8F%E5%A4%B4%E5%8D%87%E7%BA%A7%E5%9C%A8%E5%8D%B3hw5%E5%89%8D%E7%9E%BB%E6%80%A7%E5%B8%83%E5%B1%80%E6%B5%AE%E7%8E%B0/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉，作为电动汽车和自动驾驶领域的领军企业，其每一次硬件或软件的迭代升级都牵动着全球科技与资本市场的神经。近日，知名特斯拉固件黑客@greentheonly在最新软件版本中发现了“IMX00N”这一全新摄像头型号代码，这预示着特斯拉可能正在为其自动驾驶系统准备新一轮的外部摄像头硬件升级。市场分析人士认为，这一发现不仅是特斯拉持续优化其视觉感知系统的最新例证…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%BA%E4%BB%B6%E6%83%8A%E7%8E%B0imx00n%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%91%84%E5%83%8F%E5%A4%B4%E5%8D%87%E7%BA%A7%E5%9C%A8%E5%8D%B3hw5%E5%89%8D%E7%9E%BB%E6%80%A7%E5%B8%83%E5%B1%80%E6%B5%AE%E7%8E%B0/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>钢铁侠的软肋：马斯克与电动摩托车的危险边界</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/</guid>
+      <pubDate>Tue, 02 Dec 2025 01:29:25 &#43;0000</pubDate><description><![CDATA[
+<p>在一个人工智能的奇想可以迅速转化为现实产品的时代，特斯拉似乎无所不能：从仿人机器人到防弹皮卡，其创新触角延伸至汽车行业的每一个角落。然而，在一片喧嚣和期待中，有一个产品类别却被埃隆·马斯克（Elon Musk）划入了绝对的禁区——电动摩托车。近期，一段AI生成的特斯拉电动摩托车视频在网络上引发热议，人们纷纷猜测这是否预示着未来。但马斯克的回应却斩钉截铁，再次…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>在一个人工智能的奇想可以迅速转化为现实产品的时代，特斯拉似乎无所不能：从仿人机器人到防弹皮卡，其创新触角延伸至汽车行业的每一个角落。然而，在一片喧嚣和期待中，有一个产品类别却被埃隆·马斯克（Elon Musk）划入了绝对的禁区——电动摩托车。近期，一段AI生成的特斯拉电动摩托车视频在网络上引发热议，人们纷纷猜测这是否预示着未来。但马斯克的回应却斩钉截铁，再次…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>东方破晓：特斯拉Model Y的中国狂飙，与FSD全球征途的暗流</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E4%B8%9C%E6%96%B9%E7%A0%B4%E6%99%93%E7%89%B9%E6%96%AF%E6%8B%89model-y%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%8B%82%E9%A3%99%E4%B8%8Efsd%E5%85%A8%E7%90%83%E5%BE%81%E9%80%94%E7%9A%84%E6%9A%97%E6%B5%81/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E4%B8%9C%E6%96%B9%E7%A0%B4%E6%99%93%E7%89%B9%E6%96%AF%E6%8B%89model-y%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%8B%82%E9%A3%99%E4%B8%8Efsd%E5%85%A8%E7%90%83%E5%BE%81%E9%80%94%E7%9A%84%E6%9A%97%E6%B5%81/</guid>
+      <pubDate>Tue, 02 Dec 2025 01:28:38 &#43;0000</pubDate><description><![CDATA[
+<p>上海，特斯拉展厅。午后的阳光透过巨大的落地窗，洒落在流线型的Model Y车身上，反射出未来感的冷光。空气中弥漫着兴奋与期待，销售顾问们忙碌地穿梭于人潮之中，他们的声音带着一丝疲惫却又难以掩饰的振奋。一名顾客焦急地询问：“现在下单，Model Y什么时候能提车？” 销售顾问笑容有些无奈：“先生，目前新的订单，恐怕要等到2026年1月或2月了。2025年的配额…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E4%B8%9C%E6%96%B9%E7%A0%B4%E6%99%93%E7%89%B9%E6%96%AF%E6%8B%89model-y%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%8B%82%E9%A3%99%E4%B8%8Efsd%E5%85%A8%E7%90%83%E5%BE%81%E9%80%94%E7%9A%84%E6%9A%97%E6%B5%81/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>上海，特斯拉展厅。午后的阳光透过巨大的落地窗，洒落在流线型的Model Y车身上，反射出未来感的冷光。空气中弥漫着兴奋与期待，销售顾问们忙碌地穿梭于人潮之中，他们的声音带着一丝疲惫却又难以掩饰的振奋。一名顾客焦急地询问：“现在下单，Model Y什么时候能提车？” 销售顾问笑容有些无奈：“先生，目前新的订单，恐怕要等到2026年1月或2月了。2025年的配额…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E4%B8%9C%E6%96%B9%E7%A0%B4%E6%99%93%E7%89%B9%E6%96%AF%E6%8B%89model-y%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%8B%82%E9%A3%99%E4%B8%8Efsd%E5%85%A8%E7%90%83%E5%BE%81%E9%80%94%E7%9A%84%E6%9A%97%E6%B5%81/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉Model Y中国市场需求超预期：高端智能电动车竞争格局与增长潜力分析</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E8%B6%85%E9%A2%84%E6%9C%9F%E9%AB%98%E7%AB%AF%E6%99%BA%E8%83%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%88%86%E6%9E%90/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E8%B6%85%E9%A2%84%E6%9C%9F%E9%AB%98%E7%AB%AF%E6%99%BA%E8%83%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%88%86%E6%9E%90/</guid>
+      <pubDate>Tue, 02 Dec 2025 01:28:05 &#43;0000</pubDate><description><![CDATA[
+<p>近期数据显示，特斯拉Model Y在中国市场的需求持续强劲，其2025年的产能配额已基本售罄，新订单交付周期甚至推迟至2026年初。这一现象不仅凸显了Model Y在全球电动汽车（EV）市场的领先地位，更在中国这个全球竞争最激烈的电动车市场中，展现了特斯拉在高端智能电动车领域的独特“护城河”效应，为我们深入分析当前产业格局与未来趋势提供了重要视角。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E8%B6%85%E9%A2%84%E6%9C%9F%E9%AB%98%E7%AB%AF%E6%99%BA%E8%83%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%88%86%E6%9E%90/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>近期数据显示，特斯拉Model Y在中国市场的需求持续强劲，其2025年的产能配额已基本售罄，新订单交付周期甚至推迟至2026年初。这一现象不仅凸显了Model Y在全球电动汽车（EV）市场的领先地位，更在中国这个全球竞争最激烈的电动车市场中，展现了特斯拉在高端智能电动车领域的独特“护城河”效应，为我们深入分析当前产业格局与未来趋势提供了重要视角。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E8%B6%85%E9%A2%84%E6%9C%9F%E9%AB%98%E7%AB%AF%E6%99%BA%E8%83%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%88%86%E6%9E%90/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
       <title>特斯拉欧洲市场表现分化：政策、竞争与区域差异驱动电动汽车产业新格局</title>
@@ -290,50 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>近日，知名投行瑞穗（Mizuho）发布研究报告，维持了对特斯拉（NASDAQ: TSLA）股票的“跑赢大盘”（Outperform）评级，但同时将其目标价从485美元下调至475美元。这一调整立即引发了市场对特斯拉短期增长前景的关注。然而，深入分析师们的观点不难发现，尽管短期面临宏观政策逆风，华尔街对于特斯拉长期技术路线图的信心依然坚定，尤其是在全自动驾驶（…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89%E7%9F%AD%E6%9C%9F%E6%89%BF%E5%8E%8B%E9%95%BF%E6%9C%9F%E6%BD%9C%E5%8A%9B%E4%BE%9D%E6%97%A7%E7%91%9E%E7%A9%97%E4%B8%8B%E8%B0%83%E7%9B%AE%E6%A0%87%E4%BB%B7%E5%8D%8E%E5%B0%94%E8%A1%97%E8%81%9A%E7%84%A6fsd%E4%B8%8Erobotaxi%E9%A2%A0%E8%A6%86%E5%BC%8F%E5%A2%9E%E9%95%BF/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉Robotaxi迈向“真无人”：车内数据共享开启安全员退出序幕，重塑自动驾驶商业模式？</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%88%E5%90%91%E7%9C%9F%E6%97%A0%E4%BA%BA%E8%BD%A6%E5%86%85%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB%E5%BC%80%E5%90%AF%E5%AE%89%E5%85%A8%E5%91%98%E9%80%80%E5%87%BA%E5%BA%8F%E5%B9%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%88%E5%90%91%E7%9C%9F%E6%97%A0%E4%BA%BA%E8%BD%A6%E5%86%85%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB%E5%BC%80%E5%90%AF%E5%AE%89%E5%85%A8%E5%91%98%E9%80%80%E5%87%BA%E5%BA%8F%E5%B9%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/</guid>
-      <pubDate>Wed, 26 Nov 2025 16:25:41 &#43;0000</pubDate><description><![CDATA[
-<p>作为一名资深科技投资分析师，我们持续关注特斯拉（NASDAQ: TSLA）在自动驾驶领域的每一个进展。近期，特斯拉Robotaxi应用更新中引入的车内数据共享功能，被市场解读为其迈向“真无人”运营的关键一步，预示着未来商业模式的深刻变革。尽管短期交付面临补贴退坡压力，但特斯拉在自动驾驶和机器人领域的长期愿景依旧引人遐想。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%88%E5%90%91%E7%9C%9F%E6%97%A0%E4%BA%BA%E8%BD%A6%E5%86%85%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB%E5%BC%80%E5%90%AF%E5%AE%89%E5%85%A8%E5%91%98%E9%80%80%E5%87%BA%E5%BA%8F%E5%B9%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>作为一名资深科技投资分析师，我们持续关注特斯拉（NASDAQ: TSLA）在自动驾驶领域的每一个进展。近期，特斯拉Robotaxi应用更新中引入的车内数据共享功能，被市场解读为其迈向“真无人”运营的关键一步，预示着未来商业模式的深刻变革。尽管短期交付面临补贴退坡压力，但特斯拉在自动驾驶和机器人领域的长期愿景依旧引人遐想。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%88%E5%90%91%E7%9C%9F%E6%97%A0%E4%BA%BA%E8%BD%A6%E5%86%85%E6%95%B0%E6%8D%AE%E5%85%B1%E4%BA%AB%E5%BC%80%E5%90%AF%E5%AE%89%E5%85%A8%E5%91%98%E9%80%80%E5%87%BA%E5%BA%8F%E5%B9%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>荒漠深处的电力巨擘：特斯拉超级充电站，重塑长途出行的版图</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E8%8D%92%E6%BC%A0%E6%B7%B1%E5%A4%84%E7%9A%84%E7%94%B5%E5%8A%9B%E5%B7%A8%E6%93%98%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E9%87%8D%E5%A1%91%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E7%9A%84%E7%89%88%E5%9B%BE/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E8%8D%92%E6%BC%A0%E6%B7%B1%E5%A4%84%E7%9A%84%E7%94%B5%E5%8A%9B%E5%B7%A8%E6%93%98%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E9%87%8D%E5%A1%91%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E7%9A%84%E7%89%88%E5%9B%BE/</guid>
-      <pubDate>Wed, 26 Nov 2025 08:27:22 &#43;0000</pubDate><description><![CDATA[
-<p>加利福尼亚州，失落山丘（Lost Hills），一个被广袤荒漠环绕、似乎被时间遗忘的角落。长途跋涉的电动车司机，在穿越这片无垠之地时，内心深处总会涌起一丝不易察觉的焦虑——下一站充电在哪里？电量是否足够支撑到目的地？然而，就在这个看似普通的目的地，一个前所未有的电力奇迹悄然崛起，它如同一座未来世界的绿洲，正以其磅礴之势，重塑着美国乃至全球电动汽车长途出行的版…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E8%8D%92%E6%BC%A0%E6%B7%B1%E5%A4%84%E7%9A%84%E7%94%B5%E5%8A%9B%E5%B7%A8%E6%93%98%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E9%87%8D%E5%A1%91%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E7%9A%84%E7%89%88%E5%9B%BE/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>加利福尼亚州，失落山丘（Lost Hills），一个被广袤荒漠环绕、似乎被时间遗忘的角落。长途跋涉的电动车司机，在穿越这片无垠之地时，内心深处总会涌起一丝不易察觉的焦虑——下一站充电在哪里？电量是否足够支撑到目的地？然而，就在这个看似普通的目的地，一个前所未有的电力奇迹悄然崛起，它如同一座未来世界的绿洲，正以其磅礴之势，重塑着美国乃至全球电动汽车长途出行的版…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251126-%E8%8D%92%E6%BC%A0%E6%B7%B1%E5%A4%84%E7%9A%84%E7%94%B5%E5%8A%9B%E5%B7%A8%E6%93%98%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E9%87%8D%E5%A1%91%E9%95%BF%E9%80%94%E5%87%BA%E8%A1%8C%E7%9A%84%E7%89%88%E5%9B%BE/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>自动驾驶的暗礁：特斯拉与Perrone的专利罗网</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%9A%97%E7%A4%81%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Eperrone%E7%9A%84%E4%B8%93%E5%88%A9%E7%BD%97%E7%BD%91/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%9A%97%E7%A4%81%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Eperrone%E7%9A%84%E4%B8%93%E5%88%A9%E7%BD%97%E7%BD%91/</guid>
-      <pubDate>Tue, 25 Nov 2025 20:23:06 &#43;0000</pubDate><description><![CDATA[
-<p>想象一下，当一艘巨轮在浩瀚的数字海洋中全速前进，突然撞上一块看似不起眼的暗礁。这，或许是特斯拉（Tesla）此刻在弗吉尼亚州亚历山大联邦法院面临的境况。一家名为Perrone Robotics的弗吉尼亚州公司，以一份看似不起眼的诉状，将这家电动汽车巨头推向了聚光灯下，指控其核心的Autopilot（自动辅助驾驶系统）侵犯了其多项关键专利。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%9A%97%E7%A4%81%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Eperrone%E7%9A%84%E4%B8%93%E5%88%A9%E7%BD%97%E7%BD%91/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>想象一下，当一艘巨轮在浩瀚的数字海洋中全速前进，突然撞上一块看似不起眼的暗礁。这，或许是特斯拉（Tesla）此刻在弗吉尼亚州亚历山大联邦法院面临的境况。一家名为Perrone Robotics的弗吉尼亚州公司，以一份看似不起眼的诉状，将这家电动汽车巨头推向了聚光灯下，指控其核心的Autopilot（自动辅助驾驶系统）侵犯了其多项关键专利。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%9A%97%E7%A4%81%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Eperrone%E7%9A%84%E4%B8%93%E5%88%A9%E7%BD%97%E7%BD%91/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>从蓝图到现实：特斯拉自动驾驶十亿公里的征途与远景</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E4%BB%8E%E8%93%9D%E5%9B%BE%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%81%E4%BA%BF%E5%85%AC%E9%87%8C%E7%9A%84%E5%BE%81%E9%80%94%E4%B8%8E%E8%BF%9C%E6%99%AF/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E4%BB%8E%E8%93%9D%E5%9B%BE%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%81%E4%BA%BF%E5%85%AC%E9%87%8C%E7%9A%84%E5%BE%81%E9%80%94%E4%B8%8E%E8%BF%9C%E6%99%AF/</guid>
-      <pubDate>Tue, 25 Nov 2025 20:22:15 &#43;0000</pubDate><description><![CDATA[
-<p>在硅谷的夜色中，埃隆·马斯克（Elon Musk）的思绪曾穿梭于未来的高速公路，描绘着一个由代码驱动、无需人类干预的交通世界。2016年，他在那份被奉为特斯拉“圣经”的《宏图篇章之二》（Master Plan Part Deux）中，大胆预言了一个数字：全球自动驾驶监管审批，可能需要累计约100亿公里（60亿英里）的真实世界驾驶数据。彼时，这仿佛是一个遥不可…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E4%BB%8E%E8%93%9D%E5%9B%BE%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%81%E4%BA%BF%E5%85%AC%E9%87%8C%E7%9A%84%E5%BE%81%E9%80%94%E4%B8%8E%E8%BF%9C%E6%99%AF/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>在硅谷的夜色中，埃隆·马斯克（Elon Musk）的思绪曾穿梭于未来的高速公路，描绘着一个由代码驱动、无需人类干预的交通世界。2016年，他在那份被奉为特斯拉“圣经”的《宏图篇章之二》（Master Plan Part Deux）中，大胆预言了一个数字：全球自动驾驶监管审批，可能需要累计约100亿公里（60亿英里）的真实世界驾驶数据。彼时，这仿佛是一个遥不可…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251125-%E4%BB%8E%E8%93%9D%E5%9B%BE%E5%88%B0%E7%8E%B0%E5%AE%9E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%81%E4%BA%BF%E5%85%AC%E9%87%8C%E7%9A%84%E5%BE%81%E9%80%94%E4%B8%8E%E8%BF%9C%E6%99%AF/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
