@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 04 Dec 2025 22:17:19 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Fri, 05 Dec 2025 01:33:26 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
       <title>炸裂！加州自动驾驶卡车禁令即将解除，物流业要变天了！</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E7%82%B8%E8%A3%82%E5%8A%A0%E5%B7%9E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%A1%E8%BD%A6%E7%A6%81%E4%BB%A4%E5%8D%B3%E5%B0%86%E8%A7%A3%E9%99%A4%E7%89%A9%E6%B5%81%E4%B8%9A%E8%A6%81%E5%8F%98%E5%A4%A9%E4%BA%86/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E7%82%B8%E8%A3%82%E5%8A%A0%E5%B7%9E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%A1%E8%BD%A6%E7%A6%81%E4%BB%A4%E5%8D%B3%E5%B0%86%E8%A7%A3%E9%99%A4%E7%89%A9%E6%B5%81%E4%B8%9A%E8%A6%81%E5%8F%98%E5%A4%A9%E4%BA%86/</guid>
@@ -160,15 +160,48 @@
 <p>硅谷的午后，阳光透过窗棂，洒在黄仁勋的脸上，却无法驱散他心头的一丝凉意。那是在一档播客节目中，英伟达（NVIDIA）的CEO黄仁勋回忆起多年前的往事，声音里带着几分感慨，几分庆幸，也有一丝不易察觉的遗憾。他谈及2016年首次发布DGX-1超级计算机时的情景——全球无人问津，订单簿上空空如也。除了一个人，埃隆·马斯克（Elon Musk）。</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E5%85%88%E7%9F%A5%E4%B8%8E%E5%85%88%E6%9C%BA%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%8D%81%E5%B9%B4%E7%9B%9F%E7%BA%A6%E4%B8%8E%E6%B1%BD%E8%BD%A6%E4%B8%9A%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E4%BA%89/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>特新消息</category><category>人工智能</category><category>特斯拉</category><category>自动驾驶</category></item><item>
+      <title>Waymo自动驾驶再遇监管拷问：19起校车违规事件背后，商业化进程与安全信任的博弈</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251204-waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%8D%E9%81%87%E7%9B%91%E7%AE%A1%E6%8B%B7%E9%97%AE19%E8%B5%B7%E6%A0%A1%E8%BD%A6%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E5%AE%89%E5%85%A8%E4%BF%A1%E4%BB%BB%E7%9A%84%E5%8D%9A%E5%BC%88/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251204-waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%8D%E9%81%87%E7%9B%91%E7%AE%A1%E6%8B%B7%E9%97%AE19%E8%B5%B7%E6%A0%A1%E8%BD%A6%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E5%AE%89%E5%85%A8%E4%BF%A1%E4%BB%BB%E7%9A%84%E5%8D%9A%E5%BC%88/</guid>
+      <pubDate>Thu, 04 Dec 2025 01:29:36 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 美国自动驾驶巨头Waymo（Alphabet旗下）近期再次成为监管机构关注的焦点。美国国家公路交通安全管理局（NHTSA）已就Waymo自动驾驶出租车（robotaxis）在奥斯汀地区多次违规超车校车事件，向该公司发出问询函，要求提供详细信息。这一系列事件不仅暴露了自动驾驶技术在特定场景下的挑战，更引发了市场对Waymo商业化进程和公众信任度的深刻思考。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251204-waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%8D%E9%81%87%E7%9B%91%E7%AE%A1%E6%8B%B7%E9%97%AE19%E8%B5%B7%E6%A0%A1%E8%BD%A6%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E5%AE%89%E5%85%A8%E4%BF%A1%E4%BB%BB%E7%9A%84%E5%8D%9A%E5%BC%88/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>美国自动驾驶巨头Waymo（Alphabet旗下）近期再次成为监管机构关注的焦点。美国国家公路交通安全管理局（NHTSA）已就Waymo自动驾驶出租车（robotaxis）在奥斯汀地区多次违规超车校车事件，向该公司发出问询函，要求提供详细信息。这一系列事件不仅暴露了自动驾驶技术在特定场景下的挑战，更引发了市场对Waymo商业化进程和公众信任度的深刻思考。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251204-waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%86%8D%E9%81%87%E7%9B%91%E7%AE%A1%E6%8B%B7%E9%97%AE19%E8%B5%B7%E6%A0%A1%E8%BD%A6%E8%BF%9D%E8%A7%84%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E5%AE%89%E5%85%A8%E4%BF%A1%E4%BB%BB%E7%9A%84%E5%8D%9A%E5%BC%88/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>当车门无声开启：Rivian数字钥匙背后的未来图景</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E5%BD%93%E8%BD%A6%E9%97%A8%E6%97%A0%E5%A3%B0%E5%BC%80%E5%90%AFrivian%E6%95%B0%E5%AD%97%E9%92%A5%E5%8C%99%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E5%BD%93%E8%BD%A6%E9%97%A8%E6%97%A0%E5%A3%B0%E5%BC%80%E5%90%AFrivian%E6%95%B0%E5%AD%97%E9%92%A5%E5%8C%99%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/</guid>
+      <pubDate>Thu, 04 Dec 2025 01:28:59 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 清晨，城市在薄雾中苏醒。一位Rivian R1T的车主，手提沉甸甸的咖啡与公文包，缓步走向街角那辆线条硬朗的电动皮卡。他的目光甚至无需瞥向车门，指尖也未曾触碰任何物理按键。然而，就在他与车辆之间，一道无形的数字结界悄然形成，伴随着一声微不可闻的“咔哒”，车门应声解锁。这并非科幻电影的序章，而是Rivian即将通过一次代号为2025.46的空中下载（OTA）软…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E5%BD%93%E8%BD%A6%E9%97%A8%E6%97%A0%E5%A3%B0%E5%BC%80%E5%90%AFrivian%E6%95%B0%E5%AD%97%E9%92%A5%E5%8C%99%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>清晨，城市在薄雾中苏醒。一位Rivian R1T的车主，手提沉甸甸的咖啡与公文包，缓步走向街角那辆线条硬朗的电动皮卡。他的目光甚至无需瞥向车门，指尖也未曾触碰任何物理按键。然而，就在他与车辆之间，一道无形的数字结界悄然形成，伴随着一声微不可闻的“咔哒”，车门应声解锁。这并非科幻电影的序章，而是Rivian即将通过一次代号为2025.46的空中下载（OTA）软…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E5%BD%93%E8%BD%A6%E9%97%A8%E6%97%A0%E5%A3%B0%E5%BC%80%E5%90%AFrivian%E6%95%B0%E5%AD%97%E9%92%A5%E5%8C%99%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>特斯拉FSD惊人进展？实测揭示“开车发短信”的边界与投资迷思</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%83%8A%E4%BA%BA%E8%BF%9B%E5%B1%95%E5%AE%9E%E6%B5%8B%E6%8F%AD%E7%A4%BA%E5%BC%80%E8%BD%A6%E5%8F%91%E7%9F%AD%E4%BF%A1%E7%9A%84%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E8%BF%B7%E6%80%9D/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%83%8A%E4%BA%BA%E8%BF%9B%E5%B1%95%E5%AE%9E%E6%B5%8B%E6%8F%AD%E7%A4%BA%E5%BC%80%E8%BD%A6%E5%8F%91%E7%9F%AD%E4%BF%A1%E7%9A%84%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E8%BF%B7%E6%80%9D/</guid>
+      <pubDate>Thu, 04 Dec 2025 01:28:08 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，特斯拉（Tesla）首席执行官埃隆·马斯克（Elon Musk）在社交媒体X上的一则表态，再次将FSD（Full Self-Driving）推向风口浪尖。他指出，特斯拉FSD v14.2.1版本将允许用户在“周边交通情况允许的前提下”进行边开车边发短信的行为。这一言论迅速引发了业界对自动驾驶技术边界、法律合规性及驾驶员责任的广泛讨论。作为资深科技投资分…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%83%8A%E4%BA%BA%E8%BF%9B%E5%B1%95%E5%AE%9E%E6%B5%8B%E6%8F%AD%E7%A4%BA%E5%BC%80%E8%BD%A6%E5%8F%91%E7%9F%AD%E4%BF%A1%E7%9A%84%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E8%BF%B7%E6%80%9D/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，特斯拉（Tesla）首席执行官埃隆·马斯克（Elon Musk）在社交媒体X上的一则表态，再次将FSD（Full Self-Driving）推向风口浪尖。他指出，特斯拉FSD v14.2.1版本将允许用户在“周边交通情况允许的前提下”进行边开车边发短信的行为。这一言论迅速引发了业界对自动驾驶技术边界、法律合规性及驾驶员责任的广泛讨论。作为资深科技投资分…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251204-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%83%8A%E4%BA%BA%E8%BF%9B%E5%B1%95%E5%AE%9E%E6%B5%8B%E6%8F%AD%E7%A4%BA%E5%BC%80%E8%BD%A6%E5%8F%91%E7%9F%AD%E4%BF%A1%E7%9A%84%E8%BE%B9%E7%95%8C%E4%B8%8E%E6%8A%95%E8%B5%84%E8%BF%B7%E6%80%9D/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
       <title>特斯拉日报 2025-12-04</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-04/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-04/</guid>
       <pubDate>Thu, 04 Dec 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> - FSD欧洲试乘：FSD (Supervised) 欧洲试乘活动因需求旺盛，延长至2026年3月底，覆盖德国、法国和意大利。 - FSD新功能：马斯克确认FSD v14.2.1版本在特定交通环境下允许驾驶员发短信。 - FSD硬件升级：特斯拉固件中发现新型摄像头传感器IMX00N，或为FSD系统带来全局快门技术。 - Semi项目进展：Keller Logistics Group完成Tesla Semi预生产规划会议，评估其用于区域物流。 - Model Y L热销：中国市场六座长轴距 …</p>
+<p><strong>[每日特报]</strong> 欧洲FSD监督版试驾延长： 特斯拉在欧洲的FSD (监督版) 演示试驾项目因需求旺盛，已延长三个月至2026年3月底，覆盖德国、法国和意大利。 特斯拉Semi获车队认可： Keller Logistics Group与特斯拉Semi团队完成关键预生产规划会议，标志着Semi向大规模车队采用迈进。 首次跻身Consumer Reports前十： 特斯拉在Consumer Reports的2026年汽车品牌排名中首次进入前十，位列第10，可靠性得分显著提升。 Model Y L中国市场热销： 特斯拉 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-04/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>- FSD欧洲试乘：FSD (Supervised) 欧洲试乘活动因需求旺盛，延长至2026年3月底，覆盖德国、法国和意大利。 - FSD新功能：马斯克确认FSD v14.2.1版本在特定交通环境下允许驾驶员发短信。 - FSD硬件升级：特斯拉固件中发现新型摄像头传感器IMX00N，或为FSD系统带来全局快门技术。 - Semi项目进展：Keller Logistics Group完成Tesla Semi预生产规划会议，评估其用于区域物流。 - Model Y L热销：中国市场六座长轴距 …</p>
+<p>欧洲FSD监督版试驾延长： 特斯拉在欧洲的FSD (监督版) 演示试驾项目因需求旺盛，已延长三个月至2026年3月底，覆盖德国、法国和意大利。 特斯拉Semi获车队认可： Keller Logistics Group与特斯拉Semi团队完成关键预生产规划会议，标志着Semi向大规模车队采用迈进。 首次跻身Consumer Reports前十： 特斯拉在Consumer Reports的2026年汽车品牌排名中首次进入前十，位列第10，可靠性得分显著提升。 Model Y L中国市场热销： 特斯拉 …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-04/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Optimus</category><category>Cybertruck</category><category>Model 3</category><category>Model Y</category></item><item>
       <title>Waymo拓展美国四大新城市：自动驾驶商业化落地的新里程碑与挑战</title>
@@ -522,38 +555,5 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
 <p>福特汽车（Ford）2023年11月电动汽车（EV）销量同比暴跌61%，仅交付4,247辆纯电动车型，这一数据不仅揭示了单一车企的短期困境，更是传统汽车巨头在电动化转型深水区所面临的结构性挑战的缩影。此次销量下滑由联邦税收抵免政策取消、供应链中断以及消费者行为转变等多重因素叠加引发，迫使行业观察家们重新审视电动汽车市场的驱动力、供应链韧性以及传统车企的商业模…</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%94%B5%E5%8A%A8%E5%8C%96%E5%8A%A0%E9%80%9F%E6%9C%9F%E7%9A%84%E7%BB%93%E6%9E%84%E6%80%A7%E6%8C%91%E6%88%98%E4%BB%8E%E7%A6%8F%E7%89%B9ev%E9%94%80%E9%87%8F%E9%AA%A4%E9%99%8D%E6%B4%9E%E5%AF%9F%E4%BC%A0%E7%BB%9F%E5%B7%A8%E5%A4%B4%E7%9A%84%E8%BD%AC%E5%9E%8B%E5%9B%B0%E5%A2%83/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category></item><item>
-      <title>荒芜与新生：特斯拉离场，充电版图再塑</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E8%8D%92%E8%8A%9C%E4%B8%8E%E6%96%B0%E7%94%9F%E7%89%B9%E6%96%AF%E6%8B%89%E7%A6%BB%E5%9C%BA%E5%85%85%E7%94%B5%E7%89%88%E5%9B%BE%E5%86%8D%E5%A1%91/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E8%8D%92%E8%8A%9C%E4%B8%8E%E6%96%B0%E7%94%9F%E7%89%B9%E6%96%AF%E6%8B%89%E7%A6%BB%E5%9C%BA%E5%85%85%E7%94%B5%E7%89%88%E5%9B%BE%E5%86%8D%E5%A1%91/</guid>
-      <pubDate>Tue, 02 Dec 2025 01:29:52 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 在连接卡尔加里与埃德蒙顿的繁忙高速公路——伊丽莎白女王二世高速公路（Queen Elizabeth II Highway）旁，CrossIron Mills购物中心曾是无数电动车主心中一处不可或缺的能量驿站。那一片醒目的红色特斯拉超级充电桩，如同沙漠中的绿洲，为往来车辆注入生机。然而，时光流转，这片承载着时代印记的土地，正经历一场无声的更迭——特斯拉的红色身…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E8%8D%92%E8%8A%9C%E4%B8%8E%E6%96%B0%E7%94%9F%E7%89%B9%E6%96%AF%E6%8B%89%E7%A6%BB%E5%9C%BA%E5%85%85%E7%94%B5%E7%89%88%E5%9B%BE%E5%86%8D%E5%A1%91/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>在连接卡尔加里与埃德蒙顿的繁忙高速公路——伊丽莎白女王二世高速公路（Queen Elizabeth II Highway）旁，CrossIron Mills购物中心曾是无数电动车主心中一处不可或缺的能量驿站。那一片醒目的红色特斯拉超级充电桩，如同沙漠中的绿洲，为往来车辆注入生机。然而，时光流转，这片承载着时代印记的土地，正经历一场无声的更迭——特斯拉的红色身…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E8%8D%92%E8%8A%9C%E4%B8%8E%E6%96%B0%E7%94%9F%E7%89%B9%E6%96%AF%E6%8B%89%E7%A6%BB%E5%9C%BA%E5%85%85%E7%94%B5%E7%89%88%E5%9B%BE%E5%86%8D%E5%A1%91/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category></item><item>
-      <title>钢铁侠的软肋：马斯克与电动摩托车的危险边界</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/</guid>
-      <pubDate>Tue, 02 Dec 2025 01:29:25 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 在一个人工智能的奇想可以迅速转化为现实产品的时代，特斯拉似乎无所不能：从仿人机器人到防弹皮卡，其创新触角延伸至汽车行业的每一个角落。然而，在一片喧嚣和期待中，有一个产品类别却被埃隆·马斯克（Elon Musk）划入了绝对的禁区——电动摩托车。近期，一段AI生成的特斯拉电动摩托车视频在网络上引发热议，人们纷纷猜测这是否预示着未来。但马斯克的回应却斩钉截铁，再次…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>在一个人工智能的奇想可以迅速转化为现实产品的时代，特斯拉似乎无所不能：从仿人机器人到防弹皮卡，其创新触角延伸至汽车行业的每一个角落。然而，在一片喧嚣和期待中，有一个产品类别却被埃隆·马斯克（Elon Musk）划入了绝对的禁区——电动摩托车。近期，一段AI生成的特斯拉电动摩托车视频在网络上引发热议，人们纷纷猜测这是否预示着未来。但马斯克的回应却斩钉截铁，再次…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E9%92%A2%E9%93%81%E4%BE%A0%E7%9A%84%E8%BD%AF%E8%82%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%94%B5%E5%8A%A8%E6%91%A9%E6%89%98%E8%BD%A6%E7%9A%84%E5%8D%B1%E9%99%A9%E8%BE%B9%E7%95%8C/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>FSD</category><category>马斯克</category></item><item>
-      <title>特斯拉FSD欧洲本土化：自动驾驶全球合规与商业落地的新范式</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%AC%A7%E6%B4%B2%E6%9C%AC%E5%9C%9F%E5%8C%96%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%90%88%E8%A7%84%E4%B8%8E%E5%95%86%E4%B8%9A%E8%90%BD%E5%9C%B0%E7%9A%84%E6%96%B0%E8%8C%83%E5%BC%8F/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%AC%A7%E6%B4%B2%E6%9C%AC%E5%9C%9F%E5%8C%96%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%90%88%E8%A7%84%E4%B8%8E%E5%95%86%E4%B8%9A%E8%90%BD%E5%9C%B0%E7%9A%84%E6%96%B0%E8%8C%83%E5%BC%8F/</guid>
-      <pubDate>Tue, 02 Dec 2025 01:29:07 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 特斯拉FSD（Full Self-Driving）在欧洲的初步部署，不仅是其技术能力在复杂地域环境下的验证，更是全球自动驾驶技术商业化进程中，面对严苛法规与本土化需求进行战略性适应与挑战的缩影。此次欧洲试乘活动揭示的FSD版本差异，深刻反映了AI驱动的自动驾驶系统在跨国落地时，技术通用性与区域合规性之间的张力，并为整个行业提供了宝贵的商业模式与竞争格局演变的…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%AC%A7%E6%B4%B2%E6%9C%AC%E5%9C%9F%E5%8C%96%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%90%88%E8%A7%84%E4%B8%8E%E5%95%86%E4%B8%9A%E8%90%BD%E5%9C%B0%E7%9A%84%E6%96%B0%E8%8C%83%E5%BC%8F/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>特斯拉FSD（Full Self-Driving）在欧洲的初步部署，不仅是其技术能力在复杂地域环境下的验证，更是全球自动驾驶技术商业化进程中，面对严苛法规与本土化需求进行战略性适应与挑战的缩影。此次欧洲试乘活动揭示的FSD版本差异，深刻反映了AI驱动的自动驾驶系统在跨国落地时，技术通用性与区域合规性之间的张力，并为整个行业提供了宝贵的商业模式与竞争格局演变的…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%AC%A7%E6%B4%B2%E6%9C%AC%E5%9C%9F%E5%8C%96%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%90%88%E8%A7%84%E4%B8%8E%E5%95%86%E4%B8%9A%E8%90%BD%E5%9C%B0%E7%9A%84%E6%96%B0%E8%8C%83%E5%BC%8F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item></channel>
+]]></content:encoded><category>特新消息</category></item></channel>
 </rss>
