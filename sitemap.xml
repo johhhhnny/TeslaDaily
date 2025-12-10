@@ -4,10 +4,10 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20251209-nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
     
     
-    <lastmod>2025-12-09T20:21:43Z</lastmod>
+    <lastmod>2025-12-10T01:30:19Z</lastmod>
     
     
     <changefreq>daily</changefreq>
@@ -21,10 +21,10 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20251210-tesla-to-award-free-lifetime-supercharging-to-nine-charging-passport-power-users/</loc>
     
     
-    <lastmod>2025-12-09T20:21:43Z</lastmod>
+    <lastmod>2025-12-10T01:30:19Z</lastmod>
     
     
     <changefreq>daily</changefreq>
@@ -41,13 +41,47 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
     
     
-    <lastmod>2025-12-09T20:21:43Z</lastmod>
+    <lastmod>2025-12-10T01:30:19Z</lastmod>
     
     
     <changefreq>weekly</changefreq>
     
     <priority>
       1.0
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-reportedly-mulling-ipo-eyeing-largest-of-all-time-report/</loc>
+    
+    
+    <lastmod>2025-12-10T01:29:21Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20251209-nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/</loc>
+    
+    
+    <lastmod>2025-12-09T20:21:43Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
       
     </priority>
   </url>
