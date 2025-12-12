@@ -1,31 +1,559 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>特斯拉日报</title>
+    <title>特斯拉日报 - 全部内容订阅</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/modely/</link>
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 12 Dec 2025 01:42:30 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/modely/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>2025年Model Y中国订单提前售罄：特斯拉供需博弈下的投资密码？</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251119-2025%E5%B9%B4model-y%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E6%8F%90%E5%89%8D%E5%94%AE%E7%BD%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BE%9B%E9%9C%80%E5%8D%9A%E5%BC%88%E4%B8%8B%E7%9A%84%E6%8A%95%E8%B5%84%E5%AF%86%E7%A0%81/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251119-2025%E5%B9%B4model-y%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E6%8F%90%E5%89%8D%E5%94%AE%E7%BD%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BE%9B%E9%9C%80%E5%8D%9A%E5%BC%88%E4%B8%8B%E7%9A%84%E6%8A%95%E8%B5%84%E5%AF%86%E7%A0%81/</guid>
-      <pubDate>Wed, 19 Nov 2025 20:19:54 &#43;0000</pubDate><description><![CDATA[
-<p>2025年的日历尚未翻开，但一个重磅消息已在新能源车圈炸开：特斯拉（TSLA）Model Y在中国市场的2025年订单，似乎已经“售罄”！这并非一个简单的销售数据，它更像是一份由市场写就的投资指南，指向了电动车巨头在中国这片“卷王之争”热土上的机遇与挑战。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251119-2025%E5%B9%B4model-y%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E6%8F%90%E5%89%8D%E5%94%AE%E7%BD%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BE%9B%E9%9C%80%E5%8D%9A%E5%BC%88%E4%B8%8B%E7%9A%84%E6%8A%95%E8%B5%84%E5%AF%86%E7%A0%81/">在特斯拉日报查看全文</a></p>
+    <lastBuildDate>Fri, 12 Dec 2025 04:37:31 &#43;0000</lastBuildDate><item>
+      <title>Rivian goes big on autonomy, with custom silicon, lidar, and a hint at robotaxis</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:24:10 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>2025年的日历尚未翻开，但一个重磅消息已在新能源车圈炸开：特斯拉（TSLA）Model Y在中国市场的2025年订单，似乎已经“售罄”！这并非一个简单的销售数据，它更像是一份由市场写就的投资指南，指向了电动车巨头在中国这片“卷王之争”热土上的机遇与挑战。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251119-2025%E5%B9%B4model-y%E4%B8%AD%E5%9B%BD%E8%AE%A2%E5%8D%95%E6%8F%90%E5%89%8D%E5%94%AE%E7%BD%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BE%9B%E9%9C%80%E5%8D%9A%E5%BC%88%E4%B8%8B%E7%9A%84%E6%8A%95%E8%B5%84%E5%AF%86%E7%A0%81/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉Model Y L/Performance V2L：解锁移动能源，赋能户外经济新引擎？</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E7%89%B9%E6%96%AF%E6%8B%89model-y-lperformance-v2l%E8%A7%A3%E9%94%81%E7%A7%BB%E5%8A%A8%E8%83%BD%E6%BA%90%E8%B5%8B%E8%83%BD%E6%88%B7%E5%A4%96%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BC%95%E6%93%8E/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E7%89%B9%E6%96%AF%E6%8B%89model-y-lperformance-v2l%E8%A7%A3%E9%94%81%E7%A7%BB%E5%8A%A8%E8%83%BD%E6%BA%90%E8%B5%8B%E8%83%BD%E6%88%B7%E5%A4%96%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BC%95%E6%93%8E/</guid>
-      <pubDate>Wed, 12 Nov 2025 08:02:28 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉近日在中国市场投放了一款专为Model Y L及即将上市的Model Y Performance车型设计的紧凑型Powershare V2L（Vehicle-to-Load，即车辆对负载供电）适配器。此举不仅为这两款主力车型用户带来了更便捷的移动能源解决方案，更标志着继Cybertruck之后，Model Y系列正式踏入V2L供电新时代。对于关注特斯拉…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E7%89%B9%E6%96%AF%E6%8B%89model-y-lperformance-v2l%E8%A7%A3%E9%94%81%E7%A7%BB%E5%8A%A8%E8%83%BD%E6%BA%90%E8%B5%8B%E8%83%BD%E6%88%B7%E5%A4%96%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BC%95%E6%93%8E/">在特斯拉日报查看全文</a></p>
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-goes-big-on-autonomy-with-custom-silicon-lidar-and-a-hint-at-robotaxis/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Rivian’s AI assistant is coming to its EVs in early 2026</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:24:07 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>特斯拉近日在中国市场投放了一款专为Model Y L及即将上市的Model Y Performance车型设计的紧凑型Powershare V2L（Vehicle-to-Load，即车辆对负载供电）适配器。此举不仅为这两款主力车型用户带来了更便捷的移动能源解决方案，更标志着继Cybertruck之后，Model Y系列正式踏入V2L供电新时代。对于关注特斯拉…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E7%89%B9%E6%96%AF%E6%8B%89model-y-lperformance-v2l%E8%A7%A3%E9%94%81%E7%A7%BB%E5%8A%A8%E8%83%BD%E6%BA%90%E8%B5%8B%E8%83%BD%E6%88%B7%E5%A4%96%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BC%95%E6%93%8E/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item></channel>
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivians-ai-assistant-is-coming-to-its-evs-in-early-2026/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla Leads in Hong Kong Auto Market as Model Y Becomes Malaysia’s Top EV in November</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-leads-in-hong-kong-auto-market-as-model-y-becomes-malaysias-top-ev-in-nove/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-leads-in-hong-kong-auto-market-as-model-y-becomes-malaysias-top-ev-in-nove/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:23:58 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-leads-in-hong-kong-auto-market-as-model-y-becomes-malaysias-top-ev-in-nove/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-leads-in-hong-kong-auto-market-as-model-y-becomes-malaysias-top-ev-in-nove/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Rivian unveils in-house AI chip, Universal Hands-Free driving, and a new AI assistant at Autonomy &amp; AI Day</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-unveils-in-house-ai-chip-universal-hands-free-driving-and-a-new-ai-assist/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-unveils-in-house-ai-chip-universal-hands-free-driving-and-a-new-ai-assist/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:23:55 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-unveils-in-house-ai-chip-universal-hands-free-driving-and-a-new-ai-assist/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-rivian-unveils-in-house-ai-chip-universal-hands-free-driving-and-a-new-ai-assist/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>First Look at Tesla&#39;s Paint Shop: Custom Wraps and License Plates Feature [VIDEO]</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-first-look-at-teslas-paint-shop-custom-wraps-and-license-plates-feature-video/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-first-look-at-teslas-paint-shop-custom-wraps-and-license-plates-feature-video/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:23:41 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-first-look-at-teslas-paint-shop-custom-wraps-and-license-plates-feature-video/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-first-look-at-teslas-paint-shop-custom-wraps-and-license-plates-feature-video/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla Model Y gets hefty discounts and more in final sales push</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-model-y-gets-hefty-discounts-and-more-in-final-sales-push/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-model-y-gets-hefty-discounts-and-more-in-final-sales-push/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:23:31 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-model-y-gets-hefty-discounts-and-more-in-final-sales-push/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-model-y-gets-hefty-discounts-and-more-in-final-sales-push/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla partners with Lemonade for new insurance program</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-partners-with-lemonade-for-new-insurance-program/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-partners-with-lemonade-for-new-insurance-program/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:23:27 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-partners-with-lemonade-for-new-insurance-program/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-partners-with-lemonade-for-new-insurance-program/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>硅谷新战事：Rivian智驾芯片破茧，搅动特斯拉的无人驾驶棋局</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E6%88%98%E4%BA%8Brivian%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E7%A0%B4%E8%8C%A7%E6%90%85%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E6%88%98%E4%BA%8Brivian%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E7%A0%B4%E8%8C%A7%E6%90%85%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/</guid>
+      <pubDate>Thu, 11 Dec 2025 20:23:24 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 加利福尼亚州帕洛阿尔托的空气中，总是弥漫着一种独特的味道——那是创新与野心的混合。2025年12月的一个寻常周四，在Rivian的“AI与自动驾驶日”上，这种味道尤为浓烈。当CEO RJ Scaringe站在聚光灯下，屏幕上首次展示出那枚名为RAP1的芯片时，空气仿佛凝固了。这不是一次简单的技术发布，而是一场向电动汽车巨头特斯拉发出的，关于未来出行方式的无声…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E6%88%98%E4%BA%8Brivian%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E7%A0%B4%E8%8C%A7%E6%90%85%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>加利福尼亚州帕洛阿尔托的空气中，总是弥漫着一种独特的味道——那是创新与野心的混合。2025年12月的一个寻常周四，在Rivian的“AI与自动驾驶日”上，这种味道尤为浓烈。当CEO RJ Scaringe站在聚光灯下，屏幕上首次展示出那枚名为RAP1的芯片时，空气仿佛凝固了。这不是一次简单的技术发布，而是一场向电动汽车巨头特斯拉发出的，关于未来出行方式的无声…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E6%88%98%E4%BA%8Brivian%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E7%A0%B4%E8%8C%A7%E6%90%85%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E6%A3%8B%E5%B1%80/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>Ford and SK On are ending their U.S. battery joint venture</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-ford-and-sk-on-are-ending-their-us-battery-joint-venture/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-ford-and-sk-on-are-ending-their-us-battery-joint-venture/</guid>
+      <pubDate>Thu, 11 Dec 2025 16:30:09 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-ford-and-sk-on-are-ending-their-us-battery-joint-venture/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-ford-and-sk-on-are-ending-their-us-battery-joint-venture/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla and Boxabl partner to build modular “Micromenity” structures in new Supercharger pilot program</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-and-boxabl-partner-to-build-modular-micromenity-structures-in-new-supercha/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-and-boxabl-partner-to-build-modular-micromenity-structures-in-new-supercha/</guid>
+      <pubDate>Thu, 11 Dec 2025 16:30:05 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-and-boxabl-partner-to-build-modular-micromenity-structures-in-new-supercha/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-and-boxabl-partner-to-build-modular-micromenity-structures-in-new-supercha/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Elon Musk Confirms SpaceX is Preparing For 2026 IPO Amid Reports of Record-Setting $1.5 Trillion Valuation</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-elon-musk-confirms-spacex-is-preparing-for-2026-ipo-amid-reports-of-record-setti/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-elon-musk-confirms-spacex-is-preparing-for-2026-ipo-amid-reports-of-record-setti/</guid>
+      <pubDate>Thu, 11 Dec 2025 16:29:59 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-elon-musk-confirms-spacex-is-preparing-for-2026-ipo-amid-reports-of-record-setti/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-elon-musk-confirms-spacex-is-preparing-for-2026-ipo-amid-reports-of-record-setti/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla to Launch Larger FSD Model After the Holidays; Will Remove Robotaxi Safety Monitors in Three Weeks</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-to-launch-larger-fsd-model-after-the-holidays-will-remove-robotaxi-safety/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-to-launch-larger-fsd-model-after-the-holidays-will-remove-robotaxi-safety/</guid>
+      <pubDate>Thu, 11 Dec 2025 16:29:55 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-to-launch-larger-fsd-model-after-the-holidays-will-remove-robotaxi-safety/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-tesla-to-launch-larger-fsd-model-after-the-holidays-will-remove-robotaxi-safety/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>特斯拉更新：新增手机防遗忘提醒、无线充电控制及蓝牙优化</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%89%8B%E6%9C%BA%E9%98%B2%E9%81%97%E5%BF%98%E6%8F%90%E9%86%92%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%93%9D%E7%89%99%E4%BC%98%E5%8C%96/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%89%8B%E6%9C%BA%E9%98%B2%E9%81%97%E5%BF%98%E6%8F%90%E9%86%92%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%93%9D%E7%89%99%E4%BC%98%E5%8C%96/</guid>
+      <pubDate>Thu, 11 Dec 2025 16:29:46 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉2025假日更新引入三项新手机相关功能：</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%89%8B%E6%9C%BA%E9%98%B2%E9%81%97%E5%BF%98%E6%8F%90%E9%86%92%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%93%9D%E7%89%99%E4%BC%98%E5%8C%96/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉2025假日更新引入三项新手机相关功能：</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%89%8B%E6%9C%BA%E9%98%B2%E9%81%97%E5%BF%98%E6%8F%90%E9%86%92%E6%97%A0%E7%BA%BF%E5%85%85%E7%94%B5%E6%8E%A7%E5%88%B6%E5%8F%8A%E8%93%9D%E7%89%99%E4%BC%98%E5%8C%96/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>软件更新</category><category>特斯拉</category></item><item>
+      <title>硅谷新生：Waymo车内婴儿，一场关于未来与人性的静默宣言</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E7%94%9Fwaymo%E8%BD%A6%E5%86%85%E5%A9%B4%E5%84%BF%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%9C%AA%E6%9D%A5%E4%B8%8E%E4%BA%BA%E6%80%A7%E7%9A%84%E9%9D%99%E9%BB%98%E5%AE%A3%E8%A8%80/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E7%94%9Fwaymo%E8%BD%A6%E5%86%85%E5%A9%B4%E5%84%BF%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%9C%AA%E6%9D%A5%E4%B8%8E%E4%BA%BA%E6%80%A7%E7%9A%84%E9%9D%99%E9%BB%98%E5%AE%A3%E8%A8%80/</guid>
+      <pubDate>Thu, 11 Dec 2025 08:30:09 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 旧金山的夜幕低垂，城市在霓虹与车流的交织中低语。一辆Waymo自动驾驶出租车，车顶传感器阵列闪烁着幽蓝的光芒，在寂静中划过街道。车内，一位孕妇正经历着生命中最紧张的时刻。她本该前往UCSF医疗中心，但生命，有时比最精密的算法还要急不可耐。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E7%94%9Fwaymo%E8%BD%A6%E5%86%85%E5%A9%B4%E5%84%BF%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%9C%AA%E6%9D%A5%E4%B8%8E%E4%BA%BA%E6%80%A7%E7%9A%84%E9%9D%99%E9%BB%98%E5%AE%A3%E8%A8%80/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>旧金山的夜幕低垂，城市在霓虹与车流的交织中低语。一辆Waymo自动驾驶出租车，车顶传感器阵列闪烁着幽蓝的光芒，在寂静中划过街道。车内，一位孕妇正经历着生命中最紧张的时刻。她本该前往UCSF医疗中心，但生命，有时比最精密的算法还要急不可耐。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%A1%85%E8%B0%B7%E6%96%B0%E7%94%9Fwaymo%E8%BD%A6%E5%86%85%E5%A9%B4%E5%84%BF%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%9C%AA%E6%9D%A5%E4%B8%8E%E4%BA%BA%E6%80%A7%E7%9A%84%E9%9D%99%E9%BB%98%E5%AE%A3%E8%A8%80/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>人工智能</category><category>自动驾驶</category></item><item>
+      <title>特斯拉FSD新模型将至，马斯克预告“终极拼图”</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%B0%86%E8%87%B3%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E5%91%8A%E7%BB%88%E6%9E%81%E6%8B%BC%E5%9B%BE/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%B0%86%E8%87%B3%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E5%91%8A%E7%BB%88%E6%9E%81%E6%8B%BC%E5%9B%BE/</guid>
+      <pubDate>Thu, 11 Dec 2025 08:29:17 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 2025年12月10日，马斯克在xAI黑客马拉松上透露： FSD无监督驾驶： “基本已解决”。 Robotaxi： 约3周内在奥斯汀取消安全员，开始运营。 新FSD模型： 预计1-2个月内推出，规模比现有模型大一个数量级（指性能或数据处理能力大幅提升），将集成更多推理和强化学习（RL，Reinforcement Learning，一种通过试错学习优化决策的机…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%B0%86%E8%87%B3%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E5%91%8A%E7%BB%88%E6%9E%81%E6%8B%BC%E5%9B%BE/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>2025年12月10日，马斯克在xAI黑客马拉松上透露： FSD无监督驾驶： “基本已解决”。 Robotaxi： 约3周内在奥斯汀取消安全员，开始运营。 新FSD模型： 预计1-2个月内推出，规模比现有模型大一个数量级（指性能或数据处理能力大幅提升），将集成更多推理和强化学习（RL，Reinforcement Learning，一种通过试错学习优化决策的机…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%B0%86%E8%87%B3%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E5%91%8A%E7%BB%88%E6%9E%81%E6%8B%BC%E5%9B%BE/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category><category>自动驾驶</category><category>FSD</category><category>特斯拉</category></item><item>
+      <title>埃隆·马斯克确认SpaceX即将IPO</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4spacex%E5%8D%B3%E5%B0%86ipo/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4spacex%E5%8D%B3%E5%B0%86ipo/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:39:20 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 埃隆·马斯克（Elon Musk）已通过X平台确认SpaceX将进行首次公开募股（IPO）。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4spacex%E5%8D%B3%E5%B0%86ipo/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>埃隆·马斯克（Elon Musk）已通过X平台确认SpaceX将进行首次公开募股（IPO）。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4spacex%E5%8D%B3%E5%B0%86ipo/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>埃隆·马斯克</category><category>AI</category><category>Spacex</category></item><item>
+      <title>星链硬件进驻自动售货机：标准套件89美元，激活服务享100美元赠金</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E6%98%9F%E9%93%BE%E7%A1%AC%E4%BB%B6%E8%BF%9B%E9%A9%BB%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E6%A0%87%E5%87%86%E5%A5%97%E4%BB%B689%E7%BE%8E%E5%85%83%E6%BF%80%E6%B4%BB%E6%9C%8D%E5%8A%A1%E4%BA%AB100%E7%BE%8E%E5%85%83%E8%B5%A0%E9%87%91/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E6%98%9F%E9%93%BE%E7%A1%AC%E4%BB%B6%E8%BF%9B%E9%A9%BB%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E6%A0%87%E5%87%86%E5%A5%97%E4%BB%B689%E7%BE%8E%E5%85%83%E6%BF%80%E6%B4%BB%E6%9C%8D%E5%8A%A1%E4%BA%AB100%E7%BE%8E%E5%85%83%E8%B5%A0%E9%87%91/</guid>
+      <pubDate>Thu, 11 Dec 2025 01:39:06 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> SpaceX已在爱荷华州西得梅因乔丹溪购物中心部署星链（Starlink）自动售货机。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E6%98%9F%E9%93%BE%E7%A1%AC%E4%BB%B6%E8%BF%9B%E9%A9%BB%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E6%A0%87%E5%87%86%E5%A5%97%E4%BB%B689%E7%BE%8E%E5%85%83%E6%BF%80%E6%B4%BB%E6%9C%8D%E5%8A%A1%E4%BA%AB100%E7%BE%8E%E5%85%83%E8%B5%A0%E9%87%91/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>SpaceX已在爱荷华州西得梅因乔丹溪购物中心部署星链（Starlink）自动售货机。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251211-%E6%98%9F%E9%93%BE%E7%A1%AC%E4%BB%B6%E8%BF%9B%E9%A9%BB%E8%87%AA%E5%8A%A8%E5%94%AE%E8%B4%A7%E6%9C%BA%E6%A0%87%E5%87%86%E5%A5%97%E4%BB%B689%E7%BE%8E%E5%85%83%E6%BF%80%E6%B4%BB%E6%9C%8D%E5%8A%A1%E4%BA%AB100%E7%BE%8E%E5%85%83%E8%B5%A0%E9%87%91/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category></item><item>
+      <title>特斯拉日报 2025-12-11</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-11/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-11/</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[每日特报]</strong> Rivian推出自研AI芯片与增强型自动驾驶系统，剑指特斯拉 作为特斯拉在电动汽车领域的重要竞争对手，Rivian在其首次“自动驾驶与AI日”活动中展示了其在自动驾驶技术上的雄心壮志，直接对标特斯拉。该公司发布了一款与Arm和台积电合作开发的自研AI处理器，该芯片具备205 GB/s的内存带宽和800 TOPS的神经网络处理能力，预计将于2026年末取代英伟达硬件。更重要的是，Rivian宣布推出“通用免手持驾驶”功能，将现有的高速公路免手持技术扩展到美国和加拿大约350万英里有清晰车道线的普通 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-11/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
+<p>Rivian推出自研AI芯片与增强型自动驾驶系统，剑指特斯拉 作为特斯拉在电动汽车领域的重要竞争对手，Rivian在其首次“自动驾驶与AI日”活动中展示了其在自动驾驶技术上的雄心壮志，直接对标特斯拉。该公司发布了一款与Arm和台积电合作开发的自研AI处理器，该芯片具备205 GB/s的内存带宽和800 TOPS的神经网络处理能力，预计将于2026年末取代英伟达硬件。更重要的是，Rivian宣布推出“通用免手持驾驶”功能，将现有的高速公路免手持技术扩展到美国和加拿大约350万英里有清晰车道线的普通 …</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-11/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Optimus</category><category>NACS</category><category>Supercharger</category><category>Cybertruck</category><category>Model 3</category></item><item>
+      <title>星链加速渗透航空市场：NetJets合作开启空中互联新纪元</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%98%9F%E9%93%BE%E5%8A%A0%E9%80%9F%E6%B8%97%E9%80%8F%E8%88%AA%E7%A9%BA%E5%B8%82%E5%9C%BAnetjets%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E7%A9%BA%E4%B8%AD%E4%BA%92%E8%81%94%E6%96%B0%E7%BA%AA%E5%85%83/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%98%9F%E9%93%BE%E5%8A%A0%E9%80%9F%E6%B8%97%E9%80%8F%E8%88%AA%E7%A9%BA%E5%B8%82%E5%9C%BAnetjets%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E7%A9%BA%E4%B8%AD%E4%BA%92%E8%81%94%E6%96%B0%E7%BA%AA%E5%85%83/</guid>
+      <pubDate>Wed, 10 Dec 2025 20:25:27 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 全球私人航空巨头NetJets宣布将于2026年前为其600架公务机配备SpaceX旗下的星链（Starlink）卫星Wi-Fi服务，此举不仅是星链航空业务迄今为止最大规模的合作之一，更标志着低地球轨道（LEO）卫星互联网对传统航空互联市场的颠覆性影响正加速深化。作为深耕新能源与AI产业链的行业观察家，我们认为，此次合作并非孤立事件，而是星链凭借其技术优势和…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%98%9F%E9%93%BE%E5%8A%A0%E9%80%9F%E6%B8%97%E9%80%8F%E8%88%AA%E7%A9%BA%E5%B8%82%E5%9C%BAnetjets%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E7%A9%BA%E4%B8%AD%E4%BA%92%E8%81%94%E6%96%B0%E7%BA%AA%E5%85%83/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>全球私人航空巨头NetJets宣布将于2026年前为其600架公务机配备SpaceX旗下的星链（Starlink）卫星Wi-Fi服务，此举不仅是星链航空业务迄今为止最大规模的合作之一，更标志着低地球轨道（LEO）卫星互联网对传统航空互联市场的颠覆性影响正加速深化。作为深耕新能源与AI产业链的行业观察家，我们认为，此次合作并非孤立事件，而是星链凭借其技术优势和…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%98%9F%E9%93%BE%E5%8A%A0%E9%80%9F%E6%B8%97%E9%80%8F%E8%88%AA%E7%A9%BA%E5%B8%82%E5%9C%BAnetjets%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E7%A9%BA%E4%B8%AD%E4%BA%92%E8%81%94%E6%96%B0%E7%BA%AA%E5%85%83/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>特斯拉CEO马斯克：Waymo从未真正有机会</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E9%A9%AC%E6%96%AF%E5%85%8Bwaymo%E4%BB%8E%E6%9C%AA%E7%9C%9F%E6%AD%A3%E6%9C%89%E6%9C%BA%E4%BC%9A/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E9%A9%AC%E6%96%AF%E5%85%8Bwaymo%E4%BB%8E%E6%9C%AA%E7%9C%9F%E6%AD%A3%E6%9C%89%E6%9C%BA%E4%BC%9A/</guid>
+      <pubDate>Wed, 10 Dec 2025 20:24:51 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉CEO埃隆·马斯克在X平台表示，Waymo“从未真正有机会”超越特斯拉，预言“事后看会很明显”。此番言论聚焦自动驾驶市场两大玩家的竞争。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E9%A9%AC%E6%96%AF%E5%85%8Bwaymo%E4%BB%8E%E6%9C%AA%E7%9C%9F%E6%AD%A3%E6%9C%89%E6%9C%BA%E4%BC%9A/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉CEO埃隆·马斯克在X平台表示，Waymo“从未真正有机会”超越特斯拉，预言“事后看会很明显”。此番言论聚焦自动驾驶市场两大玩家的竞争。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E9%A9%AC%E6%96%AF%E5%85%8Bwaymo%E4%BB%8E%E6%9C%AA%E7%9C%9F%E6%AD%A3%E6%9C%89%E6%9C%BA%E4%BC%9A/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>FSD</category><category>自动驾驶</category><category>特斯拉</category></item><item>
+      <title>特斯拉App微创新背后的宏大叙事：从寻车功能窥见AI芯片与Robotaxi的投资潜力</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%BE%AE%E5%88%9B%E6%96%B0%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B%E4%BB%8E%E5%AF%BB%E8%BD%A6%E5%8A%9F%E8%83%BD%E7%AA%A5%E8%A7%81ai%E8%8A%AF%E7%89%87%E4%B8%8Erobotaxi%E7%9A%84%E6%8A%95%E8%B5%84%E6%BD%9C%E5%8A%9B/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%BE%AE%E5%88%9B%E6%96%B0%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B%E4%BB%8E%E5%AF%BB%E8%BD%A6%E5%8A%9F%E8%83%BD%E7%AA%A5%E8%A7%81ai%E8%8A%AF%E7%89%87%E4%B8%8Erobotaxi%E7%9A%84%E6%8A%95%E8%B5%84%E6%BD%9C%E5%8A%9B/</guid>
+      <pubDate>Wed, 10 Dec 2025 20:24:22 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，特斯拉App的v4.51.5版本更新，引入了包括车辆定位在内的多项用户体验优化功能。尽管这看似是一次小范围的软件迭代，但资深科技投资分析师认为，这些微创新并非孤立存在，它们是特斯拉构建其宏大智能电动生态系统、巩固技术护城河策略的冰山一角。结合近期关于AI5芯片的量产准备、与Waymo在自动驾驶领域的激烈竞争，以及超级充电网络基础设施的持续升级，我们得以…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%BE%AE%E5%88%9B%E6%96%B0%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B%E4%BB%8E%E5%AF%BB%E8%BD%A6%E5%8A%9F%E8%83%BD%E7%AA%A5%E8%A7%81ai%E8%8A%AF%E7%89%87%E4%B8%8Erobotaxi%E7%9A%84%E6%8A%95%E8%B5%84%E6%BD%9C%E5%8A%9B/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，特斯拉App的v4.51.5版本更新，引入了包括车辆定位在内的多项用户体验优化功能。尽管这看似是一次小范围的软件迭代，但资深科技投资分析师认为，这些微创新并非孤立存在，它们是特斯拉构建其宏大智能电动生态系统、巩固技术护城河策略的冰山一角。结合近期关于AI5芯片的量产准备、与Waymo在自动驾驶领域的激烈竞争，以及超级充电网络基础设施的持续升级，我们得以…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%BE%AE%E5%88%9B%E6%96%B0%E8%83%8C%E5%90%8E%E7%9A%84%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B%E4%BB%8E%E5%AF%BB%E8%BD%A6%E5%8A%9F%E8%83%BD%E7%AA%A5%E8%A7%81ai%E8%8A%AF%E7%89%87%E4%B8%8Erobotaxi%E7%9A%84%E6%8A%95%E8%B5%84%E6%BD%9C%E5%8A%9B/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category><category>特斯拉</category></item><item>
+      <title>BMW EV owners now have access to Tesla Superchargers in the U.S.</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-bmw-ev-owners-now-have-access-to-tesla-superchargers-in-the-us/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-bmw-ev-owners-now-have-access-to-tesla-superchargers-in-the-us/</guid>
+      <pubDate>Wed, 10 Dec 2025 16:31:49 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-bmw-ev-owners-now-have-access-to-tesla-superchargers-in-the-us/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-bmw-ev-owners-now-have-access-to-tesla-superchargers-in-the-us/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Rivian to Unveil In-House AI Assistant at Autonomy &amp; AI Day on December 11: Report</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-rivian-to-unveil-in-house-ai-assistant-at-autonomy-ai-day-on-december-11-report/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-rivian-to-unveil-in-house-ai-assistant-at-autonomy-ai-day-on-december-11-report/</guid>
+      <pubDate>Wed, 10 Dec 2025 16:31:44 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-rivian-to-unveil-in-house-ai-assistant-at-autonomy-ai-day-on-december-11-report/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-rivian-to-unveil-in-house-ai-assistant-at-autonomy-ai-day-on-december-11-report/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>SpaceX plans record IPO with $1.5 trillion valuation, aims to raise over $30 billion: Report</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-plans-record-ipo-with-15-trillion-valuation-aims-to-raise-over-30-billion/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-plans-record-ipo-with-15-trillion-valuation-aims-to-raise-over-30-billion/</guid>
+      <pubDate>Wed, 10 Dec 2025 16:31:41 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-plans-record-ipo-with-15-trillion-valuation-aims-to-raise-over-30-billion/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-plans-record-ipo-with-15-trillion-valuation-aims-to-raise-over-30-billion/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Rogers officially launches Starlink satellite service for smartphones across Canada</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-rogers-officially-launches-starlink-satellite-service-for-smartphones-across-can/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-rogers-officially-launches-starlink-satellite-service-for-smartphones-across-can/</guid>
+      <pubDate>Wed, 10 Dec 2025 16:31:37 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-rogers-officially-launches-starlink-satellite-service-for-smartphones-across-can/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-rogers-officially-launches-starlink-satellite-service-for-smartphones-across-can/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Elon Musk reiterates timeline for unsupervised Robotaxis in Texas</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-elon-musk-reiterates-timeline-for-unsupervised-robotaxis-in-texas/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-elon-musk-reiterates-timeline-for-unsupervised-robotaxis-in-texas/</guid>
+      <pubDate>Wed, 10 Dec 2025 16:31:33 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-elon-musk-reiterates-timeline-for-unsupervised-robotaxis-in-texas/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-elon-musk-reiterates-timeline-for-unsupervised-robotaxis-in-texas/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>硅谷深处的回响：特斯拉AI5芯片的野望与三星的2纳米之舞</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%A1%85%E8%B0%B7%E6%B7%B1%E5%A4%84%E7%9A%84%E5%9B%9E%E5%93%8D%E7%89%B9%E6%96%AF%E6%8B%89ai5%E8%8A%AF%E7%89%87%E7%9A%84%E9%87%8E%E6%9C%9B%E4%B8%8E%E4%B8%89%E6%98%9F%E7%9A%842%E7%BA%B3%E7%B1%B3%E4%B9%8B%E8%88%9E/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%A1%85%E8%B0%B7%E6%B7%B1%E5%A4%84%E7%9A%84%E5%9B%9E%E5%93%8D%E7%89%B9%E6%96%AF%E6%8B%89ai5%E8%8A%AF%E7%89%87%E7%9A%84%E9%87%8E%E6%9C%9B%E4%B8%8E%E4%B8%89%E6%98%9F%E7%9A%842%E7%BA%B3%E7%B1%B3%E4%B9%8B%E8%88%9E/</guid>
+      <pubDate>Wed, 10 Dec 2025 16:31:02 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 夜幕下的无尘车间，空气中弥漫着臭氧和精密仪器的轻微嗡鸣。在这一片科技的圣殿深处，一场看不见的竞赛正悄然加速。韩国巨头三星，作为特斯拉供应链的关键一环，正以一种近乎急切的姿态，在美国本土招募资深工程师，为代号“AI5”的下一代自动驾驶芯片量产厉兵秣马。这不仅仅是人力资源的扩张，更是对特斯拉宏大愿景的深度回应，预示着自动驾驶技术即将迎来一次里程碑式的飞跃。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%A1%85%E8%B0%B7%E6%B7%B1%E5%A4%84%E7%9A%84%E5%9B%9E%E5%93%8D%E7%89%B9%E6%96%AF%E6%8B%89ai5%E8%8A%AF%E7%89%87%E7%9A%84%E9%87%8E%E6%9C%9B%E4%B8%8E%E4%B8%89%E6%98%9F%E7%9A%842%E7%BA%B3%E7%B1%B3%E4%B9%8B%E8%88%9E/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>夜幕下的无尘车间，空气中弥漫着臭氧和精密仪器的轻微嗡鸣。在这一片科技的圣殿深处，一场看不见的竞赛正悄然加速。韩国巨头三星，作为特斯拉供应链的关键一环，正以一种近乎急切的姿态，在美国本土招募资深工程师，为代号“AI5”的下一代自动驾驶芯片量产厉兵秣马。这不仅仅是人力资源的扩张，更是对特斯拉宏大愿景的深度回应，预示着自动驾驶技术即将迎来一次里程碑式的飞跃。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%A1%85%E8%B0%B7%E6%B7%B1%E5%A4%84%E7%9A%84%E5%9B%9E%E5%93%8D%E7%89%B9%E6%96%AF%E6%8B%89ai5%E8%8A%AF%E7%89%87%E7%9A%84%E9%87%8E%E6%9C%9B%E4%B8%8E%E4%B8%89%E6%98%9F%E7%9A%842%E7%BA%B3%E7%B1%B3%E4%B9%8B%E8%88%9E/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>自动驾驶</category></item><item>
+      <title>马斯克又放大招！星链移动：特斯拉全舰队的“永不失联”梦想，要成真了？！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%98%9F%E9%93%BE%E7%A7%BB%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E8%88%B0%E9%98%9F%E7%9A%84%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%94%E6%A2%A6%E6%83%B3%E8%A6%81%E6%88%90%E7%9C%9F%E4%BA%86/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%98%9F%E9%93%BE%E7%A7%BB%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E8%88%B0%E9%98%9F%E7%9A%84%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%94%E6%A2%A6%E6%83%B3%E8%A6%81%E6%88%90%E7%9C%9F%E4%BA%86/</guid>
+      <pubDate>Wed, 10 Dec 2025 12:42:15 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 各位硬核极客们，你们有没有被特斯拉这波操作给燃到？！马斯克那套“能自己造就绝不外购”的垂直整合哲学，简直就是科技圈的终极信仰！从座椅到自研芯片，特斯拉一直在系统性地“吞噬”供应链，构建自己的技术护城河。而现在，随着SpaceX提交了“Starlink Mobile”和“Powered by Starlink”的商标申请，我敢打赌，特斯拉最后的外部“脐带”——…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%98%9F%E9%93%BE%E7%A7%BB%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E8%88%B0%E9%98%9F%E7%9A%84%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%94%E6%A2%A6%E6%83%B3%E8%A6%81%E6%88%90%E7%9C%9F%E4%BA%86/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>各位硬核极客们，你们有没有被特斯拉这波操作给燃到？！马斯克那套“能自己造就绝不外购”的垂直整合哲学，简直就是科技圈的终极信仰！从座椅到自研芯片，特斯拉一直在系统性地“吞噬”供应链，构建自己的技术护城河。而现在，随着SpaceX提交了“Starlink Mobile”和“Powered by Starlink”的商标申请，我敢打赌，特斯拉最后的外部“脐带”——…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B%E6%98%9F%E9%93%BE%E7%A7%BB%E5%8A%A8%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E8%88%B0%E9%98%9F%E7%9A%84%E6%B0%B8%E4%B8%8D%E5%A4%B1%E8%81%94%E6%A2%A6%E6%83%B3%E8%A6%81%E6%88%90%E7%9C%9F%E4%BA%86/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>旅途的绿洲：特斯拉超级充电站的未来蓝图与模块化革命</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%97%85%E9%80%94%E7%9A%84%E7%BB%BF%E6%B4%B2%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%9C%AA%E6%9D%A5%E8%93%9D%E5%9B%BE%E4%B8%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E9%9D%A9%E5%91%BD/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%97%85%E9%80%94%E7%9A%84%E7%BB%BF%E6%B4%B2%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%9C%AA%E6%9D%A5%E8%93%9D%E5%9B%BE%E4%B8%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E9%9D%A9%E5%91%BD/</guid>
+      <pubDate>Wed, 10 Dec 2025 08:28:35 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 夜幕低垂，一辆电动汽车在漫长的州际公路上疾驰，直至仪表盘上的电量警示灯微弱闪烁。司机疲惫地将车驶入一处偏远的特斯拉超级充电站，四周除了充电桩的低沉电流声，便只剩下旷野的寂静。他熄火，靠在座椅上，目光扫过空荡的停车场，心中不禁升起一丝渴望：如果这里能有一杯热咖啡，一个干净的洗手间，或者哪怕只是一方能暂时远离驾驶舱的休憩之地，那该多好？</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%97%85%E9%80%94%E7%9A%84%E7%BB%BF%E6%B4%B2%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%9C%AA%E6%9D%A5%E8%93%9D%E5%9B%BE%E4%B8%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E9%9D%A9%E5%91%BD/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>夜幕低垂，一辆电动汽车在漫长的州际公路上疾驰，直至仪表盘上的电量警示灯微弱闪烁。司机疲惫地将车驶入一处偏远的特斯拉超级充电站，四周除了充电桩的低沉电流声，便只剩下旷野的寂静。他熄火，靠在座椅上，目光扫过空荡的停车场，心中不禁升起一丝渴望：如果这里能有一杯热咖啡，一个干净的洗手间，或者哪怕只是一方能暂时远离驾驶舱的休憩之地，那该多好？</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E6%97%85%E9%80%94%E7%9A%84%E7%BB%BF%E6%B4%B2%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E7%9A%84%E6%9C%AA%E6%9D%A5%E8%93%9D%E5%9B%BE%E4%B8%8E%E6%A8%A1%E5%9D%97%E5%8C%96%E9%9D%A9%E5%91%BD/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>特斯拉CEO埃隆·马斯克确认奥斯汀Robotaxi将移除安全监督员</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%E5%A5%A5%E6%96%AF%E6%B1%80robotaxi%E5%B0%86%E7%A7%BB%E9%99%A4%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E5%91%98/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%E5%A5%A5%E6%96%AF%E6%B1%80robotaxi%E5%B0%86%E7%A7%BB%E9%99%A4%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E5%91%98/</guid>
+      <pubDate>Wed, 10 Dec 2025 04:32:42 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 时间表: 埃隆·马斯克（Elon Musk）于xAI黑客马拉松上确认，特斯拉将在“约三周内”移除奥斯汀Robotaxi（自动驾驶出租车）的安全监督员。 目标兑现: 此举将兑现马斯克此前多次提及的“2025年底前在奥斯汀实现Robotaxi无监督运营”目标。 此前声明: 马斯克曾于今年9月、10月（Q3财报电话会议）及11月（股东大会）多次重申年底前在奥斯汀大…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%E5%A5%A5%E6%96%AF%E6%B1%80robotaxi%E5%B0%86%E7%A7%BB%E9%99%A4%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E5%91%98/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>时间表: 埃隆·马斯克（Elon Musk）于xAI黑客马拉松上确认，特斯拉将在“约三周内”移除奥斯汀Robotaxi（自动驾驶出租车）的安全监督员。 目标兑现: 此举将兑现马斯克此前多次提及的“2025年底前在奥斯汀实现Robotaxi无监督运营”目标。 此前声明: 马斯克曾于今年9月、10月（Q3财报电话会议）及11月（股东大会）多次重申年底前在奥斯汀大…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89ceo%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%E5%A5%A5%E6%96%AF%E6%B1%80robotaxi%E5%B0%86%E7%A7%BB%E9%99%A4%E5%AE%89%E5%85%A8%E7%9B%91%E7%9D%A3%E5%91%98/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>FSD</category><category>自动驾驶</category></item><item>
+      <title>First Look at Navigation Commands With Grok In Tesla&#39;s Holiday Update [VIDEOS]</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-first-look-at-navigation-commands-with-grok-in-teslas-holiday-update-videos/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-first-look-at-navigation-commands-with-grok-in-teslas-holiday-update-videos/</guid>
+      <pubDate>Wed, 10 Dec 2025 01:40:07 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-first-look-at-navigation-commands-with-grok-in-teslas-holiday-update-videos/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-first-look-at-navigation-commands-with-grok-in-teslas-holiday-update-videos/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>特斯拉生态扩张与AI芯片迭代：电动出行与自动驾驶产业的深层变革</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%9F%E6%80%81%E6%89%A9%E5%BC%A0%E4%B8%8Eai%E8%8A%AF%E7%89%87%E8%BF%AD%E4%BB%A3%E7%94%B5%E5%8A%A8%E5%87%BA%E8%A1%8C%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E7%9A%84%E6%B7%B1%E5%B1%82%E5%8F%98%E9%9D%A9/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%9F%E6%80%81%E6%89%A9%E5%BC%A0%E4%B8%8Eai%E8%8A%AF%E7%89%87%E8%BF%AD%E4%BB%A3%E7%94%B5%E5%8A%A8%E5%87%BA%E8%A1%8C%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E7%9A%84%E6%B7%B1%E5%B1%82%E5%8F%98%E9%9D%A9/</guid>
+      <pubDate>Wed, 10 Dec 2025 01:39:53 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 在2025年，新能源汽车与AI领域正经历前所未有的加速演进。特斯拉近期的一系列战略举措，包括超级充电网络向更多主流车企开放，以及其下一代AI芯片AI5的加速研发，不仅巩固了自身在电动出行和自动驾驶领域的护城河，更预示着整个产业链生态将迎来深刻的结构性变革。这些发展不仅关乎特斯拉的个体增长，更从宏观层面重塑着商业模式、竞争格局和政策导向，值得行业观察家和投资者…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%9F%E6%80%81%E6%89%A9%E5%BC%A0%E4%B8%8Eai%E8%8A%AF%E7%89%87%E8%BF%AD%E4%BB%A3%E7%94%B5%E5%8A%A8%E5%87%BA%E8%A1%8C%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E7%9A%84%E6%B7%B1%E5%B1%82%E5%8F%98%E9%9D%A9/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>在2025年，新能源汽车与AI领域正经历前所未有的加速演进。特斯拉近期的一系列战略举措，包括超级充电网络向更多主流车企开放，以及其下一代AI芯片AI5的加速研发，不仅巩固了自身在电动出行和自动驾驶领域的护城河，更预示着整个产业链生态将迎来深刻的结构性变革。这些发展不仅关乎特斯拉的个体增长，更从宏观层面重塑着商业模式、竞争格局和政策导向，值得行业观察家和投资者…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-%E7%89%B9%E6%96%AF%E6%8B%89%E7%94%9F%E6%80%81%E6%89%A9%E5%BC%A0%E4%B8%8Eai%E8%8A%AF%E7%89%87%E8%BF%AD%E4%BB%A3%E7%94%B5%E5%8A%A8%E5%87%BA%E8%A1%8C%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E7%9A%84%E6%B7%B1%E5%B1%82%E5%8F%98%E9%9D%A9/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category><category>特斯拉</category><category>超级充电</category></item><item>
+      <title>Tesla to Award Free Lifetime Supercharging to Nine Charging Passport Power-Users</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-tesla-to-award-free-lifetime-supercharging-to-nine-charging-passport-power-users/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-tesla-to-award-free-lifetime-supercharging-to-nine-charging-passport-power-users/</guid>
+      <pubDate>Wed, 10 Dec 2025 01:30:19 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-tesla-to-award-free-lifetime-supercharging-to-nine-charging-passport-power-users/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-tesla-to-award-free-lifetime-supercharging-to-nine-charging-passport-power-users/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>SpaceX reportedly mulling IPO, eyeing largest of all time: report</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-reportedly-mulling-ipo-eyeing-largest-of-all-time-report/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-reportedly-mulling-ipo-eyeing-largest-of-all-time-report/</guid>
+      <pubDate>Wed, 10 Dec 2025 01:29:21 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-reportedly-mulling-ipo-eyeing-largest-of-all-time-report/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251210-spacex-reportedly-mulling-ipo-eyeing-largest-of-all-time-report/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>特斯拉日报 2025-12-10</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-10/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-10/</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[每日特报]</strong> 特斯拉App v4.51.5更新，新增车辆定位功能及多项用户体验改进。 CEO埃隆·马斯克重申，奥斯汀的特斯拉Robotaxi将在约三周内（年底前）实现完全无人驾驶。 特斯拉下一代AI5芯片供应商三星正加速美国生产准备，性能预计将大幅提升。 自今日起，美国宝马电动车主已全面接入特斯拉超级充电网络。 特斯拉与模块化建筑公司BOXABL合作，计划在超级充电站部署休息设施。 特斯拉推出“充电护照”竞赛，奖励九名超级充电“重度用户”终身免费充电。 竞争对手Rivian将于12月11日发布其自研车载AI助 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-10/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
+<p>特斯拉App v4.51.5更新，新增车辆定位功能及多项用户体验改进。 CEO埃隆·马斯克重申，奥斯汀的特斯拉Robotaxi将在约三周内（年底前）实现完全无人驾驶。 特斯拉下一代AI5芯片供应商三星正加速美国生产准备，性能预计将大幅提升。 自今日起，美国宝马电动车主已全面接入特斯拉超级充电网络。 特斯拉与模块化建筑公司BOXABL合作，计划在超级充电站部署休息设施。 特斯拉推出“充电护照”竞赛，奖励九名超级充电“重度用户”终身免费充电。 竞争对手Rivian将于12月11日发布其自研车载AI助 …</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-10/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Optimus</category><category>NACS</category><category>Supercharger</category><category>Model 3</category></item><item>
+      <title>NASA and USPS stop using Canoo EVs despite CEO’s pledged support</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:43 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-nasa-and-usps-stop-using-canoo-evs-despite-ceos-pledged-support/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Ford and Renault team up on cheaper EVs in a ‘fight for our lives’</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:41 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-ford-and-renault-team-up-on-cheaper-evs-in-a-fight-for-our-lives/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-center/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-center/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:38 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-center/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-center/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Rivian is building its own AI assistant</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-rivian-is-building-its-own-ai-assistant/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-rivian-is-building-its-own-ai-assistant/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:35 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-rivian-is-building-its-own-ai-assistant/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-rivian-is-building-its-own-ai-assistant/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Starlink Reaches Record Number of Users Kenya in September</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-starlink-reaches-record-number-of-users-kenya-in-september/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-starlink-reaches-record-number-of-users-kenya-in-september/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:20 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-starlink-reaches-record-number-of-users-kenya-in-september/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-starlink-reaches-record-number-of-users-kenya-in-september/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla expands FSD v14 ride-alongs to two new European countries</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-fsd-v14-ride-alongs-to-two-new-european-countries/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-fsd-v14-ride-alongs-to-two-new-european-countries/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:17 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-fsd-v14-ride-alongs-to-two-new-european-countries/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-fsd-v14-ride-alongs-to-two-new-european-countries/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla Adds Vehicle Locator Feature to Tesla App</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-vehicle-locator-feature-to-tesla-app/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-vehicle-locator-feature-to-tesla-app/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:08 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-vehicle-locator-feature-to-tesla-app/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-vehicle-locator-feature-to-tesla-app/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla Adds Charging Year-in-Review to App, Highlights Most Visited Superchargers and More</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-charging-year-in-review-to-app-highlights-most-visited-superchargers/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-charging-year-in-review-to-app-highlights-most-visited-superchargers/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:21:03 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-charging-year-in-review-to-app-highlights-most-visited-superchargers/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-adds-charging-year-in-review-to-app-highlights-most-visited-superchargers/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla ramps hiring for Roadster as latest unveiling approaches</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-ramps-hiring-for-roadster-as-latest-unveiling-approaches/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-ramps-hiring-for-roadster-as-latest-unveiling-approaches/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:20:49 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-ramps-hiring-for-roadster-as-latest-unveiling-approaches/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-ramps-hiring-for-roadster-as-latest-unveiling-approaches/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Tesla expands new Full Self-Driving program in Europe</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-new-full-self-driving-program-in-europe/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-new-full-self-driving-program-in-europe/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:20:46 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-new-full-self-driving-program-in-europe/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-tesla-expands-new-full-self-driving-program-in-europe/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>马斯克生态圈：星链、FSD与Roadster的产业深层逻辑与未来图景</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%9F%E6%80%81%E5%9C%88%E6%98%9F%E9%93%BEfsd%E4%B8%8Eroadster%E7%9A%84%E4%BA%A7%E4%B8%9A%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%9F%E6%80%81%E5%9C%88%E6%98%9F%E9%93%BEfsd%E4%B8%8Eroadster%E7%9A%84%E4%BA%A7%E4%B8%9A%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/</guid>
+      <pubDate>Tue, 09 Dec 2025 20:20:43 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，埃隆·马斯克旗下的核心企业SpaceX和特斯拉相继发布重要进展，这些里程碑事件不仅彰显了其在各自领域的领先地位，更从宏观层面揭示了新能源、AI与航天技术融合发展的深层产业逻辑。从SpaceX Starlink项目卫星年度发射量突破3000颗，到特斯拉FSD（Full Self-Driving，全自动驾驶）在欧洲的推广策略及技术性能的显著跃升，再到高性能…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%9F%E6%80%81%E5%9C%88%E6%98%9F%E9%93%BEfsd%E4%B8%8Eroadster%E7%9A%84%E4%BA%A7%E4%B8%9A%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，埃隆·马斯克旗下的核心企业SpaceX和特斯拉相继发布重要进展，这些里程碑事件不仅彰显了其在各自领域的领先地位，更从宏观层面揭示了新能源、AI与航天技术融合发展的深层产业逻辑。从SpaceX Starlink项目卫星年度发射量突破3000颗，到特斯拉FSD（Full Self-Driving，全自动驾驶）在欧洲的推广策略及技术性能的显著跃升，再到高性能…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%9F%E6%80%81%E5%9C%88%E6%98%9F%E9%93%BEfsd%E4%B8%8Eroadster%E7%9A%84%E4%BA%A7%E4%B8%9A%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%9B%BE%E6%99%AF/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category><category>自动驾驶</category></item><item>
+      <title>Former Lucid Chief Engineer Files Lawsuit Alleging Wrongful Termination and Anti-German Bias</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-former-lucid-chief-engineer-files-lawsuit-alleging-wrongful-termination-and-anti/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-former-lucid-chief-engineer-files-lawsuit-alleging-wrongful-termination-and-anti/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:29:35 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-former-lucid-chief-engineer-files-lawsuit-alleging-wrongful-termination-and-anti/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-former-lucid-chief-engineer-files-lawsuit-alleging-wrongful-termination-and-anti/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Waymo issues voluntary software recall after school bus safety incidents</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-waymo-issues-voluntary-software-recall-after-school-bus-safety-incidents/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-waymo-issues-voluntary-software-recall-after-school-bus-safety-incidents/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:29:24 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-waymo-issues-voluntary-software-recall-after-school-bus-safety-incidents/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>【额度耗尽提示】今日Gemini免费额度已用完，无法生成优化内容</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-waymo-issues-voluntary-software-recall-after-school-bus-safety-incidents/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>特斯拉假日更新：新增未公开行车记录仪存储功能</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%9C%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E5%AD%98%E5%82%A8%E5%8A%9F%E8%83%BD/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%9C%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E5%AD%98%E5%82%A8%E5%8A%9F%E8%83%BD/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:29:15 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> [IMAGES_INFO] [{&#34;alt&#34;: &#34;dashcam storage&#34;, &#34;path&#34;: &#34;/data/images/2025-12-09/0706afe61f3afa54d9625203272fa818/4d8251b1a9d91c19feb29e7319a9daca.jpg&#34;}]</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%9C%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E5%AD%98%E5%82%A8%E5%8A%9F%E8%83%BD/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>[IMAGES_INFO] [{&#34;alt&#34;: &#34;dashcam storage&#34;, &#34;path&#34;: &#34;/data/images/2025-12-09/0706afe61f3afa54d9625203272fa818/4d8251b1a9d91c19feb29e7319a9daca.jpg&#34;}]</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%96%B0%E5%A2%9E%E6%9C%AA%E5%85%AC%E5%BC%80%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E5%AD%98%E5%82%A8%E5%8A%9F%E8%83%BD/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>软件更新</category></item><item>
+      <title>特斯拉App假日更新深度解析：FSD礼品卡搅动市场，软实力再升级？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90fsd%E7%A4%BC%E5%93%81%E5%8D%A1%E6%90%85%E5%8A%A8%E5%B8%82%E5%9C%BA%E8%BD%AF%E5%AE%9E%E5%8A%9B%E5%86%8D%E5%8D%87%E7%BA%A7/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90fsd%E7%A4%BC%E5%93%81%E5%8D%A1%E6%90%85%E5%8A%A8%E5%B8%82%E5%9C%BA%E8%BD%AF%E5%AE%9E%E5%8A%9B%E5%86%8D%E5%8D%87%E7%BA%A7/</guid>
+      <pubDate>Tue, 09 Dec 2025 16:28:53 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉近日推出的App假日更新（Tesla App Holiday Update）引发了市场广泛关注。此次更新并非仅限于传统的车辆功能改进，而是通过一系列精妙的软件服务与用户体验优化，尤其是FSD（Full Self-Driving）礼品卡的引入，再次展现了特斯拉在构建其独特生态系统方面的深谋远虑。作为资深科技投资分析师，我们认为，这些看似“微创新”的功能，…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90fsd%E7%A4%BC%E5%93%81%E5%8D%A1%E6%90%85%E5%8A%A8%E5%B8%82%E5%9C%BA%E8%BD%AF%E5%AE%9E%E5%8A%9B%E5%86%8D%E5%8D%87%E7%BA%A7/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉近日推出的App假日更新（Tesla App Holiday Update）引发了市场广泛关注。此次更新并非仅限于传统的车辆功能改进，而是通过一系列精妙的软件服务与用户体验优化，尤其是FSD（Full Self-Driving）礼品卡的引入，再次展现了特斯拉在构建其独特生态系统方面的深谋远虑。作为资深科技投资分析师，我们认为，这些看似“微创新”的功能，…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251209-%E7%89%B9%E6%96%AF%E6%8B%89app%E5%81%87%E6%97%A5%E6%9B%B4%E6%96%B0%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90fsd%E7%A4%BC%E5%93%81%E5%8D%A1%E6%90%85%E5%8A%A8%E5%B8%82%E5%9C%BA%E8%BD%AF%E5%AE%9E%E5%8A%9B%E5%86%8D%E5%8D%87%E7%BA%A7/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>FSD</category><category>特斯拉</category></item></channel>
 </rss>
