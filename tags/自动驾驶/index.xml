@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Dec 2025 16:31:32 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Fri, 19 Dec 2025 20:28:10 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉FSD迎来“视觉升级”：微锥主动防眩光技术，如何重塑自动驾驶安全边界？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251219-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BF%8E%E6%9D%A5%E8%A7%86%E8%A7%89%E5%8D%87%E7%BA%A7%E5%BE%AE%E9%94%A5%E4%B8%BB%E5%8A%A8%E9%98%B2%E7%9C%A9%E5%85%89%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251219-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BF%8E%E6%9D%A5%E8%A7%86%E8%A7%89%E5%8D%87%E7%BA%A7%E5%BE%AE%E9%94%A5%E4%B8%BB%E5%8A%A8%E9%98%B2%E7%9C%A9%E5%85%89%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C/</guid>
+      <pubDate>Fri, 19 Dec 2025 20:23:21 &#43;0000</pubDate><description><![CDATA[
+<p>自动驾驶，作为未来出行的核心愿景，其发展进程中始终伴随着一系列复杂的技术挑战。其中，环境感知能力的极限，尤其是极端光照条件下的视觉盲区，一直是制约FSD（Full Self-Driving）系统迈向更高级别自动驾驶，特别是L5级别无人驾驶的关键瓶颈。分析师认为，特斯拉近期披露的一项创新专利，正试图从硬件层面根治这一顽疾，预示着其在解决自动驾驶“边缘案例”方面…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251219-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BF%8E%E6%9D%A5%E8%A7%86%E8%A7%89%E5%8D%87%E7%BA%A7%E5%BE%AE%E9%94%A5%E4%B8%BB%E5%8A%A8%E9%98%B2%E7%9C%A9%E5%85%89%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>自动驾驶，作为未来出行的核心愿景，其发展进程中始终伴随着一系列复杂的技术挑战。其中，环境感知能力的极限，尤其是极端光照条件下的视觉盲区，一直是制约FSD（Full Self-Driving）系统迈向更高级别自动驾驶，特别是L5级别无人驾驶的关键瓶颈。分析师认为，特斯拉近期披露的一项创新专利，正试图从硬件层面根治这一顽疾，预示着其在解决自动驾驶“边缘案例”方面…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251219-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BF%8E%E6%9D%A5%E8%A7%86%E8%A7%89%E5%8D%87%E7%BA%A7%E5%BE%AE%E9%94%A5%E4%B8%BB%E5%8A%A8%E9%98%B2%E7%9C%A9%E5%85%89%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉Cybercab首次现身奥斯汀公共道路测试</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251219-%E7%89%B9%E6%96%AF%E6%8B%89cybercab%E9%A6%96%E6%AC%A1%E7%8E%B0%E8%BA%AB%E5%A5%A5%E6%96%AF%E6%B1%80%E5%85%AC%E5%85%B1%E9%81%93%E8%B7%AF%E6%B5%8B%E8%AF%95/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251219-%E7%89%B9%E6%96%AF%E6%8B%89cybercab%E9%A6%96%E6%AC%A1%E7%8E%B0%E8%BA%AB%E5%A5%A5%E6%96%AF%E6%B1%80%E5%85%AC%E5%85%B1%E9%81%93%E8%B7%AF%E6%B5%8B%E8%AF%95/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉在奥斯汀启动的无人驾驶出租车（Robotaxi）无安全员测试，标志着自动驾驶技术从实验室走向大规模商业化应用的关键转折点。这一进展不仅是特斯拉自身技术成熟度的体现，更在全球范围内预示着智能出行服务生态的加速变革，对新能源汽车（NEV）与人工智能（AI）产业链的宏观走势产生深远影响。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251214-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91%E4%B8%8E%E4%BA%A7%E4%B8%9A%E6%B7%B1%E8%BF%9C%E5%BD%B1%E5%93%8D/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>无形之手：特斯拉Robotaxi的奥斯汀黎明</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251214-%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E5%A5%A5%E6%96%AF%E6%B1%80%E9%BB%8E%E6%98%8E/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251214-%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E5%A5%A5%E6%96%AF%E6%B1%80%E9%BB%8E%E6%98%8E/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:42:51 &#43;0000</pubDate><description><![CDATA[
-<p>德克萨斯州奥斯汀的冬日街头，阳光稀疏地洒落在South Congress和Dawson社区。这是一个寻常的周日下午，车辆穿梭，行人往来，空气中弥漫着咖啡和烤肉的香气。然而，就在这看似平静的日常之下，一场关于未来出行的无声革命，正在悄然上演。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251214-%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E5%A5%A5%E6%96%AF%E6%B1%80%E9%BB%8E%E6%98%8E/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>德克萨斯州奥斯汀的冬日街头，阳光稀疏地洒落在South Congress和Dawson社区。这是一个寻常的周日下午，车辆穿梭，行人往来，空气中弥漫着咖啡和烤肉的香气。然而，就在这看似平静的日常之下，一场关于未来出行的无声革命，正在悄然上演。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251214-%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E5%A5%A5%E6%96%AF%E6%B1%80%E9%BB%8E%E6%98%8E/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
