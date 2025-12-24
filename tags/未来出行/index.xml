@@ -5,7 +5,51 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 24 Dec 2025 16:30:19 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Wed, 24 Dec 2025 20:27:06 &#43;0000</lastBuildDate><item>
+      <title>AI大模型赋能自动驾驶：Waymo集成Gemini，开启智能出行服务新纪元</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251224-ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6waymo%E9%9B%86%E6%88%90gemini%E5%BC%80%E5%90%AF%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%96%B0%E7%BA%AA%E5%85%83/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251224-ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6waymo%E9%9B%86%E6%88%90gemini%E5%BC%80%E5%90%AF%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%96%B0%E7%BA%AA%E5%85%83/</guid>
+      <pubDate>Wed, 24 Dec 2025 20:23:07 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> Waymo在其自动驾驶出租车中测试集成Google Gemini大模型，标志着自动驾驶行业正从单纯的技术竞赛转向用户体验和出行服务价值链的全面升级。这一举动并非简单的功能叠加，而是揭示了AI大模型与自动驾驶技术深度融合的产业趋势，预示着未来出行服务将进入一个以智能化、个性化为核心的新纪元。通过对Waymo移动应用代码的深入分析，研究员发现的1200行系统提示…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6waymo%E9%9B%86%E6%88%90gemini%E5%BC%80%E5%90%AF%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%96%B0%E7%BA%AA%E5%85%83/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>Waymo在其自动驾驶出租车中测试集成Google Gemini大模型，标志着自动驾驶行业正从单纯的技术竞赛转向用户体验和出行服务价值链的全面升级。这一举动并非简单的功能叠加，而是揭示了AI大模型与自动驾驶技术深度融合的产业趋势，预示着未来出行服务将进入一个以智能化、个性化为核心的新纪元。通过对Waymo移动应用代码的深入分析，研究员发现的1200行系统提示…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6waymo%E9%9B%86%E6%88%90gemini%E5%BC%80%E5%90%AF%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%96%B0%E7%BA%AA%E5%85%83/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>旧金山停电暴露Waymo自动驾驶短板：软件迭代如何重塑信任与效率？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E6%97%A7%E9%87%91%E5%B1%B1%E5%81%9C%E7%94%B5%E6%9A%B4%E9%9C%B2waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9F%AD%E6%9D%BF%E8%BD%AF%E4%BB%B6%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BF%A1%E4%BB%BB%E4%B8%8E%E6%95%88%E7%8E%87/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E6%97%A7%E9%87%91%E5%B1%B1%E5%81%9C%E7%94%B5%E6%9A%B4%E9%9C%B2waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9F%AD%E6%9D%BF%E8%BD%AF%E4%BB%B6%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BF%A1%E4%BB%BB%E4%B8%8E%E6%95%88%E7%8E%87/</guid>
+      <pubDate>Wed, 24 Dec 2025 20:22:46 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近日，Waymo公司对外解释了其无人驾驶出租车在旧金山大规模停电期间遭遇“停摆”困境的原因，并宣布将发布软件更新以提升车辆在面对交通灯失灵时的“决策果断性”。此次事件不仅揭示了L4级自动驾驶技术在极端“边缘场景”下的挑战，也为市场提供了观察其商业化路径和技术迭代能力的关键窗口。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E6%97%A7%E9%87%91%E5%B1%B1%E5%81%9C%E7%94%B5%E6%9A%B4%E9%9C%B2waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9F%AD%E6%9D%BF%E8%BD%AF%E4%BB%B6%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BF%A1%E4%BB%BB%E4%B8%8E%E6%95%88%E7%8E%87/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近日，Waymo公司对外解释了其无人驾驶出租车在旧金山大规模停电期间遭遇“停摆”困境的原因，并宣布将发布软件更新以提升车辆在面对交通灯失灵时的“决策果断性”。此次事件不仅揭示了L4级自动驾驶技术在极端“边缘场景”下的挑战，也为市场提供了观察其商业化路径和技术迭代能力的关键窗口。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E6%97%A7%E9%87%91%E5%B1%B1%E5%81%9C%E7%94%B5%E6%9A%B4%E9%9C%B2waymo%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9F%AD%E6%9D%BF%E8%BD%AF%E4%BB%B6%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BF%A1%E4%BB%BB%E4%B8%8E%E6%95%88%E7%8E%87/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>别小看清洁费！特斯拉Robotaxi的“隐形”黑科技，正在为无人驾驶规模化铺路！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E5%88%AB%E5%B0%8F%E7%9C%8B%E6%B8%85%E6%B4%81%E8%B4%B9%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E9%9A%90%E5%BD%A2%E9%BB%91%E7%A7%91%E6%8A%80%E6%AD%A3%E5%9C%A8%E4%B8%BA%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%A7%84%E6%A8%A1%E5%8C%96%E9%93%BA%E8%B7%AF/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E5%88%AB%E5%B0%8F%E7%9C%8B%E6%B8%85%E6%B4%81%E8%B4%B9%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E9%9A%90%E5%BD%A2%E9%BB%91%E7%A7%91%E6%8A%80%E6%AD%A3%E5%9C%A8%E4%B8%BA%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%A7%84%E6%A8%A1%E5%8C%96%E9%93%BA%E8%B7%AF/</guid>
+      <pubDate>Wed, 24 Dec 2025 20:22:25 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 各位硬核极客们，你们有没有觉得，最近特斯拉的每一个小动作，都像是在为某个惊天大招做铺垫？没错，我说的就是最近Robotaxi服务悄然上线的“清洁费”机制！别以为这只是个小小的收费政策，在我看来，这简直是特斯拉在为FSD（Full Self-Driving）大规模商业化落地，搭建的又一块至关重要的“基石”！这不仅仅关乎钱，更关乎无人驾驶运营的极致细节和未来愿景…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E5%88%AB%E5%B0%8F%E7%9C%8B%E6%B8%85%E6%B4%81%E8%B4%B9%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E9%9A%90%E5%BD%A2%E9%BB%91%E7%A7%91%E6%8A%80%E6%AD%A3%E5%9C%A8%E4%B8%BA%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%A7%84%E6%A8%A1%E5%8C%96%E9%93%BA%E8%B7%AF/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>各位硬核极客们，你们有没有觉得，最近特斯拉的每一个小动作，都像是在为某个惊天大招做铺垫？没错，我说的就是最近Robotaxi服务悄然上线的“清洁费”机制！别以为这只是个小小的收费政策，在我看来，这简直是特斯拉在为FSD（Full Self-Driving）大规模商业化落地，搭建的又一块至关重要的“基石”！这不仅仅关乎钱，更关乎无人驾驶运营的极致细节和未来愿景…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E5%88%AB%E5%B0%8F%E7%9C%8B%E6%B8%85%E6%B4%81%E8%B4%B9%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E7%9A%84%E9%9A%90%E5%BD%A2%E9%BB%91%E7%A7%91%E6%8A%80%E6%AD%A3%E5%9C%A8%E4%B8%BA%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%A7%84%E6%A8%A1%E5%8C%96%E9%93%BA%E8%B7%AF/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>FSD</category><category>特斯拉</category><category>自动驾驶</category></item><item>
+      <title>Cybertruck的“巨无霸雨刮”要进化了？！特斯拉硬核工程团队已介入，这波操作有点燃！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251224-cybertruck%E7%9A%84%E5%B7%A8%E6%97%A0%E9%9C%B8%E9%9B%A8%E5%88%AE%E8%A6%81%E8%BF%9B%E5%8C%96%E4%BA%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%A1%AC%E6%A0%B8%E5%B7%A5%E7%A8%8B%E5%9B%A2%E9%98%9F%E5%B7%B2%E4%BB%8B%E5%85%A5%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E7%87%83/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251224-cybertruck%E7%9A%84%E5%B7%A8%E6%97%A0%E9%9C%B8%E9%9B%A8%E5%88%AE%E8%A6%81%E8%BF%9B%E5%8C%96%E4%BA%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%A1%AC%E6%A0%B8%E5%B7%A5%E7%A8%8B%E5%9B%A2%E9%98%9F%E5%B7%B2%E4%BB%8B%E5%85%A5%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E7%87%83/</guid>
+      <pubDate>Wed, 24 Dec 2025 20:22:05 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 各位科技狂热者、特斯拉死忠粉们，爆炸性消息来了！我们都知道Cybertruck那块前所未有、科幻感爆棚的巨大挡风玻璃，以及它上面那个堪称“巨无霸雨刮”的单片式设计。最近，这个独一无二的“巨无霸雨刮”（Gigawiper）竟然登上了特斯拉工程团队的“头条”——他们已经悄然启动了一项针对其性能的工程调查！这可不是小打小闹的维修，而是特斯拉硬核工程师们对极致完美的…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-cybertruck%E7%9A%84%E5%B7%A8%E6%97%A0%E9%9C%B8%E9%9B%A8%E5%88%AE%E8%A6%81%E8%BF%9B%E5%8C%96%E4%BA%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%A1%AC%E6%A0%B8%E5%B7%A5%E7%A8%8B%E5%9B%A2%E9%98%9F%E5%B7%B2%E4%BB%8B%E5%85%A5%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E7%87%83/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>各位科技狂热者、特斯拉死忠粉们，爆炸性消息来了！我们都知道Cybertruck那块前所未有、科幻感爆棚的巨大挡风玻璃，以及它上面那个堪称“巨无霸雨刮”的单片式设计。最近，这个独一无二的“巨无霸雨刮”（Gigawiper）竟然登上了特斯拉工程团队的“头条”——他们已经悄然启动了一项针对其性能的工程调查！这可不是小打小闹的维修，而是特斯拉硬核工程师们对极致完美的…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251224-cybertruck%E7%9A%84%E5%B7%A8%E6%97%A0%E9%9C%B8%E9%9B%A8%E5%88%AE%E8%A6%81%E8%BF%9B%E5%8C%96%E4%BA%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%A1%AC%E6%A0%B8%E5%B7%A5%E7%A8%8B%E5%9B%A2%E9%98%9F%E5%B7%B2%E4%BB%8B%E5%85%A5%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E7%87%83/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Cybertruck</category></item><item>
       <title>特斯拉FSD V14.2.2.1发布：聚焦错误修复</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14221%E5%8F%91%E5%B8%83%E8%81%9A%E7%84%A6%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251224-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14221%E5%8F%91%E5%B8%83%E8%81%9A%E7%84%A6%E9%94%99%E8%AF%AF%E4%BF%AE%E5%A4%8D/</guid>
@@ -76,11 +120,11 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/</guid>
       <pubDate>Wed, 24 Dec 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> 特斯拉Robotaxi服务正式推出两级清洁费政策，标准化了车辆清洁后的费用收取。 NVIDIA机器人部门总监盛赞特斯拉FSD v14已通过“物理图灵测试”，标志着AI驾驶体验达到新高度。 特斯拉AI团队在圣诞期间迅速发布FSD v14.2.2.1更新，进一步优化驾驶性能和稳定性。 埃隆·马斯克旗下的Grok在近期AI可靠性研究中，以8%的幻觉率位居最低，超越ChatGPT等主要竞争对手。 * SpaceX的星链（Starlink）卫星互联网服务用户数迅速突破900万大关，增长势头强劲。</p>
+<p><strong>[每日特报]</strong> 特斯拉Robotaxi服务正式推出两级清洁费政策，分别为50美元和150美元。 特斯拉AI团队发布FSD (Supervised) v14.2.2.1，进一步优化雨天驾驶表现，性能接近Robotaxi。 英伟达机器人总监Jim Fan高度评价特斯拉FSD v14，称其为首个通过“物理图灵测试”的AI。 SpaceX旗下Starlink卫星互联网服务活跃用户数突破900万，数周内新增100万用户。 埃隆·马斯克旗下的Grok聊天机器人在一项AI可靠性研究中录得最低幻觉率，仅为8%。 特斯拉工程师已 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>特斯拉Robotaxi服务正式推出两级清洁费政策，标准化了车辆清洁后的费用收取。 NVIDIA机器人部门总监盛赞特斯拉FSD v14已通过“物理图灵测试”，标志着AI驾驶体验达到新高度。 特斯拉AI团队在圣诞期间迅速发布FSD v14.2.2.1更新，进一步优化驾驶性能和稳定性。 埃隆·马斯克旗下的Grok在近期AI可靠性研究中，以8%的幻觉率位居最低，超越ChatGPT等主要竞争对手。 * SpaceX的星链（Starlink）卫星互联网服务用户数迅速突破900万大关，增长势头强劲。</p>
+<p>特斯拉Robotaxi服务正式推出两级清洁费政策，分别为50美元和150美元。 特斯拉AI团队发布FSD (Supervised) v14.2.2.1，进一步优化雨天驾驶表现，性能接近Robotaxi。 英伟达机器人总监Jim Fan高度评价特斯拉FSD v14，称其为首个通过“物理图灵测试”的AI。 SpaceX旗下Starlink卫星互联网服务活跃用户数突破900万，数周内新增100万用户。 埃隆·马斯克旗下的Grok聊天机器人在一项AI可靠性研究中录得最低幻觉率，仅为8%。 特斯拉工程师已 …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>FSD</category><category>Optimus</category><category>Cybertruck</category><category>Model Y</category></item><item>
       <title>亚马逊旗下Zoox再陷召回风波：自动驾驶安全与商业化之路的警钟？</title>
@@ -511,49 +555,5 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
 <p>瑞典的冬日，冷冽的风裹挟着北海的湿气，穿透了斯德哥尔摩郊外特斯拉服务中心的玻璃幕墙。然而，比气候更冰冷的，是空气中弥漫的僵持与对抗。数月来，这里已是抗议的常态，身着不同工会马甲的工人，他们的呼喊声在机械的轰鸣声中显得格外刺耳，却又坚定不移。这是一场旷日持久的劳资拉锯战，由瑞典Vision工会与IF Metall工会联合发起，旨在迫使电动汽车巨头特斯拉签署集体…</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%86%B0%E9%9B%AA%E4%B8%8B%E7%9A%84%E6%88%98%E7%81%AB%E7%89%B9%E6%96%AF%E6%8B%89%E5%8C%97%E6%AC%A7%E8%BF%B7%E5%B1%80%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E8%A7%84%E5%88%99%E4%B8%8E%E6%84%8F%E5%BF%97%E7%9A%84%E8%BE%83%E9%87%8F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
-      <title>特斯拉Robotaxi应用悄悄升级？别小看这些细节，这可是FSD走向L5的硬核基石！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BA%94%E7%94%A8%E6%82%84%E6%82%84%E5%8D%87%E7%BA%A7%E5%88%AB%E5%B0%8F%E7%9C%8B%E8%BF%99%E4%BA%9B%E7%BB%86%E8%8A%82%E8%BF%99%E5%8F%AF%E6%98%AFfsd%E8%B5%B0%E5%90%91l5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%9F%BA%E7%9F%B3/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BA%94%E7%94%A8%E6%82%84%E6%82%84%E5%8D%87%E7%BA%A7%E5%88%AB%E5%B0%8F%E7%9C%8B%E8%BF%99%E4%BA%9B%E7%BB%86%E8%8A%82%E8%BF%99%E5%8F%AF%E6%98%AFfsd%E8%B5%B0%E5%90%91l5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%9F%BA%E7%9F%B3/</guid>
-      <pubDate>Sat, 20 Dec 2025 20:20:51 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 各位极客们，有没有发现最近特斯拉Robotaxi应用的一些“小动作”？表面上看，这波更新似乎只是些不起眼的UI/UX调整，比如加了个雪花特效，或者优化了反馈机制。但作为资深科技极客，我敢说，这些绝不是简单的“花架子”！它们是特斯拉在FSD（Full Self-Driving）迈向L5级全自动驾驶征途上，悄然埋下的硬核基石。每一次看似微不足道的迭代，都在为未来…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BA%94%E7%94%A8%E6%82%84%E6%82%84%E5%8D%87%E7%BA%A7%E5%88%AB%E5%B0%8F%E7%9C%8B%E8%BF%99%E4%BA%9B%E7%BB%86%E8%8A%82%E8%BF%99%E5%8F%AF%E6%98%AFfsd%E8%B5%B0%E5%90%91l5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%9F%BA%E7%9F%B3/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>各位极客们，有没有发现最近特斯拉Robotaxi应用的一些“小动作”？表面上看，这波更新似乎只是些不起眼的UI/UX调整，比如加了个雪花特效，或者优化了反馈机制。但作为资深科技极客，我敢说，这些绝不是简单的“花架子”！它们是特斯拉在FSD（Full Self-Driving）迈向L5级全自动驾驶征途上，悄然埋下的硬核基石。每一次看似微不足道的迭代，都在为未来…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BA%94%E7%94%A8%E6%82%84%E6%82%84%E5%8D%87%E7%BA%A7%E5%88%AB%E5%B0%8F%E7%9C%8B%E8%BF%99%E4%BA%9B%E7%BB%86%E8%8A%82%E8%BF%99%E5%8F%AF%E6%98%AFfsd%E8%B5%B0%E5%90%91l5%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%9F%BA%E7%9F%B3/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>自动驾驶</category><category>FSD</category></item><item>
-      <title>FSD的视觉突围：特斯拉如何驯服阳光，磨砺“自动驾驶之眼”</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251220-fsd%E7%9A%84%E8%A7%86%E8%A7%89%E7%AA%81%E5%9B%B4%E7%89%B9%E6%96%AF%E6%8B%89%E5%A6%82%E4%BD%95%E9%A9%AF%E6%9C%8D%E9%98%B3%E5%85%89%E7%A3%A8%E7%A0%BA%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%B9%8B%E7%9C%BC/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251220-fsd%E7%9A%84%E8%A7%86%E8%A7%89%E7%AA%81%E5%9B%B4%E7%89%B9%E6%96%AF%E6%8B%89%E5%A6%82%E4%BD%95%E9%A9%AF%E6%9C%8D%E9%98%B3%E5%85%89%E7%A3%A8%E7%A0%BA%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%B9%8B%E7%9C%BC/</guid>
-      <pubDate>Sat, 20 Dec 2025 20:20:27 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 清晨，第一缕阳光如利剑般划破地平线，直射入加州高速公路上疾驰的车辆。对于人类驾驶员而言，这不过是升起遮阳板，或者戴上墨镜的瞬间。然而，对于车顶那颗无声的“眼睛”——特斯拉的FSD（Full Self-Driving，全自动驾驶）系统核心摄像头而言，这突如其来的强光，却可能是一场瞬间的“失明”。画面被刺目的白色吞噬，路面、标识、甚至前方的车辆都变得模糊不清，犹…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-fsd%E7%9A%84%E8%A7%86%E8%A7%89%E7%AA%81%E5%9B%B4%E7%89%B9%E6%96%AF%E6%8B%89%E5%A6%82%E4%BD%95%E9%A9%AF%E6%9C%8D%E9%98%B3%E5%85%89%E7%A3%A8%E7%A0%BA%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%B9%8B%E7%9C%BC/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>清晨，第一缕阳光如利剑般划破地平线，直射入加州高速公路上疾驰的车辆。对于人类驾驶员而言，这不过是升起遮阳板，或者戴上墨镜的瞬间。然而，对于车顶那颗无声的“眼睛”——特斯拉的FSD（Full Self-Driving，全自动驾驶）系统核心摄像头而言，这突如其来的强光，却可能是一场瞬间的“失明”。画面被刺目的白色吞噬，路面、标识、甚至前方的车辆都变得模糊不清，犹…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-fsd%E7%9A%84%E8%A7%86%E8%A7%89%E7%AA%81%E5%9B%B4%E7%89%B9%E6%96%AF%E6%8B%89%E5%A6%82%E4%BD%95%E9%A9%AF%E6%9C%8D%E9%98%B3%E5%85%89%E7%A3%A8%E7%A0%BA%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%B9%8B%E7%9C%BC/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>自动驾驶</category><category>FSD</category></item><item>
-      <title>寂静的电流：北伯灵顿的特斯拉充电新篇</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%AF%82%E9%9D%99%E7%9A%84%E7%94%B5%E6%B5%81%E5%8C%97%E4%BC%AF%E7%81%B5%E9%A1%BF%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%96%B0%E7%AF%87/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%AF%82%E9%9D%99%E7%9A%84%E7%94%B5%E6%B5%81%E5%8C%97%E4%BC%AF%E7%81%B5%E9%A1%BF%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%96%B0%E7%AF%87/</guid>
-      <pubDate>Sat, 20 Dec 2025 16:23:27 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 安大略省北伯灵顿的冬日，寒风凛冽，却无法冷却这片工地上涌动的热潮。挖掘机轰鸣着，钢筋水泥在泥泞中逐渐勾勒出未来的轮廓。这不是普通的建筑工地，而是一场无声革命的新前哨——一处全新的特斯拉超级充电站，正悄然在此拔地而起。它没有出现在特斯拉官方那张“即将上线”的地图上，却以一种更为直接的方式，宣告着未来的到来。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%AF%82%E9%9D%99%E7%9A%84%E7%94%B5%E6%B5%81%E5%8C%97%E4%BC%AF%E7%81%B5%E9%A1%BF%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%96%B0%E7%AF%87/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>安大略省北伯灵顿的冬日，寒风凛冽，却无法冷却这片工地上涌动的热潮。挖掘机轰鸣着，钢筋水泥在泥泞中逐渐勾勒出未来的轮廓。这不是普通的建筑工地，而是一场无声革命的新前哨——一处全新的特斯拉超级充电站，正悄然在此拔地而起。它没有出现在特斯拉官方那张“即将上线”的地图上，却以一种更为直接的方式，宣告着未来的到来。</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%AF%82%E9%9D%99%E7%9A%84%E7%94%B5%E6%B5%81%E5%8C%97%E4%BC%AF%E7%81%B5%E9%A1%BF%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%85%E7%94%B5%E6%96%B0%E7%AF%87/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
-      <title>幽灵之手：福特27万辆电动与混动车的P挡谜团</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%B9%BD%E7%81%B5%E4%B9%8B%E6%89%8B%E7%A6%8F%E7%89%B927%E4%B8%87%E8%BE%86%E7%94%B5%E5%8A%A8%E4%B8%8E%E6%B7%B7%E5%8A%A8%E8%BD%A6%E7%9A%84p%E6%8C%A1%E8%B0%9C%E5%9B%A2/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%B9%BD%E7%81%B5%E4%B9%8B%E6%89%8B%E7%A6%8F%E7%89%B927%E4%B8%87%E8%BE%86%E7%94%B5%E5%8A%A8%E4%B8%8E%E6%B7%B7%E5%8A%A8%E8%BD%A6%E7%9A%84p%E6%8C%A1%E8%B0%9C%E5%9B%A2/</guid>
-      <pubDate>Sat, 20 Dec 2025 16:23:06 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 夜幕低垂，城市在霓虹中渐次沉寂。一位车主将他的F-150 Lightning稳稳停入车位，熄火，挂入P挡，一切如常。然而，就在他转身离去的那一刻，车轮下传来一声轻微的、几乎不可察觉的异响。下一秒，原本静止的庞然大物，竟在泊车制动未完全锁止的寂静中，缓缓向前滑行了一小段距离。这并非科幻电影中的“幽灵驾驶”，而是福特汽车近期宣布的一项大规模召回背后，一个令人不安…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%B9%BD%E7%81%B5%E4%B9%8B%E6%89%8B%E7%A6%8F%E7%89%B927%E4%B8%87%E8%BE%86%E7%94%B5%E5%8A%A8%E4%B8%8E%E6%B7%B7%E5%8A%A8%E8%BD%A6%E7%9A%84p%E6%8C%A1%E8%B0%9C%E5%9B%A2/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>夜幕低垂，城市在霓虹中渐次沉寂。一位车主将他的F-150 Lightning稳稳停入车位，熄火，挂入P挡，一切如常。然而，就在他转身离去的那一刻，车轮下传来一声轻微的、几乎不可察觉的异响。下一秒，原本静止的庞然大物，竟在泊车制动未完全锁止的寂静中，缓缓向前滑行了一小段距离。这并非科幻电影中的“幽灵驾驶”，而是福特汽车近期宣布的一项大规模召回背后，一个令人不安…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251220-%E5%B9%BD%E7%81%B5%E4%B9%8B%E6%89%8B%E7%A6%8F%E7%89%B927%E4%B8%87%E8%BE%86%E7%94%B5%E5%8A%A8%E4%B8%8E%E6%B7%B7%E5%8A%A8%E8%BD%A6%E7%9A%84p%E6%8C%A1%E8%B0%9C%E5%9B%A2/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category></item></channel>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item></channel>
 </rss>
