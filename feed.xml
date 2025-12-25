@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 25 Dec 2025 12:43:57 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Thu, 25 Dec 2025 16:28:58 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
       <title>AI大模型赋能自动驾驶：Waymo集成Gemini，开启智能出行服务新纪元</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20251224-ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6waymo%E9%9B%86%E6%88%90gemini%E5%BC%80%E5%90%AF%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%96%B0%E7%BA%AA%E5%85%83/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251224-ai%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6waymo%E9%9B%86%E6%88%90gemini%E5%BC%80%E5%90%AF%E6%99%BA%E8%83%BD%E5%87%BA%E8%A1%8C%E6%9C%8D%E5%8A%A1%E6%96%B0%E7%BA%AA%E5%85%83/</guid>
@@ -131,11 +131,11 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/</guid>
       <pubDate>Wed, 24 Dec 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> 特斯拉发布FSD (Supervised) v14.2.2.1，修复bug并提升雨中驾驶性能。 NVIDIA机器人总监Jim Fan高度评价FSD v14通过其定义的“物理图灵测试”。 特斯拉Robotaxi服务正式推出两级清洁费政策：中度脏污50美元，严重脏污150美元。 美国NHTSA对2022年款Model 3紧急车门把手设计展开评估，涉及约17.9万辆车。 * 特斯拉工程师正在调查Cybertruck独特“巨型雨刮器”的性能问题。</p>
+<p><strong>[每日特报]</strong> 此外，特斯拉AI团队在圣诞期间不懈努力，迅速发布了FSD (Supervised) v14.2.2.1，距离v14.2.2版本推出仅隔一天，展现了惊人的迭代速度。根据FSD测试者的反馈，在洛杉矶雨天积水和车道线模糊的恶劣条件下，新版本表现出零转向迟疑、自信的变道以及精确的操作，停车性能也显著提升，甚至能比人类驾驶员更好地识别车道线并精准定位。这种快速的迭代更新和在极端条件下的优异表现，展现了特斯拉AI团队强大的研发效率和FSD系统持续进化的能力，意味着该技术正朝着更安全、更可靠的方向快速迈进，为 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>特斯拉发布FSD (Supervised) v14.2.2.1，修复bug并提升雨中驾驶性能。 NVIDIA机器人总监Jim Fan高度评价FSD v14通过其定义的“物理图灵测试”。 特斯拉Robotaxi服务正式推出两级清洁费政策：中度脏污50美元，严重脏污150美元。 美国NHTSA对2022年款Model 3紧急车门把手设计展开评估，涉及约17.9万辆车。 * 特斯拉工程师正在调查Cybertruck独特“巨型雨刮器”的性能问题。</p>
+<p>此外，特斯拉AI团队在圣诞期间不懈努力，迅速发布了FSD (Supervised) v14.2.2.1，距离v14.2.2版本推出仅隔一天，展现了惊人的迭代速度。根据FSD测试者的反馈，在洛杉矶雨天积水和车道线模糊的恶劣条件下，新版本表现出零转向迟疑、自信的变道以及精确的操作，停车性能也显著提升，甚至能比人类驾驶员更好地识别车道线并精准定位。这种快速的迭代更新和在极端条件下的优异表现，展现了特斯拉AI团队强大的研发效率和FSD系统持续进化的能力，意味着该技术正朝着更安全、更可靠的方向快速迈进，为 …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>FSD</category><category>Optimus</category><category>Cybertruck</category><category>Model 3</category><category>Model Y</category></item><item>
       <title>亚马逊旗下Zoox再陷召回风波：自动驾驶安全与商业化之路的警钟？</title>
