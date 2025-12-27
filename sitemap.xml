@@ -7,7 +7,7 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/categories/</loc>
     
     
-    <lastmod>2025-12-26T16:24:26Z</lastmod>
+    <lastmod>2025-12-27T16:23:38Z</lastmod>
     
     
     <changefreq>monthly</changefreq>
@@ -24,7 +24,7 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
     
     
-    <lastmod>2025-12-26T16:24:26Z</lastmod>
+    <lastmod>2025-12-27T16:23:38Z</lastmod>
     
     
     <changefreq>daily</changefreq>
@@ -41,7 +41,7 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/</loc>
     
     
-    <lastmod>2025-12-26T16:24:26Z</lastmod>
+    <lastmod>2025-12-27T16:23:38Z</lastmod>
     
     
     <changefreq>monthly</changefreq>
@@ -58,7 +58,7 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/categories/%E7%89%B9%E6%96%AF%E6%8B%89/</loc>
     
     
-    <lastmod>2025-12-26T16:24:26Z</lastmod>
+    <lastmod>2025-12-27T16:23:38Z</lastmod>
     
     
     <changefreq>monthly</changefreq>
@@ -75,13 +75,81 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/%E7%89%B9%E6%96%AF%E6%8B%89/</loc>
     
     
-    <lastmod>2025-12-26T16:24:26Z</lastmod>
+    <lastmod>2025-12-27T16:23:38Z</lastmod>
     
     
     <changefreq>monthly</changefreq>
     
     <priority>
       0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
+    
+    
+    <lastmod>2025-12-27T16:23:38Z</lastmod>
+    
+    
+    <changefreq>weekly</changefreq>
+    
+    <priority>
+      1.0
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20251227-%E7%89%B9%E6%96%AF%E6%8B%89%E6%95%B0%E5%AD%97%E8%BD%A6%E9%92%A5%E5%8C%99%E6%88%98%E7%95%A5%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%A0%B4%E5%B1%80%E4%B8%8E%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E5%BA%A7%E8%88%B1%E7%94%9F%E6%80%81%E7%9A%84%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF/</loc>
+    
+    
+    <lastmod>2025-12-27T16:23:38Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/daily/</loc>
+    
+    
+    <lastmod>2025-12-27T00:00:00Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.85
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-27/</loc>
+    
+    
+    <lastmod>2025-12-27T00:00:00Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.85
       
     </priority>
   </url>
@@ -99,23 +167,6 @@
     
     <priority>
       0.9
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
-    
-    
-    <lastmod>2025-12-26T16:24:26Z</lastmod>
-    
-    
-    <changefreq>weekly</changefreq>
-    
-    <priority>
-      1.0
       
     </priority>
   </url>
@@ -320,23 +371,6 @@
     
     <priority>
       0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/daily/</loc>
-    
-    
-    <lastmod>2025-12-26T00:00:00Z</lastmod>
-    
-    
-    <changefreq>daily</changefreq>
-    
-    <priority>
-      0.85
       
     </priority>
   </url>
