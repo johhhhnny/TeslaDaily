@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<meta name="google-site-verification" content="v2g5WeUWzHxKcSYMyfBqkcQy0Hnw82Kqp6nwJyxd5yE" />
+
+<title>Rivian R1T/R1S召回事件：当黑科技遇上螺丝松动，OTA也无能为力？！ | 特斯拉日报</title>
+
+<meta name="description" content="各位硬核极客们，最近Rivian的一则召回消息，瞬间刷爆了我的朋友圈！乍一听，“召回”这词儿总让人心里一沉，但作为一名狂热的科技极客和早期采用者，我更想深扒一下这背后到底藏着哪些值得我们关注的技术细节和行业洞察。这次召回关乎R1T电动皮卡和R1S电动SUV，原因竟然是——安全带没拧紧！这听起来有点“掉链子”，但别急，我们来好好分析一下，这到底是品控硬伤，还是…">
+
+
+<link rel="canonical" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-rivian-r1tr1s%E5%8F%AC%E5%9B%9E%E4%BA%8B%E4%BB%B6%E5%BD%93%E9%BB%91%E7%A7%91%E6%8A%80%E9%81%87%E4%B8%8A%E8%9E%BA%E4%B8%9D%E6%9D%BE%E5%8A%A8ota%E4%B9%9F%E6%97%A0%E8%83%BD%E4%B8%BA%E5%8A%9B/">
+
+
+<meta property="og:title" content="Rivian R1T/R1S召回事件：当黑科技遇上螺丝松动，OTA也无能为力？！ | 特斯拉日报">
+<meta property="og:description" content="各位硬核极客们，最近Rivian的一则召回消息，瞬间刷爆了我的朋友圈！乍一听，“召回”这词儿总让人心里一沉，但作为一名狂热的科技极客和早期采用者，我更想深扒一下这背后到底藏着哪些值得我们关注的技术细节和行业洞察。这次召回关乎R1T电动皮卡和R1S电动SUV，原因竟然是——安全带没拧紧！这听起来有点“掉链子”，但别急，我们来好好分析一下，这到底是品控硬伤，还是…">
+<meta property="og:url" content="https://johhhhnny.github.io/TeslaDaily/posts/20260127-rivian-r1tr1s%E5%8F%AC%E5%9B%9E%E4%BA%8B%E4%BB%B6%E5%BD%93%E9%BB%91%E7%A7%91%E6%8A%80%E9%81%87%E4%B8%8A%E8%9E%BA%E4%B8%9D%E6%9D%BE%E5%8A%A8ota%E4%B9%9F%E6%97%A0%E8%83%BD%E4%B8%BA%E5%8A%9B/">
+<meta property="og:type" content="article">
+
+
+
+<meta property="article:published_time" content="2026-01-27T16:33:07Z">
+
+<meta property="article:modified_time" content="2026-01-27T16:33:07Z">
+
+
+<meta property="article:author" content="Ada">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Rivian R1T/R1S召回事件：当黑科技遇上螺丝松动，OTA也无能为力？！ | 特斯拉日报">
+<meta name="twitter:description" content="各位硬核极客们，最近Rivian的一则召回消息，瞬间刷爆了我的朋友圈！乍一听，“召回”这词儿总让人心里一沉，但作为一名狂热的科技极客和早期采用者，我更想深扒一下这背后到底藏着哪些值得我们关注的技术细节和行业洞察。这次召回关乎R1T电动皮卡和R1S电动SUV，原因竟然是——安全带没拧紧！这听起来有点“掉链子”，但别急，我们来好好分析一下，这到底是品控硬伤，还是…">
+<meta name="twitter:site" content="@TeslaDaily">
+
+
+<meta name="keywords" content=", 特斯拉, Tesla">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Rivian R1T\/R1S召回事件：当黑科技遇上螺丝松动，OTA也无能为力？！",
+  "description": "各位硬核极客们，最近Rivian的一则召回消息，瞬间刷爆了我的朋友圈！乍一听，“召回”这词儿总让人心里一沉，但作为一名狂热的科技极客和早期采用者，我更想深扒一下这背后到底藏着哪些值得我们关注的技术细节和行业洞察。这次召回关乎R1T电动皮卡和R1S电动SUV，原因竟然是——安全带没拧紧！这听起来有点“掉链子”，但别急，我们来好好分析一下，这到底是品控硬伤，还是…",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20260127-rivian-r1tr1s%E5%8F%AC%E5%9B%9E%E4%BA%8B%E4%BB%B6%E5%BD%93%E9%BB%91%E7%A7%91%E6%8A%80%E9%81%87%E4%B8%8A%E8%9E%BA%E4%B8%9D%E6%9D%BE%E5%8A%A8ota%E4%B9%9F%E6%97%A0%E8%83%BD%E4%B8%BA%E5%8A%9B\/"
+  },
+  "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20260127-rivian-r1tr1s%E5%8F%AC%E5%9B%9E%E4%BA%8B%E4%BB%B6%E5%BD%93%E9%BB%91%E7%A7%91%E6%8A%80%E9%81%87%E4%B8%8A%E8%9E%BA%E4%B8%9D%E6%9D%BE%E5%8A%A8ota%E4%B9%9F%E6%97%A0%E8%83%BD%E4%B8%BA%E5%8A%9B\/",
+  "datePublished": "2026-01-27T16:33:07Z",
+  "dateModified": "2026-01-27T16:33:07Z",
+  "author": {
+    "@type": "Person",
+    "name": "Ada"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "特斯拉日报",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/images\/logo-tire-classic.svg"
+    }
+  }
+}
+</script>
+
+
+
+      <link rel="stylesheet" href="/TeslaDaily/css/main.min.0ed04894cb44c2b94c2fc3cd4eab1b7622f25031fb03aa77974e360e68b77dba.css" integrity="sha256-DtBIlMtEwrlML8PNTqsbdiLyUDH7A6p3l042Dmi3fbo=" crossorigin="anonymous">
+
+<link rel="icon" type="image/svg+xml" href="https://johhhhnny.github.io/TeslaDaily/favicon.svg"> 
+<link rel="icon" type="image/x-icon" href="https://johhhhnny.github.io/TeslaDaily/favicon.ico"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://johhhhnny.github.io/TeslaDaily/favicon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://johhhhnny.github.io/TeslaDaily/favicon-32.png"> 
+<link rel="icon" type="image/png" sizes="64x64" href="https://johhhhnny.github.io/TeslaDaily/favicon-64.png"> 
+
+</head>
+<body>
+  <header class="py-6"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+	<div class="flex items-center">
+		<div class="flex items-center">
+			<button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
+				<svg width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+					<path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"></path>
+				</svg>
+				<span class="rounded-full p-2.5">
+					<img src="/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="group-hover:animate-spin" />
+				</span>
+			</button>
+			<div class="relative rounded-full py-1.5 px-6 bg-zinc-100 hover:bg-zinc-200 text-xl font-bold uppercase mx-2">
+				<h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="https://johhhhnny.github.io/TeslaDaily/">
+				<span class="uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+				</a></h2>
+			</div>
+		</div>
+		<div class="flex items-center ml-auto space-x-2">
+			<button class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="search-bar">
+				<svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path id="path1" class="transition-all ease-linear" d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+					<path id="path2" class="transition-all ease-linear hidden" d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
+				</svg>
+			</button>
+			<a class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/feed.xml" rel="noopener" aria-label="订阅RSS">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path d="M2 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"></path>
+					<path d="M2 2.5a.5.5 0 0 1 .5-.5c6.627 0 12 5.373 12 12a.5.5 0 0 1-1 0C13.5 8.134 7.866 2.5 2.5 2.5a.5.5 0 0 1-.5-.5z"></path>
+					<path d="M2 6a.5.5 0 0 1 .5-.5A7.5 7.5 0 0 1 10 13.5a.5.5 0 0 1-1 0A6.5 6.5 0 0 0 2.5 6.5.5.5 0 0 1 2 6z"></path>
+				</svg>
+			</a>
+		</div>
+	</div>
+  <nav id="menu-bar" class="block mt-3 open">
+    <ul class="flex items-center flex flex-nowrap whitespace-nowrap overflow-x-auto space-x-4">
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/">首页</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/daily/">每日特报</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/story/">特有故事</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/archives/">特新消息</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/about/">关于</a>
+    </li>
+    </ul>
+  </nav>
+<div id="search-bar" class="block mt-3 close">
+	<form id="search" class="flex items-stretch" action="https://www.google.com/search" method="get" target="_blank">
+		<input type="hidden" name="sitesearch" value="johhhhnny.github.io/TeslaDaily">
+		<input class="w-full block px-6 py-2 rounded-l-full focus:outline-none border border-zinc-200" type="text" name="q" placeholder="搜索...">
+		<button class="flex items-center px-7 py-2.5 rounded-r-full border border-zinc-200" type="submit">
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-pulse" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+			</svg>
+		</button>
+	</form>
+</div></div></header>
+  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+	<ul class="flex space-x-4 text-sm text-zinc-500">
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/">特斯拉日报</a>
+		</li>
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/posts/">文章</a>
+		</li>
+	</ul>
+</div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+
+  <article class="md:col-span-2 prose lg:prose-lg">
+
+    <header class="not-prose">
+
+      <h1 id="title" class="text-4xl font-bold leading-normal">Rivian R1T/R1S召回事件：当黑科技遇上螺丝松动，OTA也无能为力？！</h1>
+
+      <div id="lead" class="my-6">
+
+        <p class="font-bold">各位硬核极客们，最近Rivian的一则召回消息，瞬间刷爆了我的朋友圈！乍一听，“召回”这词儿总让人心里一沉，但作为一名狂热的科技极客和早期采用者，我更想深扒一下这背后到底藏着哪些值得我们关注的技术细节和行业洞察。这次召回关乎R1T电动皮卡和R1S电动SUV，原因竟然是——安全带没拧紧！这听起来有点“掉链子”，但别急，我们来好好分析一下，这到底是品控硬伤，还是… </p>
+
+      </div>
+
+      <div id="writer" class="flex items-center space-x-4"><img class="w-12 h-12 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/ada.png" alt="Ada avatar"><ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+
+          <li class="font-semibold my-2">Ada</li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2026-01-27T16:33:07&#43;00:00">January 27, 2026</time>
+          </li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            1 min read
+          </li>
+
+        </ul>
+
+      </div>
+
+    </header>
+
+    <figure id="featureimage" class="rounded-xl aspect-video">
+      <img class="rounded-lg" src="https://johhhhnny.github.io/TeslaDaily/images/20260127-rivian-r1tr1s%E5%8F%AC%E5%9B%9E%E4%BA%8B%E4%BB%B6%E5%BD%93%E9%BB%91%E7%A7%91%E6%8A%80%E9%81%87%E4%B8%8A%E8%9E%BA%E4%B8%9D%E6%9D%BE%E5%8A%A8ota%E4%B9%9F%E6%97%A0%E8%83%BD%E4%B8%BA%E5%8A%9B/6f3642a47709aefd788508de1fb3cd3b_hu_c73b1239d79037b8.jpg" alt="" width="750"
+        height="500" loading="lazy">
+
+    </figure>
+
+    <div id="content" class="mb-14">
+      <p>各位硬核极客们，最近Rivian的一则召回消息，瞬间刷爆了我的朋友圈！乍一听，“召回”这词儿总让人心里一沉，但作为一名狂热的科技极客和早期采用者，我更想深扒一下这背后到底藏着哪些值得我们关注的技术细节和行业洞察。这次召回关乎R1T电动皮卡和R1S电动SUV，原因竟然是——安全带没拧紧！这听起来有点“掉链子”，但别急，我们来好好分析一下，这到底是品控硬伤，还是Rivian主动担当的实力秀肌肉？</p>
+<p>这次召回的核心问题集中在部分2022-2025款R1T和2022-2026款R1S车型上，总计869辆。根据美国国家公路交通安全管理局（NHTSA）的文件，第二排驾驶员侧和乘客侧安全带回缩器（retractor assembly）的固定螺栓，在生产过程中可能没有被充分拧紧。各位可能要问了，回缩器是啥？简单来说，它就是安全带内部负责卷收和锁定安全带的机构，如果它没固定好，在碰撞发生时，安全带就可能无法按预期约束乘员，这可是关乎生命安全的大事！</p>
+<h2 id="极客点评小瑕疵大洞察rivian如何发现问题">极客点评：小瑕疵，大洞察！Rivian如何发现问题？</h2>
+<p>尽管这次召回涉及的是物理螺栓问题，但Rivian发现问题的过程，却充满了现代工业品控的“硬核”味道。</p>
+<ul>
+<li><strong>偶然发现的“蝴蝶效应”：</strong> 事情的起因，竟然是2025年9月16日，一位服务技师在例行检查一辆R1T时，偶然发现了一个未正确固定的安全带回缩器。各位，这可不是什么高大上的AI算法自动预警，而是最基础、最关键的人工检查！但正是这种“草根”发现，引爆了后续一系列深入调查。</li>
+<li><strong>数据驱动的深度溯源：</strong> 发现问题后，Rivian的“现场性能团队”（Field Performance team）立即启动了长达数月的内部调查。他们没有凭空猜测，而是通过审查详细的制造和流程记录，精准地追溯到了一批在2021年9月15日至2025年5月15日期间生产的车辆。这种基于生产数据的精准定位，正是现代智能制造的体现，它能够将问题范围缩小到最小，避免不必要的全面召回，效率炸裂！</li>
+<li><strong>低缺陷率下的“零容忍”：</strong> 尽管Rivian估计，在召回的车辆中，实际存在缺陷的比例可能只有约1%！而且，截至目前，公司尚未收到任何与此问题相关的碰撞或受伤报告。甚至，有些车主可能只会听到C柱附近有轻微的“咔哒”声，这可能是回缩器未完全固定的迹象。即便如此，Rivian依然选择了主动召回，这无疑体现了他们对用户安全的“零容忍”态度，值得点赞！</li>
+</ul>
+<h2 id="ota的边界硬件问题必须硬核解决">OTA的边界：硬件问题，必须硬核解决！</h2>
+<p>我们都知道，在电动车时代，OTA（Over-The-Air）空中升级简直就是“黑科技”的代名词。特斯拉、Rivian等新势力，动不动就能通过一次OTA更新，给车辆带来性能提升、新功能解锁，甚至修复软件bug。但这次，Rivian明确表示，这个安全带问题<strong>无法通过OTA软件更新解决</strong>，必须进行一次服务中心检查。</p>
+<ul>
+<li><strong>软件与硬件的本质区别：</strong> 这就引出了一个核心问题——OTA的边界在哪里？对于软件层面的bug，比如导航系统优化、驾驶辅助功能升级，OTA确实是杀手级应用，方便快捷。但当问题出在物理层面的硬件上，例如这次的螺栓未拧紧，或者机械部件的磨损，OTA就显得无能为力了。</li>
+<li><strong>物理世界，物理解决：</strong> 想象一下，如果一个螺栓松了，你的车就算安装了最先进的AI，也无法远程伸出一只机械手把它拧紧。这提醒我们，无论车辆的软件和智能系统多么先进，其物理基础的可靠性依然是重中之重。硬件的严谨性，才是真正“硬核”的保障。这次召回需要车主前往服务中心，由专业技师检查并拧紧螺栓，所有检查和维修都将免费进行。</li>
+</ul>
+<h2 id="行业视角品控与用户体验的平衡术">行业视角：品控与用户体验的平衡术</h2>
+<p>对于任何一家车企，尤其是像Rivian这样的新兴电动汽车品牌，召回无疑是一次严峻的考验。但从长远来看，如何处理召回事件，往往能反映出一家公司的价值观和成熟度。</p>
+<ul>
+<li><strong>透明与负责是基石：</strong> Rivian的这次召回，从发现问题到内部调查，再到主动向NHTSA申报并通知车主，整个过程都体现了高度的透明度和责任感。在一个信息爆炸的时代，这种开诚布公的态度，反而更能赢得用户的信任。</li>
+<li><strong>新兴品牌的成长阵痛：</strong> 作为一家相对年轻的电动汽车制造商，Rivian在生产制造流程中出现一些小瑕疵，或许是成长过程中的“阵痛”。更为关键的是，他们如何通过这些经历，不断优化生产工艺，提升品控标准，将潜在风险扼杀在摇篮里。毕竟，电动车的未来，不仅要靠“黑科技”的加持，更要靠“硬核”的质量支撑。</li>
+</ul>
+<p>总而言之，Rivian这次召回事件，与其说是“掉链子”，不如说是一次“品控大考”。它不仅提醒了我们OTA的边界，更展现了一个新兴电动车品牌在面对问题时，所展现出的责任与担当。作为极客，我们期待Rivian未来能将更多前沿技术融入到生产制造和质量控制中，打造出真正让人安心、令人兴奋的电动座驾！</p>
+<div class="flex items-center space-x-4 my-8">
+    <span class="font-semibold">分享:</span>
+
+    
+    <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260127-rivian-r1tr1s%25E5%258F%25AC%25E5%259B%259E%25E4%25BA%258B%25E4%25BB%25B6%25E5%25BD%2593%25E9%25BB%2591%25E7%25A7%2591%25E6%258A%2580%25E9%2581%2587%25E4%25B8%258A%25E8%259E%25BA%25E4%25B8%259D%25E6%259D%25BE%25E5%258A%25A8ota%25E4%25B9%259F%25E6%2597%25A0%25E8%2583%25BD%25E4%25B8%25BA%25E5%258A%259B%2f&text=Rivian%20R1T%2fR1S%e5%8f%ac%e5%9b%9e%e4%ba%8b%e4%bb%b6%ef%bc%9a%e5%bd%93%e9%bb%91%e7%a7%91%e6%8a%80%e9%81%87%e4%b8%8a%e8%9e%ba%e4%b8%9d%e6%9d%be%e5%8a%a8%ef%bc%8cOTA%e4%b9%9f%e6%97%a0%e8%83%bd%e4%b8%ba%e5%8a%9b%ef%bc%9f%ef%bc%81" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260127-rivian-r1tr1s%25E5%258F%25AC%25E5%259B%259E%25E4%25BA%258B%25E4%25BB%25B6%25E5%25BD%2593%25E9%25BB%2591%25E7%25A7%2591%25E6%258A%2580%25E9%2581%2587%25E4%25B8%258A%25E8%259E%25BA%25E4%25B8%259D%25E6%259D%25BE%25E5%258A%25A8ota%25E4%25B9%259F%25E6%2597%25A0%25E8%2583%25BD%25E4%25B8%25BA%25E5%258A%259B%2f" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260127-rivian-r1tr1s%25E5%258F%25AC%25E5%259B%259E%25E4%25BA%258B%25E4%25BB%25B6%25E5%25BD%2593%25E9%25BB%2591%25E7%25A7%2591%25E6%258A%2580%25E9%2581%2587%25E4%25B8%258A%25E8%259E%25BA%25E4%25B8%259D%25E6%259D%25BE%25E5%258A%25A8ota%25E4%25B9%259F%25E6%2597%25A0%25E8%2583%25BD%25E4%25B8%25BA%25E5%258A%259B%2f&title=Rivian%20R1T%2fR1S%e5%8f%ac%e5%9b%9e%e4%ba%8b%e4%bb%b6%ef%bc%9a%e5%bd%93%e9%bb%91%e7%a7%91%e6%8a%80%e9%81%87%e4%b8%8a%e8%9e%ba%e4%b8%9d%e6%9d%be%e5%8a%a8%ef%bc%8cOTA%e4%b9%9f%e6%97%a0%e8%83%bd%e4%b8%ba%e5%8a%9b%ef%bc%9f%ef%bc%81" target="_blank"
+        rel="noopener" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+        </svg>
+    </a>
+
+</div></div>
+
+    <footer id="content-footer" class="not-prose">
+
+      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
+
+        <h2 class="text-xl font-semibold">Comment</h2>
+
+        <p>Disqus comment here</p></div>
+
+      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl"><img class="w-20 h-20 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/ada.png" alt="Ada"><h2 class="text-xl font-bold my-4">Written by : Ada</h2><p class="mb-4">硬核科技极客，痴迷于FSD算法、4680电池和Optimus机器人。用代码思维解析技术细节，不仅看热闹，更看门道。</p>
+
+        <ul class="flex flex-wrap space-x-4">
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+              </svg>
+              <span class="ml-2">Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+              </svg>
+              <span class="ml-2">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+
+              </svg>
+              <span class="ml-2">Instagram</span>
+            </a>
+          </li>
+
+        </ul>
+
+      </div>
+
+      <div id="related-post" class="">
+
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-%E4%BC%98%E6%AD%A5av%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%95%B0%E6%8D%AE%E9%A3%9E%E8%BD%AE%E6%92%AC%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%96%B0%E6%A0%BC%E5%B1%80/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260127-%E4%BC%98%E6%AD%A5av%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%95%B0%E6%8D%AE%E9%A3%9E%E8%BD%AE%E6%92%AC%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%96%B0%E6%A0%BC%E5%B1%80/86740e905834f197c7c4fbe2824a21bc_hu_4fe73d4db14ed658.jpg" alt="优步AV实验室：数据飞轮撬动自动驾驶产业新格局" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">优步AV实验室：数据飞轮撬动自动驾驶产业新格局</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">优步（Uber）近期宣布成立“AV实验室”（AV Labs）部门，旨在为其自动驾驶（AV）合作伙伴收集并提供海量驾驶数据。此举并非优步重返自动驾驶车辆的自主研发，而是其在自动驾驶产业价值链中进行的一次关键战略调整，标志着公司从纯粹的出行服务提供商向数据赋能者的角色转变，有望通过构建数据飞轮，深刻影响整个自动驾驶生态的竞争格局与技术演进路径。</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/lao_zhang.png" alt="老张"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">老张</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2026-01-27T16:34:38&#43;00:00">2026-01-27</time>
+		</div>
+
+	</div>
+</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-luminar-lidar%E4%B8%9A%E5%8A%A1%E7%AB%9E%E6%8B%8D%E7%99%BD%E7%83%AD%E5%8C%96microvision-3300%E4%B8%87%E7%BE%8E%E5%85%83%E8%B1%AA%E5%A4%BA%E8%A1%8C%E4%B8%9A%E6%A0%BC%E5%B1%80%E8%A6%81%E5%8F%98%E5%A4%A9/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260125-%E7%89%B9%E6%96%AF%E6%8B%89%E5%81%9C%E7%94%A8autopilot%E6%8E%A8%E5%87%BA%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6waymo%E9%81%ADntsb%E8%B0%83%E6%9F%A5/abe7a40ea6e367c42a70d7e4f287c7c5_hu_ce8ba19683eb7d2f.png" alt="Luminar Lidar业务竞拍白热化！MicroVision 3300万美元豪夺，行业格局要变天？" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">Luminar Lidar业务竞拍白热化！MicroVision 3300万美元豪夺，行业格局要变天？</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">哇塞，各位硬核极客们，最近Lidar圈子可真是风起云涌，炸裂新闻不断！就在周一，破产边缘的Luminar公司的Lidar业务，终于在一场激烈的法院拍卖中尘埃落定。你猜怎么着？MicroVision，这家我们熟知的雷德蒙德公司，直接砸下3300万美元的重金，成功将Luminar的Lidar资产收入囊中！这可不仅仅是一笔简单的交易，它预示着自动驾驶感知技术领域，…</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/ada.png" alt="Ada"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">Ada</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2026-01-27T16:34:12&#43;00:00">2026-01-27</time>
+		</div>
+
+	</div>
+</article>
+
+        </div>
+      </div>
+
+    </footer>
+
+  </article>
+
+  
+  <aside class="md:col-span-1"><div class="lg:sticky lg:top-8"><div class="rounded-2xl p-4 bg-zinc-100 mb-10">
+  <img class="aspect-video rounded" src="/TeslaDaily/images/ad-slot.svg" alt="广告位">
+  <p class="text-right text-xs mt-2 leading-none text-zinc-500">广告位</p>
+</div>
+	<div class="mb-6">
+		<h2 class="font-bold text-xl mb-4">目录</h2>
+		<div class="prose prose-sm max-w-none">
+			<nav id="TableOfContents">
+  <ul>
+    <li><a href="#极客点评小瑕疵大洞察rivian如何发现问题">极客点评：小瑕疵，大洞察！Rivian如何发现问题？</a></li>
+    <li><a href="#ota的边界硬件问题必须硬核解决">OTA的边界：硬件问题，必须硬核解决！</a></li>
+    <li><a href="#行业视角品控与用户体验的平衡术">行业视角：品控与用户体验的平衡术</a></li>
+  </ul>
+</nav>
+		</div>
+	</div>
+	
+
+	<div class="space-y-6">
+
+		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
+
+		<article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-%E4%BC%98%E6%AD%A5av%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%95%B0%E6%8D%AE%E9%A3%9E%E8%BD%AE%E6%92%AC%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%96%B0%E6%A0%BC%E5%B1%80/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260127-%E4%BC%98%E6%AD%A5av%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%95%B0%E6%8D%AE%E9%A3%9E%E8%BD%AE%E6%92%AC%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%96%B0%E6%A0%BC%E5%B1%80/86740e905834f197c7c4fbe2824a21bc_hu_5a4cee98d6b9fe4.jpg" alt="优步AV实验室：数据飞轮撬动自动驾驶产业新格局" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">优步AV实验室：数据飞轮撬动自动驾驶产业新格局</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 老张</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-luminar-lidar%E4%B8%9A%E5%8A%A1%E7%AB%9E%E6%8B%8D%E7%99%BD%E7%83%AD%E5%8C%96microvision-3300%E4%B8%87%E7%BE%8E%E5%85%83%E8%B1%AA%E5%A4%BA%E8%A1%8C%E4%B8%9A%E6%A0%BC%E5%B1%80%E8%A6%81%E5%8F%98%E5%A4%A9/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260125-%E7%89%B9%E6%96%AF%E6%8B%89%E5%81%9C%E7%94%A8autopilot%E6%8E%A8%E5%87%BA%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6waymo%E9%81%ADntsb%E8%B0%83%E6%9F%A5/abe7a40ea6e367c42a70d7e4f287c7c5_hu_8c76e00ed73ddf6f.png" alt="Luminar Lidar业务竞拍白热化！MicroVision 3300万美元豪夺，行业格局要变天？" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Luminar Lidar业务竞拍白热化！MicroVision 3300万美元豪夺，行业格局要变天？</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-%E7%89%B9%E6%96%AF%E6%8B%89q4%E8%B4%A2%E6%8A%A5%E5%89%8D%E7%9E%BB%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%8A%A1%E6%B7%B1%E8%B9%B2%E4%BD%86fsd%E5%92%8Cai%E7%A1%AC%E4%BB%B6%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%A0%B8%E5%BC%B9%E7%BA%A7%E6%9D%80%E5%99%A8/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260127-%E7%89%B9%E6%96%AF%E6%8B%89q4%E8%B4%A2%E6%8A%A5%E5%89%8D%E7%9E%BB%E6%B1%BD%E8%BD%A6%E4%B8%9A%E5%8A%A1%E6%B7%B1%E8%B9%B2%E4%BD%86fsd%E5%92%8Cai%E7%A1%AC%E4%BB%B6%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%A0%B8%E5%BC%B9%E7%BA%A7%E6%9D%80%E5%99%A8/7d943c9d934ccf5979355aabbfe1a026_hu_d45f364f98f79e76.jpg" alt="特斯拉Q4财报前瞻：汽车业务深蹲，但FSD和AI硬件才是真正的核弹级杀器！" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">特斯拉Q4财报前瞻：汽车业务深蹲，但FSD和AI硬件才是真正的核弹级杀器！</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-rivian-r1tr1s%E5%8F%AC%E5%9B%9E%E4%BA%8B%E4%BB%B6%E5%BD%93%E9%BB%91%E7%A7%91%E6%8A%80%E9%81%87%E4%B8%8A%E8%9E%BA%E4%B8%9D%E6%9D%BE%E5%8A%A8ota%E4%B9%9F%E6%97%A0%E8%83%BD%E4%B8%BA%E5%8A%9B/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260127-rivian-r1tr1s%E5%8F%AC%E5%9B%9E%E4%BA%8B%E4%BB%B6%E5%BD%93%E9%BB%91%E7%A7%91%E6%8A%80%E9%81%87%E4%B8%8A%E8%9E%BA%E4%B8%9D%E6%9D%BE%E5%8A%A8ota%E4%B9%9F%E6%97%A0%E8%83%BD%E4%B8%BA%E5%8A%9B/6f3642a47709aefd788508de1fb3cd3b_hu_3ce86af2e24fd8f.jpg" alt="Rivian R1T/R1S召回事件：当黑科技遇上螺丝松动，OTA也无能为力？！" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Rivian R1T/R1S召回事件：当黑科技遇上螺丝松动，OTA也无能为力？！</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-ota%E5%8F%AC%E5%9B%9E%E9%A2%91%E5%8F%91%E9%80%8F%E8%A7%86%E6%99%BA%E8%83%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%BD%AF%E4%BB%B6%E5%AE%9A%E4%B9%89%E7%A1%AC%E4%BB%B6%E7%9A%84%E6%8C%91%E6%88%98%E4%B8%8E%E6%9C%BA%E9%81%87/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260105-lucid-2025%E5%B9%B4%E4%BA%A7%E9%87%8F%E7%BF%BB%E7%95%AA%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E5%88%9B%E7%BA%AA%E5%BD%95/ec1d8ddd57377199b00c03e44a00e08d_hu_e770eedda15105f6.jpg" alt="OTA召回频发：透视智能电动汽车软件定义硬件的挑战与机遇" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">OTA召回频发：透视智能电动汽车软件定义硬件的挑战与机遇</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 老张</span>
+		</div>
+	</div>
+</article>
+
+	</div>
+
+</div></aside>
+
+</div>
+
+</main>
+  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+
+  <div class="flex flex-wrap space-y-6 mb-4">
+
+    <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+
+      <a class="flex items-center group" href="https://johhhhnny.github.io/TeslaDaily/">
+        <img src="https://johhhhnny.github.io/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="mr-2 group-hover:animate-spin" />
+        <span class="text-2xl font-semibold uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+      </a>
+
+      <p class="font-semibold">
+        每日精选，速览特斯拉动态。<br>专注高效与纯净的阅读体验。
+      </p>
+
+      <p>如果你是投资者、车主、从业者或研究者，特斯拉日报能帮助你更高效地获得关键信息与背景脉络。</p>
+
+    </div>
+
+    <div class="self-center flex flex-col w-full md:w-2/5">
+
+<ul id="social-media" class="flex items-center space-x-4">
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+				<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.twitter.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.github.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.instagram.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"></path>
+			</svg>
+		</a>
+	</li>
+</ul>
+
+    </div>
+    
+  </div>
+
+  <div class="my-8">
+    <ul class="flex items-center space-x-4">
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/">首页</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/daily/">每日特报</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/story/">特有故事</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/archives/">特新消息</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/about/">关于</a></li>
+      
+    </ul>
+  </div>
+
+  <div class="border-t pt-4">
+
+    <p class="text-sm">Copyright © 2025. All rights reserved. 特斯拉日报 · TeslaDaily</p>
+    <p class="text-xs text-zinc-500 mt-2">本网站为独立媒体，与特斯拉公司无关。</p>
+
+  </div>
+  
+</div></footer>
+      <script defer src="/TeslaDaily/js/search.2aa505bea24ff6b2d06c4b3bc39fbded258d41001148b9d70c82f1a803c2954d.js" integrity="sha256-KqUFvqJP9rLQbEs7w5&#43;97SWNQQARSLnXDILxqAPClU0=" crossorigin="anonymous"></script>
+</body>
+</html>
