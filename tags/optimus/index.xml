@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 29 Jan 2026 13:02:13 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/optimus/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Thu, 29 Jan 2026 16:51:41 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/optimus/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉日报 2026-01-29</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-01-29/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-01-29/</guid>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p>- 特斯拉澄清：无“AP45”硬件版本，系标签错误，目前交付车辆均为HW4。 - 特斯拉2025年Q4财报电话会议公布：Model S/X生产将停产，产线转产Optimus机器人。 - 完全无人驾驶Robotaxi已于1月27日在奥斯汀启动运营。 - 2025年特斯拉能源存储产品部署量达46.7 GWh，同比增长48%，贡献近四分之一毛利润。 - 特斯拉全球FSD付费用户近110万，已全面转向订阅 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-01-29/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>- 特斯拉澄清：无“AP45”硬件版本，系标签错误，目前交付车辆均为HW4。 - 特斯拉2025年Q4财报电话会议公布：Model S/X生产将停产，产线转产Optimus机器人。 - 完全无人驾驶Robotaxi已于1月27日在奥斯汀启动运营。 - 2025年特斯拉能源存储产品部署量达46.7 GWh，同比增长48%，贡献近四分之一毛利润。 - 特斯拉全球FSD付费用户近110万，已全面转向订阅 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-01-29/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉日报 2026-01-28</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-01-28/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-01-28/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>FSD v14.2.2.2发布，提升驾驶信心与感知能力 特斯拉已开始向车队大规模推送FSD v14.2.2.2版本（更新号为2025.45.7），尽管这比埃隆·马斯克此前承诺的“有感知力”的FSD v14.3版本有所推迟。这个最新版本以其显著的稳定性和“精进的直觉”为核心特点，在仅不到48小时的早期测试后便开始大规模推广。FSD v14.2.2.2尤其解决了之前版本（如v14.2.2 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-30/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉日报 2025-12-24</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/</guid>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>此外，特斯拉AI团队在圣诞期间不懈努力，迅速发布了FSD (Supervised) v14.2.2.1，距离v14.2.2版本推出仅隔一天，展现了惊人的迭代速度。根据FSD测试者的反馈，在洛杉矶雨天积水和车道线模糊的恶劣条件下，新版本表现出零转向迟疑、自信的变道以及精确的操作，停车性能也显著提升，甚至能比人类驾驶员更好地识别车道线并精准定位。这种快速的迭代更新和在极端条件下的优异表现，展现了特斯 …</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>此外，特斯拉AI团队在圣诞期间不懈努力，迅速发布了FSD (Supervised) v14.2.2.1，距离v14.2.2版本推出仅隔一天，展现了惊人的迭代速度。根据FSD测试者的反馈，在洛杉矶雨天积水和车道线模糊的恶劣条件下，新版本表现出零转向迟疑、自信的变道以及精确的操作，停车性能也显著提升，甚至能比人类驾驶员更好地识别车道线并精准定位。这种快速的迭代更新和在极端条件下的优异表现，展现了特斯 …</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-24/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
