@@ -1,20 +1,559 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>特斯拉日报</title>
+    <title>特斯拉日报 - 全部内容订阅</title>
     <link>https://johhhhnny.github.io/TeslaDaily/tags/%E5%A4%AA%E8%B5%AB%E5%85%B9%E4%BC%A0%E6%84%9F%E5%99%A8/</link>
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 04 Feb 2026 16:55:55 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E5%A4%AA%E8%B5%AB%E5%85%B9%E4%BC%A0%E6%84%9F%E5%99%A8/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>太赫兹新秀Teradar获1.5亿美元B轮融资，剑指自动驾驶感知系统革命</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E5%A4%AA%E8%B5%AB%E5%85%B9%E6%96%B0%E7%A7%80teradar%E8%8E%B715%E4%BA%BF%E7%BE%8E%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%E5%89%91%E6%8C%87%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E9%9D%A9%E5%91%BD/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E5%A4%AA%E8%B5%AB%E5%85%B9%E6%96%B0%E7%A7%80teradar%E8%8E%B715%E4%BA%BF%E7%BE%8E%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%E5%89%91%E6%8C%87%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E9%9D%A9%E5%91%BD/</guid>
-      <pubDate>Wed, 12 Nov 2025 08:02:28 &#43;0000</pubDate><description><![CDATA[
-<p>在自动驾驶与高科技领域的激烈竞争中，波士顿初创公司Teradar以其独有的太赫兹（Terahertz）固态传感器技术，成功斩获1.5亿美元的B轮融资。这笔巨额资金不仅是对其技术的认可，更是市场对其“超越Lidar和毫米波雷达”这一大胆宣言的豪赌。Teradar联合创始人兼CEO Matt Carey深知，当人们对他的技术表示怀疑时，恰是他最有信心的时刻——因…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E5%A4%AA%E8%B5%AB%E5%85%B9%E6%96%B0%E7%A7%80teradar%E8%8E%B715%E4%BA%BF%E7%BE%8E%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%E5%89%91%E6%8C%87%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E9%9D%A9%E5%91%BD/">在特斯拉日报查看全文</a></p>
+    <lastBuildDate>Wed, 04 Feb 2026 20:43:01 &#43;0000</lastBuildDate><item>
+      <title>特斯拉专利：印刷电路玻璃简化线束与摄像头外壳</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%93%E5%88%A9%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E7%8E%BB%E7%92%83%E7%AE%80%E5%8C%96%E7%BA%BF%E6%9D%9F%E4%B8%8E%E6%91%84%E5%83%8F%E5%A4%B4%E5%A4%96%E5%A3%B3/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%93%E5%88%A9%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E7%8E%BB%E7%92%83%E7%AE%80%E5%8C%96%E7%BA%BF%E6%9D%9F%E4%B8%8E%E6%91%84%E5%83%8F%E5%A4%B4%E5%A4%96%E5%A3%B3/</guid>
+      <pubDate>Wed, 04 Feb 2026 20:35:59 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉于2025年12月4日公布一项名为“印刷电路玻璃”的新专利申请（US 2025/0368012 A1）。该技术旨在通过在挡风玻璃上直接印刷导电迹线，取代传统电线，从而简化车辆线束和摄像头外壳。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%93%E5%88%A9%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E7%8E%BB%E7%92%83%E7%AE%80%E5%8C%96%E7%BA%BF%E6%9D%9F%E4%B8%8E%E6%91%84%E5%83%8F%E5%A4%B4%E5%A4%96%E5%A3%B3/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>在自动驾驶与高科技领域的激烈竞争中，波士顿初创公司Teradar以其独有的太赫兹（Terahertz）固态传感器技术，成功斩获1.5亿美元的B轮融资。这笔巨额资金不仅是对其技术的认可，更是市场对其“超越Lidar和毫米波雷达”这一大胆宣言的豪赌。Teradar联合创始人兼CEO Matt Carey深知，当人们对他的技术表示怀疑时，恰是他最有信心的时刻——因…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20251112-%E5%A4%AA%E8%B5%AB%E5%85%B9%E6%96%B0%E7%A7%80teradar%E8%8E%B715%E4%BA%BF%E7%BE%8E%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%E5%89%91%E6%8C%87%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E9%9D%A9%E5%91%BD/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item></channel>
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉于2025年12月4日公布一项名为“印刷电路玻璃”的新专利申请（US 2025/0368012 A1）。该技术旨在通过在挡风玻璃上直接印刷导电迹线，取代传统电线，从而简化车辆线束和摄像头外壳。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%93%E5%88%A9%E5%8D%B0%E5%88%B7%E7%94%B5%E8%B7%AF%E7%8E%BB%E7%92%83%E7%AE%80%E5%8C%96%E7%BA%BF%E6%9D%9F%E4%B8%8E%E6%91%84%E5%83%8F%E5%A4%B4%E5%A4%96%E5%A3%B3/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>特斯拉的悖论：Model Y扩张与失落的家庭市场</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%82%96%E8%AE%BAmodel-y%E6%89%A9%E5%BC%A0%E4%B8%8E%E5%A4%B1%E8%90%BD%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%B8%82%E5%9C%BA/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%82%96%E8%AE%BAmodel-y%E6%89%A9%E5%BC%A0%E4%B8%8E%E5%A4%B1%E8%90%BD%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%B8%82%E5%9C%BA/</guid>
+      <pubDate>Wed, 04 Feb 2026 20:34:24 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 周末的清晨，阳光透过加州的棕榈树，洒在史密斯一家略显拥挤的Model Y车窗上。后座上，两个孩子为争夺玩具而发出的尖叫，与后备箱里勉强塞下的露营装备共同宣告着一个不争的事实：这辆全球畅销的电动SUV，对于一个正在成长的美国家庭而言，空间已然捉襟见肘。与此同时，大洋彼岸，特斯拉刚刚宣布了Model Y产品线的最新扩张，增加了新的全轮驱动配置，看似是为了满足更多…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%82%96%E8%AE%BAmodel-y%E6%89%A9%E5%BC%A0%E4%B8%8E%E5%A4%B1%E8%90%BD%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%B8%82%E5%9C%BA/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>周末的清晨，阳光透过加州的棕榈树，洒在史密斯一家略显拥挤的Model Y车窗上。后座上，两个孩子为争夺玩具而发出的尖叫，与后备箱里勉强塞下的露营装备共同宣告着一个不争的事实：这辆全球畅销的电动SUV，对于一个正在成长的美国家庭而言，空间已然捉襟见肘。与此同时，大洋彼岸，特斯拉刚刚宣布了Model Y产品线的最新扩张，增加了新的全轮驱动配置，看似是为了满足更多…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%82%96%E8%AE%BAmodel-y%E6%89%A9%E5%BC%A0%E4%B8%8E%E5%A4%B1%E8%90%BD%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%B8%82%E5%9C%BA/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Model Y</category><category>特斯拉</category></item><item>
+      <title>蓝色深渊的耳语：Apeiron Labs与950万美元的海洋数据革命</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E8%93%9D%E8%89%B2%E6%B7%B1%E6%B8%8A%E7%9A%84%E8%80%B3%E8%AF%ADapeiron-labs%E4%B8%8E950%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E6%B5%B7%E6%B4%8B%E6%95%B0%E6%8D%AE%E9%9D%A9%E5%91%BD/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E8%93%9D%E8%89%B2%E6%B7%B1%E6%B8%8A%E7%9A%84%E8%80%B3%E8%AF%ADapeiron-labs%E4%B8%8E950%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E6%B5%B7%E6%B4%8B%E6%95%B0%E6%8D%AE%E9%9D%A9%E5%91%BD/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:50:36 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 深邃的蓝色之下，隐藏着地球上最广阔、最神秘的疆域。人类对海洋的认知，长久以来，如同浮在海面上的冰山一角，只触及了表层。尽管卫星的眼睛能够俯瞰波涛，捕捉到海洋表面的瞬息万变，但那层薄薄的水膜之下，世界便迅速变得模糊不清，如同被浓雾笼罩的古老传说。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E8%93%9D%E8%89%B2%E6%B7%B1%E6%B8%8A%E7%9A%84%E8%80%B3%E8%AF%ADapeiron-labs%E4%B8%8E950%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E6%B5%B7%E6%B4%8B%E6%95%B0%E6%8D%AE%E9%9D%A9%E5%91%BD/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>深邃的蓝色之下，隐藏着地球上最广阔、最神秘的疆域。人类对海洋的认知，长久以来，如同浮在海面上的冰山一角，只触及了表层。尽管卫星的眼睛能够俯瞰波涛，捕捉到海洋表面的瞬息万变，但那层薄薄的水膜之下，世界便迅速变得模糊不清，如同被浓雾笼罩的古老传说。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E8%93%9D%E8%89%B2%E6%B7%B1%E6%B8%8A%E7%9A%84%E8%80%B3%E8%AF%ADapeiron-labs%E4%B8%8E950%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E6%B5%B7%E6%B4%8B%E6%95%B0%E6%8D%AE%E9%9D%A9%E5%91%BD/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>驶向无人之境：Uber新CFO掌舵下的自动驾驶雄心</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%B6%E5%90%91%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%A2%83uber%E6%96%B0cfo%E6%8E%8C%E8%88%B5%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%9B%84%E5%BF%83/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%B6%E5%90%91%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%A2%83uber%E6%96%B0cfo%E6%8E%8C%E8%88%B5%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%9B%84%E5%BF%83/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:50:15 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 在硅谷的喧嚣与数字的低语中，一次看似寻常的高层人事变动，却像一枚投入平静湖面的石子，激起了关于未来的层层涟漪。近日，出行巨头Uber宣布，公司副总裁兼战略财务与投资者关系主管巴拉吉·克里希那穆提（Balaji Krishnamurthy）将升任首席财务官，接替即将离任的普拉尚特·马亨德拉-拉贾（Prashanth Mahendra-Rajah）。这不仅是权力…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%B6%E5%90%91%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%A2%83uber%E6%96%B0cfo%E6%8E%8C%E8%88%B5%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%9B%84%E5%BF%83/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>在硅谷的喧嚣与数字的低语中，一次看似寻常的高层人事变动，却像一枚投入平静湖面的石子，激起了关于未来的层层涟漪。近日，出行巨头Uber宣布，公司副总裁兼战略财务与投资者关系主管巴拉吉·克里希那穆提（Balaji Krishnamurthy）将升任首席财务官，接替即将离任的普拉尚特·马亨德拉-拉贾（Prashanth Mahendra-Rajah）。这不仅是权力…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%B6%E5%90%91%E6%97%A0%E4%BA%BA%E4%B9%8B%E5%A2%83uber%E6%96%B0cfo%E6%8E%8C%E8%88%B5%E4%B8%8B%E7%9A%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%9B%84%E5%BF%83/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>凯利蓝皮书：特斯拉仍是电动车购物者首选，Model Y领跑</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%87%AF%E5%88%A9%E8%93%9D%E7%9A%AE%E4%B9%A6%E7%89%B9%E6%96%AF%E6%8B%89%E4%BB%8D%E6%98%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B4%AD%E7%89%A9%E8%80%85%E9%A6%96%E9%80%89model-y%E9%A2%86%E8%B7%91/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%87%AF%E5%88%A9%E8%93%9D%E7%9A%AE%E4%B9%A6%E7%89%B9%E6%96%AF%E6%8B%89%E4%BB%8D%E6%98%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B4%AD%E7%89%A9%E8%80%85%E9%A6%96%E9%80%89model-y%E9%A2%86%E8%B7%91/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:49:39 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 凯利蓝皮书（Kelley Blue Book, KBB）Brand Watch研究显示，2025年特斯拉（由Model Y领跑）仍是新车购物者高度关注品牌。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%87%AF%E5%88%A9%E8%93%9D%E7%9A%AE%E4%B9%A6%E7%89%B9%E6%96%AF%E6%8B%89%E4%BB%8D%E6%98%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B4%AD%E7%89%A9%E8%80%85%E9%A6%96%E9%80%89model-y%E9%A2%86%E8%B7%91/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>凯利蓝皮书（Kelley Blue Book, KBB）Brand Watch研究显示，2025年特斯拉（由Model Y领跑）仍是新车购物者高度关注品牌。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%87%AF%E5%88%A9%E8%93%9D%E7%9A%AE%E4%B9%A6%E7%89%B9%E6%96%AF%E6%8B%89%E4%BB%8D%E6%98%AF%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%B4%AD%E7%89%A9%E8%80%85%E9%A6%96%E9%80%89model-y%E9%A2%86%E8%B7%91/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Model Y</category><category>特斯拉</category></item><item>
+      <title>特斯拉Model Y又双叒叕封神？！CR 2026年度最佳EV，这波操作太硬核了！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%B0%81%E7%A5%9Ecr-2026%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3ev%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%B0%81%E7%A5%9Ecr-2026%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3ev%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:49:21 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 卧槽，兄弟们，大新闻！Consumer Reports（消费者报告）这帮老司机，最近公布了他们2026年度的“Top Picks”榜单，结果你猜怎么着？我们的特斯拉Model Y，居然力压群雄，直接被评为“最佳电动汽车”！更炸裂的是，在整个榜单涵盖的10款年度最佳车型里，Model Y是唯一一款纯电动车杀出来的！这简直是给那些质疑特斯拉的人，一记响亮的耳光啊…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%B0%81%E7%A5%9Ecr-2026%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3ev%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>卧槽，兄弟们，大新闻！Consumer Reports（消费者报告）这帮老司机，最近公布了他们2026年度的“Top Picks”榜单，结果你猜怎么着？我们的特斯拉Model Y，居然力压群雄，直接被评为“最佳电动汽车”！更炸裂的是，在整个榜单涵盖的10款年度最佳车型里，Model Y是唯一一款纯电动车杀出来的！这简直是给那些质疑特斯拉的人，一记响亮的耳光啊…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%8F%88%E5%8F%8C%E5%8F%92%E5%8F%95%E5%B0%81%E7%A5%9Ecr-2026%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3ev%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Model Y</category><category>特斯拉</category></item><item>
+      <title>特斯拉这波操作神了！社区共建超级充电站，加拿大市场爆发式增长，2026 Q1投票名单简直是硬核玩家的狂欢！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%A5%9E%E4%BA%86%E7%A4%BE%E5%8C%BA%E5%85%B1%E5%BB%BA%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF2026-q1%E6%8A%95%E7%A5%A8%E5%90%8D%E5%8D%95%E7%AE%80%E7%9B%B4%E6%98%AF%E7%A1%AC%E6%A0%B8%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%8B%82%E6%AC%A2/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%A5%9E%E4%BA%86%E7%A4%BE%E5%8C%BA%E5%85%B1%E5%BB%BA%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF2026-q1%E6%8A%95%E7%A5%A8%E5%90%8D%E5%8D%95%E7%AE%80%E7%9B%B4%E6%98%AF%E7%A1%AC%E6%A0%B8%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%8B%82%E6%AC%A2/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:48:58 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 各位科技狂热者们，你们有没有觉得最近的电动车圈有点闷？那是因为你还没看到特斯拉这波硬核操作！当其他车企还在为充电桩布局挠头的时候，马斯克直接把决定权交到了我们这些车主手里——没错，就是那个充满未来感的“超级充电站投票”计划！最近，Q4 2025的投票结果新鲜出炉，加拿大社区再次成为大赢家，更劲爆的是，2026年Q1的投票名单简直是史无前例的庞大，尤其是加拿大…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%A5%9E%E4%BA%86%E7%A4%BE%E5%8C%BA%E5%85%B1%E5%BB%BA%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF2026-q1%E6%8A%95%E7%A5%A8%E5%90%8D%E5%8D%95%E7%AE%80%E7%9B%B4%E6%98%AF%E7%A1%AC%E6%A0%B8%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%8B%82%E6%AC%A2/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>各位科技狂热者们，你们有没有觉得最近的电动车圈有点闷？那是因为你还没看到特斯拉这波硬核操作！当其他车企还在为充电桩布局挠头的时候，马斯克直接把决定权交到了我们这些车主手里——没错，就是那个充满未来感的“超级充电站投票”计划！最近，Q4 2025的投票结果新鲜出炉，加拿大社区再次成为大赢家，更劲爆的是，2026年Q1的投票名单简直是史无前例的庞大，尤其是加拿大…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%A5%9E%E4%BA%86%E7%A4%BE%E5%8C%BA%E5%85%B1%E5%BB%BA%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%AB%99%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF2026-q1%E6%8A%95%E7%A5%A8%E5%90%8D%E5%8D%95%E7%AE%80%E7%9B%B4%E6%98%AF%E7%A1%AC%E6%A0%B8%E7%8E%A9%E5%AE%B6%E7%9A%84%E7%8B%82%E6%AC%A2/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>方向盘的解放与束缚：Rivian自动驾驶的商业化迷局</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%96%B9%E5%90%91%E7%9B%98%E7%9A%84%E8%A7%A3%E6%94%BE%E4%B8%8E%E6%9D%9F%E7%BC%9Arivian%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%B7%E5%B1%80/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%96%B9%E5%90%91%E7%9B%98%E7%9A%84%E8%A7%A3%E6%94%BE%E4%B8%8E%E6%9D%9F%E7%BC%9Arivian%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%B7%E5%B1%80/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:48:36 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 加州阳光炽热，或是太平洋西北的雨幕中，一辆辆Rivian R1S和R1T在高速公路上静默滑行。驾驶者们曾体验着一份特殊的自由：双手轻搭，或甚至暂时离开方向盘，车辆在“通用免手驾驶”（Universal Hands-Free）模式下，依照清晰的车道线，平稳地向前。这并非科幻电影中的完全无人驾驶，而是一种先进的驾驶辅助系统——Autonomy+，它在特定条件下，…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%96%B9%E5%90%91%E7%9B%98%E7%9A%84%E8%A7%A3%E6%94%BE%E4%B8%8E%E6%9D%9F%E7%BC%9Arivian%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%B7%E5%B1%80/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>加州阳光炽热，或是太平洋西北的雨幕中，一辆辆Rivian R1S和R1T在高速公路上静默滑行。驾驶者们曾体验着一份特殊的自由：双手轻搭，或甚至暂时离开方向盘，车辆在“通用免手驾驶”（Universal Hands-Free）模式下，依照清晰的车道线，平稳地向前。这并非科幻电影中的完全无人驾驶，而是一种先进的驾驶辅助系统——Autonomy+，它在特定条件下，…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%96%B9%E5%90%91%E7%9B%98%E7%9A%84%E8%A7%A3%E6%94%BE%E4%B8%8E%E6%9D%9F%E7%BC%9Arivian%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%B7%E5%B1%80/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>冰点逆袭：特斯拉上海工厂一月风云</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%86%B0%E7%82%B9%E9%80%86%E8%A2%AD%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E6%B5%B7%E5%B7%A5%E5%8E%82%E4%B8%80%E6%9C%88%E9%A3%8E%E4%BA%91/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%86%B0%E7%82%B9%E9%80%86%E8%A2%AD%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E6%B5%B7%E5%B7%A5%E5%8E%82%E4%B8%80%E6%9C%88%E9%A3%8E%E4%BA%91/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:48:10 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 2026年的凛冬，似乎给中国的电动汽车市场披上了一层薄霜。当大多数车企在年初的寒流中步履维艰，甚至陷入销量骤降的困境时，上海临港的特斯拉超级工厂，却在静默中奏响了逆势增长的序曲。那是一个寻常的周三，中国乘用车市场信息联席会（CPCA）的数据悄然发布，如同投入平静水面的一颗石子，激起了涟漪——特斯拉，再次展现了它在风暴中的独特韧性。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%86%B0%E7%82%B9%E9%80%86%E8%A2%AD%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E6%B5%B7%E5%B7%A5%E5%8E%82%E4%B8%80%E6%9C%88%E9%A3%8E%E4%BA%91/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>2026年的凛冬，似乎给中国的电动汽车市场披上了一层薄霜。当大多数车企在年初的寒流中步履维艰，甚至陷入销量骤降的困境时，上海临港的特斯拉超级工厂，却在静默中奏响了逆势增长的序曲。那是一个寻常的周三，中国乘用车市场信息联席会（CPCA）的数据悄然发布，如同投入平静水面的一颗石子，激起了涟漪——特斯拉，再次展现了它在风暴中的独特韧性。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%86%B0%E7%82%B9%E9%80%86%E8%A2%AD%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E6%B5%B7%E5%B7%A5%E5%8E%82%E4%B8%80%E6%9C%88%E9%A3%8E%E4%BA%91/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>特斯拉超级充电网络战略扩张：构筑电动汽车生态护城河与加速行业变革</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E6%88%98%E7%95%A5%E6%89%A9%E5%BC%A0%E6%9E%84%E7%AD%91%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%80%81%E6%8A%A4%E5%9F%8E%E6%B2%B3%E4%B8%8E%E5%8A%A0%E9%80%9F%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E6%88%98%E7%95%A5%E6%89%A9%E5%BC%A0%E6%9E%84%E7%AD%91%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%80%81%E6%8A%A4%E5%9F%8E%E6%B2%B3%E4%B8%8E%E5%8A%A0%E9%80%9F%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:47:43 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉近日公布了2025年第四季度超级充电站的选址结果，这并非一次简单的基础设施扩建公告，而是其持续深化电动汽车生态系统、巩固市场领导地位的关键战略举措。作为电动汽车（EV）产业的先驱，特斯拉深谙充电基础设施对于用户体验和市场渗透率的决定性作用。此次全球范围内的站点扩张，结合一系列技术与服务创新，进一步彰显了特斯拉通过垂直整合和用户驱动策略，构建强大“护城河…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E6%88%98%E7%95%A5%E6%89%A9%E5%BC%A0%E6%9E%84%E7%AD%91%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%80%81%E6%8A%A4%E5%9F%8E%E6%B2%B3%E4%B8%8E%E5%8A%A0%E9%80%9F%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉近日公布了2025年第四季度超级充电站的选址结果，这并非一次简单的基础设施扩建公告，而是其持续深化电动汽车生态系统、巩固市场领导地位的关键战略举措。作为电动汽车（EV）产业的先驱，特斯拉深谙充电基础设施对于用户体验和市场渗透率的决定性作用。此次全球范围内的站点扩张，结合一系列技术与服务创新，进一步彰显了特斯拉通过垂直整合和用户驱动策略，构建强大“护城河…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E6%88%98%E7%95%A5%E6%89%A9%E5%BC%A0%E6%9E%84%E7%AD%91%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%9F%E6%80%81%E6%8A%A4%E5%9F%8E%E6%B2%B3%E4%B8%8E%E5%8A%A0%E9%80%9F%E8%A1%8C%E4%B8%9A%E5%8F%98%E9%9D%A9/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>流线与生命：中国门把手禁令如何重塑特斯拉的未来</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%B5%81%E7%BA%BF%E4%B8%8E%E7%94%9F%E5%91%BD%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%8A%8A%E6%89%8B%E7%A6%81%E4%BB%A4%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%B5%81%E7%BA%BF%E4%B8%8E%E7%94%9F%E5%91%BD%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%8A%8A%E6%89%8B%E7%A6%81%E4%BB%A4%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:47:22 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 夜幕降临，暴雨如注。高速公路上，一辆流线型的电动汽车在紧急避让中失控，撞上了护栏。车身严重变形，车内气囊瞬间弹出。然而，当救援人员赶到时，一个意想不到的困境浮现——车辆的隐藏式电动门把手，在断电后如同冰冷的雕塑，拒绝开启，将受困者困在车内。这样的场景，并非虚构的梦魇，而是促使中国汽车监管机构下定决心，改写行业规则的现实考量。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%B5%81%E7%BA%BF%E4%B8%8E%E7%94%9F%E5%91%BD%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%8A%8A%E6%89%8B%E7%A6%81%E4%BB%A4%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>夜幕降临，暴雨如注。高速公路上，一辆流线型的电动汽车在紧急避让中失控，撞上了护栏。车身严重变形，车内气囊瞬间弹出。然而，当救援人员赶到时，一个意想不到的困境浮现——车辆的隐藏式电动门把手，在断电后如同冰冷的雕塑，拒绝开启，将受困者困在车内。这样的场景，并非虚构的梦魇，而是促使中国汽车监管机构下定决心，改写行业规则的现实考量。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E6%B5%81%E7%BA%BF%E4%B8%8E%E7%94%9F%E5%91%BD%E4%B8%AD%E5%9B%BD%E9%97%A8%E6%8A%8A%E6%89%8B%E7%A6%81%E4%BB%A4%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%AA%E6%9D%A5/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>寒流中的韧性：特斯拉中国一月销量逆势上扬的深层逻辑</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%AF%92%E6%B5%81%E4%B8%AD%E7%9A%84%E9%9F%A7%E6%80%A7%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E4%B8%80%E6%9C%88%E9%94%80%E9%87%8F%E9%80%86%E5%8A%BF%E4%B8%8A%E6%89%AC%E7%9A%84%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%AF%92%E6%B5%81%E4%B8%AD%E7%9A%84%E9%9F%A7%E6%80%A7%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E4%B8%80%E6%9C%88%E9%94%80%E9%87%8F%E9%80%86%E5%8A%BF%E4%B8%8A%E6%89%AC%E7%9A%84%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:46:57 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 上海临港，清晨的海风带着一丝料峭的寒意，吹拂过特斯拉超级工厂（Gigafactory Shanghai）那巨大的厂房。机器的轰鸣声在黎明前便已开始，流水线上的Model 3和Model Y如同沉默的钢铁巨兽，在无数双手和精密设备的协作下，等待着驶向全球各地的命运。然而，在这看似平静的生产背后，中国新能源汽车市场却在经历一场不小的“寒流”。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%AF%92%E6%B5%81%E4%B8%AD%E7%9A%84%E9%9F%A7%E6%80%A7%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E4%B8%80%E6%9C%88%E9%94%80%E9%87%8F%E9%80%86%E5%8A%BF%E4%B8%8A%E6%89%AC%E7%9A%84%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>上海临港，清晨的海风带着一丝料峭的寒意，吹拂过特斯拉超级工厂（Gigafactory Shanghai）那巨大的厂房。机器的轰鸣声在黎明前便已开始，流水线上的Model 3和Model Y如同沉默的钢铁巨兽，在无数双手和精密设备的协作下，等待着驶向全球各地的命运。然而，在这看似平静的生产背后，中国新能源汽车市场却在经历一场不小的“寒流”。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E5%AF%92%E6%B5%81%E4%B8%AD%E7%9A%84%E9%9F%A7%E6%80%A7%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E4%B8%80%E6%9C%88%E9%94%80%E9%87%8F%E9%80%86%E5%8A%BF%E4%B8%8A%E6%89%AC%E7%9A%84%E6%B7%B1%E5%B1%82%E9%80%BB%E8%BE%91/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉中国</category></item><item>
+      <title>马斯克AI与机器人宏图：特斯拉擎天柱、SpaceX与xAI的产业融合与星际愿景</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%AC%E6%96%AF%E5%85%8Bai%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8F%E5%9B%BE%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1spacex%E4%B8%8Exai%E7%9A%84%E4%BA%A7%E4%B8%9A%E8%9E%8D%E5%90%88%E4%B8%8E%E6%98%9F%E9%99%85%E6%84%BF%E6%99%AF/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%AC%E6%96%AF%E5%85%8Bai%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8F%E5%9B%BE%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1spacex%E4%B8%8Exai%E7%9A%84%E4%BA%A7%E4%B8%9A%E8%9E%8D%E5%90%88%E4%B8%8E%E6%98%9F%E9%99%85%E6%84%BF%E6%99%AF/</guid>
+      <pubDate>Wed, 04 Feb 2026 16:46:33 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，埃隆·马斯克（Elon Musk）关于特斯拉人形机器人擎天柱（Optimus）的突破性言论，以及SpaceX与xAI的合并，共同勾勒出其宏大的产业愿景——一个将通用人工智能、机器人、能源与星际探索垂直整合的超级生态系统。这不仅是对单一产品或公司的展望，更是对未来产业格局，尤其是新能源与AI产业链的深远影响。作为深耕新能源与AI产业链的行业观察家，我们认…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%AC%E6%96%AF%E5%85%8Bai%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8F%E5%9B%BE%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1spacex%E4%B8%8Exai%E7%9A%84%E4%BA%A7%E4%B8%9A%E8%9E%8D%E5%90%88%E4%B8%8E%E6%98%9F%E9%99%85%E6%84%BF%E6%99%AF/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，埃隆·马斯克（Elon Musk）关于特斯拉人形机器人擎天柱（Optimus）的突破性言论，以及SpaceX与xAI的合并，共同勾勒出其宏大的产业愿景——一个将通用人工智能、机器人、能源与星际探索垂直整合的超级生态系统。这不仅是对单一产品或公司的展望，更是对未来产业格局，尤其是新能源与AI产业链的深远影响。作为深耕新能源与AI产业链的行业观察家，我们认…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260204-%E9%A9%AC%E6%96%AF%E5%85%8Bai%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8F%E5%9B%BE%E7%89%B9%E6%96%AF%E6%8B%89%E6%93%8E%E5%A4%A9%E6%9F%B1spacex%E4%B8%8Exai%E7%9A%84%E4%BA%A7%E4%B8%9A%E8%9E%8D%E5%90%88%E4%B8%8E%E6%98%9F%E9%99%85%E6%84%BF%E6%99%AF/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category><category>擎天柱</category><category>特斯拉</category></item><item>
+      <title>特斯拉日报 2026-02-04</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-04/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-04/</guid>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[每日特报]</strong> 《消费者报告》将Model Y评为2026年度最佳电动车，系唯一上榜纯电车型。 Kelley Blue Book研究显示，Model Y在2025年仍是电动车买家首选，关注度逆势增长。 特斯拉中国上海工厂1月交付69,129辆车辆，同比增长9.3%，领先主要竞争对手。 中国出台新规，要求车辆配备机械释放外部把手，特斯拉Model 3和Model Y面临重新设计。 特斯拉获得“印刷电路玻璃”新专利，旨在简化车辆布线和摄像头外壳设计。 马斯克再次重申，Optimus人形机器人有望成为首个“冯·诺依曼 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-04/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
+<p>《消费者报告》将Model Y评为2026年度最佳电动车，系唯一上榜纯电车型。 Kelley Blue Book研究显示，Model Y在2025年仍是电动车买家首选，关注度逆势增长。 特斯拉中国上海工厂1月交付69,129辆车辆，同比增长9.3%，领先主要竞争对手。 中国出台新规，要求车辆配备机械释放外部把手，特斯拉Model 3和Model Y面临重新设计。 特斯拉获得“印刷电路玻璃”新专利，旨在简化车辆布线和摄像头外壳设计。 马斯克再次重申，Optimus人形机器人有望成为首个“冯·诺依曼 …</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-04/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Optimus</category><category>Gigafactory</category><category>Supercharger</category><category>Model 3</category><category>Model Y</category></item><item>
+      <title>Skyryse再获3亿美元融资，估值破11.5亿：航空自动化独角兽如何重塑飞行未来？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-skyryse%E5%86%8D%E8%8E%B73%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC%E7%A0%B4115%E4%BA%BF%E8%88%AA%E7%A9%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E7%8B%AC%E8%A7%92%E5%85%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%A3%9E%E8%A1%8C%E6%9C%AA%E6%9D%A5/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-skyryse%E5%86%8D%E8%8E%B73%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC%E7%A0%B4115%E4%BA%BF%E8%88%AA%E7%A9%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E7%8B%AC%E8%A7%92%E5%85%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%A3%9E%E8%A1%8C%E6%9C%AA%E6%9D%A5/</guid>
+      <pubDate>Tue, 03 Feb 2026 20:36:52 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 航空自动化初创公司Skyryse近日宣布完成逾3亿美元的C轮融资，使其估值飙升至11.5亿美元，正式跻身“独角兽”行列。此轮资本的注入不仅为Skyryse在联邦航空管理局（FAA）漫长的飞行控制系统认证进程提供了强大的资金保障，更将加速其核心操作系统SkyOS在各类飞行器上的集成与部署，其中甚至包括美国军方使用的“黑鹰”直升机。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-skyryse%E5%86%8D%E8%8E%B73%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC%E7%A0%B4115%E4%BA%BF%E8%88%AA%E7%A9%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E7%8B%AC%E8%A7%92%E5%85%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%A3%9E%E8%A1%8C%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>航空自动化初创公司Skyryse近日宣布完成逾3亿美元的C轮融资，使其估值飙升至11.5亿美元，正式跻身“独角兽”行列。此轮资本的注入不仅为Skyryse在联邦航空管理局（FAA）漫长的飞行控制系统认证进程提供了强大的资金保障，更将加速其核心操作系统SkyOS在各类飞行器上的集成与部署，其中甚至包括美国军方使用的“黑鹰”直升机。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-skyryse%E5%86%8D%E8%8E%B73%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC%E7%A0%B4115%E4%BA%BF%E8%88%AA%E7%A9%BA%E8%87%AA%E5%8A%A8%E5%8C%96%E7%8B%AC%E8%A7%92%E5%85%BD%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%A3%9E%E8%A1%8C%E6%9C%AA%E6%9D%A5/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>《马斯克的宏图：当特斯拉驶入星辰大海》</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%AE%8F%E5%9B%BE%E5%BD%93%E7%89%B9%E6%96%AF%E6%8B%89%E9%A9%B6%E5%85%A5%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%AE%8F%E5%9B%BE%E5%BD%93%E7%89%B9%E6%96%AF%E6%8B%89%E9%A9%B6%E5%85%A5%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/</guid>
+      <pubDate>Tue, 03 Feb 2026 20:35:56 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 夜幕下的奥斯汀，特斯拉的超级工厂灯火通明，流水线上的Model Y正以惊人的速度组装成型。就在昨夜，这款备受瞩目的电动跨界车悄然迎来了一次配置更新，一个曾短暂出现的“Standard”（标准版）标识，无声无息地从特斯拉的官方配置器上消失了。这一看似微不足道的调整，或许是为了让入门级车型听起来更中性、更聚焦于驱动形式（如“后轮驱动”），同时维护“Premium…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%AE%8F%E5%9B%BE%E5%BD%93%E7%89%B9%E6%96%AF%E6%8B%89%E9%A9%B6%E5%85%A5%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>夜幕下的奥斯汀，特斯拉的超级工厂灯火通明，流水线上的Model Y正以惊人的速度组装成型。就在昨夜，这款备受瞩目的电动跨界车悄然迎来了一次配置更新，一个曾短暂出现的“Standard”（标准版）标识，无声无息地从特斯拉的官方配置器上消失了。这一看似微不足道的调整，或许是为了让入门级车型听起来更中性、更聚焦于驱动形式（如“后轮驱动”），同时维护“Premium…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%AE%8F%E5%9B%BE%E5%BD%93%E7%89%B9%E6%96%AF%E6%8B%89%E9%A9%B6%E5%85%A5%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Spacex</category><category>马斯克</category></item><item>
+      <title>Rivian放大招！R1T/R1S狂撒福利，这是要炸裂市场？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-rivian%E6%94%BE%E5%A4%A7%E6%8B%9Br1tr1s%E7%8B%82%E6%92%92%E7%A6%8F%E5%88%A9%E8%BF%99%E6%98%AF%E8%A6%81%E7%82%B8%E8%A3%82%E5%B8%82%E5%9C%BA/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-rivian%E6%94%BE%E5%A4%A7%E6%8B%9Br1tr1s%E7%8B%82%E6%92%92%E7%A6%8F%E5%88%A9%E8%BF%99%E6%98%AF%E8%A6%81%E7%82%B8%E8%A3%82%E5%B8%82%E5%9C%BA/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:56:43 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 兄弟们，最近电动车圈最让我肾上腺素飙升的消息，莫过于Rivian这波“杀手级”的市场组合拳了！他们不仅为2026款R1T和R1S车型祭出了高达6500美元的租赁补贴，还史无前例地推出了0%年利率的金融方案，更硬核的是，他们竟然还加入了Costco汽车计划！这简直是把“早期采用者”的福利直接拉满，让R1系列这款硬核越野电动车变得前所未有的触手可及。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-rivian%E6%94%BE%E5%A4%A7%E6%8B%9Br1tr1s%E7%8B%82%E6%92%92%E7%A6%8F%E5%88%A9%E8%BF%99%E6%98%AF%E8%A6%81%E7%82%B8%E8%A3%82%E5%B8%82%E5%9C%BA/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>兄弟们，最近电动车圈最让我肾上腺素飙升的消息，莫过于Rivian这波“杀手级”的市场组合拳了！他们不仅为2026款R1T和R1S车型祭出了高达6500美元的租赁补贴，还史无前例地推出了0%年利率的金融方案，更硬核的是，他们竟然还加入了Costco汽车计划！这简直是把“早期采用者”的福利直接拉满，让R1系列这款硬核越野电动车变得前所未有的触手可及。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-rivian%E6%94%BE%E5%A4%A7%E6%8B%9Br1tr1s%E7%8B%82%E6%92%92%E7%A6%8F%E5%88%A9%E8%BF%99%E6%98%AF%E8%A6%81%E7%82%B8%E8%A3%82%E5%B8%82%E5%9C%BA/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>硬核救援！特斯拉Supercharger暴雪断电后逆天续航，这才是真·未来基础设施！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%A1%AC%E6%A0%B8%E6%95%91%E6%8F%B4%E7%89%B9%E6%96%AF%E6%8B%89supercharger%E6%9A%B4%E9%9B%AA%E6%96%AD%E7%94%B5%E5%90%8E%E9%80%86%E5%A4%A9%E7%BB%AD%E8%88%AA%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%9C%AA%E6%9D%A5%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%A1%AC%E6%A0%B8%E6%95%91%E6%8F%B4%E7%89%B9%E6%96%AF%E6%8B%89supercharger%E6%9A%B4%E9%9B%AA%E6%96%AD%E7%94%B5%E5%90%8E%E9%80%86%E5%A4%A9%E7%BB%AD%E8%88%AA%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%9C%AA%E6%9D%A5%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:56:21 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 各位极客朋友们，你们敢信吗？就在前几天，美国密西西比和田纳西州遭遇了一场史诗级的冬季风暴，冰冻雨水直接把电网干趴下了，数十万人陷入黑暗！然而，就在这片漆黑中，特斯拉的Supercharger超级充电网络却像一道曙光，不仅全线在线，还直接开启了免费充电模式，这波操作简直把我CPU干烧了！这哪是充电站，这分明是灾难中的能源生命线啊！</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%A1%AC%E6%A0%B8%E6%95%91%E6%8F%B4%E7%89%B9%E6%96%AF%E6%8B%89supercharger%E6%9A%B4%E9%9B%AA%E6%96%AD%E7%94%B5%E5%90%8E%E9%80%86%E5%A4%A9%E7%BB%AD%E8%88%AA%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%9C%AA%E6%9D%A5%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>各位极客朋友们，你们敢信吗？就在前几天，美国密西西比和田纳西州遭遇了一场史诗级的冬季风暴，冰冻雨水直接把电网干趴下了，数十万人陷入黑暗！然而，就在这片漆黑中，特斯拉的Supercharger超级充电网络却像一道曙光，不仅全线在线，还直接开启了免费充电模式，这波操作简直把我CPU干烧了！这哪是充电站，这分明是灾难中的能源生命线啊！</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%A1%AC%E6%A0%B8%E6%95%91%E6%8F%B4%E7%89%B9%E6%96%AF%E6%8B%89supercharger%E6%9A%B4%E9%9B%AA%E6%96%AD%E7%94%B5%E5%90%8E%E9%80%86%E5%A4%A9%E7%BB%AD%E8%88%AA%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%9C%AA%E6%9D%A5%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>超级充电</category><category>特斯拉</category></item><item>
+      <title>SpaceX猎鹰9号上面级故障：商业航天高频发射模式的可靠性考验与产业韧性观察</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-spacex%E7%8C%8E%E9%B9%B09%E5%8F%B7%E4%B8%8A%E9%9D%A2%E7%BA%A7%E6%95%85%E9%9A%9C%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E9%AB%98%E9%A2%91%E5%8F%91%E5%B0%84%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%80%83%E9%AA%8C%E4%B8%8E%E4%BA%A7%E4%B8%9A%E9%9F%A7%E6%80%A7%E8%A7%82%E5%AF%9F/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-spacex%E7%8C%8E%E9%B9%B09%E5%8F%B7%E4%B8%8A%E9%9D%A2%E7%BA%A7%E6%95%85%E9%9A%9C%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E9%AB%98%E9%A2%91%E5%8F%91%E5%B0%84%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%80%83%E9%AA%8C%E4%B8%8E%E4%BA%A7%E4%B8%9A%E9%9F%A7%E6%80%A7%E8%A7%82%E5%AF%9F/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:56:00 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，SpaceX猎鹰9号火箭在一次成功的星链（Starlink）卫星部署任务后，其上面级在执行脱轨点火程序时出现异常，未能按计划再入大气层。尽管此次异常并未影响主任务载荷的成功部署，但已迫使SpaceX暂停所有后续猎鹰9号发射任务，以进行彻底的故障溯源与整改。这一事件不仅是SpaceX运营中的一个插曲，更是对当前商业航天产业追求高频、低成本发射模式下，系统…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-spacex%E7%8C%8E%E9%B9%B09%E5%8F%B7%E4%B8%8A%E9%9D%A2%E7%BA%A7%E6%95%85%E9%9A%9C%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E9%AB%98%E9%A2%91%E5%8F%91%E5%B0%84%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%80%83%E9%AA%8C%E4%B8%8E%E4%BA%A7%E4%B8%9A%E9%9F%A7%E6%80%A7%E8%A7%82%E5%AF%9F/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，SpaceX猎鹰9号火箭在一次成功的星链（Starlink）卫星部署任务后，其上面级在执行脱轨点火程序时出现异常，未能按计划再入大气层。尽管此次异常并未影响主任务载荷的成功部署，但已迫使SpaceX暂停所有后续猎鹰9号发射任务，以进行彻底的故障溯源与整改。这一事件不仅是SpaceX运营中的一个插曲，更是对当前商业航天产业追求高频、低成本发射模式下，系统…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-spacex%E7%8C%8E%E9%B9%B09%E5%8F%B7%E4%B8%8A%E9%9D%A2%E7%BA%A7%E6%95%85%E9%9A%9C%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E9%AB%98%E9%A2%91%E5%8F%91%E5%B0%84%E6%A8%A1%E5%BC%8F%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E8%80%83%E9%AA%8C%E4%B8%8E%E4%BA%A7%E4%B8%9A%E9%9F%A7%E6%80%A7%E8%A7%82%E5%AF%9F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category></item><item>
+      <title>特斯拉Model Y AWD降维打击：4.2万美元入门级四驱，重塑市场格局？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y-awd%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB42%E4%B8%87%E7%BE%8E%E5%85%83%E5%85%A5%E9%97%A8%E7%BA%A7%E5%9B%9B%E9%A9%B1%E9%87%8D%E5%A1%91%E5%B8%82%E5%9C%BA%E6%A0%BC%E5%B1%80/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y-awd%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB42%E4%B8%87%E7%BE%8E%E5%85%83%E5%85%A5%E9%97%A8%E7%BA%A7%E5%9B%9B%E9%A9%B1%E9%87%8D%E5%A1%91%E5%B8%82%E5%9C%BA%E6%A0%BC%E5%B1%80/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:55:33 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉近日在美国市场对其核心产品Model Y系列进行了策略性调整，推出了全新的入门级Model Y AWD（全轮驱动）车型，并正式弃用“标准版”（Standard）这一命名，转而采用更清晰的RWD（后轮驱动）、AWD和Premium（豪华版）的层级划分。分析认为，此举不仅进一步丰富了Model Y的产品线，更以极具竞争力的价格直指中端电动汽车市场，或将引发…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y-awd%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB42%E4%B8%87%E7%BE%8E%E5%85%83%E5%85%A5%E9%97%A8%E7%BA%A7%E5%9B%9B%E9%A9%B1%E9%87%8D%E5%A1%91%E5%B8%82%E5%9C%BA%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉近日在美国市场对其核心产品Model Y系列进行了策略性调整，推出了全新的入门级Model Y AWD（全轮驱动）车型，并正式弃用“标准版”（Standard）这一命名，转而采用更清晰的RWD（后轮驱动）、AWD和Premium（豪华版）的层级划分。分析认为，此举不仅进一步丰富了Model Y的产品线，更以极具竞争力的价格直指中端电动汽车市场，或将引发…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y-awd%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB42%E4%B8%87%E7%BE%8E%E5%85%83%E5%85%A5%E9%97%A8%E7%BA%A7%E5%9B%9B%E9%A9%B1%E9%87%8D%E5%A1%91%E5%B8%82%E5%9C%BA%E6%A0%BC%E5%B1%80/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Model Y</category></item><item>
+      <title>太空算力基础设施的范式革命：SpaceX与xAI垂直整合的战略深意</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%A4%AA%E7%A9%BA%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BDspacex%E4%B8%8Exai%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%A4%AA%E7%A9%BA%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BDspacex%E4%B8%8Exai%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:55:12 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，SpaceX宣布收购xAI，并同步披露了在地球轨道部署大规模AI数据中心的宏伟计划。这一战略性垂直整合，不仅标志着埃隆·马斯克旗下核心资产的深度协同，更预示着全球AI算力基础设施可能迎来一场颠覆性的范式革命。作为深耕新能源与AI产业链的行业观察家，我们认为此举远超传统并购范畴，它正在重塑未来算力的供给模式、竞争格局乃至地缘经济版图。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%A4%AA%E7%A9%BA%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BDspacex%E4%B8%8Exai%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，SpaceX宣布收购xAI，并同步披露了在地球轨道部署大规模AI数据中心的宏伟计划。这一战略性垂直整合，不仅标志着埃隆·马斯克旗下核心资产的深度协同，更预示着全球AI算力基础设施可能迎来一场颠覆性的范式革命。作为深耕新能源与AI产业链的行业观察家，我们认为此举远超传统并购范畴，它正在重塑未来算力的供给模式、竞争格局乃至地缘经济版图。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%A4%AA%E7%A9%BA%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E8%8C%83%E5%BC%8F%E9%9D%A9%E5%91%BDspacex%E4%B8%8Exai%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E7%9A%84%E6%88%98%E7%95%A5%E6%B7%B1%E6%84%8F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category></item><item>
+      <title>时间的拓宽：特斯拉行车记录仪背后的隐秘博弈</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%97%B6%E9%97%B4%E7%9A%84%E6%8B%93%E5%AE%BD%E7%89%B9%E6%96%AF%E6%8B%89%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E7%A7%98%E5%8D%9A%E5%BC%88/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%97%B6%E9%97%B4%E7%9A%84%E6%8B%93%E5%AE%BD%E7%89%B9%E6%96%AF%E6%8B%89%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E7%A7%98%E5%8D%9A%E5%BC%88/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:54:45 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 夜幕低垂，城市的喧嚣渐渐沉寂。王先生，一位特斯拉Model 3车主，疲惫地回到家，却发现车身一道刺眼的刮痕。心头一紧，他立刻想到了车内的行车记录仪。然而，当他尝试回溯，却发现最关键的画面已被无情覆盖——仅仅一小时前的记忆，已在数字洪流中消逝。这，曾是无数特斯拉车主心照不宣的痛点：无论你为爱车配备了多大容量的USB存储设备，从128GB的闪存盘到2TB的固态硬…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%97%B6%E9%97%B4%E7%9A%84%E6%8B%93%E5%AE%BD%E7%89%B9%E6%96%AF%E6%8B%89%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E7%A7%98%E5%8D%9A%E5%BC%88/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>夜幕低垂，城市的喧嚣渐渐沉寂。王先生，一位特斯拉Model 3车主，疲惫地回到家，却发现车身一道刺眼的刮痕。心头一紧，他立刻想到了车内的行车记录仪。然而，当他尝试回溯，却发现最关键的画面已被无情覆盖——仅仅一小时前的记忆，已在数字洪流中消逝。这，曾是无数特斯拉车主心照不宣的痛点：无论你为爱车配备了多大容量的USB存储设备，从128GB的闪存盘到2TB的固态硬…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%97%B6%E9%97%B4%E7%9A%84%E6%8B%93%E5%AE%BD%E7%89%B9%E6%96%AF%E6%8B%89%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E8%83%8C%E5%90%8E%E7%9A%84%E9%9A%90%E7%A7%98%E5%8D%9A%E5%BC%88/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>驶向深海：特斯拉900万电动车队的潮汐与远航</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%B6%E5%90%91%E6%B7%B1%E6%B5%B7%E7%89%B9%E6%96%AF%E6%8B%89900%E4%B8%87%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%98%9F%E7%9A%84%E6%BD%AE%E6%B1%90%E4%B8%8E%E8%BF%9C%E8%88%AA/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%B6%E5%90%91%E6%B7%B1%E6%B5%B7%E7%89%B9%E6%96%AF%E6%8B%89900%E4%B8%87%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%98%9F%E7%9A%84%E6%BD%AE%E6%B1%90%E4%B8%8E%E8%BF%9C%E8%88%AA/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:54:17 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 当冬日的凛冽逐渐消退，一个数字悄然划破了电动汽车世界的平静——900万。这不仅仅是一个冰冷的统计，更是特斯拉在漫长而崎岖的征途上，用钢铁与电流铸就的又一座里程碑。它如同海面上浮现的巨轮，承载着无数车主的梦想与信任，也映射出一家颠覆者16年来在全球市场劈波斩浪的壮阔图景。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%B6%E5%90%91%E6%B7%B1%E6%B5%B7%E7%89%B9%E6%96%AF%E6%8B%89900%E4%B8%87%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%98%9F%E7%9A%84%E6%BD%AE%E6%B1%90%E4%B8%8E%E8%BF%9C%E8%88%AA/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>当冬日的凛冽逐渐消退，一个数字悄然划破了电动汽车世界的平静——900万。这不仅仅是一个冰冷的统计，更是特斯拉在漫长而崎岖的征途上，用钢铁与电流铸就的又一座里程碑。它如同海面上浮现的巨轮，承载着无数车主的梦想与信任，也映射出一家颠覆者16年来在全球市场劈波斩浪的壮阔图景。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%B6%E5%90%91%E6%B7%B1%E6%B5%B7%E7%89%B9%E6%96%AF%E6%8B%89900%E4%B8%87%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%98%9F%E7%9A%84%E6%BD%AE%E6%B1%90%E4%B8%8E%E8%BF%9C%E8%88%AA/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>新能源</category></item><item>
+      <title>门把手之殇：中国电动车美学与安全的生死抉择</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%97%A8%E6%8A%8A%E6%89%8B%E4%B9%8B%E6%AE%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BE%8E%E5%AD%A6%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%94%9F%E6%AD%BB%E6%8A%89%E6%8B%A9/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%97%A8%E6%8A%8A%E6%89%8B%E4%B9%8B%E6%AE%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BE%8E%E5%AD%A6%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%94%9F%E6%AD%BB%E6%8A%89%E6%8B%A9/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:53:55 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 2025年深秋，成都的夜幕被一场突如其来的火光撕裂。一辆崭新的小米SU7电动车，在一次剧烈碰撞后，车身扭曲，火舌吞噬着车体。围观群众焦急万分，试图打开车门，将困在车内的驾驶员救出。然而，那原本被视为设计精髓的“特斯拉式”隐藏门把手，此刻却像一道冰冷的屏障，无论如何触碰、拉扯，都纹丝不动。火焰愈发猛烈，生命在绝望中逝去。这起惨痛的事故，不仅让小米SU7的设计理…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%97%A8%E6%8A%8A%E6%89%8B%E4%B9%8B%E6%AE%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BE%8E%E5%AD%A6%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%94%9F%E6%AD%BB%E6%8A%89%E6%8B%A9/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>2025年深秋，成都的夜幕被一场突如其来的火光撕裂。一辆崭新的小米SU7电动车，在一次剧烈碰撞后，车身扭曲，火舌吞噬着车体。围观群众焦急万分，试图打开车门，将困在车内的驾驶员救出。然而，那原本被视为设计精髓的“特斯拉式”隐藏门把手，此刻却像一道冰冷的屏障，无论如何触碰、拉扯，都纹丝不动。火焰愈发猛烈，生命在绝望中逝去。这起惨痛的事故，不仅让小米SU7的设计理…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%97%A8%E6%8A%8A%E6%89%8B%E4%B9%8B%E6%AE%87%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%BE%8E%E5%AD%A6%E4%B8%8E%E5%AE%89%E5%85%A8%E7%9A%84%E7%94%9F%E6%AD%BB%E6%8A%89%E6%8B%A9/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>寒冬中的微光：马斯克、xAI与田纳西州的电力救援</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E5%BE%AE%E5%85%89%E9%A9%AC%E6%96%AF%E5%85%8Bxai%E4%B8%8E%E7%94%B0%E7%BA%B3%E8%A5%BF%E5%B7%9E%E7%9A%84%E7%94%B5%E5%8A%9B%E6%95%91%E6%8F%B4/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E5%BE%AE%E5%85%89%E9%A9%AC%E6%96%AF%E5%85%8Bxai%E4%B8%8E%E7%94%B0%E7%BA%B3%E8%A5%BF%E5%B7%9E%E7%9A%84%E7%94%B5%E5%8A%9B%E6%95%91%E6%8F%B4/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:53:35 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 田纳西州冬日的寒夜，本应是万家灯火、炉火正旺的温馨时刻。然而，一场历史性的冬季风暴却将这片土地推入了漫长的黑暗与冰冷。气温骤降，电网崩溃，数以十万计的家庭在一月下旬失去了电力，取暖设备成了摆设，冰箱里的食物逐渐变质，孩子们蜷缩在毯子下，等待着不知何时才能重现的光明与温暖。在某些社区，这种无助的等待甚至持续了九天之久，生活的脆弱性在严寒中被放大到极致。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E5%BE%AE%E5%85%89%E9%A9%AC%E6%96%AF%E5%85%8Bxai%E4%B8%8E%E7%94%B0%E7%BA%B3%E8%A5%BF%E5%B7%9E%E7%9A%84%E7%94%B5%E5%8A%9B%E6%95%91%E6%8F%B4/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>田纳西州冬日的寒夜，本应是万家灯火、炉火正旺的温馨时刻。然而，一场历史性的冬季风暴却将这片土地推入了漫长的黑暗与冰冷。气温骤降，电网崩溃，数以十万计的家庭在一月下旬失去了电力，取暖设备成了摆设，冰箱里的食物逐渐变质，孩子们蜷缩在毯子下，等待着不知何时才能重现的光明与温暖。在某些社区，这种无助的等待甚至持续了九天之久，生活的脆弱性在严寒中被放大到极致。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E5%AF%92%E5%86%AC%E4%B8%AD%E7%9A%84%E5%BE%AE%E5%85%89%E9%A9%AC%E6%96%AF%E5%85%8Bxai%E4%B8%8E%E7%94%B0%E7%BA%B3%E8%A5%BF%E5%B7%9E%E7%9A%84%E7%94%B5%E5%8A%9B%E6%95%91%E6%8F%B4/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>埃隆·马斯克</category></item><item>
+      <title>马斯克商业帝国整合提速：SpaceX-xAI合并完成，分析师看涨特斯拉未来整合</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD%E6%95%B4%E5%90%88%E6%8F%90%E9%80%9Fspacex-xai%E5%90%88%E5%B9%B6%E5%AE%8C%E6%88%90%E5%88%86%E6%9E%90%E5%B8%88%E7%9C%8B%E6%B6%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%AA%E6%9D%A5%E6%95%B4%E5%90%88/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD%E6%95%B4%E5%90%88%E6%8F%90%E9%80%9Fspacex-xai%E5%90%88%E5%B9%B6%E5%AE%8C%E6%88%90%E5%88%86%E6%9E%90%E5%B8%88%E7%9C%8B%E6%B6%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%AA%E6%9D%A5%E6%95%B4%E5%90%88/</guid>
+      <pubDate>Tue, 03 Feb 2026 16:53:14 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 核心事件: 马斯克已确认其旗下太空探索技术公司SpaceX与人工智能初创公司xAI完成合并。 分析师观点: Wedbush Securities分析师Dan Ives预测，未来12-18个月内，特斯拉(NASDAQ:TSLA)与SpaceX及xAI以某种形式合并的可能性正在增加。 潜在理由**: Ives认为，马斯克旨在整合日益壮大的AI生态系统，使其“太空…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD%E6%95%B4%E5%90%88%E6%8F%90%E9%80%9Fspacex-xai%E5%90%88%E5%B9%B6%E5%AE%8C%E6%88%90%E5%88%86%E6%9E%90%E5%B8%88%E7%9C%8B%E6%B6%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%AA%E6%9D%A5%E6%95%B4%E5%90%88/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>核心事件: 马斯克已确认其旗下太空探索技术公司SpaceX与人工智能初创公司xAI完成合并。 分析师观点: Wedbush Securities分析师Dan Ives预测，未来12-18个月内，特斯拉(NASDAQ:TSLA)与SpaceX及xAI以某种形式合并的可能性正在增加。 潜在理由**: Ives认为，马斯克旨在整合日益壮大的AI生态系统，使其“太空…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%95%86%E4%B8%9A%E5%B8%9D%E5%9B%BD%E6%95%B4%E5%90%88%E6%8F%90%E9%80%9Fspacex-xai%E5%90%88%E5%B9%B6%E5%AE%8C%E6%88%90%E5%88%86%E6%9E%90%E5%B8%88%E7%9C%8B%E6%B6%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%AA%E6%9D%A5%E6%95%B4%E5%90%88/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>4680电池</category><category>Spacex</category></item><item>
+      <title>特斯拉Model Y产品线策略深化：电动汽车市场竞争格局与未来出行生态的演变</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%BA%A7%E5%93%81%E7%BA%BF%E7%AD%96%E7%95%A5%E6%B7%B1%E5%8C%96%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%87%BA%E8%A1%8C%E7%94%9F%E6%80%81%E7%9A%84%E6%BC%94%E5%8F%98/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%BA%A7%E5%93%81%E7%BA%BF%E7%AD%96%E7%95%A5%E6%B7%B1%E5%8C%96%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%87%BA%E8%A1%8C%E7%94%9F%E6%80%81%E7%9A%84%E6%BC%94%E5%8F%98/</guid>
+      <pubDate>Tue, 03 Feb 2026 05:15:13 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉近日在美国市场推出全新的经济型Model Y全轮驱动（AWD）配置，定价41,990美元，续航里程294英里，0-60 MPH加速时间4.6秒。此举并非简单的产品更新，而是特斯拉在电动汽车（EV）市场日益白热化的竞争中，通过成本结构优化与市场细分，巩固核心车型销量，并为其长期的自动驾驶（Autonomy）和Robotaxi（自动驾驶出租车）战略铺路的宏…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%BA%A7%E5%93%81%E7%BA%BF%E7%AD%96%E7%95%A5%E6%B7%B1%E5%8C%96%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%87%BA%E8%A1%8C%E7%94%9F%E6%80%81%E7%9A%84%E6%BC%94%E5%8F%98/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉近日在美国市场推出全新的经济型Model Y全轮驱动（AWD）配置，定价41,990美元，续航里程294英里，0-60 MPH加速时间4.6秒。此举并非简单的产品更新，而是特斯拉在电动汽车（EV）市场日益白热化的竞争中，通过成本结构优化与市场细分，巩固核心车型销量，并为其长期的自动驾驶（Autonomy）和Robotaxi（自动驾驶出租车）战略铺路的宏…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E4%BA%A7%E5%93%81%E7%BA%BF%E7%AD%96%E7%95%A5%E6%B7%B1%E5%8C%96%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%9C%AA%E6%9D%A5%E5%87%BA%E8%A1%8C%E7%94%9F%E6%80%81%E7%9A%84%E6%BC%94%E5%8F%98/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Model Y</category></item><item>
+      <title>掘进未来：迪拜地下环线，马斯克与沙漠之城的超速之约</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%8E%98%E8%BF%9B%E6%9C%AA%E6%9D%A5%E8%BF%AA%E6%8B%9C%E5%9C%B0%E4%B8%8B%E7%8E%AF%E7%BA%BF%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E6%B2%99%E6%BC%A0%E4%B9%8B%E5%9F%8E%E7%9A%84%E8%B6%85%E9%80%9F%E4%B9%8B%E7%BA%A6/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%8E%98%E8%BF%9B%E6%9C%AA%E6%9D%A5%E8%BF%AA%E6%8B%9C%E5%9C%B0%E4%B8%8B%E7%8E%AF%E7%BA%BF%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E6%B2%99%E6%BC%A0%E4%B9%8B%E5%9F%8E%E7%9A%84%E8%B6%85%E9%80%9F%E4%B9%8B%E7%BA%A6/</guid>
+      <pubDate>Tue, 03 Feb 2026 02:00:04 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 在一个常年被阳光炙烤的沙漠之城，迪拜的脉搏从未停止跳动。当全球的目光聚焦于其拔地而起的摩天大楼与人造奇迹时，一场更为隐秘、却同样雄心勃勃的变革，正在地表之下悄然酝酿。尘土飞扬的工地上，巨大的机械轰鸣声打破了清晨的宁静，预示着一个将重新定义城市通勤的宏伟项目——迪拜环线（Dubai Loop）——已正式启动其第一阶段的建设。这不仅仅是一条隧道，更是迪拜与埃隆·…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%8E%98%E8%BF%9B%E6%9C%AA%E6%9D%A5%E8%BF%AA%E6%8B%9C%E5%9C%B0%E4%B8%8B%E7%8E%AF%E7%BA%BF%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E6%B2%99%E6%BC%A0%E4%B9%8B%E5%9F%8E%E7%9A%84%E8%B6%85%E9%80%9F%E4%B9%8B%E7%BA%A6/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>在一个常年被阳光炙烤的沙漠之城，迪拜的脉搏从未停止跳动。当全球的目光聚焦于其拔地而起的摩天大楼与人造奇迹时，一场更为隐秘、却同样雄心勃勃的变革，正在地表之下悄然酝酿。尘土飞扬的工地上，巨大的机械轰鸣声打破了清晨的宁静，预示着一个将重新定义城市通勤的宏伟项目——迪拜环线（Dubai Loop）——已正式启动其第一阶段的建设。这不仅仅是一条隧道，更是迪拜与埃隆·…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E6%8E%98%E8%BF%9B%E6%9C%AA%E6%9D%A5%E8%BF%AA%E6%8B%9C%E5%9C%B0%E4%B8%8B%E7%8E%AF%E7%BA%BF%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E6%B2%99%E6%BC%A0%E4%B9%8B%E5%9F%8E%E7%9A%84%E8%B6%85%E9%80%9F%E4%B9%8B%E7%BA%A6/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>The Boring Company</category><category>马斯克</category></item><item>
+      <title>特斯拉Apple CarPlay项目再现生机：用户需求能否撬动马斯克的封闭生态？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89apple-carplay%E9%A1%B9%E7%9B%AE%E5%86%8D%E7%8E%B0%E7%94%9F%E6%9C%BA%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E8%83%BD%E5%90%A6%E6%92%AC%E5%8A%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%B0%81%E9%97%AD%E7%94%9F%E6%80%81/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89apple-carplay%E9%A1%B9%E7%9B%AE%E5%86%8D%E7%8E%B0%E7%94%9F%E6%9C%BA%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E8%83%BD%E5%90%A6%E6%92%AC%E5%8A%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%B0%81%E9%97%AD%E7%94%9F%E6%80%81/</guid>
+      <pubDate>Tue, 03 Feb 2026 01:59:14 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期市场传闻再起，此前一度被认为搁置的特斯拉（NASDAQ: TSLA）Apple CarPlay集成项目，似乎并未“胎死腹中”，软件团队仍在积极推进。作为一家长期坚持自研车载操作系统（UI）的科技巨头，特斯拉此举引发了广泛关注，分析认为，这不仅是其对用户呼声的顺应，更是面对日益激烈的电动汽车市场竞争，寻求扩大客户群体、提升市场份额的战略性考量。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89apple-carplay%E9%A1%B9%E7%9B%AE%E5%86%8D%E7%8E%B0%E7%94%9F%E6%9C%BA%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E8%83%BD%E5%90%A6%E6%92%AC%E5%8A%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%B0%81%E9%97%AD%E7%94%9F%E6%80%81/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期市场传闻再起，此前一度被认为搁置的特斯拉（NASDAQ: TSLA）Apple CarPlay集成项目，似乎并未“胎死腹中”，软件团队仍在积极推进。作为一家长期坚持自研车载操作系统（UI）的科技巨头，特斯拉此举引发了广泛关注，分析认为，这不仅是其对用户呼声的顺应，更是面对日益激烈的电动汽车市场竞争，寻求扩大客户群体、提升市场份额的战略性考量。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260203-%E7%89%B9%E6%96%AF%E6%8B%89apple-carplay%E9%A1%B9%E7%9B%AE%E5%86%8D%E7%8E%B0%E7%94%9F%E6%9C%BA%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E8%83%BD%E5%90%A6%E6%92%AC%E5%8A%A8%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%B0%81%E9%97%AD%E7%94%9F%E6%80%81/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>特斯拉日报 2026-02-03</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-03/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-03/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[每日特报]</strong> 特斯拉在美国推出新款Model Y全轮驱动版，售价41,990美元，并取消“Standard”命名。 特斯拉全球车队规模突破900万辆，中国市场销量表现强劲。 SpaceX正式收购xAI，特斯拉此前已向xAI投资20亿美元。 特斯拉Dashcam行车记录仪将支持最长24小时的动态录制时长。 特斯拉在密西西比州和田纳西州启动免费超级充电服务，埃隆·马斯克和xAI向田纳西州捐赠发电机。 中国将从2027年起禁止电动汽车使用特斯拉式隐藏式门把手。 The Boring Company在迪拜启动首期地下 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-03/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
+<p>特斯拉在美国推出新款Model Y全轮驱动版，售价41,990美元，并取消“Standard”命名。 特斯拉全球车队规模突破900万辆，中国市场销量表现强劲。 SpaceX正式收购xAI，特斯拉此前已向xAI投资20亿美元。 特斯拉Dashcam行车记录仪将支持最长24小时的动态录制时长。 特斯拉在密西西比州和田纳西州启动免费超级充电服务，埃隆·马斯克和xAI向田纳西州捐赠发电机。 中国将从2027年起禁止电动汽车使用特斯拉式隐藏式门把手。 The Boring Company在迪拜启动首期地下 …</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-03/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Optimus</category><category>Gigafactory</category><category>4680</category><category>Supercharger</category></item><item>
+      <title>硅谷炼金术：特斯拉干电极的秘密与能源帝国的未来</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%A1%85%E8%B0%B7%E7%82%BC%E9%87%91%E6%9C%AF%E7%89%B9%E6%96%AF%E6%8B%89%E5%B9%B2%E7%94%B5%E6%9E%81%E7%9A%84%E7%A7%98%E5%AF%86%E4%B8%8E%E8%83%BD%E6%BA%90%E5%B8%9D%E5%9B%BD%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%A1%85%E8%B0%B7%E7%82%BC%E9%87%91%E6%9C%AF%E7%89%B9%E6%96%AF%E6%8B%89%E5%B9%B2%E7%94%B5%E6%9E%81%E7%9A%84%E7%A7%98%E5%AF%86%E4%B8%8E%E8%83%BD%E6%BA%90%E5%B8%9D%E5%9B%BD%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:42:49 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 在加州弗里蒙特工厂的深处，机器的轰鸣声曾是传统电池生产线挥之不去的背景音。那里，巨大的烘箱吞吐着热浪，将有毒的溶剂从电池浆料中蒸发殆尽，耗费着惊人的能源与空间。这不仅是成本的黑洞，更是锂离子电池制造长期以来的桎梏。然而，就在这片曾被湿法工艺主宰的工业腹地，一场寂静的革命正在酝酿，最终由埃隆·马斯克的一句话，将它推向了世人面前。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%A1%85%E8%B0%B7%E7%82%BC%E9%87%91%E6%9C%AF%E7%89%B9%E6%96%AF%E6%8B%89%E5%B9%B2%E7%94%B5%E6%9E%81%E7%9A%84%E7%A7%98%E5%AF%86%E4%B8%8E%E8%83%BD%E6%BA%90%E5%B8%9D%E5%9B%BD%E7%9A%84%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>在加州弗里蒙特工厂的深处，机器的轰鸣声曾是传统电池生产线挥之不去的背景音。那里，巨大的烘箱吞吐着热浪，将有毒的溶剂从电池浆料中蒸发殆尽，耗费着惊人的能源与空间。这不仅是成本的黑洞，更是锂离子电池制造长期以来的桎梏。然而，就在这片曾被湿法工艺主宰的工业腹地，一场寂静的革命正在酝酿，最终由埃隆·马斯克的一句话，将它推向了世人面前。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%A1%85%E8%B0%B7%E7%82%BC%E9%87%91%E6%9C%AF%E7%89%B9%E6%96%AF%E6%8B%89%E5%B9%B2%E7%94%B5%E6%9E%81%E7%9A%84%E7%A7%98%E5%AF%86%E4%B8%8E%E8%83%BD%E6%BA%90%E5%B8%9D%E5%9B%BD%E7%9A%84%E6%9C%AA%E6%9D%A5/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>软件帝国的裂隙：特斯拉与CarPlay的微妙共存</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E8%BD%AF%E4%BB%B6%E5%B8%9D%E5%9B%BD%E7%9A%84%E8%A3%82%E9%9A%99%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecarplay%E7%9A%84%E5%BE%AE%E5%A6%99%E5%85%B1%E5%AD%98/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E8%BD%AF%E4%BB%B6%E5%B8%9D%E5%9B%BD%E7%9A%84%E8%A3%82%E9%9A%99%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecarplay%E7%9A%84%E5%BE%AE%E5%A6%99%E5%85%B1%E5%AD%98/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:42:31 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 午后的阳光，透过特斯拉Model 3的全景天窗，洒在方向盘上。李明，一位资深特斯拉车主，轻点屏幕，切换着车载系统自带的导航。他习惯了这块屏幕的流畅与响应，但偶尔，当通勤路上前方突如其来的拥堵让他措手不及，他总会下意识地轻叹一声：“要是能用Waze就好了。”</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E8%BD%AF%E4%BB%B6%E5%B8%9D%E5%9B%BD%E7%9A%84%E8%A3%82%E9%9A%99%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecarplay%E7%9A%84%E5%BE%AE%E5%A6%99%E5%85%B1%E5%AD%98/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>午后的阳光，透过特斯拉Model 3的全景天窗，洒在方向盘上。李明，一位资深特斯拉车主，轻点屏幕，切换着车载系统自带的导航。他习惯了这块屏幕的流畅与响应，但偶尔，当通勤路上前方突如其来的拥堵让他措手不及，他总会下意识地轻叹一声：“要是能用Waze就好了。”</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E8%BD%AF%E4%BB%B6%E5%B8%9D%E5%9B%BD%E7%9A%84%E8%A3%82%E9%9A%99%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecarplay%E7%9A%84%E5%BE%AE%E5%A6%99%E5%85%B1%E5%AD%98/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>特斯拉FSD以色列试水：全球自动驾驶法规演进与市场潜力解析</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E4%BB%A5%E8%89%B2%E5%88%97%E8%AF%95%E6%B0%B4%E5%85%A8%E7%90%83%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B3%95%E8%A7%84%E6%BC%94%E8%BF%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E8%A7%A3%E6%9E%90/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E4%BB%A5%E8%89%B2%E5%88%97%E8%AF%95%E6%B0%B4%E5%85%A8%E7%90%83%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B3%95%E8%A7%84%E6%BC%94%E8%BF%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E8%A7%A3%E6%9E%90/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:42:03 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，特斯拉的全自动驾驶（FSD）系统获准在以色列公共道路进行受监督测试，此举不仅标志着特斯拉在全球化进程中迈出了关键一步，更在全球自动驾驶产业的合规化与商业化路径上提供了新的观察窗口。作为深耕新能源与AI产业链的行业观察家，我们认为，此次事件将对全球自动驾驶的竞争格局、技术标准及商业模式产生深远影响，值得从宏观视角进行深入剖析。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E4%BB%A5%E8%89%B2%E5%88%97%E8%AF%95%E6%B0%B4%E5%85%A8%E7%90%83%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B3%95%E8%A7%84%E6%BC%94%E8%BF%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E8%A7%A3%E6%9E%90/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，特斯拉的全自动驾驶（FSD）系统获准在以色列公共道路进行受监督测试，此举不仅标志着特斯拉在全球化进程中迈出了关键一步，更在全球自动驾驶产业的合规化与商业化路径上提供了新的观察窗口。作为深耕新能源与AI产业链的行业观察家，我们认为，此次事件将对全球自动驾驶的竞争格局、技术标准及商业模式产生深远影响，值得从宏观视角进行深入剖析。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E4%BB%A5%E8%89%B2%E5%88%97%E8%AF%95%E6%B0%B4%E5%85%A8%E7%90%83%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%B3%95%E8%A7%84%E6%BC%94%E8%BF%9B%E4%B8%8E%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E8%A7%A3%E6%9E%90/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>FSD</category><category>自动驾驶</category><category>特斯拉</category></item><item>
+      <title>WTF？！特斯拉保险在佐治亚州突然“急刹车”，这波操作有点迷啊！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-wtf%E7%89%B9%E6%96%AF%E6%8B%89%E4%BF%9D%E9%99%A9%E5%9C%A8%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E%E7%AA%81%E7%84%B6%E6%80%A5%E5%88%B9%E8%BD%A6%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E8%BF%B7%E5%95%8A/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-wtf%E7%89%B9%E6%96%AF%E6%8B%89%E4%BF%9D%E9%99%A9%E5%9C%A8%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E%E7%AA%81%E7%84%B6%E6%80%A5%E5%88%B9%E8%BD%A6%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E8%BF%B7%E5%95%8A/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:41:33 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 惊不惊喜？意不意外？我们这些科技极客和早期采用者，对特斯拉的每一次“骚操作”都充满期待，但这次，特斯拉保险（Tesla Insurance）在佐治亚州撤回申请的消息，着实让我有点懵圈！要知道，这可是特斯拉首次在已申请扩张的州“打退堂鼓”，简直是活久见！这背后到底藏着什么硬核博弈，难道是监管机构和科技巨头的大数据碰撞擦出了火花？</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-wtf%E7%89%B9%E6%96%AF%E6%8B%89%E4%BF%9D%E9%99%A9%E5%9C%A8%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E%E7%AA%81%E7%84%B6%E6%80%A5%E5%88%B9%E8%BD%A6%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E8%BF%B7%E5%95%8A/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>惊不惊喜？意不意外？我们这些科技极客和早期采用者，对特斯拉的每一次“骚操作”都充满期待，但这次，特斯拉保险（Tesla Insurance）在佐治亚州撤回申请的消息，着实让我有点懵圈！要知道，这可是特斯拉首次在已申请扩张的州“打退堂鼓”，简直是活久见！这背后到底藏着什么硬核博弈，难道是监管机构和科技巨头的大数据碰撞擦出了火花？</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-wtf%E7%89%B9%E6%96%AF%E6%8B%89%E4%BF%9D%E9%99%A9%E5%9C%A8%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B7%9E%E7%AA%81%E7%84%B6%E6%80%A5%E5%88%B9%E8%BD%A6%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E6%9C%89%E7%82%B9%E8%BF%B7%E5%95%8A/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>Waymo巨额融资：自动驾驶产业估值新高，引领商业化加速期</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-waymo%E5%B7%A8%E9%A2%9D%E8%9E%8D%E8%B5%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E4%BC%B0%E5%80%BC%E6%96%B0%E9%AB%98%E5%BC%95%E9%A2%86%E5%95%86%E4%B8%9A%E5%8C%96%E5%8A%A0%E9%80%9F%E6%9C%9F/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-waymo%E5%B7%A8%E9%A2%9D%E8%9E%8D%E8%B5%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E4%BC%B0%E5%80%BC%E6%96%B0%E9%AB%98%E5%BC%95%E9%A2%86%E5%95%86%E4%B8%9A%E5%8C%96%E5%8A%A0%E9%80%9F%E6%9C%9F/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:41:09 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> Waymo作为Alphabet旗下的自动驾驶部门，正计划完成一轮高达160亿美元的私募融资，其估值将逼近1100亿美元，这标志着自动驾驶行业在资本市场获得前所未有的认可，并预示着该领域正从技术验证阶段迈向商业化加速期。此次巨额融资不仅为Waymo的规模化扩张提供了充足弹药，更深层次地重塑了市场对自动驾驶赛道未来潜力的估值逻辑，对全球新能源与AI产业链的联动发…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-waymo%E5%B7%A8%E9%A2%9D%E8%9E%8D%E8%B5%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E4%BC%B0%E5%80%BC%E6%96%B0%E9%AB%98%E5%BC%95%E9%A2%86%E5%95%86%E4%B8%9A%E5%8C%96%E5%8A%A0%E9%80%9F%E6%9C%9F/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>Waymo作为Alphabet旗下的自动驾驶部门，正计划完成一轮高达160亿美元的私募融资，其估值将逼近1100亿美元，这标志着自动驾驶行业在资本市场获得前所未有的认可，并预示着该领域正从技术验证阶段迈向商业化加速期。此次巨额融资不仅为Waymo的规模化扩张提供了充足弹药，更深层次地重塑了市场对自动驾驶赛道未来潜力的估值逻辑，对全球新能源与AI产业链的联动发…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-waymo%E5%B7%A8%E9%A2%9D%E8%9E%8D%E8%B5%84%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E4%BC%B0%E5%80%BC%E6%96%B0%E9%AB%98%E5%BC%95%E9%A2%86%E5%95%86%E4%B8%9A%E5%8C%96%E5%8A%A0%E9%80%9F%E6%9C%9F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>炸裂！特斯拉Optimus Gen 4量产路线图曝光：德州工厂扛大旗，弗里蒙特成『试验田』？！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%82%B8%E8%A3%82%E7%89%B9%E6%96%AF%E6%8B%89optimus-gen-4%E9%87%8F%E4%BA%A7%E8%B7%AF%E7%BA%BF%E5%9B%BE%E6%9B%9D%E5%85%89%E5%BE%B7%E5%B7%9E%E5%B7%A5%E5%8E%82%E6%89%9B%E5%A4%A7%E6%97%97%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E6%88%90%E8%AF%95%E9%AA%8C%E7%94%B0/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%82%B8%E8%A3%82%E7%89%B9%E6%96%AF%E6%8B%89optimus-gen-4%E9%87%8F%E4%BA%A7%E8%B7%AF%E7%BA%BF%E5%9B%BE%E6%9B%9D%E5%85%89%E5%BE%B7%E5%B7%9E%E5%B7%A5%E5%8E%82%E6%89%9B%E5%A4%A7%E6%97%97%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E6%88%90%E8%AF%95%E9%AA%8C%E7%94%B0/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:40:40 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 嘿，各位硬核科技粉们！最近马斯克又搞了个大新闻，直接把我们对特斯拉人形机器人Optimus的期待值拉满了！就在Model S/X产线停产的余波未平之际，他亲自下场爆料，这根本就是个“前奏曲”——真正的重头戏，是Optimus Gen 4的生产布局！这不仅仅是产品迭代，更是特斯拉对未来智能制造和通用人工智能（AGI）的野心宣示！</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%82%B8%E8%A3%82%E7%89%B9%E6%96%AF%E6%8B%89optimus-gen-4%E9%87%8F%E4%BA%A7%E8%B7%AF%E7%BA%BF%E5%9B%BE%E6%9B%9D%E5%85%89%E5%BE%B7%E5%B7%9E%E5%B7%A5%E5%8E%82%E6%89%9B%E5%A4%A7%E6%97%97%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E6%88%90%E8%AF%95%E9%AA%8C%E7%94%B0/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>嘿，各位硬核科技粉们！最近马斯克又搞了个大新闻，直接把我们对特斯拉人形机器人Optimus的期待值拉满了！就在Model S/X产线停产的余波未平之际，他亲自下场爆料，这根本就是个“前奏曲”——真正的重头戏，是Optimus Gen 4的生产布局！这不仅仅是产品迭代，更是特斯拉对未来智能制造和通用人工智能（AGI）的野心宣示！</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%82%B8%E8%A3%82%E7%89%B9%E6%96%AF%E6%8B%89optimus-gen-4%E9%87%8F%E4%BA%A7%E8%B7%AF%E7%BA%BF%E5%9B%BE%E6%9B%9D%E5%85%89%E5%BE%B7%E5%B7%9E%E5%B7%A5%E5%8E%82%E6%89%9B%E5%A4%A7%E6%97%97%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E6%88%90%E8%AF%95%E9%AA%8C%E7%94%B0/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Optimus</category><category>特斯拉</category></item><item>
+      <title>马斯克的豪赌：FSD订阅数据的冰与火之歌</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E8%B1%AA%E8%B5%8Cfsd%E8%AE%A2%E9%98%85%E6%95%B0%E6%8D%AE%E7%9A%84%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E8%B1%AA%E8%B5%8Cfsd%E8%AE%A2%E9%98%85%E6%95%B0%E6%8D%AE%E7%9A%84%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:40:09 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 午夜，高速公路如一条墨色的缎带，在车灯的切割下向前延伸。一辆特斯拉Model 3正以稳定的速度巡航，它搭载的FSD系统（Full Self-Driving，全自动驾驶）在屏幕上勾勒出周围车辆和车道的清晰轮廓。驾驶座上的车主，指尖轻叩方向盘，内心却在计算着另一笔账：每月99美元的订阅费，或者一次性支付8000美元买断，究竟哪一个选项，能真正将他带入马斯克所描绘…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E8%B1%AA%E8%B5%8Cfsd%E8%AE%A2%E9%98%85%E6%95%B0%E6%8D%AE%E7%9A%84%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>午夜，高速公路如一条墨色的缎带，在车灯的切割下向前延伸。一辆特斯拉Model 3正以稳定的速度巡航，它搭载的FSD系统（Full Self-Driving，全自动驾驶）在屏幕上勾勒出周围车辆和车道的清晰轮廓。驾驶座上的车主，指尖轻叩方向盘，内心却在计算着另一笔账：每月99美元的订阅费，或者一次性支付8000美元买断，究竟哪一个选项，能真正将他带入马斯克所描绘…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E8%B1%AA%E8%B5%8Cfsd%E8%AE%A2%E9%98%85%E6%95%B0%E6%8D%AE%E7%9A%84%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>FSD</category><category>自动驾驶</category><category>特斯拉</category></item><item>
+      <title>SpaceX与xAI深度洽谈合并：马斯克“AI&#43;太空”帝国浮现，万亿估值待解</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-spacex%E4%B8%8Exai%E6%B7%B1%E5%BA%A6%E6%B4%BD%E8%B0%88%E5%90%88%E5%B9%B6%E9%A9%AC%E6%96%AF%E5%85%8Bai%E5%A4%AA%E7%A9%BA%E5%B8%9D%E5%9B%BD%E6%B5%AE%E7%8E%B0%E4%B8%87%E4%BA%BF%E4%BC%B0%E5%80%BC%E5%BE%85%E8%A7%A3/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-spacex%E4%B8%8Exai%E6%B7%B1%E5%BA%A6%E6%B4%BD%E8%B0%88%E5%90%88%E5%B9%B6%E9%A9%AC%E6%96%AF%E5%85%8Bai%E5%A4%AA%E7%A9%BA%E5%B8%9D%E5%9B%BD%E6%B5%AE%E7%8E%B0%E4%B8%87%E4%BA%BF%E4%BC%B0%E5%80%BC%E5%BE%85%E8%A7%A3/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:39:43 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 据彭博社等多家媒体报道，埃隆·马斯克旗下的太空探索技术公司SpaceX正与人工智能初创公司xAI进行深入的合并谈判。分析认为，此举若成功，将是马斯克构建其宏大“AI+太空”愿景的关键一步，有望催生一个横跨地球与宇宙的万亿级科技巨头，并对全球科技及投资格局产生深远影响。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-spacex%E4%B8%8Exai%E6%B7%B1%E5%BA%A6%E6%B4%BD%E8%B0%88%E5%90%88%E5%B9%B6%E9%A9%AC%E6%96%AF%E5%85%8Bai%E5%A4%AA%E7%A9%BA%E5%B8%9D%E5%9B%BD%E6%B5%AE%E7%8E%B0%E4%B8%87%E4%BA%BF%E4%BC%B0%E5%80%BC%E5%BE%85%E8%A7%A3/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>据彭博社等多家媒体报道，埃隆·马斯克旗下的太空探索技术公司SpaceX正与人工智能初创公司xAI进行深入的合并谈判。分析认为，此举若成功，将是马斯克构建其宏大“AI+太空”愿景的关键一步，有望催生一个横跨地球与宇宙的万亿级科技巨头，并对全球科技及投资格局产生深远影响。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-spacex%E4%B8%8Exai%E6%B7%B1%E5%BA%A6%E6%B4%BD%E8%B0%88%E5%90%88%E5%B9%B6%E9%A9%AC%E6%96%AF%E5%85%8Bai%E5%A4%AA%E7%A9%BA%E5%B8%9D%E5%9B%BD%E6%B5%AE%E7%8E%B0%E4%B8%87%E4%BA%BF%E4%BC%B0%E5%80%BC%E5%BE%85%E8%A7%A3/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>马斯克</category><category>人工智能</category><category>Spacex</category></item><item>
+      <title>德拉瓦的裁决：百万美元律师费的骤降与特斯拉董事薪酬的暗流</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E5%BE%B7%E6%8B%89%E7%93%A6%E7%9A%84%E8%A3%81%E5%86%B3%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%BE%8B%E5%B8%88%E8%B4%B9%E7%9A%84%E9%AA%A4%E9%99%8D%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%91%A3%E4%BA%8B%E8%96%AA%E9%85%AC%E7%9A%84%E6%9A%97%E6%B5%81/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E5%BE%B7%E6%8B%89%E7%93%A6%E7%9A%84%E8%A3%81%E5%86%B3%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%BE%8B%E5%B8%88%E8%B4%B9%E7%9A%84%E9%AA%A4%E9%99%8D%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%91%A3%E4%BA%8B%E8%96%AA%E9%85%AC%E7%9A%84%E6%9A%97%E6%B5%81/</guid>
+      <pubDate>Mon, 02 Feb 2026 16:39:19 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特拉华州最高法院的判决，如同一道惊雷，划破了原本尘埃落定的法律天空。在那庄严的审判庭内，法槌落下，一项曾被衡平法院判定的天价律师费，瞬间蒸发了逾1亿美元。这不仅仅是一笔数字的削减，更是对公司治理、股东权利以及法律公正边界的一次深刻拷问。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E5%BE%B7%E6%8B%89%E7%93%A6%E7%9A%84%E8%A3%81%E5%86%B3%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%BE%8B%E5%B8%88%E8%B4%B9%E7%9A%84%E9%AA%A4%E9%99%8D%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%91%A3%E4%BA%8B%E8%96%AA%E9%85%AC%E7%9A%84%E6%9A%97%E6%B5%81/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特拉华州最高法院的判决，如同一道惊雷，划破了原本尘埃落定的法律天空。在那庄严的审判庭内，法槌落下，一项曾被衡平法院判定的天价律师费，瞬间蒸发了逾1亿美元。这不仅仅是一笔数字的削减，更是对公司治理、股东权利以及法律公正边界的一次深刻拷问。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E5%BE%B7%E6%8B%89%E7%93%A6%E7%9A%84%E8%A3%81%E5%86%B3%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83%E5%BE%8B%E5%B8%88%E8%B4%B9%E7%9A%84%E9%AA%A4%E9%99%8D%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%91%A3%E4%BA%8B%E8%96%AA%E9%85%AC%E7%9A%84%E6%9A%97%E6%B5%81/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>中国重拳出击隐藏式门把手：特斯拉设计范式遭遇全球首例禁令冲击波</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%8B%B3%E5%87%BA%E5%87%BB%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%BC%8F%E9%81%AD%E9%81%87%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E7%A6%81%E4%BB%A4%E5%86%B2%E5%87%BB%E6%B3%A2/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%8B%B3%E5%87%BA%E5%87%BB%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%BC%8F%E9%81%AD%E9%81%87%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E7%A6%81%E4%BB%A4%E5%86%B2%E5%87%BB%E6%B3%A2/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:07:12 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 作为一名资深科技投资分析师，我们注意到中国工业和信息化部（MIIT）近日发布了一项重要新规，明确要求自2027年1月1日起，在中国境内销售的汽车必须配备机械式门把手。这项政策直接剑指由特斯拉（Tesla）等电动汽车制造商普及的隐藏式、电子驱动门把手设计，标志着中国在全球范围内首次以强制性法规的形式，对这一设计趋势施加了限制。这不仅仅是一项技术规范的调整，更是…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%8B%B3%E5%87%BA%E5%87%BB%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%BC%8F%E9%81%AD%E9%81%87%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E7%A6%81%E4%BB%A4%E5%86%B2%E5%87%BB%E6%B3%A2/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>作为一名资深科技投资分析师，我们注意到中国工业和信息化部（MIIT）近日发布了一项重要新规，明确要求自2027年1月1日起，在中国境内销售的汽车必须配备机械式门把手。这项政策直接剑指由特斯拉（Tesla）等电动汽车制造商普及的隐藏式、电子驱动门把手设计，标志着中国在全球范围内首次以强制性法规的形式，对这一设计趋势施加了限制。这不仅仅是一项技术规范的调整，更是…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%8B%B3%E5%87%BA%E5%87%BB%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%BC%8F%E9%81%AD%E9%81%87%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E7%A6%81%E4%BB%A4%E5%86%B2%E5%87%BB%E6%B3%A2/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>重磅！Waymo狂揽160亿刀，Robotaxi要占领全球了？！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%87%8D%E7%A3%85waymo%E7%8B%82%E6%8F%BD160%E4%BA%BF%E5%88%80robotaxi%E8%A6%81%E5%8D%A0%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%86/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%87%8D%E7%A3%85waymo%E7%8B%82%E6%8F%BD160%E4%BA%BF%E5%88%80robotaxi%E8%A6%81%E5%8D%A0%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%86/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:06:48 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> Waymo，Alphabet旗下那家我们盯着看了多年的自动驾驶巨头，最近又搞了个大新闻：他们成功募资160亿美元！ 这笔巨款的背后，是Waymo一个无比清晰且激进的信号——它准备在今年内，将旗下无人驾驶出租车队（Robotaxi）的触角，伸向全球十几个全新的城市，包括伦敦和东京！这简直是自动驾驶领域投下的一颗重磅炸弹，预示着Robotaxi的商业化进程正在以…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%87%8D%E7%A3%85waymo%E7%8B%82%E6%8F%BD160%E4%BA%BF%E5%88%80robotaxi%E8%A6%81%E5%8D%A0%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%86/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>Waymo，Alphabet旗下那家我们盯着看了多年的自动驾驶巨头，最近又搞了个大新闻：他们成功募资160亿美元！ 这笔巨款的背后，是Waymo一个无比清晰且激进的信号——它准备在今年内，将旗下无人驾驶出租车队（Robotaxi）的触角，伸向全球十几个全新的城市，包括伦敦和东京！这简直是自动驾驶领域投下的一颗重磅炸弹，预示着Robotaxi的商业化进程正在以…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%87%8D%E7%A3%85waymo%E7%8B%82%E6%8F%BD160%E4%BA%BF%E5%88%80robotaxi%E8%A6%81%E5%8D%A0%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%86/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category></item><item>
+      <title>特斯拉与Copec合作：智利建1500公里超级充电走廊</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecopec%E5%90%88%E4%BD%9C%E6%99%BA%E5%88%A9%E5%BB%BA1500%E5%85%AC%E9%87%8C%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E8%B5%B0%E5%BB%8A/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecopec%E5%90%88%E4%BD%9C%E6%99%BA%E5%88%A9%E5%BB%BA1500%E5%85%AC%E9%87%8C%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E8%B5%B0%E5%BB%8A/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:06:04 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> [IMAGES_INFO] [{&#34;alt&#34;: &#34;tesla copec&#34;, &#34;path&#34;: &#34;/data/images/2026-02-02/1df563f21dea62cabf7bc3026145a0d3/41af150d364bf68e54764355fb0b9eab.jpg&#34;}]</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecopec%E5%90%88%E4%BD%9C%E6%99%BA%E5%88%A9%E5%BB%BA1500%E5%85%AC%E9%87%8C%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E8%B5%B0%E5%BB%8A/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>[IMAGES_INFO] [{&#34;alt&#34;: &#34;tesla copec&#34;, &#34;path&#34;: &#34;/data/images/2026-02-02/1df563f21dea62cabf7bc3026145a0d3/41af150d364bf68e54764355fb0b9eab.jpg&#34;}]</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Ecopec%E5%90%88%E4%BD%9C%E6%99%BA%E5%88%A9%E5%BB%BA1500%E5%85%AC%E9%87%8C%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E8%B5%B0%E5%BB%8A/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>万米高空的信号战：美联航星链布局，超级碗广告的深层解读</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%88%98%E7%BE%8E%E8%81%94%E8%88%AA%E6%98%9F%E9%93%BE%E5%B8%83%E5%B1%80%E8%B6%85%E7%BA%A7%E7%A2%97%E5%B9%BF%E5%91%8A%E7%9A%84%E6%B7%B1%E5%B1%82%E8%A7%A3%E8%AF%BB/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%88%98%E7%BE%8E%E8%81%94%E8%88%AA%E6%98%9F%E9%93%BE%E5%B8%83%E5%B1%80%E8%B6%85%E7%BA%A7%E7%A2%97%E5%B9%BF%E5%91%8A%E7%9A%84%E6%B7%B1%E5%B1%82%E8%A7%A3%E8%AF%BB/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:05:45 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 清晨，一架波音客机划破纽约上空微曦的晨光，平稳地爬升至万米高空。在经济舱的某个座位上，一位年轻的商务旅客正焦躁地刷新着邮件界面，屏幕上赫然显示着“无网络连接”。这曾是无数空中飞人的日常，一种无可奈何的数字隔绝。然而，在太平洋彼岸的另一架美联航区域航班上，另一位旅客却悠然地用平板电脑观看起超级碗的精彩集锦，清晰流畅的画面，仿佛置身家中客厅。这两种截然不同的场景…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%88%98%E7%BE%8E%E8%81%94%E8%88%AA%E6%98%9F%E9%93%BE%E5%B8%83%E5%B1%80%E8%B6%85%E7%BA%A7%E7%A2%97%E5%B9%BF%E5%91%8A%E7%9A%84%E6%B7%B1%E5%B1%82%E8%A7%A3%E8%AF%BB/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>清晨，一架波音客机划破纽约上空微曦的晨光，平稳地爬升至万米高空。在经济舱的某个座位上，一位年轻的商务旅客正焦躁地刷新着邮件界面，屏幕上赫然显示着“无网络连接”。这曾是无数空中飞人的日常，一种无可奈何的数字隔绝。然而，在太平洋彼岸的另一架美联航区域航班上，另一位旅客却悠然地用平板电脑观看起超级碗的精彩集锦，清晰流畅的画面，仿佛置身家中客厅。这两种截然不同的场景…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%88%98%E7%BE%8E%E8%81%94%E8%88%AA%E6%98%9F%E9%93%BE%E5%B8%83%E5%B1%80%E8%B6%85%E7%BA%A7%E7%A2%97%E5%B9%BF%E5%91%8A%E7%9A%84%E6%B7%B1%E5%B1%82%E8%A7%A3%E8%AF%BB/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item><item>
+      <title>马斯克双子星合璧：SpaceX与xAI合并重塑空天AI产业格局</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%8C%E5%AD%90%E6%98%9F%E5%90%88%E7%92%A7spacex%E4%B8%8Exai%E5%90%88%E5%B9%B6%E9%87%8D%E5%A1%91%E7%A9%BA%E5%A4%A9ai%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%8C%E5%AD%90%E6%98%9F%E5%90%88%E7%92%A7spacex%E4%B8%8Exai%E5%90%88%E5%B9%B6%E9%87%8D%E5%A1%91%E7%A9%BA%E5%A4%A9ai%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:05:26 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> SpaceX与人工智能公司xAI的合并，标志着埃隆·马斯克旗下两大核心资产的深度整合，此举不仅是其构建“垂直整合创新引擎”愿景的关键一步，更预示着新航天与AI产业融合将进入一个全新的发展范式，对未来竞争格局和商业模式产生深远影响。这一战略性举措将SpaceX的全球基础设施与xAI的先进人工智能能力紧密结合，旨在打造一个从数据采集到智能决策的全链条生态系统。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%8C%E5%AD%90%E6%98%9F%E5%90%88%E7%92%A7spacex%E4%B8%8Exai%E5%90%88%E5%B9%B6%E9%87%8D%E5%A1%91%E7%A9%BA%E5%A4%A9ai%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>SpaceX与人工智能公司xAI的合并，标志着埃隆·马斯克旗下两大核心资产的深度整合，此举不仅是其构建“垂直整合创新引擎”愿景的关键一步，更预示着新航天与AI产业融合将进入一个全新的发展范式，对未来竞争格局和商业模式产生深远影响。这一战略性举措将SpaceX的全球基础设施与xAI的先进人工智能能力紧密结合，旨在打造一个从数据采集到智能决策的全链条生态系统。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%8C%E5%AD%90%E6%98%9F%E5%90%88%E7%92%A7spacex%E4%B8%8Exai%E5%90%88%E5%B9%B6%E9%87%8D%E5%A1%91%E7%A9%BA%E5%A4%A9ai%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category><category>AI</category></item><item>
+      <title>特斯拉中国预告擎天柱V3机器人即将亮相</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%91%8A%E6%93%8E%E5%A4%A9%E6%9F%B1v3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%91%8A%E6%93%8E%E5%A4%A9%E6%9F%B1v3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:04:47 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> [IMAGES_INFO] [{&#34;alt&#34;: &#34;&#34;, &#34;path&#34;: &#34;/data/images/2026-02-02/df81bbddec2270663119a146ae664fa5/3935a415467de1dc5b64ec912693e2c7.jpg&#34;}]</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%91%8A%E6%93%8E%E5%A4%A9%E6%9F%B1v3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>[IMAGES_INFO] [{&#34;alt&#34;: &#34;&#34;, &#34;path&#34;: &#34;/data/images/2026-02-02/df81bbddec2270663119a146ae664fa5/3935a415467de1dc5b64ec912693e2c7.jpg&#34;}]</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E9%A2%84%E5%91%8A%E6%93%8E%E5%A4%A9%E6%9F%B1v3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>特斯拉4680电池干法电极量产：马斯克称重大突破</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%894680%E7%94%B5%E6%B1%A0%E5%B9%B2%E6%B3%95%E7%94%B5%E6%9E%81%E9%87%8F%E4%BA%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%894680%E7%94%B5%E6%B1%A0%E5%B9%B2%E6%B3%95%E7%94%B5%E6%9E%81%E9%87%8F%E4%BA%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:04:33 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> [IMAGES_INFO] [{&#34;alt&#34;: &#34;&#34;, &#34;path&#34;: &#34;/data/images/2026-02-02/bac269baa64e7d2c84d080fce49f2bf3/6c86ab51a3c5eb102e338d3ea2511938.jpeg&#34;}]</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%894680%E7%94%B5%E6%B1%A0%E5%B9%B2%E6%B3%95%E7%94%B5%E6%9E%81%E9%87%8F%E4%BA%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>[IMAGES_INFO] [{&#34;alt&#34;: &#34;&#34;, &#34;path&#34;: &#34;/data/images/2026-02-02/bac269baa64e7d2c84d080fce49f2bf3/6c86ab51a3c5eb102e338d3ea2511938.jpeg&#34;}]</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%894680%E7%94%B5%E6%B1%A0%E5%B9%B2%E6%B3%95%E7%94%B5%E6%9E%81%E9%87%8F%E4%BA%A7%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>电池技术</category><category>特斯拉</category><category>4680电池</category></item><item>
+      <title>特斯拉Model Y高性能版深度评测：1.1万美元升级，价值几何？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E9%AB%98%E6%80%A7%E8%83%BD%E7%89%88%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B11%E4%B8%87%E7%BE%8E%E5%85%83%E5%8D%87%E7%BA%A7%E4%BB%B7%E5%80%BC%E5%87%A0%E4%BD%95/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E9%AB%98%E6%80%A7%E8%83%BD%E7%89%88%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B11%E4%B8%87%E7%BE%8E%E5%85%83%E5%8D%87%E7%BA%A7%E4%BB%B7%E5%80%BC%E5%87%A0%E4%BD%95/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:04:16 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近日，特斯拉Model Y高性能版（Performance trim）接受一周评测，对比其Premium全轮驱动版（Premium All-Wheel-Drive, AWD），核心关注1.1万美元的差价是否物有所值。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E9%AB%98%E6%80%A7%E8%83%BD%E7%89%88%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B11%E4%B8%87%E7%BE%8E%E5%85%83%E5%8D%87%E7%BA%A7%E4%BB%B7%E5%80%BC%E5%87%A0%E4%BD%95/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近日，特斯拉Model Y高性能版（Performance trim）接受一周评测，对比其Premium全轮驱动版（Premium All-Wheel-Drive, AWD），核心关注1.1万美元的差价是否物有所值。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E9%AB%98%E6%80%A7%E8%83%BD%E7%89%88%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B11%E4%B8%87%E7%BE%8E%E5%85%83%E5%8D%87%E7%BA%A7%E4%BB%B7%E5%80%BC%E5%87%A0%E4%BD%95/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
+      <title>星际智算：SpaceX与xAI联姻，重塑AI基础设施与太空经济新范式</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E6%98%9F%E9%99%85%E6%99%BA%E7%AE%97spacex%E4%B8%8Exai%E8%81%94%E5%A7%BB%E9%87%8D%E5%A1%91ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%B8%8E%E5%A4%AA%E7%A9%BA%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%8C%83%E5%BC%8F/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E6%98%9F%E9%99%85%E6%99%BA%E7%AE%97spacex%E4%B8%8Exai%E8%81%94%E5%A7%BB%E9%87%8D%E5%A1%91ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%B8%8E%E5%A4%AA%E7%A9%BA%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%8C%83%E5%BC%8F/</guid>
+      <pubDate>Mon, 02 Feb 2026 02:04:01 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> SpaceX于2026年2月2日正式宣布收购人工智能公司xAI，此举标志着伊隆·马斯克旗下核心科技资产的一次具有里程碑意义的垂直整合。这一战略性合并旨在将xAI先进的AI能力与SpaceX的火箭技术、星链（Starlink）卫星网络及宏大的太空探索目标深度融合，构建一个前所未有的“垂直整合创新引擎”，其深远影响将不仅限于两家公司，更将重塑全球AI基础设施的商…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E6%98%9F%E9%99%85%E6%99%BA%E7%AE%97spacex%E4%B8%8Exai%E8%81%94%E5%A7%BB%E9%87%8D%E5%A1%91ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%B8%8E%E5%A4%AA%E7%A9%BA%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%8C%83%E5%BC%8F/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>SpaceX于2026年2月2日正式宣布收购人工智能公司xAI，此举标志着伊隆·马斯克旗下核心科技资产的一次具有里程碑意义的垂直整合。这一战略性合并旨在将xAI先进的AI能力与SpaceX的火箭技术、星链（Starlink）卫星网络及宏大的太空探索目标深度融合，构建一个前所未有的“垂直整合创新引擎”，其深远影响将不仅限于两家公司，更将重塑全球AI基础设施的商…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260202-%E6%98%9F%E9%99%85%E6%99%BA%E7%AE%97spacex%E4%B8%8Exai%E8%81%94%E5%A7%BB%E9%87%8D%E5%A1%91ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%B8%8E%E5%A4%AA%E7%A9%BA%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%8C%83%E5%BC%8F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>Spacex</category></item><item>
+      <title>特斯拉日报 2026-02-02</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-02/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-02/</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[每日特报]</strong> FSD用户总数突破110万：其中订阅用户占比约30%，带来每月3260万美元经常性收入。 干电极电池技术取得突破：埃隆·马斯克宣布特斯拉已成功实现干电极电池的规模化生产。 Optimus机器人生产规划公布：Gen 3将在弗里蒙特生产，Gen 4将在得州超级工厂大规模量产。 FSD海外扩张进展：特斯拉获准在以色列公共道路上进行有监督的FSD试驾。 特斯拉保险业务收缩：撤回在佐治亚州推出特斯拉保险的申请。 Apple CarPlay集成传闻再起：有报道称特斯拉可能仍在开发CarPlay支持。 外部竞 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-02/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
+<p>FSD用户总数突破110万：其中订阅用户占比约30%，带来每月3260万美元经常性收入。 干电极电池技术取得突破：埃隆·马斯克宣布特斯拉已成功实现干电极电池的规模化生产。 Optimus机器人生产规划公布：Gen 3将在弗里蒙特生产，Gen 4将在得州超级工厂大规模量产。 FSD海外扩张进展：特斯拉获准在以色列公共道路上进行有监督的FSD试驾。 特斯拉保险业务收缩：撤回在佐治亚州推出特斯拉保险的申请。 Apple CarPlay集成传闻再起：有报道称特斯拉可能仍在开发CarPlay支持。 外部竞 …</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-02/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Optimus</category><category>Gigafactory</category><category>4680</category><category>Model Y</category></item><item>
+      <title>印度AI基础设施崛起：零税收政策下的全球数字枢纽战略与挑战</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260201-%E5%8D%B0%E5%BA%A6ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B4%9B%E8%B5%B7%E9%9B%B6%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E4%B8%8B%E7%9A%84%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E6%9E%A2%E7%BA%BD%E6%88%98%E7%95%A5%E4%B8%8E%E6%8C%91%E6%88%98/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260201-%E5%8D%B0%E5%BA%A6ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B4%9B%E8%B5%B7%E9%9B%B6%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E4%B8%8B%E7%9A%84%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E6%9E%A2%E7%BA%BD%E6%88%98%E7%95%A5%E4%B8%8E%E6%8C%91%E6%88%98/</guid>
+      <pubDate>Sun, 01 Feb 2026 20:27:57 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 在全球人工智能（AI）基础设施建设竞赛日益白热化的背景下，印度正以其激进的税收优惠政策，试图在全球AI算力版图中占据一席之地。印度财政部宣布，对于从印度数据中心运行并销售至境外的云服务，将提供直至2047年的零税收优惠，此举旨在吸引下一波全球AI计算投资，尽管电力短缺和水资源压力等本土挑战依然严峻。这一战略性举措不仅彰显了印度在全球数字经济中扮演更重要角色的…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260201-%E5%8D%B0%E5%BA%A6ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B4%9B%E8%B5%B7%E9%9B%B6%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E4%B8%8B%E7%9A%84%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E6%9E%A2%E7%BA%BD%E6%88%98%E7%95%A5%E4%B8%8E%E6%8C%91%E6%88%98/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>在全球人工智能（AI）基础设施建设竞赛日益白热化的背景下，印度正以其激进的税收优惠政策，试图在全球AI算力版图中占据一席之地。印度财政部宣布，对于从印度数据中心运行并销售至境外的云服务，将提供直至2047年的零税收优惠，此举旨在吸引下一波全球AI计算投资，尽管电力短缺和水资源压力等本土挑战依然严峻。这一战略性举措不仅彰显了印度在全球数字经济中扮演更重要角色的…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260201-%E5%8D%B0%E5%BA%A6ai%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B4%9B%E8%B5%B7%E9%9B%B6%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E4%B8%8B%E7%9A%84%E5%85%A8%E7%90%83%E6%95%B0%E5%AD%97%E6%9E%A2%E7%BA%BD%E6%88%98%E7%95%A5%E4%B8%8E%E6%8C%91%E6%88%98/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category></item></channel>
 </rss>
