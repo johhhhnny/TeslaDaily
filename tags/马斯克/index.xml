@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Feb 2026 12:52:08 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Sat, 14 Feb 2026 16:34:11 &#43;0000</lastBuildDate><item>
       <title>特斯拉：一张钥匙卡可开多车，简化用户管理</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260214-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E5%BC%A0%E9%92%A5%E5%8C%99%E5%8D%A1%E5%8F%AF%E5%BC%80%E5%A4%9A%E8%BD%A6%E7%AE%80%E5%8C%96%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260214-%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E5%BC%A0%E9%92%A5%E5%8C%99%E5%8D%A1%E5%8F%AF%E5%BC%80%E5%A4%9A%E8%BD%A6%E7%AE%80%E5%8C%96%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86/</guid>
@@ -21,11 +21,11 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> 这项功能的实现，得益于特斯拉密钥卡与手机密钥在技术原理上的根本差异。手机密钥是一种智能设备，它通过蓝牙进行复杂的双向加密握手，与车辆主动配对并建立安全连接。而密钥卡则是一个被动的近场通信（NFC）转发器，本质上是一个“哑设备”，其自身并不存储任何车辆信息、VIN码或用户设置，只包含一个独特的、只读的识别码（UID）。当密钥卡被车辆的NFC读取器感应时，它会广播其UID，随后车辆系统会检查这个UID是否在其内部授权访问列表中，从而决定是否解锁或启动。这意味着密钥卡本身只提供了一个身份标识，而最终决 …</p>
+<p><strong>[每日特报]</strong> - 特斯拉近日确认并推广一项便捷功能，即允许一张实体钥匙卡编程用于解锁多辆特斯拉汽车。 - 此举旨在提升多车家庭及车队用户的日常便利性，减少钥匙卡混淆。 - 该功能基于NFC技术原理，钥匙卡仅存储唯一识别码，车辆端负责认证和解锁。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>这项功能的实现，得益于特斯拉密钥卡与手机密钥在技术原理上的根本差异。手机密钥是一种智能设备，它通过蓝牙进行复杂的双向加密握手，与车辆主动配对并建立安全连接。而密钥卡则是一个被动的近场通信（NFC）转发器，本质上是一个“哑设备”，其自身并不存储任何车辆信息、VIN码或用户设置，只包含一个独特的、只读的识别码（UID）。当密钥卡被车辆的NFC读取器感应时，它会广播其UID，随后车辆系统会检查这个UID是否在其内部授权访问列表中，从而决定是否解锁或启动。这意味着密钥卡本身只提供了一个身份标识，而最终决 …</p>
+<p>- 特斯拉近日确认并推广一项便捷功能，即允许一张实体钥匙卡编程用于解锁多辆特斯拉汽车。 - 此举旨在提升多车家庭及车队用户的日常便利性，减少钥匙卡混淆。 - 该功能基于NFC技术原理，钥匙卡仅存储唯一识别码，车辆端负责认证和解锁。</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>Model 3</category><category>Model Y</category></item><item>
       <title>SEC撤销对Fisker调查：破产EV初创的最后一章，还是行业监管风向标？</title>

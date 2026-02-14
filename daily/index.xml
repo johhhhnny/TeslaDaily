@@ -5,15 +5,15 @@
     <description>按时间倒序浏览所有日报</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Feb 2026 12:52:03 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 14 Feb 2026 16:34:09 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/daily/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉日报 2026-02-14</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>这项功能的实现，得益于特斯拉密钥卡与手机密钥在技术原理上的根本差异。手机密钥是一种智能设备，它通过蓝牙进行复杂的双向加密握手，与车辆主动配对并建立安全连接。而密钥卡则是一个被动的近场通信（NFC）转发器，本质上是一个“哑设备”，其自身并不存储任何车辆信息、VIN码或用户设置，只包含一个独特的、只读的识别码（UID）。当密钥卡被车辆的NFC读取器感应时，它会广播其UID，随后车辆系统会检查这个UID …</p>
+<p>- 特斯拉近日确认并推广一项便捷功能，即允许一张实体钥匙卡编程用于解锁多辆特斯拉汽车。 - 此举旨在提升多车家庭及车队用户的日常便利性，减少钥匙卡混淆。 - 该功能基于NFC技术原理，钥匙卡仅存储唯一识别码，车辆端负责认证和解锁。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/">在特斯拉日报查看全文</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>这项功能的实现，得益于特斯拉密钥卡与手机密钥在技术原理上的根本差异。手机密钥是一种智能设备，它通过蓝牙进行复杂的双向加密握手，与车辆主动配对并建立安全连接。而密钥卡则是一个被动的近场通信（NFC）转发器，本质上是一个“哑设备”，其自身并不存储任何车辆信息、VIN码或用户设置，只包含一个独特的、只读的识别码（UID）。当密钥卡被车辆的NFC读取器感应时，它会广播其UID，随后车辆系统会检查这个UID …</p>
+<p>- 特斯拉近日确认并推广一项便捷功能，即允许一张实体钥匙卡编程用于解锁多辆特斯拉汽车。 - 此举旨在提升多车家庭及车队用户的日常便利性，减少钥匙卡混淆。 - 该功能基于NFC技术原理，钥匙卡仅存储唯一识别码，车辆端负责认证和解锁。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
