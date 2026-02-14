@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Feb 2026 08:38:45 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/model-3/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 14 Feb 2026 12:52:04 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/model-3/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉日报 2026-02-14</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p>这项功能的实现，得益于特斯拉密钥卡与手机密钥在技术原理上的根本差异。手机密钥是一种智能设备，它通过蓝牙进行复杂的双向加密握手，与车辆主动配对并建立安全连接。而密钥卡则是一个被动的近场通信（NFC）转发器，本质上是一个“哑设备”，其自身并不存储任何车辆信息、VIN码或用户设置，只包含一个独特的、只读的识别码（UID）。当密钥卡被车辆的NFC读取器感应时，它会广播其UID，随后车辆系统会检查这个UID …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>这项功能的实现，得益于特斯拉密钥卡与手机密钥在技术原理上的根本差异。手机密钥是一种智能设备，它通过蓝牙进行复杂的双向加密握手，与车辆主动配对并建立安全连接。而密钥卡则是一个被动的近场通信（NFC）转发器，本质上是一个“哑设备”，其自身并不存储任何车辆信息、VIN码或用户设置，只包含一个独特的、只读的识别码（UID）。当密钥卡被车辆的NFC读取器感应时，它会广播其UID，随后车辆系统会检查这个UID …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-14/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉日报 2026-02-13</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-13/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-02-13/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉App v4.51.5更新，新增车辆定位功能及多项用户体验改进。 CEO埃隆·马斯克重申，奥斯汀的特斯拉Robotaxi将在约三周内（年底前）实现完全无人驾驶。 特斯拉下一代AI5芯片供应商三星正加速美国生产准备，性能预计将大幅提升。 自今日起，美国宝马电动车主已全面接入特斯拉超级充电网络。 特斯拉与模块化建筑公司BOXABL合作，计划在超级充电站部署休息设施。 特斯拉推出“充电护照”竞赛， …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-10/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉日报 2025-12-09</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-09/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-09/</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉上海超级工厂达成400万辆汽车生产里程碑。 特斯拉开始向客户推出2025假日软件更新（版本2025.44.25.1）。 假日更新新增Grok导航指令、车载照相亭、狗狗模式iOS实时活动、行车记录仪视图增强等功能。 此次软件更新主要面向配备AMD Ryzen处理器的车辆。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-09/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>特斯拉上海超级工厂达成400万辆汽车生产里程碑。 特斯拉开始向客户推出2025假日软件更新（版本2025.44.25.1）。 假日更新新增Grok导航指令、车载照相亭、狗狗模式iOS实时活动、行车记录仪视图增强等功能。 此次软件更新主要面向配备AMD Ryzen处理器的车辆。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2025-12-09/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
