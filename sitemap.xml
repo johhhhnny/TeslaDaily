@@ -4,16 +4,16 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260219-boring-company%E9%9F%B3%E4%B9%90%E5%9F%8E%E7%8E%AF%E7%BA%BF%E8%8E%B7%E5%85%A8%E7%A5%A8%E6%89%B9%E5%87%86/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/ai/</loc>
     
     
-    <lastmod>2026-02-19T08:42:44Z</lastmod>
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
     
     
-    <changefreq>daily</changefreq>
+    <changefreq>monthly</changefreq>
     
     <priority>
-      0.9
+      0.6
       
     </priority>
   </url>
@@ -24,7 +24,24 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/categories/</loc>
     
     
-    <lastmod>2026-02-19T08:42:44Z</lastmod>
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
+    
+    
+    <changefreq>monthly</changefreq>
+    
+    <priority>
+      0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/fsd/</loc>
+    
+    
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
     
     
     <changefreq>monthly</changefreq>
@@ -41,7 +58,7 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
     
     
-    <lastmod>2026-02-19T08:42:44Z</lastmod>
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
     
     
     <changefreq>daily</changefreq>
@@ -58,13 +75,115 @@
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/</loc>
     
     
-    <lastmod>2026-02-19T08:42:44Z</lastmod>
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
     
     
     <changefreq>monthly</changefreq>
     
     <priority>
       0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/tesla/</loc>
+    
+    
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
+    
+    
+    <changefreq>monthly</changefreq>
+    
+    <priority>
+      0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260219-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E7%8B%82%E9%A3%9980%E4%BA%BF%E8%8B%B1%E9%87%8C%E5%AE%89%E5%85%A8%E6%95%B0%E6%8D%AE%E7%82%B8%E8%A3%82robotaxi%E6%9D%80%E6%89%8B%E7%BA%A7%E5%BA%94%E7%94%A8%E8%A6%81%E6%9D%A5%E4%BA%86/</loc>
+    
+    
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
+    
+    
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
+    
+    
+    <changefreq>weekly</changefreq>
+    
+    <priority>
+      1.0
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/</loc>
+    
+    
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
+    
+    
+    <changefreq>monthly</changefreq>
+    
+    <priority>
+      0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/</loc>
+    
+    
+    <lastmod>2026-02-19T13:03:57Z</lastmod>
+    
+    
+    <changefreq>monthly</changefreq>
+    
+    <priority>
+      0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260219-boring-company%E9%9F%B3%E4%B9%90%E5%9F%8E%E7%8E%AF%E7%BA%BF%E8%8E%B7%E5%85%A8%E7%A5%A8%E6%89%B9%E5%87%86/</loc>
+    
+    
+    <lastmod>2026-02-19T08:42:44Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
       
     </priority>
   </url>
@@ -123,40 +242,6 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
-    
-    
-    <lastmod>2026-02-19T08:42:44Z</lastmod>
-    
-    
-    <changefreq>weekly</changefreq>
-    
-    <priority>
-      1.0
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/</loc>
-    
-    
-    <lastmod>2026-02-19T08:42:44Z</lastmod>
-    
-    
-    <changefreq>monthly</changefreq>
-    
-    <priority>
-      0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/ota/</loc>
     
     
@@ -192,23 +277,6 @@
   
   <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/cybertruck/</loc>
-    
-    
-    <lastmod>2026-02-19T00:00:00Z</lastmod>
-    
-    
-    <changefreq>monthly</changefreq>
-    
-    <priority>
-      0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/fsd/</loc>
     
     
     <lastmod>2026-02-19T00:00:00Z</lastmod>
@@ -344,23 +412,6 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/tesla/</loc>
-    
-    
-    <lastmod>2026-02-18T20:39:49Z</lastmod>
-    
-    
-    <changefreq>monthly</changefreq>
-    
-    <priority>
-      0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260218-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%88%E6%9D%A5%E7%82%B8%E5%9C%BA%E4%BA%86cybercab%E4%BB%8A%E5%B9%B4%E5%BC%80%E5%8D%9630000%E9%A2%A0%E8%A6%86%E5%B8%82%E5%9C%BAmkbhd%E8%A6%81%E5%89%83%E5%A4%B4/</loc>
     
     
@@ -378,41 +429,7 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/</loc>
-    
-    
-    <lastmod>2026-02-18T20:39:49Z</lastmod>
-    
-    
-    <changefreq>monthly</changefreq>
-    
-    <priority>
-      0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/categories/ai/</loc>
-    
-    
-    <lastmod>2026-02-18T20:39:00Z</lastmod>
-    
-    
-    <changefreq>monthly</changefreq>
-    
-    <priority>
-      0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/ai/</loc>
     
     
     <lastmod>2026-02-18T20:39:00Z</lastmod>
