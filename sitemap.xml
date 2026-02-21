@@ -667,7 +667,41 @@
   
   
   <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260220-fsd%E6%95%B0%E6%8D%AE%E6%9D%80%E5%88%B0app%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%AE%80%E7%9B%B4%E6%98%AF%E7%94%A8%E6%88%B7%E5%BF%83%E7%90%86%E5%AD%A6%E7%9A%84%E5%A4%A7%E5%B8%88%E7%BA%A7%E8%A1%A8%E6%BC%94/</loc>
+    
+    
+    <lastmod>2026-02-20T01:56:00Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/4680/</loc>
+    
+    
+    <lastmod>2026-02-20T00:00:00Z</lastmod>
+    
+    
+    <changefreq>monthly</changefreq>
+    
+    <priority>
+      0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/autopilot/</loc>
     
     
     <lastmod>2026-02-20T00:00:00Z</lastmod>
@@ -701,7 +735,7 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/supercharger/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/gigafactory/</loc>
     
     
     <lastmod>2026-02-20T00:00:00Z</lastmod>
@@ -1313,7 +1347,7 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/gigafactory/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/model-3/</loc>
     
     
     <lastmod>2026-02-19T00:00:00Z</lastmod>
@@ -1330,7 +1364,7 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/model-3/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/supercharger/</loc>
     
     
     <lastmod>2026-02-19T00:00:00Z</lastmod>
@@ -1714,23 +1748,6 @@
     
     <priority>
       0.9
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/autopilot/</loc>
-    
-    
-    <lastmod>2026-02-18T00:00:00Z</lastmod>
-    
-    
-    <changefreq>monthly</changefreq>
-    
-    <priority>
-      0.6
       
     </priority>
   </url>
