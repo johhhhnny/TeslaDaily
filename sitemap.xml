@@ -4,6 +4,91 @@
   
   
   <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
+    
+    
+    <lastmod>2026-04-02T05:42:04Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260402-%E5%86%B0%E5%B0%81%E7%9A%84%E5%8E%82%E6%88%BF%E7%87%83%E7%83%A7%E7%9A%84%E9%87%8E%E5%BF%83stellantis%E9%9B%B6%E8%B7%91%E4%B8%8E%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9A%84%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BF%B7%E5%B1%80/</loc>
+    
+    
+    <lastmod>2026-04-02T05:42:04Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.9
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
+    
+    
+    <lastmod>2026-04-02T05:42:04Z</lastmod>
+    
+    
+    <changefreq>weekly</changefreq>
+    
+    <priority>
+      1.0
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/daily/</loc>
+    
+    
+    <lastmod>2026-04-02T00:00:00Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.85
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-02/</loc>
+    
+    
+    <lastmod>2026-04-02T00:00:00Z</lastmod>
+    
+    
+    <changefreq>daily</changefreq>
+    
+    <priority>
+      0.85
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/categories/</loc>
     
     
@@ -14,23 +99,6 @@
     
     <priority>
       0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
-    
-    
-    <lastmod>2026-04-01T20:44:02Z</lastmod>
-    
-    
-    <changefreq>daily</changefreq>
-    
-    <priority>
-      0.9
       
     </priority>
   </url>
@@ -99,23 +167,6 @@
     
     <priority>
       0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
-    
-    
-    <lastmod>2026-04-01T20:44:02Z</lastmod>
-    
-    
-    <changefreq>weekly</changefreq>
-    
-    <priority>
-      1.0
       
     </priority>
   </url>
@@ -796,23 +847,6 @@
     
     <priority>
       0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/daily/</loc>
-    
-    
-    <lastmod>2026-04-01T00:00:00Z</lastmod>
-    
-    
-    <changefreq>daily</changefreq>
-    
-    <priority>
-      0.85
       
     </priority>
   </url>
