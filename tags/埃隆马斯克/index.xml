@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Apr 2026 13:02:09 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 04 Apr 2026 16:44:14 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>硅基方舟：特斯拉Dojo芯片的星际迁徙与马斯克的终极算力豪赌</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/</guid>
+      <pubDate>Sat, 04 Apr 2026 16:35:59 &#43;0000</pubDate><description><![CDATA[
+<p>奥斯汀的TERAFAB发布会现场，空气中弥漫着电流般的兴奋。聚光灯毫不吝啬地投向埃隆·马斯克，他正擘画着一个宏伟的十年蓝图，其中，AI5与AI6芯片无疑是舞台的焦点——它们被预言将成为数百万辆Robotaxi（自动驾驶出租车）和Optimus人形机器人的统一大脑。然而，在那张闪烁的幻灯片上，在《月球质量驱动器》的演示视频里，一个不那么张扬的身影悄然浮现：D3…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>奥斯汀的TERAFAB发布会现场，空气中弥漫着电流般的兴奋。聚光灯毫不吝啬地投向埃隆·马斯克，他正擘画着一个宏伟的十年蓝图，其中，AI5与AI6芯片无疑是舞台的焦点——它们被预言将成为数百万辆Robotaxi（自动驾驶出租车）和Optimus人形机器人的统一大脑。然而，在那张闪烁的幻灯片上，在《月球质量驱动器》的演示视频里，一个不那么张扬的身影悄然浮现：D3…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>埃隆·马斯克的宇宙赌注：SpaceX万亿IPO，一场改写历史的金融星尘</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%AE%87%E5%AE%99%E8%B5%8C%E6%B3%A8spacex%E4%B8%87%E4%BA%BFipo%E4%B8%80%E5%9C%BA%E6%94%B9%E5%86%99%E5%8E%86%E5%8F%B2%E7%9A%84%E9%87%91%E8%9E%8D%E6%98%9F%E5%B0%98/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%AE%87%E5%AE%99%E8%B5%8C%E6%B3%A8spacex%E4%B8%87%E4%BA%BFipo%E4%B8%80%E5%9C%BA%E6%94%B9%E5%86%99%E5%8E%86%E5%8F%B2%E7%9A%84%E9%87%91%E8%9E%8D%E6%98%9F%E5%B0%98/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>在地球的每一个角落，总有一些地方被遗忘在数字文明的边缘。直到最近，那片浩瀚的星空，似乎才真正开始承载人类打破地理桎梏的梦想。近日，一纸来自美国联邦通信委员会（FCC）的批文，如同一道划破夜空的闪电，点亮了埃隆·马斯克（Elon Musk）的宏伟蓝图——SpaceX旗下的“星链”（Starlink）项目，获准再向地球轨道增发7500颗第二代（Gen 2）卫星。…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260110-%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E7%9A%84%E6%8B%93%E8%8D%92%E8%80%85%E6%98%9F%E9%93%BE7500%E9%A2%97%E6%96%B0%E6%98%9F%E5%8D%87%E7%A9%BA%E8%83%8C%E5%90%8E%E7%9A%84%E9%87%8E%E6%9C%9B%E4%B8%8E%E6%8C%91%E6%88%98/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>知识的潮汐：Grokipedia的崛起与马斯克的人类智慧宇宙方舟</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260109-%E7%9F%A5%E8%AF%86%E7%9A%84%E6%BD%AE%E6%B1%90grokipedia%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%99%BA%E6%85%A7%E5%AE%87%E5%AE%99%E6%96%B9%E8%88%9F/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260109-%E7%9F%A5%E8%AF%86%E7%9A%84%E6%BD%AE%E6%B1%90grokipedia%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%99%BA%E6%85%A7%E5%AE%87%E5%AE%99%E6%96%B9%E8%88%9F/</guid>
-      <pubDate>Fri, 09 Jan 2026 16:28:04 &#43;0000</pubDate><description><![CDATA[
-<p>在数字世界的深处，一场无声的革命正以惊人的速度展开。几个月前，它还只是埃隆·马斯克（Elon Musk）xAI公司的一个新芽，如今已长成参天大树，其枝蔓覆盖了560万篇文章，直逼英文维基百科那700万条目的古老领地。这不仅仅是一组冷冰冰的数字，更是人工智能浪潮下，人类知识版图重塑的序曲。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260109-%E7%9F%A5%E8%AF%86%E7%9A%84%E6%BD%AE%E6%B1%90grokipedia%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%99%BA%E6%85%A7%E5%AE%87%E5%AE%99%E6%96%B9%E8%88%9F/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>在数字世界的深处，一场无声的革命正以惊人的速度展开。几个月前，它还只是埃隆·马斯克（Elon Musk）xAI公司的一个新芽，如今已长成参天大树，其枝蔓覆盖了560万篇文章，直逼英文维基百科那700万条目的古老领地。这不仅仅是一组冷冰冰的数字，更是人工智能浪潮下，人类知识版图重塑的序曲。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260109-%E7%9F%A5%E8%AF%86%E7%9A%84%E6%BD%AE%E6%B1%90grokipedia%E7%9A%84%E5%B4%9B%E8%B5%B7%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E4%BA%BA%E7%B1%BB%E6%99%BA%E6%85%A7%E5%AE%87%E5%AE%99%E6%96%B9%E8%88%9F/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>

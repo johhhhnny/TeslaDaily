@@ -5,7 +5,29 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 04 Apr 2026 13:02:10 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 04 Apr 2026 16:44:16 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
+      <title>硅基方舟：特斯拉Dojo芯片的星际迁徙与马斯克的终极算力豪赌</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/</guid>
+      <pubDate>Sat, 04 Apr 2026 16:35:59 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 奥斯汀的TERAFAB发布会现场，空气中弥漫着电流般的兴奋。聚光灯毫不吝啬地投向埃隆·马斯克，他正擘画着一个宏伟的十年蓝图，其中，AI5与AI6芯片无疑是舞台的焦点——它们被预言将成为数百万辆Robotaxi（自动驾驶出租车）和Optimus人形机器人的统一大脑。然而，在那张闪烁的幻灯片上，在《月球质量驱动器》的演示视频里，一个不那么张扬的身影悄然浮现：D3…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>奥斯汀的TERAFAB发布会现场，空气中弥漫着电流般的兴奋。聚光灯毫不吝啬地投向埃隆·马斯克，他正擘画着一个宏伟的十年蓝图，其中，AI5与AI6芯片无疑是舞台的焦点——它们被预言将成为数百万辆Robotaxi（自动驾驶出租车）和Optimus人形机器人的统一大脑。然而，在那张闪烁的幻灯片上，在《月球质量驱动器》的演示视频里，一个不那么张扬的身影悄然浮现：D3…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%A1%85%E5%9F%BA%E6%96%B9%E8%88%9F%E7%89%B9%E6%96%AF%E6%8B%89dojo%E8%8A%AF%E7%89%87%E7%9A%84%E6%98%9F%E9%99%85%E8%BF%81%E5%BE%99%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BB%88%E6%9E%81%E7%AE%97%E5%8A%9B%E8%B1%AA%E8%B5%8C/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>埃隆·马斯克</category></item><item>
+      <title>特斯拉Model Y在以色列遭导弹碎片击中，玻璃车顶未碎</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%AD%E5%AF%BC%E5%BC%B9%E7%A2%8E%E7%89%87%E5%87%BB%E4%B8%AD%E7%8E%BB%E7%92%83%E8%BD%A6%E9%A1%B6%E6%9C%AA%E7%A2%8E/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%AD%E5%AF%BC%E5%BC%B9%E7%A2%8E%E7%89%87%E5%87%BB%E4%B8%AD%E7%8E%BB%E7%92%83%E8%BD%A6%E9%A1%B6%E6%9C%AA%E7%A2%8E/</guid>
+      <pubDate>Sat, 04 Apr 2026 16:35:32 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 2026年3月30日，一辆2024年款特斯拉Model Y在以色列内坦亚被伊朗导弹碎片击中。 重型碎片击中车辆玻璃车顶，造成深坑但未破碎。 * 车主Lara Shusterman报告此事件。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%AD%E5%AF%BC%E5%BC%B9%E7%A2%8E%E7%89%87%E5%87%BB%E4%B8%AD%E7%8E%BB%E7%92%83%E8%BD%A6%E9%A1%B6%E6%9C%AA%E7%A2%8E/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>2026年3月30日，一辆2024年款特斯拉Model Y在以色列内坦亚被伊朗导弹碎片击中。 重型碎片击中车辆玻璃车顶，造成深坑但未破碎。 * 车主Lara Shusterman报告此事件。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E7%89%B9%E6%96%AF%E6%8B%89model-y%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E9%81%AD%E5%AF%BC%E5%BC%B9%E7%A2%8E%E7%89%87%E5%87%BB%E4%B8%AD%E7%8E%BB%E7%92%83%E8%BD%A6%E9%A1%B6%E6%9C%AA%E7%A2%8E/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Model Y</category></item><item>
       <title>丰田电动化反扑：bZ销量激增预示美国EV市场竞争格局新变局</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E4%B8%B0%E7%94%B0%E7%94%B5%E5%8A%A8%E5%8C%96%E5%8F%8D%E6%89%91bz%E9%94%80%E9%87%8F%E6%BF%80%E5%A2%9E%E9%A2%84%E7%A4%BA%E7%BE%8E%E5%9B%BDev%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E6%96%B0%E5%8F%98%E5%B1%80/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260404-%E4%B8%B0%E7%94%B0%E7%94%B5%E5%8A%A8%E5%8C%96%E5%8F%8D%E6%89%91bz%E9%94%80%E9%87%8F%E6%BF%80%E5%A2%9E%E9%A2%84%E7%A4%BA%E7%BE%8E%E5%9B%BDev%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E6%96%B0%E5%8F%98%E5%B1%80/</guid>
@@ -65,13 +87,13 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-04/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-04/</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> 此次员工数量下降被普遍认为是特斯拉拥抱自动化的体现。随着更多机器人和自动化流程的引入，工厂对现场人力的需求自然减少。此外，特斯拉未来几年计划在工厂广泛部署Optimus机器人来执行简化任务，这预示着包括德州超级工厂在内的所有特斯拉超级工厂的劳动力数量可能还会持续下降，即使公司业务扩展到机器人和芯片制造领域。这不仅能提高生产效率，还能降低长期运营成本，推动特斯拉向“超级工厂”的愿景迈进。</p>
+<p><strong>[每日特报]</strong> 工厂与制造： 特斯拉Giga Texas在2025年员工人数减少近5,000人，降幅达22%，体现自动化趋势。 技术进展： 特斯拉Dojo芯片项目战略性转向太空计算，Dojo 3 (D3) 芯片专为地外环境设计。 产品安全： 一辆2024款Tesla Model Y在以色列被伊朗导弹碎片击中，玻璃车顶完好无损，仅留下深坑。 市场策略： 特斯拉在中国和日本市场推出限时免费超级充电优惠，以刺激销量。 市场动态：** 丰田2026年第一季度bZ跨界车在美国销量激增79%，而Lucid同期交付量因供应商 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-04/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>此次员工数量下降被普遍认为是特斯拉拥抱自动化的体现。随着更多机器人和自动化流程的引入，工厂对现场人力的需求自然减少。此外，特斯拉未来几年计划在工厂广泛部署Optimus机器人来执行简化任务，这预示着包括德州超级工厂在内的所有特斯拉超级工厂的劳动力数量可能还会持续下降，即使公司业务扩展到机器人和芯片制造领域。这不仅能提高生产效率，还能降低长期运营成本，推动特斯拉向“超级工厂”的愿景迈进。</p>
+<p>工厂与制造： 特斯拉Giga Texas在2025年员工人数减少近5,000人，降幅达22%，体现自动化趋势。 技术进展： 特斯拉Dojo芯片项目战略性转向太空计算，Dojo 3 (D3) 芯片专为地外环境设计。 产品安全： 一辆2024款Tesla Model Y在以色列被伊朗导弹碎片击中，玻璃车顶完好无损，仅留下深坑。 市场策略： 特斯拉在中国和日本市场推出限时免费超级充电优惠，以刺激销量。 市场动态：** 丰田2026年第一季度bZ跨界车在美国销量激增79%，而Lucid同期交付量因供应商 …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-04/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>每日特报</category><category>Optimus</category><category>Supercharger</category><category>Model 3</category><category>Model Y</category></item><item>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Dojo</category><category>Optimus</category><category>Supercharger</category><category>Model 3</category><category>Model Y</category></item><item>
       <title>告别经典，驶向未来：特斯拉Model S/X谢幕，马斯克的无人驾驶豪赌</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260403-%E5%91%8A%E5%88%AB%E7%BB%8F%E5%85%B8%E9%A9%B6%E5%90%91%E6%9C%AA%E6%9D%A5%E7%89%B9%E6%96%AF%E6%8B%89model-sx%E8%B0%A2%E5%B9%95%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%B1%AA%E8%B5%8C/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260403-%E5%91%8A%E5%88%AB%E7%BB%8F%E5%85%B8%E9%A9%B6%E5%90%91%E6%9C%AA%E6%9D%A5%E7%89%B9%E6%96%AF%E6%8B%89model-sx%E8%B0%A2%E5%B9%95%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%B1%AA%E8%B5%8C/</guid>
@@ -533,27 +555,5 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
 <p>那是一个寻常的春日，却蕴藏着足以改写历史的金融暗流。当美国证券交易委员会（SEC）的服务器悄然接收到一份机密文件时，外界或许并未察觉，一场规模空前的资本盛宴已然启幕。这份文件来自埃隆·马斯克旗下的太空探索技术公司——SpaceX，它以一种低调而又震撼的方式，向全球宣告了其首次公开募股（IPO）的意图。目标估值高达惊人的1.75万亿美元，拟募资800亿美元，这…</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E5%9F%83%E9%9A%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E5%AE%87%E5%AE%99%E8%B5%8C%E6%B3%A8spacex%E4%B8%87%E4%BA%BFipo%E4%B8%80%E5%9C%BA%E6%94%B9%E5%86%99%E5%8E%86%E5%8F%B2%E7%9A%84%E9%87%91%E8%9E%8D%E6%98%9F%E5%B0%98/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>埃隆·马斯克</category><category>Spacex</category></item><item>
-      <title>特斯拉FSD 14.3：自动驾驶“意识”觉醒在即，能否点燃Robotaxi新引擎？</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E7%89%B9%E6%96%AF%E6%8B%89fsd-143%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%8F%E8%AF%86%E8%A7%89%E9%86%92%E5%9C%A8%E5%8D%B3%E8%83%BD%E5%90%A6%E7%82%B9%E7%87%83robotaxi%E6%96%B0%E5%BC%95%E6%93%8E/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E7%89%B9%E6%96%AF%E6%8B%89fsd-143%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%8F%E8%AF%86%E8%A7%89%E9%86%92%E5%9C%A8%E5%8D%B3%E8%83%BD%E5%90%A6%E7%82%B9%E7%87%83robotaxi%E6%96%B0%E5%BC%95%E6%93%8E/</guid>
-      <pubDate>Wed, 01 Apr 2026 13:20:34 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 埃隆·马斯克（Elon Musk）近期在X平台宣布，特斯拉（Tesla）全自动驾驶（Full Self-Driving, FSD）软件的最新版本14.3已进入内部员工测试阶段，并有望在本周末大规模向公众推送。这一消息对于长期关注特斯拉自动驾驶进展的投资者和科技爱好者而言，无疑是一剂强心针。分析认为，FSD 14.3并非简单的例行更新，而是特斯拉自动驾驶技术迈…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E7%89%B9%E6%96%AF%E6%8B%89fsd-143%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%8F%E8%AF%86%E8%A7%89%E9%86%92%E5%9C%A8%E5%8D%B3%E8%83%BD%E5%90%A6%E7%82%B9%E7%87%83robotaxi%E6%96%B0%E5%BC%95%E6%93%8E/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>埃隆·马斯克（Elon Musk）近期在X平台宣布，特斯拉（Tesla）全自动驾驶（Full Self-Driving, FSD）软件的最新版本14.3已进入内部员工测试阶段，并有望在本周末大规模向公众推送。这一消息对于长期关注特斯拉自动驾驶进展的投资者和科技爱好者而言，无疑是一剂强心针。分析认为，FSD 14.3并非简单的例行更新，而是特斯拉自动驾驶技术迈…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E7%89%B9%E6%96%AF%E6%8B%89fsd-143%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%84%8F%E8%AF%86%E8%A7%89%E9%86%92%E5%9C%A8%E5%8D%B3%E8%83%BD%E5%90%A6%E7%82%B9%E7%87%83robotaxi%E6%96%B0%E5%BC%95%E6%93%8E/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>人工智能</category><category>自动驾驶</category></item><item>
-      <title>《弗里蒙特的挽歌与新纪元的序章：特斯拉Model S/X谢幕，擎天柱的崛起》</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E7%9A%84%E6%8C%BD%E6%AD%8C%E4%B8%8E%E6%96%B0%E7%BA%AA%E5%85%83%E7%9A%84%E5%BA%8F%E7%AB%A0%E7%89%B9%E6%96%AF%E6%8B%89model-sx%E8%B0%A2%E5%B9%95%E6%93%8E%E5%A4%A9%E6%9F%B1%E7%9A%84%E5%B4%9B%E8%B5%B7/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E7%9A%84%E6%8C%BD%E6%AD%8C%E4%B8%8E%E6%96%B0%E7%BA%AA%E5%85%83%E7%9A%84%E5%BA%8F%E7%AB%A0%E7%89%B9%E6%96%AF%E6%8B%89model-sx%E8%B0%A2%E5%B9%95%E6%93%8E%E5%A4%A9%E6%9F%B1%E7%9A%84%E5%B4%9B%E8%B5%B7/</guid>
-      <pubDate>Wed, 01 Apr 2026 09:03:38 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 2012年，埃隆·马斯克站在弗里蒙特工厂的舞台上，意气风发，身后是划时代的Model S。彼时，那辆流线型的电动轿车不仅承载着一个初创公司的梦想，更预示着汽车工业一场颠覆性的变革。十余年后的今天，一张泛黄的旧照被他发布在X平台上，附言道：“我们将举行一个官方仪式，标志着一个时代的结束。我爱那些车。” 这不仅仅是一张照片，它像一声低沉的钟声，预示着特斯拉两款旗…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E7%9A%84%E6%8C%BD%E6%AD%8C%E4%B8%8E%E6%96%B0%E7%BA%AA%E5%85%83%E7%9A%84%E5%BA%8F%E7%AB%A0%E7%89%B9%E6%96%AF%E6%8B%89model-sx%E8%B0%A2%E5%B9%95%E6%93%8E%E5%A4%A9%E6%9F%B1%E7%9A%84%E5%B4%9B%E8%B5%B7/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>2012年，埃隆·马斯克站在弗里蒙特工厂的舞台上，意气风发，身后是划时代的Model S。彼时，那辆流线型的电动轿车不仅承载着一个初创公司的梦想，更预示着汽车工业一场颠覆性的变革。十余年后的今天，一张泛黄的旧照被他发布在X平台上，附言道：“我们将举行一个官方仪式，标志着一个时代的结束。我爱那些车。” 这不仅仅是一张照片，它像一声低沉的钟声，预示着特斯拉两款旗…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260401-%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E7%9A%84%E6%8C%BD%E6%AD%8C%E4%B8%8E%E6%96%B0%E7%BA%AA%E5%85%83%E7%9A%84%E5%BA%8F%E7%AB%A0%E7%89%B9%E6%96%AF%E6%8B%89model-sx%E8%B0%A2%E5%B9%95%E6%93%8E%E5%A4%A9%E6%9F%B1%E7%9A%84%E5%B4%9B%E8%B5%B7/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>Model S</category><category>Model X</category></item></channel>
+]]></content:encoded><category>特新消息</category><category>埃隆·马斯克</category><category>Spacex</category></item></channel>
 </rss>
