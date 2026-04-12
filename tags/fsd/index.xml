@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 11 Apr 2026 20:42:43 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 12 Apr 2026 02:40:26 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉2026.3.6更新：FSD（监督版）登陆欧洲</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E7%89%B9%E6%96%AF%E6%8B%89202636%E6%9B%B4%E6%96%B0fsd%E7%9B%91%E7%9D%A3%E7%89%88%E7%99%BB%E9%99%86%E6%AC%A7%E6%B4%B2/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E7%89%B9%E6%96%AF%E6%8B%89202636%E6%9B%B4%E6%96%B0fsd%E7%9B%91%E7%9D%A3%E7%89%88%E7%99%BB%E9%99%86%E6%AC%A7%E6%B4%B2/</guid>
@@ -50,6 +50,17 @@
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%AC%A7%E6%B4%B2%E9%A6%96%E7%A7%80semi%E9%87%8F%E4%BA%A7%E5%8A%A0%E9%80%9F%E4%B8%8E%E6%99%BA%E8%83%BD%E5%BA%A7%E8%88%B1%E5%8D%87%E7%BA%A7ai%E4%B8%8E%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E7%9A%84%E6%8A%95%E8%B5%84%E6%96%B0%E8%A7%86%E8%A7%92/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
+      <title>视界之外的救赎：特斯拉自动雨刮的物理回归之旅</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E8%A7%86%E7%95%8C%E4%B9%8B%E5%A4%96%E7%9A%84%E6%95%91%E8%B5%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%9B%A8%E5%88%AE%E7%9A%84%E7%89%A9%E7%90%86%E5%9B%9E%E5%BD%92%E4%B9%8B%E6%97%85/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E8%A7%86%E7%95%8C%E4%B9%8B%E5%A4%96%E7%9A%84%E6%95%91%E8%B5%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%9B%A8%E5%88%AE%E7%9A%84%E7%89%A9%E7%90%86%E5%9B%9E%E5%BD%92%E4%B9%8B%E6%97%85/</guid>
+      <pubDate>Sat, 11 Apr 2026 02:31:13 &#43;0000</pubDate><description><![CDATA[
+<p>夜幕低垂，细雨如织。高速公路上，一辆特斯拉Model 3正以稳定的速度破开雨幕。然而，驾驶员杰克逊的眉头却紧锁着。挡风玻璃上，雨滴汇聚成一道道模糊的河流，视线被严重干扰，而自动雨刮器却像个置身事外的旁观者，偶尔慢悠悠地刮一下，更多时候则纹丝不动。他不得不频繁地手动调节，每一次操作都像是在与这辆“智能”汽车进行一场无声的抗争。这并非个例，自2018年特斯拉激进…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E8%A7%86%E7%95%8C%E4%B9%8B%E5%A4%96%E7%9A%84%E6%95%91%E8%B5%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%9B%A8%E5%88%AE%E7%9A%84%E7%89%A9%E7%90%86%E5%9B%9E%E5%BD%92%E4%B9%8B%E6%97%85/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>夜幕低垂，细雨如织。高速公路上，一辆特斯拉Model 3正以稳定的速度破开雨幕。然而，驾驶员杰克逊的眉头却紧锁着。挡风玻璃上，雨滴汇聚成一道道模糊的河流，视线被严重干扰，而自动雨刮器却像个置身事外的旁观者，偶尔慢悠悠地刮一下，更多时候则纹丝不动。他不得不频繁地手动调节，每一次操作都像是在与这辆“智能”汽车进行一场无声的抗争。这并非个例，自2018年特斯拉激进…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E8%A7%86%E7%95%8C%E4%B9%8B%E5%A4%96%E7%9A%84%E6%95%91%E8%B5%8E%E7%89%B9%E6%96%AF%E6%8B%89%E8%87%AA%E5%8A%A8%E9%9B%A8%E5%88%AE%E7%9A%84%E7%89%A9%E7%90%86%E5%9B%9E%E5%BD%92%E4%B9%8B%E6%97%85/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉FSD首次获欧洲批准：自动驾驶商业化破局，投资机遇何在？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E9%A6%96%E6%AC%A1%E8%8E%B7%E6%AC%A7%E6%B4%B2%E6%89%B9%E5%87%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E7%A0%B4%E5%B1%80%E6%8A%95%E8%B5%84%E6%9C%BA%E9%81%87%E4%BD%95%E5%9C%A8/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260411-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E9%A6%96%E6%AC%A1%E8%8E%B7%E6%AC%A7%E6%B4%B2%E6%89%B9%E5%87%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E7%A0%B4%E5%B1%80%E6%8A%95%E8%B5%84%E6%9C%BA%E9%81%87%E4%BD%95%E5%9C%A8/</guid>
@@ -65,10 +76,10 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-11/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-11/</guid>
       <pubDate>Sat, 11 Apr 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉FSD (Supervised) 首次在荷兰获批并开始推送，标志欧洲市场重大突破。 特斯拉发布软件更新2026.8.6，座舱摄像头新增司机年龄追踪功能，提升安全性和Robotaxi准备。 特斯拉内华达Semi卡车专用工厂投产，目标年产5万辆，与4680电池生产紧邻，解决供应链瓶颈。 特斯拉推出限量版“Signature Edition”Model S Plaid和Model X Plaid， …</p>
+<p>- FSD (Supervised) 欧洲首秀：荷兰成为首个获准部署特斯拉FSD (Supervised) 的欧盟国家，并已开始向部分Hardware 4车辆推送软件更新2026.3.6。 - 自动雨刮系统大幅升级：特斯拉通过OTA更新部署一项新专利，利用“能量平衡模型”显著改进自动雨刮功能，解决用户长期抱怨。 - 车载摄像头新增年龄追踪：软件更新2026.8.6为车内摄像头带来驾驶员年龄估算功 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-11/">在特斯拉日报查看全文</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>特斯拉FSD (Supervised) 首次在荷兰获批并开始推送，标志欧洲市场重大突破。 特斯拉发布软件更新2026.8.6，座舱摄像头新增司机年龄追踪功能，提升安全性和Robotaxi准备。 特斯拉内华达Semi卡车专用工厂投产，目标年产5万辆，与4680电池生产紧邻，解决供应链瓶颈。 特斯拉推出限量版“Signature Edition”Model S Plaid和Model X Plaid， …</p>
+<p>- FSD (Supervised) 欧洲首秀：荷兰成为首个获准部署特斯拉FSD (Supervised) 的欧盟国家，并已开始向部分Hardware 4车辆推送软件更新2026.3.6。 - 自动雨刮系统大幅升级：特斯拉通过OTA更新部署一项新专利，利用“能量平衡模型”显著改进自动雨刮功能，解决用户长期抱怨。 - 车载摄像头新增年龄追踪：软件更新2026.8.6为车内摄像头带来驾驶员年龄估算功 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-04-11/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>资深科技投资分析师认为，特斯拉全自动驾驶（FSD）软件即将登陆以色列市场，这不仅标志着FSD在中东地区的一次重大扩张，更是特斯拉在全球范围内加速其自动驾驶数据飞轮，并进一步巩固其在L2+级辅助驾驶领域领导地位的关键一步。以色列交通部长米里·雷格夫（Miri Regev）的“很快到来”表态，为特斯拉在中东这片创新沃土上的战略布局，拉开了序幕。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260327-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%85%A5%E5%B1%80%E4%BB%A5%E8%89%B2%E5%88%97%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%95%B0%E6%8D%AE%E9%A3%9E%E8%BD%AE%E5%86%8D%E6%8F%90%E9%80%9F%E4%B8%AD%E4%B8%9C%E5%B8%82%E5%9C%BA%E6%BD%9C%E5%8A%9B%E5%87%A0%E4%BD%95/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉展示2,700英里FSD零干预行程</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260327-%E7%89%B9%E6%96%AF%E6%8B%89%E5%B1%95%E7%A4%BA2700%E8%8B%B1%E9%87%8Cfsd%E9%9B%B6%E5%B9%B2%E9%A2%84%E8%A1%8C%E7%A8%8B/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260327-%E7%89%B9%E6%96%AF%E6%8B%89%E5%B1%95%E7%A4%BA2700%E8%8B%B1%E9%87%8Cfsd%E9%9B%B6%E5%B9%B2%E9%A2%84%E8%A1%8C%E7%A8%8B/</guid>
-      <pubDate>Fri, 27 Mar 2026 13:04:59 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉客户David Moss驾驶Model 3，成功完成零干预FSD（完全自动驾驶）跨美行程，验证了其自动驾驶软件的实际能力。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260327-%E7%89%B9%E6%96%AF%E6%8B%89%E5%B1%95%E7%A4%BA2700%E8%8B%B1%E9%87%8Cfsd%E9%9B%B6%E5%B9%B2%E9%A2%84%E8%A1%8C%E7%A8%8B/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>特斯拉客户David Moss驾驶Model 3，成功完成零干预FSD（完全自动驾驶）跨美行程，验证了其自动驾驶软件的实际能力。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260327-%E7%89%B9%E6%96%AF%E6%8B%89%E5%B1%95%E7%A4%BA2700%E8%8B%B1%E9%87%8Cfsd%E9%9B%B6%E5%B9%B2%E9%A2%84%E8%A1%8C%E7%A8%8B/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
