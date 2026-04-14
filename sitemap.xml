@@ -293,7 +293,7 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/model-3/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/optimus/</loc>
     
     
     <lastmod>2026-04-14T00:00:00Z</lastmod>
@@ -310,7 +310,7 @@
   
   
   <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/optimus/</loc>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/supercharger/</loc>
     
     
     <lastmod>2026-04-14T00:00:00Z</lastmod>
@@ -566,23 +566,6 @@
   
   <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/4680/</loc>
-    
-    
-    <lastmod>2026-04-12T00:00:00Z</lastmod>
-    
-    
-    <changefreq>monthly</changefreq>
-    
-    <priority>
-      0.6
-      
-    </priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://johhhhnny.github.io/TeslaDaily/tags/supercharger/</loc>
     
     
     <lastmod>2026-04-12T00:00:00Z</lastmod>
@@ -2283,6 +2266,23 @@
   
   <url>
     <loc>https://johhhhnny.github.io/TeslaDaily/tags/dojo/</loc>
+    
+    
+    <lastmod>2026-04-04T00:00:00Z</lastmod>
+    
+    
+    <changefreq>monthly</changefreq>
+    
+    <priority>
+      0.6
+      
+    </priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://johhhhnny.github.io/TeslaDaily/tags/model-3/</loc>
     
     
     <lastmod>2026-04-04T00:00:00Z</lastmod>
