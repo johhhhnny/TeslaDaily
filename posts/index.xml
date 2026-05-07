@@ -5,7 +5,62 @@
     <description>Recent content in Posts</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 07 May 2026 14:16:37 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Thu, 07 May 2026 17:58:08 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>硬核解密：Chris Urmson亲述Aurora自动驾驶卡车，如何从“几乎实现”到“大规模部署”的杀手级飞跃！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%A1%AC%E6%A0%B8%E8%A7%A3%E5%AF%86chris-urmson%E4%BA%B2%E8%BF%B0aurora%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%A1%E8%BD%A6%E5%A6%82%E4%BD%95%E4%BB%8E%E5%87%A0%E4%B9%8E%E5%AE%9E%E7%8E%B0%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9D%80%E6%89%8B%E7%BA%A7%E9%A3%9E%E8%B7%83/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%A1%AC%E6%A0%B8%E8%A7%A3%E5%AF%86chris-urmson%E4%BA%B2%E8%BF%B0aurora%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%A1%E8%BD%A6%E5%A6%82%E4%BD%95%E4%BB%8E%E5%87%A0%E4%B9%8E%E5%AE%9E%E7%8E%B0%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9D%80%E6%89%8B%E7%BA%A7%E9%A3%9E%E8%B7%83/</guid>
+      <pubDate>Thu, 07 May 2026 17:49:23 &#43;0000</pubDate><description><![CDATA[
+<p>兄弟们，姐妹们，还记得自动驾驶这个“狼来了”的故事吗？十多年了，从DARPA挑战赛到各种路测视频，我们总在喊“快了，快了！”。但这次，我敢拍着胸脯说，它真的来了！Aurora的联合创始人兼CEO Chris Urmson，这位自动驾驶界的传奇人物，亲口证实：他们的自动驾驶卡车，已经从“小范围试水”跃升到“大规模商业化部署”！这不仅仅是技术突破，更是整个行业迈…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%A1%AC%E6%A0%B8%E8%A7%A3%E5%AF%86chris-urmson%E4%BA%B2%E8%BF%B0aurora%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%A1%E8%BD%A6%E5%A6%82%E4%BD%95%E4%BB%8E%E5%87%A0%E4%B9%8E%E5%AE%9E%E7%8E%B0%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9D%80%E6%89%8B%E7%BA%A7%E9%A3%9E%E8%B7%83/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>兄弟们，姐妹们，还记得自动驾驶这个“狼来了”的故事吗？十多年了，从DARPA挑战赛到各种路测视频，我们总在喊“快了，快了！”。但这次，我敢拍着胸脯说，它真的来了！Aurora的联合创始人兼CEO Chris Urmson，这位自动驾驶界的传奇人物，亲口证实：他们的自动驾驶卡车，已经从“小范围试水”跃升到“大规模商业化部署”！这不仅仅是技术突破，更是整个行业迈…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%A1%AC%E6%A0%B8%E8%A7%A3%E5%AF%86chris-urmson%E4%BA%B2%E8%BF%B0aurora%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8D%A1%E8%BD%A6%E5%A6%82%E4%BD%95%E4%BB%8E%E5%87%A0%E4%B9%8E%E5%AE%9E%E7%8E%B0%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%83%A8%E7%BD%B2%E7%9A%84%E6%9D%80%E6%89%8B%E7%BA%A7%E9%A3%9E%E8%B7%83/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉Model 3高性能后驱版登陆加拿大：市场新变局与投资前瞻</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89model-3%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8E%E9%A9%B1%E7%89%88%E7%99%BB%E9%99%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%96%B0%E5%8F%98%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E5%89%8D%E7%9E%BB/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89model-3%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8E%E9%A9%B1%E7%89%88%E7%99%BB%E9%99%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%96%B0%E5%8F%98%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E5%89%8D%E7%9E%BB/</guid>
+      <pubDate>Thu, 07 May 2026 17:48:44 &#43;0000</pubDate><description><![CDATA[
+<p>近日，市场消息指出，特斯拉已开始为首批Model 3高性能后驱（Premium RWD）版车型在加拿大市场分配车辆识别码（VIN）。这一看似微小的举动，在资深科技投资分析师看来，绝非偶然，它预示着特斯拉在关键北美市场的策略调整，以及其对特定细分市场需求的精准响应。分析认为，此举不仅可能为特斯拉在加拿大带来新的销售增长点，更折射出公司在产品线优化和区域市场深耕…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89model-3%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8E%E9%A9%B1%E7%89%88%E7%99%BB%E9%99%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%96%B0%E5%8F%98%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E5%89%8D%E7%9E%BB/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>近日，市场消息指出，特斯拉已开始为首批Model 3高性能后驱（Premium RWD）版车型在加拿大市场分配车辆识别码（VIN）。这一看似微小的举动，在资深科技投资分析师看来，绝非偶然，它预示着特斯拉在关键北美市场的策略调整，以及其对特定细分市场需求的精准响应。分析认为，此举不仅可能为特斯拉在加拿大带来新的销售增长点，更折射出公司在产品线优化和区域市场深耕…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89model-3%E9%AB%98%E6%80%A7%E8%83%BD%E5%90%8E%E9%A9%B1%E7%89%88%E7%99%BB%E9%99%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%96%B0%E5%8F%98%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E5%89%8D%E7%9E%BB/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉HUD终极方案驾到？！NeuroHUD这波黑科技，简直是车主YYDS！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89hud%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88%E9%A9%BE%E5%88%B0neurohud%E8%BF%99%E6%B3%A2%E9%BB%91%E7%A7%91%E6%8A%80%E7%AE%80%E7%9B%B4%E6%98%AF%E8%BD%A6%E4%B8%BByyds/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89hud%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88%E9%A9%BE%E5%88%B0neurohud%E8%BF%99%E6%B3%A2%E9%BB%91%E7%A7%91%E6%8A%80%E7%AE%80%E7%9B%B4%E6%98%AF%E8%BD%A6%E4%B8%BByyds/</guid>
+      <pubDate>Thu, 07 May 2026 17:48:16 &#43;0000</pubDate><description><![CDATA[
+<p>Alright，各位硬核车友们，今天咱们要聊的这波操作，简直是直戳特斯拉车主们的心巴！一直以来，特斯拉那块大屏虽然简洁酷炫，但很多时候，驾驶者都得低头瞟一眼才能看到速度、导航或是FSD信息，这多少有点反人类不是吗？尤其是在高速或复杂路况下，短暂的视线转移都可能带来风险。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89hud%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88%E9%A9%BE%E5%88%B0neurohud%E8%BF%99%E6%B3%A2%E9%BB%91%E7%A7%91%E6%8A%80%E7%AE%80%E7%9B%B4%E6%98%AF%E8%BD%A6%E4%B8%BByyds/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>Alright，各位硬核车友们，今天咱们要聊的这波操作，简直是直戳特斯拉车主们的心巴！一直以来，特斯拉那块大屏虽然简洁酷炫，但很多时候，驾驶者都得低头瞟一眼才能看到速度、导航或是FSD信息，这多少有点反人类不是吗？尤其是在高速或复杂路况下，短暂的视线转移都可能带来风险。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89hud%E7%BB%88%E6%9E%81%E6%96%B9%E6%A1%88%E9%A9%BE%E5%88%B0neurohud%E8%BF%99%E6%B3%A2%E9%BB%91%E7%A7%91%E6%8A%80%E7%AE%80%E7%9B%B4%E6%98%AF%E8%BD%A6%E4%B8%BByyds/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉全球销量V型反转：中国与欧洲市场强势复苏，Q2增长潜力几何？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E7%90%83%E9%94%80%E9%87%8Fv%E5%9E%8B%E5%8F%8D%E8%BD%AC%E4%B8%AD%E5%9B%BD%E4%B8%8E%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%BC%BA%E5%8A%BF%E5%A4%8D%E8%8B%8Fq2%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%87%A0%E4%BD%95/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E7%90%83%E9%94%80%E9%87%8Fv%E5%9E%8B%E5%8F%8D%E8%BD%AC%E4%B8%AD%E5%9B%BD%E4%B8%8E%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%BC%BA%E5%8A%BF%E5%A4%8D%E8%8B%8Fq2%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%87%A0%E4%BD%95/</guid>
+      <pubDate>Thu, 07 May 2026 17:47:44 &#43;0000</pubDate><description><![CDATA[
+<p>2026年4月，特斯拉在全球两大核心市场——中国和欧洲——展现出强劲的销售反弹势头，延续了数月的复苏轨迹，这在日益激烈的全球电动汽车（EV）竞争中显得尤为突出。尽管市场对特斯拉在2025年的表现及2026年第一季度（Q1）的交付数据曾抱有疑虑，但最新数据显示，这家电动汽车巨头正以其精准的战略执行力，在全球关键区域重新夺回市场份额，为第二季度（Q2）的业绩增长…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E7%90%83%E9%94%80%E9%87%8Fv%E5%9E%8B%E5%8F%8D%E8%BD%AC%E4%B8%AD%E5%9B%BD%E4%B8%8E%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%BC%BA%E5%8A%BF%E5%A4%8D%E8%8B%8Fq2%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%87%A0%E4%BD%95/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>2026年4月，特斯拉在全球两大核心市场——中国和欧洲——展现出强劲的销售反弹势头，延续了数月的复苏轨迹，这在日益激烈的全球电动汽车（EV）竞争中显得尤为突出。尽管市场对特斯拉在2025年的表现及2026年第一季度（Q1）的交付数据曾抱有疑虑，但最新数据显示，这家电动汽车巨头正以其精准的战略执行力，在全球关键区域重新夺回市场份额，为第二季度（Q2）的业绩增长…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%A8%E7%90%83%E9%94%80%E9%87%8Fv%E5%9E%8B%E5%8F%8D%E8%BD%AC%E4%B8%AD%E5%9B%BD%E4%B8%8E%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%BC%BA%E5%8A%BF%E5%A4%8D%E8%8B%8Fq2%E5%A2%9E%E9%95%BF%E6%BD%9C%E5%8A%9B%E5%87%A0%E4%BD%95/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>代码的召唤：21.9万辆特斯拉的“隐形召回”与汽车行业的范式之争</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E4%BB%A3%E7%A0%81%E7%9A%84%E5%8F%AC%E5%94%A4219%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E9%9A%90%E5%BD%A2%E5%8F%AC%E5%9B%9E%E4%B8%8E%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E7%9A%84%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E4%BB%A3%E7%A0%81%E7%9A%84%E5%8F%AC%E5%94%A4219%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E9%9A%90%E5%BD%A2%E5%8F%AC%E5%9B%9E%E4%B8%8E%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E7%9A%84%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89/</guid>
+      <pubDate>Thu, 07 May 2026 17:47:18 &#43;0000</pubDate><description><![CDATA[
+<p>清晨，阳光透过窗帘，唤醒了无数个家庭。在奥斯汀的郊区，一位特斯拉Model Y车主像往常一样，准备驾车送孩子上学。他轻踩刹车，挂入倒挡，习惯性地瞥向中控屏上的后视画面。一切如常，车辆平稳倒出车库。他可能永远不会知道，就在几小时前，他的爱车刚刚经历了一场由美国国家公路交通安全管理局（NHTSA）正式发布的“召回”。而这场“召回”，没有预约，没有等待，甚至没有让…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E4%BB%A3%E7%A0%81%E7%9A%84%E5%8F%AC%E5%94%A4219%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E9%9A%90%E5%BD%A2%E5%8F%AC%E5%9B%9E%E4%B8%8E%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E7%9A%84%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>清晨，阳光透过窗帘，唤醒了无数个家庭。在奥斯汀的郊区，一位特斯拉Model Y车主像往常一样，准备驾车送孩子上学。他轻踩刹车，挂入倒挡，习惯性地瞥向中控屏上的后视画面。一切如常，车辆平稳倒出车库。他可能永远不会知道，就在几小时前，他的爱车刚刚经历了一场由美国国家公路交通安全管理局（NHTSA）正式发布的“召回”。而这场“召回”，没有预约，没有等待，甚至没有让…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260507-%E4%BB%A3%E7%A0%81%E7%9A%84%E5%8F%AC%E5%94%A4219%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E9%9A%90%E5%BD%A2%E5%8F%AC%E5%9B%9E%E4%B8%8E%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E7%9A%84%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>TechCrunch Disrupt 2026：解码创新前沿，把握未来科技投资脉搏</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260507-techcrunch-disrupt-2026%E8%A7%A3%E7%A0%81%E5%88%9B%E6%96%B0%E5%89%8D%E6%B2%BF%E6%8A%8A%E6%8F%A1%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E6%8A%95%E8%B5%84%E8%84%89%E6%90%8F/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260507-techcrunch-disrupt-2026%E8%A7%A3%E7%A0%81%E5%88%9B%E6%96%B0%E5%89%8D%E6%B2%BF%E6%8A%8A%E6%8F%A1%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E6%8A%95%E8%B5%84%E8%84%89%E6%90%8F/</guid>
@@ -279,61 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉已在中国商店推出Model Y单人充气床垫。 此前曾推出双人版Model Y充气床垫（定价225美元）。 * 新产品专为单人旅行者设计，优化车内露营体验。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E5%94%AEmodel-y%E5%8D%95%E4%BA%BA%E5%85%85%E6%B0%94%E5%BA%8A%E5%9E%AB/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>TechCrunch Disrupt 2026：限时五天，第二张门票半价</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260504-techcrunch-disrupt-2026%E9%99%90%E6%97%B6%E4%BA%94%E5%A4%A9%E7%AC%AC%E4%BA%8C%E5%BC%A0%E9%97%A8%E7%A5%A8%E5%8D%8A%E4%BB%B7/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260504-techcrunch-disrupt-2026%E9%99%90%E6%97%B6%E4%BA%94%E5%A4%A9%E7%AC%AC%E4%BA%8C%E5%BC%A0%E9%97%A8%E7%A5%A8%E5%8D%8A%E4%BB%B7/</guid>
-      <pubDate>Mon, 04 May 2026 17:29:24 &#43;0000</pubDate><description><![CDATA[
-<p>[IMAGE]</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-techcrunch-disrupt-2026%E9%99%90%E6%97%B6%E4%BA%94%E5%A4%A9%E7%AC%AC%E4%BA%8C%E5%BC%A0%E9%97%A8%E7%A5%A8%E5%8D%8A%E4%BB%B7/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>[IMAGE]</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-techcrunch-disrupt-2026%E9%99%90%E6%97%B6%E4%BA%94%E5%A4%A9%E7%AC%AC%E4%BA%8C%E5%BC%A0%E9%97%A8%E7%A5%A8%E5%8D%8A%E4%BB%B7/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>西捷航空 vs 加拿大航空：星链Wi-Fi提供更快速度</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E8%A5%BF%E6%8D%B7%E8%88%AA%E7%A9%BA-vs-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%AA%E7%A9%BA%E6%98%9F%E9%93%BEwi-fi%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%BF%AB%E9%80%9F%E5%BA%A6/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E8%A5%BF%E6%8D%B7%E8%88%AA%E7%A9%BA-vs-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%AA%E7%A9%BA%E6%98%9F%E9%93%BEwi-fi%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%BF%AB%E9%80%9F%E5%BA%A6/</guid>
-      <pubDate>Mon, 04 May 2026 17:28:44 &#43;0000</pubDate><description><![CDATA[
-<p>西捷航空：已在其部分波音737和787机队部署SpaceX星链（Starlink）机上Wi-Fi服务。 实测速度：西捷航空航班上，星链Wi-Fi下载速度普遍达到 100-200 Mbps，上传速度约 20-40 Mbps。 对比竞品：相较于传统机上连接解决方案（如加拿大航空目前使用的Ka/Ku波段卫星系统），其平均下载速度通常为 10-20 Mbps。 延迟…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E8%A5%BF%E6%8D%B7%E8%88%AA%E7%A9%BA-vs-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%AA%E7%A9%BA%E6%98%9F%E9%93%BEwi-fi%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%BF%AB%E9%80%9F%E5%BA%A6/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>西捷航空：已在其部分波音737和787机队部署SpaceX星链（Starlink）机上Wi-Fi服务。 实测速度：西捷航空航班上，星链Wi-Fi下载速度普遍达到 100-200 Mbps，上传速度约 20-40 Mbps。 对比竞品：相较于传统机上连接解决方案（如加拿大航空目前使用的Ka/Ku波段卫星系统），其平均下载速度通常为 10-20 Mbps。 延迟…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E8%A5%BF%E6%8D%B7%E8%88%AA%E7%A9%BA-vs-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%88%AA%E7%A9%BA%E6%98%9F%E9%93%BEwi-fi%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%BF%AB%E9%80%9F%E5%BA%A6/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>非常抱歉，我无法获取您提及的“文章内容”。您只提供了文章的原始标题：“Tesla updates Model 3 Premium RWD acceleration time in Canada”，但没有提供需要改写的新闻正文。</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E9%9D%9E%E5%B8%B8%E6%8A%B1%E6%AD%89%E6%88%91%E6%97%A0%E6%B3%95%E8%8E%B7%E5%8F%96%E6%82%A8%E6%8F%90%E5%8F%8A%E7%9A%84%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%82%A8%E5%8F%AA%E6%8F%90%E4%BE%9B%E4%BA%86%E6%96%87%E7%AB%A0%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A0%87%E9%A2%98tesla-updates-model-3-premium-rwd-acceleration-time/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E9%9D%9E%E5%B8%B8%E6%8A%B1%E6%AD%89%E6%88%91%E6%97%A0%E6%B3%95%E8%8E%B7%E5%8F%96%E6%82%A8%E6%8F%90%E5%8F%8A%E7%9A%84%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%82%A8%E5%8F%AA%E6%8F%90%E4%BE%9B%E4%BA%86%E6%96%87%E7%AB%A0%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A0%87%E9%A2%98tesla-updates-model-3-premium-rwd-acceleration-time/</guid>
-      <pubDate>Mon, 04 May 2026 13:59:23 &#43;0000</pubDate><description><![CDATA[
-<p>如果您能提供原文内容，我将非常乐意按照您的所有要求，为您撰写一篇精彩的深度报道。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E9%9D%9E%E5%B8%B8%E6%8A%B1%E6%AD%89%E6%88%91%E6%97%A0%E6%B3%95%E8%8E%B7%E5%8F%96%E6%82%A8%E6%8F%90%E5%8F%8A%E7%9A%84%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%82%A8%E5%8F%AA%E6%8F%90%E4%BE%9B%E4%BA%86%E6%96%87%E7%AB%A0%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A0%87%E9%A2%98tesla-updates-model-3-premium-rwd-acceleration-time/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>如果您能提供原文内容，我将非常乐意按照您的所有要求，为您撰写一篇精彩的深度报道。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E9%9D%9E%E5%B8%B8%E6%8A%B1%E6%AD%89%E6%88%91%E6%97%A0%E6%B3%95%E8%8E%B7%E5%8F%96%E6%82%A8%E6%8F%90%E5%8F%8A%E7%9A%84%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%82%A8%E5%8F%AA%E6%8F%90%E4%BE%9B%E4%BA%86%E6%96%87%E7%AB%A0%E7%9A%84%E5%8E%9F%E5%A7%8B%E6%A0%87%E9%A2%98tesla-updates-model-3-premium-rwd-acceleration-time/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉Robotaxi德州无人运营车队扩张，启动夜间服务</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BE%B7%E5%B7%9E%E6%97%A0%E4%BA%BA%E8%BF%90%E8%90%A5%E8%BD%A6%E9%98%9F%E6%89%A9%E5%BC%A0%E5%90%AF%E5%8A%A8%E5%A4%9C%E9%97%B4%E6%9C%8D%E5%8A%A1/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BE%B7%E5%B7%9E%E6%97%A0%E4%BA%BA%E8%BF%90%E8%90%A5%E8%BD%A6%E9%98%9F%E6%89%A9%E5%BC%A0%E5%90%AF%E5%8A%A8%E5%A4%9C%E9%97%B4%E6%9C%8D%E5%8A%A1/</guid>
-      <pubDate>Mon, 04 May 2026 13:59:10 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉正加速扩展其无人运营Robotaxi车队，重点布局德州市场，并已启动夜间服务。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BE%B7%E5%B7%9E%E6%97%A0%E4%BA%BA%E8%BF%90%E8%90%A5%E8%BD%A6%E9%98%9F%E6%89%A9%E5%BC%A0%E5%90%AF%E5%8A%A8%E5%A4%9C%E9%97%B4%E6%9C%8D%E5%8A%A1/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>特斯拉正加速扩展其无人运营Robotaxi车队，重点布局德州市场，并已启动夜间服务。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BE%B7%E5%B7%9E%E6%97%A0%E4%BA%BA%E8%BF%90%E8%90%A5%E8%BD%A6%E9%98%9F%E6%89%A9%E5%BC%A0%E5%90%AF%E5%8A%A8%E5%A4%9C%E9%97%B4%E6%9C%8D%E5%8A%A1/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>SpaceX德州新厂动工：自研航天级太阳能电池，赋能轨道数据中心TERAFAB</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260504-spacex%E5%BE%B7%E5%B7%9E%E6%96%B0%E5%8E%82%E5%8A%A8%E5%B7%A5%E8%87%AA%E7%A0%94%E8%88%AA%E5%A4%A9%E7%BA%A7%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E8%B5%8B%E8%83%BD%E8%BD%A8%E9%81%93%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83terafab/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260504-spacex%E5%BE%B7%E5%B7%9E%E6%96%B0%E5%8E%82%E5%8A%A8%E5%B7%A5%E8%87%AA%E7%A0%94%E8%88%AA%E5%A4%A9%E7%BA%A7%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E8%B5%8B%E8%83%BD%E8%BD%A8%E9%81%93%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83terafab/</guid>
-      <pubDate>Mon, 04 May 2026 13:58:53 &#43;0000</pubDate><description><![CDATA[
-<p>地点：美国德克萨斯州巴斯特罗普。 目的：建设世界最先进太阳能电池工厂。 确认：SpaceX太阳能生产总监Noah Cowles。 产品：高度专业化、航空级太阳能电池。 特点**：垂直整合（Vertical Integration），从原材料到最终组装全面自控。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-spacex%E5%BE%B7%E5%B7%9E%E6%96%B0%E5%8E%82%E5%8A%A8%E5%B7%A5%E8%87%AA%E7%A0%94%E8%88%AA%E5%A4%A9%E7%BA%A7%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E8%B5%8B%E8%83%BD%E8%BD%A8%E9%81%93%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83terafab/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>地点：美国德克萨斯州巴斯特罗普。 目的：建设世界最先进太阳能电池工厂。 确认：SpaceX太阳能生产总监Noah Cowles。 产品：高度专业化、航空级太阳能电池。 特点**：垂直整合（Vertical Integration），从原材料到最终组装全面自控。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-spacex%E5%BE%B7%E5%B7%9E%E6%96%B0%E5%8E%82%E5%8A%A8%E5%B7%A5%E8%87%AA%E7%A0%94%E8%88%AA%E5%A4%A9%E7%BA%A7%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E8%B5%8B%E8%83%BD%E8%BD%A8%E9%81%93%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83terafab/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
