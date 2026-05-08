@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<meta name="google-site-verification" content="v2g5WeUWzHxKcSYMyfBqkcQy0Hnw82Kqp6nwJyxd5yE" />
+
+<title>失控的算法：无人驾驶的达拉斯迷途与Avride的暗影 | 特斯拉日报</title>
+
+<meta name="description" content="德克萨斯州达拉斯的午后，阳光炙烤着沥青路面，城市车流在宽阔的六车道上穿梭不息。然而，在2025年12月的一个寻常日子里，一辆搭载Avride自动驾驶系统的现代Ioniq 5，却在一次看似简单的变道尝试中，偏离了预设的轨迹。它没有避开停靠在路边的皮卡，而是直接撞上了其敞开的驾驶员侧车门，发出刺耳的金属摩擦声。皮卡车内的一名乘客因此受了轻伤，尽管无需住院，但这次…">
+
+
+<link rel="canonical" href="https://johhhhnny.github.io/TeslaDaily/posts/20260508-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BE%BE%E6%8B%89%E6%96%AF%E8%BF%B7%E9%80%94%E4%B8%8Eavride%E7%9A%84%E6%9A%97%E5%BD%B1/">
+
+
+<meta property="og:title" content="失控的算法：无人驾驶的达拉斯迷途与Avride的暗影 | 特斯拉日报">
+<meta property="og:description" content="德克萨斯州达拉斯的午后，阳光炙烤着沥青路面，城市车流在宽阔的六车道上穿梭不息。然而，在2025年12月的一个寻常日子里，一辆搭载Avride自动驾驶系统的现代Ioniq 5，却在一次看似简单的变道尝试中，偏离了预设的轨迹。它没有避开停靠在路边的皮卡，而是直接撞上了其敞开的驾驶员侧车门，发出刺耳的金属摩擦声。皮卡车内的一名乘客因此受了轻伤，尽管无需住院，但这次…">
+<meta property="og:url" content="https://johhhhnny.github.io/TeslaDaily/posts/20260508-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BE%BE%E6%8B%89%E6%96%AF%E8%BF%B7%E9%80%94%E4%B8%8Eavride%E7%9A%84%E6%9A%97%E5%BD%B1/">
+<meta property="og:type" content="article">
+
+
+
+<meta property="article:published_time" content="2026-05-08T21:01:36Z">
+
+<meta property="article:modified_time" content="2026-05-08T21:01:36Z">
+
+
+<meta property="article:author" content="安妮">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="失控的算法：无人驾驶的达拉斯迷途与Avride的暗影 | 特斯拉日报">
+<meta name="twitter:description" content="德克萨斯州达拉斯的午后，阳光炙烤着沥青路面，城市车流在宽阔的六车道上穿梭不息。然而，在2025年12月的一个寻常日子里，一辆搭载Avride自动驾驶系统的现代Ioniq 5，却在一次看似简单的变道尝试中，偏离了预设的轨迹。它没有避开停靠在路边的皮卡，而是直接撞上了其敞开的驾驶员侧车门，发出刺耳的金属摩擦声。皮卡车内的一名乘客因此受了轻伤，尽管无需住院，但这次…">
+<meta name="twitter:site" content="@TeslaDaily">
+
+
+<meta name="keywords" content="自动驾驶, 特斯拉, Tesla">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "失控的算法：无人驾驶的达拉斯迷途与Avride的暗影",
+  "description": "德克萨斯州达拉斯的午后，阳光炙烤着沥青路面，城市车流在宽阔的六车道上穿梭不息。然而，在2025年12月的一个寻常日子里，一辆搭载Avride自动驾驶系统的现代Ioniq 5，却在一次看似简单的变道尝试中，偏离了预设的轨迹。它没有避开停靠在路边的皮卡，而是直接撞上了其敞开的驾驶员侧车门，发出刺耳的金属摩擦声。皮卡车内的一名乘客因此受了轻伤，尽管无需住院，但这次…",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20260508-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BE%BE%E6%8B%89%E6%96%AF%E8%BF%B7%E9%80%94%E4%B8%8Eavride%E7%9A%84%E6%9A%97%E5%BD%B1\/"
+  },
+  "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20260508-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BE%BE%E6%8B%89%E6%96%AF%E8%BF%B7%E9%80%94%E4%B8%8Eavride%E7%9A%84%E6%9A%97%E5%BD%B1\/",
+  "datePublished": "2026-05-08T21:01:36Z",
+  "dateModified": "2026-05-08T21:01:36Z",
+  "author": {
+    "@type": "Person",
+    "name": "安妮"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "特斯拉日报",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/images\/logo-tire-classic.svg"
+    }
+  }
+}
+</script>
+
+
+
+      <link rel="stylesheet" href="/TeslaDaily/css/main.min.0ed04894cb44c2b94c2fc3cd4eab1b7622f25031fb03aa77974e360e68b77dba.css" integrity="sha256-DtBIlMtEwrlML8PNTqsbdiLyUDH7A6p3l042Dmi3fbo=" crossorigin="anonymous">
+
+<link rel="icon" type="image/svg+xml" href="https://johhhhnny.github.io/TeslaDaily/favicon.svg"> 
+<link rel="icon" type="image/x-icon" href="https://johhhhnny.github.io/TeslaDaily/favicon.ico"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://johhhhnny.github.io/TeslaDaily/favicon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://johhhhnny.github.io/TeslaDaily/favicon-32.png"> 
+<link rel="icon" type="image/png" sizes="64x64" href="https://johhhhnny.github.io/TeslaDaily/favicon-64.png"> 
+
+</head>
+<body>
+  <header class="py-6"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+	<div class="flex items-center">
+		<div class="flex items-center">
+			<button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
+				<svg width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+					<path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"></path>
+				</svg>
+				<span class="rounded-full p-2.5">
+					<img src="/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="group-hover:animate-spin" />
+				</span>
+			</button>
+			<div class="relative rounded-full py-1.5 px-6 bg-zinc-100 hover:bg-zinc-200 text-xl font-bold uppercase mx-2">
+				<h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="https://johhhhnny.github.io/TeslaDaily/">
+				<span class="uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+				</a></h2>
+			</div>
+		</div>
+		<div class="flex items-center ml-auto space-x-2">
+			<button class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="search-bar">
+				<svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path id="path1" class="transition-all ease-linear" d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+					<path id="path2" class="transition-all ease-linear hidden" d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
+				</svg>
+			</button>
+			<a class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/feed.xml" rel="noopener" aria-label="订阅RSS">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path d="M2 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"></path>
+					<path d="M2 2.5a.5.5 0 0 1 .5-.5c6.627 0 12 5.373 12 12a.5.5 0 0 1-1 0C13.5 8.134 7.866 2.5 2.5 2.5a.5.5 0 0 1-.5-.5z"></path>
+					<path d="M2 6a.5.5 0 0 1 .5-.5A7.5 7.5 0 0 1 10 13.5a.5.5 0 0 1-1 0A6.5 6.5 0 0 0 2.5 6.5.5.5 0 0 1 2 6z"></path>
+				</svg>
+			</a>
+		</div>
+	</div>
+  <nav id="menu-bar" class="block mt-3 open">
+    <ul class="flex items-center flex flex-nowrap whitespace-nowrap overflow-x-auto space-x-4">
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/">首页</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/daily/">每日特报</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/story/">特有故事</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/archives/">特新消息</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/about/">关于</a>
+    </li>
+    </ul>
+  </nav>
+<div id="search-bar" class="block mt-3 close">
+	<form id="search" class="flex items-stretch" action="https://www.google.com/search" method="get" target="_blank">
+		<input type="hidden" name="sitesearch" value="johhhhnny.github.io/TeslaDaily">
+		<input class="w-full block px-6 py-2 rounded-l-full focus:outline-none border border-zinc-200" type="text" name="q" placeholder="搜索...">
+		<button class="flex items-center px-7 py-2.5 rounded-r-full border border-zinc-200" type="submit">
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-pulse" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+			</svg>
+		</button>
+	</form>
+</div></div></header>
+  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+	<ul class="flex space-x-4 text-sm text-zinc-500">
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/">特斯拉日报</a>
+		</li>
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/posts/">文章</a>
+		</li>
+	</ul>
+</div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+
+  <article class="md:col-span-2 prose lg:prose-lg">
+
+    <header class="not-prose">
+
+      <h1 id="title" class="text-4xl font-bold leading-normal">失控的算法：无人驾驶的达拉斯迷途与Avride的暗影</h1>
+
+      <div id="lead" class="my-6">
+
+        <p class="font-bold">德克萨斯州达拉斯的午后，阳光炙烤着沥青路面，城市车流在宽阔的六车道上穿梭不息。然而，在2025年12月的一个寻常日子里，一辆搭载Avride自动驾驶系统的现代Ioniq 5，却在一次看似简单的变道尝试中，偏离了预设的轨迹。它没有避开停靠在路边的皮卡，而是直接撞上了其敞开的驾驶员侧车门，发出刺耳的金属摩擦声。皮卡车内的一名乘客因此受了轻伤，尽管无需住院，但这次… </p>
+
+      </div>
+
+      <div id="writer" class="flex items-center space-x-4"><img class="w-12 h-12 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/annie.png" alt="安妮 avatar"><ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+
+          <li class="font-semibold my-2">安妮</li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2026-05-08T21:01:36&#43;00:00">May 8, 2026</time>
+          </li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            1 min read
+          </li>
+
+        </ul>
+
+      </div>
+
+    </header>
+
+    <figure id="featureimage" class="rounded-xl aspect-video">
+      <img class="rounded-lg" src="https://johhhhnny.github.io/TeslaDaily/images/20260508-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BE%BE%E6%8B%89%E6%96%AF%E8%BF%B7%E9%80%94%E4%B8%8Eavride%E7%9A%84%E6%9A%97%E5%BD%B1/90daaa49f66aad5e535b9439de3c0f96_hu_7742de20eaa257b2.jpg" alt="" width="750"
+        height="500" loading="lazy">
+
+    </figure>
+
+    <div id="content" class="mb-14">
+      <p>德克萨斯州达拉斯的午后，阳光炙烤着沥青路面，城市车流在宽阔的六车道上穿梭不息。然而，在2025年12月的一个寻常日子里，一辆搭载Avride自动驾驶系统的现代Ioniq 5，却在一次看似简单的变道尝试中，偏离了预设的轨迹。它没有避开停靠在路边的皮卡，而是直接撞上了其敞开的驾驶员侧车门，发出刺耳的金属摩擦声。皮卡车内的一名乘客因此受了轻伤，尽管无需住院，但这次碰撞，无疑在无人驾驶技术的平静水面投下了一颗石子，激起了层层涟漪。</p>
+<p>这并非孤例。在接下来的几个月里，类似的意外在达拉斯和奥斯汀的街头反复上演，如同算法深处的一次次短路。美国国家公路交通安全管理局（NHTSA）的调查人员，如今正试图拨开这些事故的迷雾，探究Avride——这家与出行巨头Uber深度合作的机器人出租车公司——究竟在何处失了控。</p>
+<h2 id="达拉斯迷雾算法的盲区">达拉斯迷雾：算法的盲区</h2>
+<p>NHTSA下属的缺陷调查办公室（ODI）的报告，描绘了一幅令人不安的图景。他们识别出多达16起与Avride自动驾驶系统能力“直接相关”的碰撞事故，其中多数发生在德州达拉斯，部分则在奥斯汀。这些事故的症结，似乎都指向了同一处：系统在车道变换、应对同车道其他车辆以及识别静止物体方面的“挣扎”。</p>
+<p>想象一下这样的场景：一辆Avride机器人出租车在高速公路上试图变道，却径直驶入相邻车道上的另一辆近距离行驶的车辆路径；又或者，它未能及时减速或停车，与前方缓慢移动或静止的车辆追尾；甚至在某些案例中，车辆直接撞上了部分阻碍车道的静止物体，比如一个被遗忘的垃圾箱。ODI通过初步审查事故视频，清晰地捕捉到了这些惊心动魄的瞬间。</p>
+<p>更为关键的是，所有这些事故都发生在一个前提之下：驾驶座上有一名“安全监控员”在场。他们的职责本应是在系统出现故障时及时介入，接管车辆。然而，Avride公司拒绝解释为何这些监控员未能干预，仅表示已按照NHTSA 2021年自动化驾驶常设总指令的要求，上报了所有事故。在公司的一份声明中，他们声称已“针对2025年12月至2026年3月期间报告的每起事件，实施了有针对性的技术和操作缓解措施”，并强调“总运营规模持续增长，而事故发生频率相对于里程数稳步下降”。言下之意，这些只是成长中的烦恼，且已在控制之中。然而，NHTSA的介入，无疑给这份“乐观”蒙上了一层阴影。</p>
+<h2 id="巨头博弈uber与avride的资本联姻">巨头博弈：Uber与Avride的资本联姻</h2>
+<p>Avride，这个名字在普通消费者耳中或许有些陌生，但它在自动驾驶领域并非无名之辈。作为Nebius（前身为Yandex NV）的子公司，Avride最初以其在人行道送货机器人方面的成就而闻名。然而，其真正的野心，早已投向了更广阔的无人驾驶汽车赛道。</p>
+<p>2024年，Avride与出行巨头Uber达成战略合作，次年，Uber及其母公司Nebius更是同意向Avride进行高达3.75亿美元的“战略投资及其他承诺”。这笔巨额资金的注入，无疑是Uber加速其自动驾驶布局的关键一步。对于Uber而言，摆脱对人类司机的依赖，实现全自动化的机器人出租车服务（robotaxi），是其未来降低运营成本、提升利润空间的核心战略。机器人出租车——即无需人类驾驶员操控的自动驾驶出租车——被视为颠覆传统出行模式的终极愿景。达拉斯，正是Uber选择与Avride共同开启这一宏大实验的城市，也是“许多报告事故发生地”的所在。</p>
+<p>这桩资本联姻的背后，是科技巨头们对未来出行市场的激烈争夺。Uber希望借助Avride的技术，在自动驾驶领域占据一席之地；而Avride则渴望Uber庞大的用户基础和资金支持，加速其技术的商业化落地。然而，达拉斯街头的碰撞，无疑给这份雄心勃勃的合作蒙上了一层阴霾，也让人们开始审视，在追求速度与规模的同时，安全是否被置于了次要位置。</p>
+<h2 id="行业风暴无人驾驶的信任危机">行业风暴：无人驾驶的信任危机</h2>
+<p>Avride的调查，并非孤立事件。它恰好发生在美国各地众多公司扩大自动驾驶技术测试、部署和规模化应用之际，这使得整个行业都受到了前所未有的严格审查。</p>
+<p>就在Avride被调查的几个月前，Alphabet旗下的自动驾驶公司Waymo也因涉嫌“校车周围的非法行为”以及1月发生的一起机器人出租车撞伤儿童事故，正同时接受NHTSA和国家运输安全委员会（NTSB）的调查。Waymo的案例，以及Avride的一系列事故，都在提醒着我们：自动驾驶技术，即便在最先进的算法和最严谨的测试下，也远未达到完美。</p>
+<p>这些事件累积起来，正在悄然侵蚀公众对自动驾驶技术的信任。当一辆没有人类干预的汽车在街头横冲直撞，当本应保证安全的监控员形同虚设，人们不禁要问：我们是否真的准备好将生命托付给冰冷的算法？对于致力于推广自动驾驶技术的公司而言，每一次事故，都是一次信任的危机，都可能成为阻碍技术普及的绊脚石。</p>
+<h2 id="幕后观察代码人性与进化的代价">幕后观察：代码、人性与进化的代价</h2>
+<p>在这些闪光灯下的事故背后，隐藏着更深层次的人性、企业文化与历史必然性。当Avride的安全监控员未能及时介入，是他们过度依赖系统、训练不足，还是系统本身的设计，使得在紧急情况下人类干预变得困难甚至适得其反？这触及了自动驾驶技术的核心伦理困境：当算法的决策与人类的直觉发生冲突时，谁来拍板？</p>
+<p>“快速行动，打破常规”（Move fast and break things）曾是硅谷的信条，它催生了无数创新，但也带来了代价。在自动驾驶这个关乎生命安全的领域，这种文化是否需要被重新审视？公司面临着来自投资者巨大的压力，他们期望看到用户数量的同比增长（YoY）和复合年增长率（CAGR）的飙升，这无疑会推动企业在技术尚不成熟时就急于扩大规模，将“准试验品”推向公共道路。</p>
+<p>每一次技术革命，都伴随着阵痛与牺牲。从蒸汽机到互联网，人类文明的进步总是充满了不确定性。自动驾驶技术无疑是人类智慧的结晶，它 promette（承诺）着更安全、更高效的未来出行。然而，如何在这条通往未来的道路上，平衡创新的速度与生命的价值，是摆在所有科技公司、监管机构乃至全社会面前的深刻命题。达拉斯街头的碰撞，不仅仅是车辆的物理损伤，更是对我们如何驾驭高科技时代伦理挑战的一次拷问。</p>
+<p>Avride的调查仍在进行中，Uber的沉默背后，或许是更为复杂的权衡。而对于整个自动驾驶行业而言，这些事故如同一面面警示牌，提醒着所有雄心勃勃的玩家：在追逐星辰大海的征途中，切莫忘记，脚下的土地，承载着每一个鲜活的生命和公众的信任。无人驾驶的未来，需要代码的精准，更需要人性的温度与审慎。</p>
+
+  <div class="flex items-center mb-6"><h2 class="text-xl md:text-2xl font-bold mr-auto">标签</h2>
+  </div>
+  <ul id="taxonomy" class="not-prose flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto"><li class="py-2 px-6 border rounded-full hover:bg-blue-100"><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/">自动驾驶</a></li></ul><div class="flex items-center space-x-4 my-8">
+    <span class="font-semibold">分享:</span>
+
+    
+    <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260508-%25E5%25A4%25B1%25E6%258E%25A7%25E7%259A%2584%25E7%25AE%2597%25E6%25B3%2595%25E6%2597%25A0%25E4%25BA%25BA%25E9%25A9%25BE%25E9%25A9%25B6%25E7%259A%2584%25E8%25BE%25BE%25E6%258B%2589%25E6%2596%25AF%25E8%25BF%25B7%25E9%2580%2594%25E4%25B8%258Eavride%25E7%259A%2584%25E6%259A%2597%25E5%25BD%25B1%2f&text=%e5%a4%b1%e6%8e%a7%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%9a%e6%97%a0%e4%ba%ba%e9%a9%be%e9%a9%b6%e7%9a%84%e8%be%be%e6%8b%89%e6%96%af%e8%bf%b7%e9%80%94%e4%b8%8eAvride%e7%9a%84%e6%9a%97%e5%bd%b1" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260508-%25E5%25A4%25B1%25E6%258E%25A7%25E7%259A%2584%25E7%25AE%2597%25E6%25B3%2595%25E6%2597%25A0%25E4%25BA%25BA%25E9%25A9%25BE%25E9%25A9%25B6%25E7%259A%2584%25E8%25BE%25BE%25E6%258B%2589%25E6%2596%25AF%25E8%25BF%25B7%25E9%2580%2594%25E4%25B8%258Eavride%25E7%259A%2584%25E6%259A%2597%25E5%25BD%25B1%2f" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260508-%25E5%25A4%25B1%25E6%258E%25A7%25E7%259A%2584%25E7%25AE%2597%25E6%25B3%2595%25E6%2597%25A0%25E4%25BA%25BA%25E9%25A9%25BE%25E9%25A9%25B6%25E7%259A%2584%25E8%25BE%25BE%25E6%258B%2589%25E6%2596%25AF%25E8%25BF%25B7%25E9%2580%2594%25E4%25B8%258Eavride%25E7%259A%2584%25E6%259A%2597%25E5%25BD%25B1%2f&title=%e5%a4%b1%e6%8e%a7%e7%9a%84%e7%ae%97%e6%b3%95%ef%bc%9a%e6%97%a0%e4%ba%ba%e9%a9%be%e9%a9%b6%e7%9a%84%e8%be%be%e6%8b%89%e6%96%af%e8%bf%b7%e9%80%94%e4%b8%8eAvride%e7%9a%84%e6%9a%97%e5%bd%b1" target="_blank"
+        rel="noopener" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+        </svg>
+    </a>
+
+</div></div>
+
+    <footer id="content-footer" class="not-prose">
+
+      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
+
+        <h2 class="text-xl font-semibold">Comment</h2>
+
+        <p>Disqus comment here</p></div>
+
+      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl"><img class="w-20 h-20 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/annie.png" alt="安妮"><h2 class="text-xl font-bold my-4">Written by : 安妮</h2><p class="mb-4">特稿记者，关注科技背后的个体命运与社会变迁。用细腻的笔触讲述特斯拉车主、员工和相关人物的真实故事。</p>
+
+        <ul class="flex flex-wrap space-x-4">
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+              </svg>
+              <span class="ml-2">Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+              </svg>
+              <span class="ml-2">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+
+              </svg>
+              <span class="ml-2">Instagram</span>
+            </a>
+          </li>
+
+        </ul>
+
+      </div>
+
+      <div id="related-post" class="">
+
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260506-%E7%89%B9%E6%96%AF%E6%8B%89cybertruck%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%93%E8%B6%8A%E8%BF%9E%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%80%E4%B8%A5%E5%8E%89%E7%9A%84%E6%89%B9%E8%AF%84%E8%80%85%E4%B9%9F%E6%97%A0%E6%B3%95%E5%BF%BD%E8%A7%86/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260504-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%A5%A5%E6%96%AF%E6%B1%80%E5%A4%9C%E9%97%B4%E8%BF%90%E8%90%A5%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E7%9A%84%E5%85%B3%E9%94%AE%E9%87%8C%E7%A8%8B%E7%A2%91/9deb64f83e524f55c2bdbc2ad5963bb2_hu_abb30349c263886.jpg" alt="特斯拉Cybertruck安全性卓越，连马斯克最严厉的批评者也无法忽视" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">特斯拉Cybertruck安全性卓越，连马斯克最严厉的批评者也无法忽视</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">知名埃隆·马斯克批评者Brian Krassenstein于2026年5月6日购入特斯拉Cybertruck，主要基于其卓越安全性。该决定引发关注，凸显Cybertruck安全数据客观性。</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/subaojun.png" alt="速报君"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">速报君</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2026-05-06T02:45:57&#43;00:00">2026-05-06</time>
+		</div>
+
+	</div>
+</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260504-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BE%B7%E5%B7%9E%E6%97%A0%E4%BA%BA%E8%BF%90%E8%90%A5%E8%BD%A6%E9%98%9F%E6%89%A9%E5%BC%A0%E5%90%AF%E5%8A%A8%E5%A4%9C%E9%97%B4%E6%9C%8D%E5%8A%A1/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260504-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%BE%B7%E5%B7%9E%E6%97%A0%E4%BA%BA%E8%BF%90%E8%90%A5%E8%BD%A6%E9%98%9F%E6%89%A9%E5%BC%A0%E5%90%AF%E5%8A%A8%E5%A4%9C%E9%97%B4%E6%9C%8D%E5%8A%A1/c5b1afe19ebba39deb38d396e1746124_hu_e1e46662817ff3dd.jpg" alt="特斯拉Robotaxi德州无人运营车队扩张，启动夜间服务" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">特斯拉Robotaxi德州无人运营车队扩张，启动夜间服务</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">特斯拉正加速扩展其无人运营Robotaxi车队，重点布局德州市场，并已启动夜间服务。</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/subaojun.png" alt="速报君"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">速报君</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2026-05-04T13:59:10&#43;00:00">2026-05-04</time>
+		</div>
+
+	</div>
+</article>
+
+        </div>
+      </div>
+
+    </footer>
+
+  </article>
+
+  
+  <aside class="md:col-span-1"><div class="lg:sticky lg:top-8"><div class="rounded-2xl p-4 bg-zinc-100 mb-10">
+  <img class="aspect-video rounded" src="/TeslaDaily/images/ad-slot.svg" alt="广告位">
+  <p class="text-right text-xs mt-2 leading-none text-zinc-500">广告位</p>
+</div>
+	<div class="mb-6">
+		<h2 class="font-bold text-xl mb-4">目录</h2>
+		<div class="prose prose-sm max-w-none">
+			<nav id="TableOfContents">
+  <ul>
+    <li><a href="#达拉斯迷雾算法的盲区">达拉斯迷雾：算法的盲区</a></li>
+    <li><a href="#巨头博弈uber与avride的资本联姻">巨头博弈：Uber与Avride的资本联姻</a></li>
+    <li><a href="#行业风暴无人驾驶的信任危机">行业风暴：无人驾驶的信任危机</a></li>
+    <li><a href="#幕后观察代码人性与进化的代价">幕后观察：代码、人性与进化的代价</a></li>
+  </ul>
+</nav>
+		</div>
+	</div>
+	
+
+	<div class="space-y-6">
+
+		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
+
+		<article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260508-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BE%BE%E6%8B%89%E6%96%AF%E8%BF%B7%E9%80%94%E4%B8%8Eavride%E7%9A%84%E6%9A%97%E5%BD%B1/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260508-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E8%BE%BE%E6%8B%89%E6%96%AF%E8%BF%B7%E9%80%94%E4%B8%8Eavride%E7%9A%84%E6%9A%97%E5%BD%B1/90daaa49f66aad5e535b9439de3c0f96_hu_e037292574d15414.jpg" alt="失控的算法：无人驾驶的达拉斯迷途与Avride的暗影" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">失控的算法：无人驾驶的达拉斯迷途与Avride的暗影</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 安妮</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260508-%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%88%98%E7%95%A5%E6%94%B6%E7%BC%A9%E8%B1%AA%E5%8D%8E%E8%BD%A6%E4%BC%81%E7%94%B5%E5%8A%A8%E5%8C%96%E8%BD%AC%E5%9E%8B%E4%B8%AD%E7%9A%84%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E4%B8%8E%E5%A4%96%E9%83%A8%E5%8D%8F%E5%90%8C%E7%AD%96%E7%95%A5%E5%86%8D%E6%80%9D%E8%80%83/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260508-%E4%BF%9D%E6%97%B6%E6%8D%B7%E6%88%98%E7%95%A5%E6%94%B6%E7%BC%A9%E8%B1%AA%E5%8D%8E%E8%BD%A6%E4%BC%81%E7%94%B5%E5%8A%A8%E5%8C%96%E8%BD%AC%E5%9E%8B%E4%B8%AD%E7%9A%84%E5%9E%82%E7%9B%B4%E6%95%B4%E5%90%88%E4%B8%8E%E5%A4%96%E9%83%A8%E5%8D%8F%E5%90%8C%E7%AD%96%E7%95%A5%E5%86%8D%E6%80%9D%E8%80%83/30b66744806df50f6ede93d48968dfb4_hu_fb312e2eecf3e152.jpg" alt="保时捷战略收缩：豪华车企电动化转型中的垂直整合与外部协同策略再思考" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">保时捷战略收缩：豪华车企电动化转型中的垂直整合与外部协同策略再思考</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 老张</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260508-%E7%82%B8%E8%A3%82%E7%89%B9%E6%96%AF%E6%8B%89-model-y-%E7%8B%82%E6%89%AB%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%B8%82%E5%9C%BA%E7%94%B5%E5%8A%A8%E9%9D%A9%E5%91%BD%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260302-%E7%89%B9%E6%96%AF%E6%8B%89%E6%AC%A7%E6%B4%B2%E9%94%80%E9%87%8F%E5%9B%9E%E6%9A%96%E5%85%A8%E7%90%83%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E7%9A%84%E6%B7%B1%E5%B1%82%E4%BF%A1%E5%8F%B7%E4%B8%8E%E6%88%98%E7%95%A5%E8%80%83%E9%87%8F/8e5a3a118f0ae6d284ae7c1be6304e93_hu_185d00683ee6b758.jpg" alt="炸裂！特斯拉 Model Y 狂扫哥伦比亚市场，电动革命势不可挡？！" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">炸裂！特斯拉 Model Y 狂扫哥伦比亚市场，电动革命势不可挡？！</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260508-%E7%89%B9%E6%96%AF%E6%8B%89cybertruck%E7%A7%9F%E8%B5%81%E5%AE%9A%E4%BB%B7%E4%B8%8A%E8%B0%83%E7%94%B5%E5%8A%A8%E7%9A%AE%E5%8D%A1%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E9%9F%A7%E6%80%A7%E4%B8%8E%E5%88%A9%E6%B6%A6%E7%BB%93%E6%9E%84%E4%BC%98%E5%8C%96/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260508-%E7%89%B9%E6%96%AF%E6%8B%89cybertruck%E7%A7%9F%E8%B5%81%E5%AE%9A%E4%BB%B7%E4%B8%8A%E8%B0%83%E7%94%B5%E5%8A%A8%E7%9A%AE%E5%8D%A1%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E9%9F%A7%E6%80%A7%E4%B8%8E%E5%88%A9%E6%B6%A6%E7%BB%93%E6%9E%84%E4%BC%98%E5%8C%96/363beff6bfac4904443cc9e84bcc0fb8_hu_672c4dec8bb119d6.jpg" alt="特斯拉Cybertruck租赁定价上调：电动皮卡市场需求韧性与利润结构优化" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">特斯拉Cybertruck租赁定价上调：电动皮卡市场需求韧性与利润结构优化</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 老张</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260508-spacex%E6%98%9F%E8%88%B0v3%E8%BF%90%E6%8A%B5%E5%8F%91%E5%B0%84%E5%8F%B0%E5%8A%A9%E6%8E%A8%E5%99%A8%E5%AE%8C%E6%88%90%E9%9D%99%E6%80%81%E7%82%B9%E7%81%AB/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260508-spacex%E6%98%9F%E8%88%B0v3%E8%BF%90%E6%8A%B5%E5%8F%91%E5%B0%84%E5%8F%B0%E5%8A%A9%E6%8E%A8%E5%99%A8%E5%AE%8C%E6%88%90%E9%9D%99%E6%80%81%E7%82%B9%E7%81%AB/12aa5f90e8373b0efc94bd97fce8d03d_hu_dff9c3099eed4f25.jpg" alt="SpaceX星舰V3运抵发射台，助推器完成静态点火" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">SpaceX星舰V3运抵发射台，助推器完成静态点火</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 速报君</span>
+		</div>
+	</div>
+</article>
+
+	</div>
+
+</div></aside>
+
+</div>
+
+</main>
+  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+
+  <div class="flex flex-wrap space-y-6 mb-4">
+
+    <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+
+      <a class="flex items-center group" href="https://johhhhnny.github.io/TeslaDaily/">
+        <img src="https://johhhhnny.github.io/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="mr-2 group-hover:animate-spin" />
+        <span class="text-2xl font-semibold uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+      </a>
+
+      <p class="font-semibold">
+        每日精选，速览特斯拉动态。<br>专注高效与纯净的阅读体验。
+      </p>
+
+      <p>如果你是投资者、车主、从业者或研究者，特斯拉日报能帮助你更高效地获得关键信息与背景脉络。</p>
+
+    </div>
+
+    <div class="self-center flex flex-col w-full md:w-2/5">
+
+<ul id="social-media" class="flex items-center space-x-4">
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+				<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.twitter.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.github.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.instagram.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"></path>
+			</svg>
+		</a>
+	</li>
+</ul>
+
+    </div>
+    
+  </div>
+
+  <div class="my-8">
+    <ul class="flex items-center space-x-4">
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/">首页</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/daily/">每日特报</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/story/">特有故事</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/archives/">特新消息</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/about/">关于</a></li>
+      
+    </ul>
+  </div>
+
+  <div class="border-t pt-4">
+
+    <p class="text-sm">Copyright © 2025. All rights reserved. 特斯拉日报 · TeslaDaily</p>
+    <p class="text-xs text-zinc-500 mt-2">本网站为独立媒体，与特斯拉公司无关。</p>
+
+  </div>
+  
+</div></footer>
+      <script defer src="/TeslaDaily/js/search.2aa505bea24ff6b2d06c4b3bc39fbded258d41001148b9d70c82f1a803c2954d.js" integrity="sha256-KqUFvqJP9rLQbEs7w5&#43;97SWNQQARSLnXDILxqAPClU0=" crossorigin="anonymous"></script>
+</body>
+</html>
