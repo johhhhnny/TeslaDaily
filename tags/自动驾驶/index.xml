@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 17 May 2026 09:55:30 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 17 May 2026 13:28:18 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>代码春潮：特斯拉FSD 14.3.3，从硅基深处驶来的未来之影</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260517-%E4%BB%A3%E7%A0%81%E6%98%A5%E6%BD%AE%E7%89%B9%E6%96%AF%E6%8B%89fsd-1433%E4%BB%8E%E7%A1%85%E5%9F%BA%E6%B7%B1%E5%A4%84%E9%A9%B6%E6%9D%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%BD%B1/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260517-%E4%BB%A3%E7%A0%81%E6%98%A5%E6%BD%AE%E7%89%B9%E6%96%AF%E6%8B%89fsd-1433%E4%BB%8E%E7%A1%85%E5%9F%BA%E6%B7%B1%E5%A4%84%E9%A9%B6%E6%9D%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%BD%B1/</guid>
+      <pubDate>Sun, 17 May 2026 13:18:50 &#43;0000</pubDate><description><![CDATA[
+<p>暮色渐沉，华灯初上，硅谷的通勤高峰像一条蠕动的光带。一辆特斯拉Model 3在车流中穿梭，前方，一个突然闯入的小动物让车辆轻微一颤，随即，方向盘在无形之力下微调，避险动作流畅而精准。这并非驾驶员的本能反应，而是FSD（Full Self-Driving，全自动驾驶）系统在毫秒间的决策。就在最近，特斯拉向全球数百万用户推送了春季更新，其中FSD（受监督版）v1…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260517-%E4%BB%A3%E7%A0%81%E6%98%A5%E6%BD%AE%E7%89%B9%E6%96%AF%E6%8B%89fsd-1433%E4%BB%8E%E7%A1%85%E5%9F%BA%E6%B7%B1%E5%A4%84%E9%A9%B6%E6%9D%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%BD%B1/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>暮色渐沉，华灯初上，硅谷的通勤高峰像一条蠕动的光带。一辆特斯拉Model 3在车流中穿梭，前方，一个突然闯入的小动物让车辆轻微一颤，随即，方向盘在无形之力下微调，避险动作流畅而精准。这并非驾驶员的本能反应，而是FSD（Full Self-Driving，全自动驾驶）系统在毫秒间的决策。就在最近，特斯拉向全球数百万用户推送了春季更新，其中FSD（受监督版）v1…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260517-%E4%BB%A3%E7%A0%81%E6%98%A5%E6%BD%AE%E7%89%B9%E6%96%AF%E6%8B%89fsd-1433%E4%BB%8E%E7%A1%85%E5%9F%BA%E6%B7%B1%E5%A4%84%E9%A9%B6%E6%9D%A5%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B9%8B%E5%BD%B1/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>《硅基之躯，人驾之魂：特斯拉FSD V14如何破译驾驶“直觉”的秘密》</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260516-%E7%A1%85%E5%9F%BA%E4%B9%8B%E8%BA%AF%E4%BA%BA%E9%A9%BE%E4%B9%8B%E9%AD%82%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14%E5%A6%82%E4%BD%95%E7%A0%B4%E8%AF%91%E9%A9%BE%E9%A9%B6%E7%9B%B4%E8%A7%89%E7%9A%84%E7%A7%98%E5%AF%86/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260516-%E7%A1%85%E5%9F%BA%E4%B9%8B%E8%BA%AF%E4%BA%BA%E9%A9%BE%E4%B9%8B%E9%AD%82%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14%E5%A6%82%E4%BD%95%E7%A0%B4%E8%AF%91%E9%A9%BE%E9%A9%B6%E7%9B%B4%E8%A7%89%E7%9A%84%E7%A7%98%E5%AF%86/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>夜幕初降，欧洲高速公路的车流如织，车辆的灯光在湿漉的路面上拖曳出迷离的光带。在其中一辆特斯拉Model 3的驾驶舱内，司机埃尔莎的目光偶尔会掠过中控屏幕。自最新的2026.14软件更新推送后，她发现了一个微妙却令人安心的变化：屏幕上，那些笨重、平头、方正的欧洲半挂卡车，正精确地映射着窗外呼啸而过的庞然大物。这不再是北美常见的长鼻子卡车，而是她所熟知的、每天都…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260505-%E5%B1%8F%E5%B9%95%E4%B8%8A%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%89%B9%E6%96%AF%E6%8B%89fsd%E9%A9%B6%E5%90%91%E5%85%A8%E7%90%83%E7%9A%84%E9%9A%90%E7%A7%98%E9%87%8C%E7%A8%8B%E7%A2%91/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉狂飙三连击：挪威称王、电池黑科技、Robotaxi夜闯“鬼门关”？！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260505-%E7%89%B9%E6%96%AF%E6%8B%89%E7%8B%82%E9%A3%99%E4%B8%89%E8%BF%9E%E5%87%BB%E6%8C%AA%E5%A8%81%E7%A7%B0%E7%8E%8B%E7%94%B5%E6%B1%A0%E9%BB%91%E7%A7%91%E6%8A%80robotaxi%E5%A4%9C%E9%97%AF%E9%AC%BC%E9%97%A8%E5%85%B3/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260505-%E7%89%B9%E6%96%AF%E6%8B%89%E7%8B%82%E9%A3%99%E4%B8%89%E8%BF%9E%E5%87%BB%E6%8C%AA%E5%A8%81%E7%A7%B0%E7%8E%8B%E7%94%B5%E6%B1%A0%E9%BB%91%E7%A7%91%E6%8A%80robotaxi%E5%A4%9C%E9%97%AF%E9%AC%BC%E9%97%A8%E5%85%B3/</guid>
-      <pubDate>Tue, 05 May 2026 17:24:04 &#43;0000</pubDate><description><![CDATA[
-<p>嘿，各位科技老铁们！最近特斯拉又搞出了几件大事，简直是火力全开，从北欧市场到二手车生态，再到最硬核的自动驾驶，每一波操作都看得我热血沸腾！这可不是简单的市场数据，背后藏着的是特斯拉独有的技术护城河和对未来出行的深度思考。咱们今天就来盘盘这几波“黑科技”到底有多炸裂！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260505-%E7%89%B9%E6%96%AF%E6%8B%89%E7%8B%82%E9%A3%99%E4%B8%89%E8%BF%9E%E5%87%BB%E6%8C%AA%E5%A8%81%E7%A7%B0%E7%8E%8B%E7%94%B5%E6%B1%A0%E9%BB%91%E7%A7%91%E6%8A%80robotaxi%E5%A4%9C%E9%97%AF%E9%AC%BC%E9%97%A8%E5%85%B3/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>嘿，各位科技老铁们！最近特斯拉又搞出了几件大事，简直是火力全开，从北欧市场到二手车生态，再到最硬核的自动驾驶，每一波操作都看得我热血沸腾！这可不是简单的市场数据，背后藏着的是特斯拉独有的技术护城河和对未来出行的深度思考。咱们今天就来盘盘这几波“黑科技”到底有多炸裂！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260505-%E7%89%B9%E6%96%AF%E6%8B%89%E7%8B%82%E9%A3%99%E4%B8%89%E8%BF%9E%E5%87%BB%E6%8C%AA%E5%A8%81%E7%A7%B0%E7%8E%8B%E7%94%B5%E6%B1%A0%E9%BB%91%E7%A7%91%E6%8A%80robotaxi%E5%A4%9C%E9%97%AF%E9%AC%BC%E9%97%A8%E5%85%B3/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
