@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 17 May 2026 17:06:19 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Sun, 17 May 2026 21:00:00 &#43;0000</lastBuildDate><item>
       <title>硅谷的智力迁徙：AI浪潮如何重塑汽车业的灵魂与未来</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260517-%E7%A1%85%E8%B0%B7%E7%9A%84%E6%99%BA%E5%8A%9B%E8%BF%81%E5%BE%99ai%E6%B5%AA%E6%BD%AE%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E6%B1%BD%E8%BD%A6%E4%B8%9A%E7%9A%84%E7%81%B5%E9%AD%82%E4%B8%8E%E6%9C%AA%E6%9D%A5/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260517-%E7%A1%85%E8%B0%B7%E7%9A%84%E6%99%BA%E5%8A%9B%E8%BF%81%E5%BE%99ai%E6%B5%AA%E6%BD%AE%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E6%B1%BD%E8%BD%A6%E4%B8%9A%E7%9A%84%E7%81%B5%E9%AD%82%E4%B8%8E%E6%9C%AA%E6%9D%A5/</guid>
@@ -54,11 +54,11 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-05-17/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-05-17/</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> 特斯拉全面推出软件版本2026.14.6.6，包含全自动驾驶（FSD）V14.3.3和2026春季更新。 FSD V14.3.3在神经网络训练、视觉编码器及AI编译器方面实现重大升级，AI反应时间提升20%。 2026春季更新带来“Hey Grok”语音助手、全新“自动驾驶”应用、Unreal Engine泊车可视化等丰富新功能。 特斯拉宣布将于5月23日和5月30日在美国及加拿大举办“Electric Summer”社区派对，重点提供FSD (Supervised)试驾体验。 * 汽车行业正经 …</p>
+<p><strong>[每日特报]</strong> 特斯拉已正式向其全球车队推送软件版本2026.14.6.6，其中整合了FSD (Supervised) V14.3.3和备受期待的2026春季更新。 FSD V14.3.3在核心AI架构上取得显著进展，包括升级强化学习阶段、优化神经网络视觉编码器，并首次使用MLIR重写AI编译器和运行时，使得反应时间缩短20%。 新版本FSD统一了智能召唤、FSD和Robotaxi模型，并引入了全新的“自动驾驶”应用、xAI助手的&#34;Hey Grok&#34;语音功能以及基于Unreal Engine的停车可视化效果。  …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-05-17/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>特斯拉全面推出软件版本2026.14.6.6，包含全自动驾驶（FSD）V14.3.3和2026春季更新。 FSD V14.3.3在神经网络训练、视觉编码器及AI编译器方面实现重大升级，AI反应时间提升20%。 2026春季更新带来“Hey Grok”语音助手、全新“自动驾驶”应用、Unreal Engine泊车可视化等丰富新功能。 特斯拉宣布将于5月23日和5月30日在美国及加拿大举办“Electric Summer”社区派对，重点提供FSD (Supervised)试驾体验。 * 汽车行业正经 …</p>
+<p>特斯拉已正式向其全球车队推送软件版本2026.14.6.6，其中整合了FSD (Supervised) V14.3.3和备受期待的2026春季更新。 FSD V14.3.3在核心AI架构上取得显著进展，包括升级强化学习阶段、优化神经网络视觉编码器，并首次使用MLIR重写AI编译器和运行时，使得反应时间缩短20%。 新版本FSD统一了智能召唤、FSD和Robotaxi模型，并引入了全新的“自动驾驶”应用、xAI助手的&#34;Hey Grok&#34;语音功能以及基于Unreal Engine的停车可视化效果。  …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-05-17/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Supercharger</category><category>Cybertruck</category><category>Model 3</category><category>Model Y</category></item><item>
       <title>电动潮汐的深处：特斯拉“夏季狂欢”背后的北美攻防战</title>
