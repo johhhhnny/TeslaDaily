@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Jun 2026 04:22:51 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Fri, 19 Jun 2026 12:16:03 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/feed.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉App 4.58更新：引入充电统计V2，安卓获实时通知功能</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260618-%E7%89%B9%E6%96%AF%E6%8B%89app-458%E6%9B%B4%E6%96%B0%E5%BC%95%E5%85%A5%E5%85%85%E7%94%B5%E7%BB%9F%E8%AE%A1v2%E5%AE%89%E5%8D%93%E8%8E%B7%E5%AE%9E%E6%97%B6%E9%80%9A%E7%9F%A5%E5%8A%9F%E8%83%BD/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260618-%E7%89%B9%E6%96%AF%E6%8B%89app-458%E6%9B%B4%E6%96%B0%E5%BC%95%E5%85%A5%E5%85%85%E7%94%B5%E7%BB%9F%E8%AE%A1v2%E5%AE%89%E5%8D%93%E8%8E%B7%E5%AE%9E%E6%97%B6%E9%80%9A%E7%9F%A5%E5%8A%9F%E8%83%BD/</guid>
@@ -120,13 +120,13 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-18/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-18/</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> - Cybercab工程车在马萨诸塞州Peabody被发现集成侧重复摄像头清洗系统，有望提升全自动驾驶可靠性。 - 官方EPA文件显示特斯拉Cybercab最大有效载荷为617磅（约280公斤），符合双人出行需求。 - 埃隆·马斯克确认，特斯拉FSD（监督版）将于今年秋季集成Grok语音控制，支持自然语言交互。 - 埃隆·马斯克行使价值1159亿美元特斯拉股票期权，此举正值SpaceX完成IPO后，进一步引发市场对特斯拉与SpaceX合并的猜测。 - 竞争对手Waymo因Robotaxi多次驶入 …</p>
+<p><strong>[每日特报]</strong> FSD功能调整： 特斯拉禁用了Full Self-Driving（监督版）解除接管菜单中双击麦克风按钮的“漏洞”，强制用户选择接管原因。 FSD重大升级： 埃隆·马斯克宣布，Grok与FSD的深度集成以及“Banish”功能（反向召唤）将在大约3个月内推出，实现FSD的语音控制和智能停车。 Cybercab硬件创新： 一辆Cybercab工程车被发现配备集成清洗器的侧重复摄像机，旨在提升自动驾驶在恶劣天气下的可靠性。 Cybercab载重： EPA文件披露Cybercab的最大载重限制为617 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-18/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>- Cybercab工程车在马萨诸塞州Peabody被发现集成侧重复摄像头清洗系统，有望提升全自动驾驶可靠性。 - 官方EPA文件显示特斯拉Cybercab最大有效载荷为617磅（约280公斤），符合双人出行需求。 - 埃隆·马斯克确认，特斯拉FSD（监督版）将于今年秋季集成Grok语音控制，支持自然语言交互。 - 埃隆·马斯克行使价值1159亿美元特斯拉股票期权，此举正值SpaceX完成IPO后，进一步引发市场对特斯拉与SpaceX合并的猜测。 - 竞争对手Waymo因Robotaxi多次驶入 …</p>
+<p>FSD功能调整： 特斯拉禁用了Full Self-Driving（监督版）解除接管菜单中双击麦克风按钮的“漏洞”，强制用户选择接管原因。 FSD重大升级： 埃隆·马斯克宣布，Grok与FSD的深度集成以及“Banish”功能（反向召唤）将在大约3个月内推出，实现FSD的语音控制和智能停车。 Cybercab硬件创新： 一辆Cybercab工程车被发现配备集成清洗器的侧重复摄像机，旨在提升自动驾驶在恶劣天气下的可靠性。 Cybercab载重： EPA文件披露Cybercab的最大载重限制为617 …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-18/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>每日特报</category><category>FSD</category><category>Gigafactory</category><category>Cybertruck</category><category>Model Y</category></item><item>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Gigafactory</category><category>Cybertruck</category><category>Model Y</category></item><item>
       <title>特斯拉超级充电网络：从基础设施到服务生态的战略演进与用户价值重构</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260617-%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E4%BB%8E%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%88%B0%E6%9C%8D%E5%8A%A1%E7%94%9F%E6%80%81%E7%9A%84%E6%88%98%E7%95%A5%E6%BC%94%E8%BF%9B%E4%B8%8E%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC%E9%87%8D%E6%9E%84/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260617-%E7%89%B9%E6%96%AF%E6%8B%89%E8%B6%85%E7%BA%A7%E5%85%85%E7%94%B5%E7%BD%91%E7%BB%9C%E4%BB%8E%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%88%B0%E6%9C%8D%E5%8A%A1%E7%94%9F%E6%80%81%E7%9A%84%E6%88%98%E7%95%A5%E6%BC%94%E8%BF%9B%E4%B8%8E%E7%94%A8%E6%88%B7%E4%BB%B7%E5%80%BC%E9%87%8D%E6%9E%84/</guid>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
     <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
-    <lastmod>2026-06-19T04:22:58&#43;00:00</lastmod>
+    <lastmod>2026-06-19T12:16:06&#43;00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url><url>
       <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
-      <lastmod>2026-06-19T04:22:58&#43;00:00</lastmod>
+      <lastmod>2026-06-19T12:16:06&#43;00:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url><url>
@@ -977,6 +977,11 @@
       </url><url>
         <loc>https://johhhhnny.github.io/TeslaDaily/posts/20251119-%E7%89%B9%E6%96%AF%E6%8B%89app-v451%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E8%9E%8D%E5%90%88%E7%A4%BC%E5%93%81%E7%BB%8F%E6%B5%8E%E4%B8%8E%E5%9B%BD%E9%99%85%E5%8C%96%E6%89%A9%E5%BC%A0%E6%8A%95%E8%B5%84%E6%9C%BA%E9%81%87%E4%BD%95%E5%9C%A8/</loc>
         <lastmod>2025-11-19T20:21:10&#43;00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url><url>
+        <loc>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-18/</loc>
+        <lastmod>2026-06-18T00:00:00&#43;00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url><url>
