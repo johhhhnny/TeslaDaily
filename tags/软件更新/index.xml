@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 21:28:39 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 21 Jun 2026 04:17:15 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉软件更新：行车中可查看全部摄像头预览</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260620-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0%E8%A1%8C%E8%BD%A6%E4%B8%AD%E5%8F%AF%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%E6%91%84%E5%83%8F%E5%A4%B4%E9%A2%84%E8%A7%88/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260620-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0%E8%A1%8C%E8%BD%A6%E4%B8%AD%E5%8F%AF%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%E6%91%84%E5%83%8F%E5%A4%B4%E9%A2%84%E8%A7%88/</guid>
+      <pubDate>Sat, 20 Jun 2026 04:06:24 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉车辆现可在行车中显示全部摄像头预览。 此多摄像头网格视图功能首次在2023.20软件更新中引入。 此前，该功能仅限泊车状态下使用，挂挡即关闭。 最新软件行为允许该视图在车辆行驶时保持激活。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260620-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0%E8%A1%8C%E8%BD%A6%E4%B8%AD%E5%8F%AF%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%E6%91%84%E5%83%8F%E5%A4%B4%E9%A2%84%E8%A7%88/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉车辆现可在行车中显示全部摄像头预览。 此多摄像头网格视图功能首次在2023.20软件更新中引入。 此前，该功能仅限泊车状态下使用，挂挡即关闭。 最新软件行为允许该视图在车辆行驶时保持激活。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260620-%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0%E8%A1%8C%E8%BD%A6%E4%B8%AD%E5%8F%AF%E6%9F%A5%E7%9C%8B%E5%85%A8%E9%83%A8%E6%91%84%E5%83%8F%E5%A4%B4%E9%A2%84%E8%A7%88/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉FSD V14.3.4上线自动驾驶里程连胜庆祝</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260612-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1434%E4%B8%8A%E7%BA%BF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%87%8C%E7%A8%8B%E8%BF%9E%E8%83%9C%E5%BA%86%E7%A5%9D/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260612-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1434%E4%B8%8A%E7%BA%BF%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%87%8C%E7%A8%8B%E8%BF%9E%E8%83%9C%E5%BA%86%E7%A5%9D/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>[IMAGES_INFO] [{&#34;alt&#34;: &#34;Tesla Minor Fixes feature in update 4.53.1&#34;, &#34;path&#34;: &#34;/data/images/2026-01-28/3330c26a8a1fa7148030689768283ed9/d542a2a1700ae010d21f6d1073017fd2.jpg&#34;}]</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260128-%E7%89%B9%E6%96%AF%E6%8B%89app-4531%E6%9B%B4%E6%96%B0%E5%B0%8F%E5%B9%85%E4%BF%AE%E5%A4%8D/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉又放大招！2026.2.3更新，充电线卡死？拉车门就能搞定，这波操作简直神了！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260127-%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B202623%E6%9B%B4%E6%96%B0%E5%85%85%E7%94%B5%E7%BA%BF%E5%8D%A1%E6%AD%BB%E6%8B%89%E8%BD%A6%E9%97%A8%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%AE%80%E7%9B%B4%E7%A5%9E%E4%BA%86/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260127-%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B202623%E6%9B%B4%E6%96%B0%E5%85%85%E7%94%B5%E7%BA%BF%E5%8D%A1%E6%AD%BB%E6%8B%89%E8%BD%A6%E9%97%A8%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%AE%80%E7%9B%B4%E7%A5%9E%E4%BA%86/</guid>
-      <pubDate>Tue, 27 Jan 2026 16:31:53 &#43;0000</pubDate><description><![CDATA[
-<p>我天，兄弟们，特斯拉又来了！最新的2026.2.3软件更新，看似只是个“小修小补”，但对于我们这些天天与电车为伴的极客来说，这简直是解决了一个实实在在的痛点，甚至可以说是一个“杀手级”的体验升级！这次在北美推出的新功能，就是那个在欧洲已经让无数车主拍手叫绝的“解锁充电线缆”（Unlatch Charge Cable）黑科技，现在终于轮到我们了！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B202623%E6%9B%B4%E6%96%B0%E5%85%85%E7%94%B5%E7%BA%BF%E5%8D%A1%E6%AD%BB%E6%8B%89%E8%BD%A6%E9%97%A8%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%AE%80%E7%9B%B4%E7%A5%9E%E4%BA%86/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>我天，兄弟们，特斯拉又来了！最新的2026.2.3软件更新，看似只是个“小修小补”，但对于我们这些天天与电车为伴的极客来说，这简直是解决了一个实实在在的痛点，甚至可以说是一个“杀手级”的体验升级！这次在北美推出的新功能，就是那个在欧洲已经让无数车主拍手叫绝的“解锁充电线缆”（Unlatch Charge Cable）黑科技，现在终于轮到我们了！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260127-%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B202623%E6%9B%B4%E6%96%B0%E5%85%85%E7%94%B5%E7%BA%BF%E5%8D%A1%E6%AD%BB%E6%8B%89%E8%BD%A6%E9%97%A8%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E8%BF%99%E6%B3%A2%E6%93%8D%E4%BD%9C%E7%AE%80%E7%9B%B4%E7%A5%9E%E4%BA%86/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
