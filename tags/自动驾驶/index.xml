@@ -5,7 +5,40 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Jul 2026 11:21:21 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 13 Jul 2026 14:46:14 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Uber自动驾驶出租车游说遇阻，与Waymo策略冲突</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260713-uber%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%B8%B8%E8%AF%B4%E9%81%87%E9%98%BB%E4%B8%8Ewaymo%E7%AD%96%E7%95%A5%E5%86%B2%E7%AA%81/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260713-uber%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%B8%B8%E8%AF%B4%E9%81%87%E9%98%BB%E4%B8%8Ewaymo%E7%AD%96%E7%95%A5%E5%86%B2%E7%AA%81/</guid>
+      <pubDate>Mon, 13 Jul 2026 14:34:00 &#43;0000</pubDate><description><![CDATA[
+<p>Uber在华盛顿特区（D.C.）针对一项自动驾驶出租车（robotaxi）运营法案展开游说，其提出的“混合模式”提案与Waymo支持的现有法案形成直接对立。此争论核心在于自动驾驶服务应如何与人类司机共存，以及平台准入模式。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260713-uber%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%B8%B8%E8%AF%B4%E9%81%87%E9%98%BB%E4%B8%8Ewaymo%E7%AD%96%E7%95%A5%E5%86%B2%E7%AA%81/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>Uber在华盛顿特区（D.C.）针对一项自动驾驶出租车（robotaxi）运营法案展开游说，其提出的“混合模式”提案与Waymo支持的现有法案形成直接对立。此争论核心在于自动驾驶服务应如何与人类司机共存，以及平台准入模式。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260713-uber%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%B8%B8%E8%AF%B4%E9%81%87%E9%98%BB%E4%B8%8Ewaymo%E7%AD%96%E7%95%A5%E5%86%B2%E7%AA%81/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉FSD V14.3.5更新发布：细节迭代如何驱动自动驾驶长线价值？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1435%E6%9B%B4%E6%96%B0%E5%8F%91%E5%B8%83%E7%BB%86%E8%8A%82%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%95%BF%E7%BA%BF%E4%BB%B7%E5%80%BC/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1435%E6%9B%B4%E6%96%B0%E5%8F%91%E5%B8%83%E7%BB%86%E8%8A%82%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%95%BF%E7%BA%BF%E4%BB%B7%E5%80%BC/</guid>
+      <pubDate>Mon, 13 Jul 2026 14:32:28 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉近日推出了其全自动驾驶（FSD）系统V14.3.5版本更新，该版本隶属于2026.20开发分支，主要新增了行车记录仪视频加密以及家长控制功能改进等。从资深科技投资分析师的角度看，尽管这看起来只是一次小版本迭代，但其背后蕴含着特斯拉在自动驾驶领域持续深耕、强化用户体验及数据安全，进而巩固其长期竞争优势的战略意图。对于关注智能驾驶赛道的投资者而言，每一次F…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1435%E6%9B%B4%E6%96%B0%E5%8F%91%E5%B8%83%E7%BB%86%E8%8A%82%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%95%BF%E7%BA%BF%E4%BB%B7%E5%80%BC/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉近日推出了其全自动驾驶（FSD）系统V14.3.5版本更新，该版本隶属于2026.20开发分支，主要新增了行车记录仪视频加密以及家长控制功能改进等。从资深科技投资分析师的角度看，尽管这看起来只是一次小版本迭代，但其背后蕴含着特斯拉在自动驾驶领域持续深耕、强化用户体验及数据安全，进而巩固其长期竞争优势的战略意图。对于关注智能驾驶赛道的投资者而言，每一次F…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1435%E6%9B%B4%E6%96%B0%E5%8F%91%E5%B8%83%E7%BB%86%E8%8A%82%E8%BF%AD%E4%BB%A3%E5%A6%82%E4%BD%95%E9%A9%B1%E5%8A%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%95%BF%E7%BA%BF%E4%BB%B7%E5%80%BC/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>狂飙的特斯拉：交付神话、机器人与埃隆的星辰大海</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%8B%82%E9%A3%99%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%A4%E4%BB%98%E7%A5%9E%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%9F%83%E9%9A%86%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%8B%82%E9%A3%99%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%A4%E4%BB%98%E7%A5%9E%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%9F%83%E9%9A%86%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/</guid>
+      <pubDate>Mon, 13 Jul 2026 14:32:02 &#43;0000</pubDate><description><![CDATA[
+<p>清晨，加利福尼亚弗里蒙特工厂的巨大生产线上，机械臂在精确的指令下舞动，将一块块金属塑造成未来出行的模样。数千辆崭新的特斯拉电动车，在阳光下闪耀着独特的金属光泽，它们即将被运往全球各地的客户手中。这番景象，是特斯拉（NASDAQ: TSLA）在2026年第二季度交出的“疯狂成功”答卷的缩影——一份远超华尔街预期的交付成绩单，再次证明了这家电动汽车巨头在市场洪流…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%8B%82%E9%A3%99%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%A4%E4%BB%98%E7%A5%9E%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%9F%83%E9%9A%86%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>清晨，加利福尼亚弗里蒙特工厂的巨大生产线上，机械臂在精确的指令下舞动，将一块块金属塑造成未来出行的模样。数千辆崭新的特斯拉电动车，在阳光下闪耀着独特的金属光泽，它们即将被运往全球各地的客户手中。这番景象，是特斯拉（NASDAQ: TSLA）在2026年第二季度交出的“疯狂成功”答卷的缩影——一份远超华尔街预期的交付成绩单，再次证明了这家电动汽车巨头在市场洪流…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E7%8B%82%E9%A3%99%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%A4%E4%BB%98%E7%A5%9E%E8%AF%9D%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E5%9F%83%E9%9A%86%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>奥斯汀的寂静革命：一份许可文件如何揭示特斯拉无人驾驶帝国的野心</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E5%A5%A5%E6%96%AF%E6%B1%80%E7%9A%84%E5%AF%82%E9%9D%99%E9%9D%A9%E5%91%BD%E4%B8%80%E4%BB%BD%E8%AE%B8%E5%8F%AF%E6%96%87%E4%BB%B6%E5%A6%82%E4%BD%95%E6%8F%AD%E7%A4%BA%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%B8%9D%E5%9B%BD%E7%9A%84%E9%87%8E%E5%BF%83/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260713-%E5%A5%A5%E6%96%AF%E6%B1%80%E7%9A%84%E5%AF%82%E9%9D%99%E9%9D%A9%E5%91%BD%E4%B8%80%E4%BB%BD%E8%AE%B8%E5%8F%AF%E6%96%87%E4%BB%B6%E5%A6%82%E4%BD%95%E6%8F%AD%E7%A4%BA%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%B8%9D%E5%9B%BD%E7%9A%84%E9%87%8E%E5%BF%83/</guid>
@@ -301,39 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>[日期] [地点]，一辆特斯拉汽车发生致命交通事故，造成[伤亡人数]。 事故发生后，公众及初步调查曾关注特斯拉FSD（Full Self-Driving）系统在此次事故中的作用。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E6%8A%B1%E6%AD%89%E7%94%B1%E4%BA%8E%E6%82%A8%E6%8F%90%E4%BE%9B%E7%9A%84%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%98%BE%E7%A4%BA%E4%B8%BA%E6%97%A0%E6%B3%95%E8%8E%B7%E5%8F%96%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%88%91%E6%97%A0%E6%B3%95%E6%A0%B9%E6%8D%AE%E5%8E%9F%E6%96%87%E8%BF%9B%E8%A1%8C%E6%94%B9%E5%86%99/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉Robotaxi拓至佛罗里达，Model Y L美国上市；Optimus生产初期缓慢，Semi首现致命事故</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E6%8B%93%E8%87%B3%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BEmodel-y-l%E7%BE%8E%E5%9B%BD%E4%B8%8A%E5%B8%82optimus%E7%94%9F%E4%BA%A7%E5%88%9D%E6%9C%9F%E7%BC%93%E6%85%A2semi%E9%A6%96%E7%8E%B0%E8%87%B4%E5%91%BD%E4%BA%8B%E6%95%85/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E6%8B%93%E8%87%B3%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BEmodel-y-l%E7%BE%8E%E5%9B%BD%E4%B8%8A%E5%B8%82optimus%E7%94%9F%E4%BA%A7%E5%88%9D%E6%9C%9F%E7%BC%93%E6%85%A2semi%E9%A6%96%E7%8E%B0%E8%87%B4%E5%91%BD%E4%BA%8B%E6%95%85/</guid>
-      <pubDate>Fri, 03 Jul 2026 17:25:01 &#43;0000</pubDate><description><![CDATA[
-<p>[IMAGES_INFO] [{&#34;alt&#34;: &#34;tesla model y l interior looking back showing all six seats&#34;, &#34;path&#34;: &#34;/data/images/2026-07-03/8c42df31c450ef028aa27d4320ed5a87/a27e6215e4714c5cf519e680a7c4…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E6%8B%93%E8%87%B3%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BEmodel-y-l%E7%BE%8E%E5%9B%BD%E4%B8%8A%E5%B8%82optimus%E7%94%9F%E4%BA%A7%E5%88%9D%E6%9C%9F%E7%BC%93%E6%85%A2semi%E9%A6%96%E7%8E%B0%E8%87%B4%E5%91%BD%E4%BA%8B%E6%95%85/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>[IMAGES_INFO] [{&#34;alt&#34;: &#34;tesla model y l interior looking back showing all six seats&#34;, &#34;path&#34;: &#34;/data/images/2026-07-03/8c42df31c450ef028aa27d4320ed5a87/a27e6215e4714c5cf519e680a7c4…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E6%8B%93%E8%87%B3%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BEmodel-y-l%E7%BE%8E%E5%9B%BD%E4%B8%8A%E5%B8%82optimus%E7%94%9F%E4%BA%A7%E5%88%9D%E6%9C%9F%E7%BC%93%E6%85%A2semi%E9%A6%96%E7%8E%B0%E8%87%B4%E5%91%BD%E4%BA%8B%E6%95%85/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉Robotaxi进驻佛州，自动驾驶服务覆盖三州；Optimus量产初期慢，Model Y L登陆美国</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%9B%E9%A9%BB%E4%BD%9B%E5%B7%9E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%8D%E5%8A%A1%E8%A6%86%E7%9B%96%E4%B8%89%E5%B7%9Eoptimus%E9%87%8F%E4%BA%A7%E5%88%9D%E6%9C%9F%E6%85%A2model-y-l%E7%99%BB%E9%99%86%E7%BE%8E%E5%9B%BD/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%9B%E9%A9%BB%E4%BD%9B%E5%B7%9E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%8D%E5%8A%A1%E8%A6%86%E7%9B%96%E4%B8%89%E5%B7%9Eoptimus%E9%87%8F%E4%BA%A7%E5%88%9D%E6%9C%9F%E6%85%A2model-y-l%E7%99%BB%E9%99%86%E7%BE%8E%E5%9B%BD/</guid>
-      <pubDate>Fri, 03 Jul 2026 14:01:09 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉自动驾驶叫车服务平台Robotaxi已扩展至佛罗里达州迈阿密，标志着其自动驾驶服务进入第三个美国州。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%9B%E9%A9%BB%E4%BD%9B%E5%B7%9E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%8D%E5%8A%A1%E8%A6%86%E7%9B%96%E4%B8%89%E5%B7%9Eoptimus%E9%87%8F%E4%BA%A7%E5%88%9D%E6%9C%9F%E6%85%A2model-y-l%E7%99%BB%E9%99%86%E7%BE%8E%E5%9B%BD/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>特斯拉自动驾驶叫车服务平台Robotaxi已扩展至佛罗里达州迈阿密，标志着其自动驾驶服务进入第三个美国州。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E8%BF%9B%E9%A9%BB%E4%BD%9B%E5%B7%9E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%9C%8D%E5%8A%A1%E8%A6%86%E7%9B%96%E4%B8%89%E5%B7%9Eoptimus%E9%87%8F%E4%BA%A7%E5%88%9D%E6%9C%9F%E6%85%A2model-y-l%E7%99%BB%E9%99%86%E7%BE%8E%E5%9B%BD/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉无人驾驶出租车服务拓展至迈阿密</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%9C%8D%E5%8A%A1%E6%8B%93%E5%B1%95%E8%87%B3%E8%BF%88%E9%98%BF%E5%AF%86/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%9C%8D%E5%8A%A1%E6%8B%93%E5%B1%95%E8%87%B3%E8%BF%88%E9%98%BF%E5%AF%86/</guid>
-      <pubDate>Fri, 03 Jul 2026 06:47:35 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉已将其“无人监督”（unsupervised）Robotaxi服务正式拓展至美国佛罗里达州迈阿密市。 此举意味着车辆将在无人类安全员在车内进行干预的情况下运行。 初期服务范围：覆盖迈阿密市中心及周边特定高需求区域。 目标用户：通过FSD（Full Self-Driving）Beta测试计划选定的用户群体。FSD：特斯拉高级辅助驾驶系统，旨在实现L4/L…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%9C%8D%E5%8A%A1%E6%8B%93%E5%B1%95%E8%87%B3%E8%BF%88%E9%98%BF%E5%AF%86/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>特斯拉已将其“无人监督”（unsupervised）Robotaxi服务正式拓展至美国佛罗里达州迈阿密市。 此举意味着车辆将在无人类安全员在车内进行干预的情况下运行。 初期服务范围：覆盖迈阿密市中心及周边特定高需求区域。 目标用户：通过FSD（Full Self-Driving）Beta测试计划选定的用户群体。FSD：特斯拉高级辅助驾驶系统，旨在实现L4/L…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260703-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%9C%8D%E5%8A%A1%E6%8B%93%E5%B1%95%E8%87%B3%E8%BF%88%E9%98%BF%E5%AF%86/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
