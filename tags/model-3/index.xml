@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:58:02 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/model-3/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 21 Jul 2026 17:30:27 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/model-3/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉日报 2026-07-21</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-21/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-21/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p>FSD v14 Lite面向HW3车辆公开发布 特斯拉FSD v14 Lite（软件版本2026.20.6.10）已正式向搭载Hardware 3（HW3）硬件的车辆启动大规模公开发布，标志着长期以来的测试阶段正式结束。FSD v14 Lite是FSD v14主模型的精简优化版本，专为克服HW3平台有限的内存和算力瓶颈而设计，旨在将原本为Hardware 4（HW4）开发的先进特性、逻辑和驾驶行为 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-21/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>FSD v14 Lite面向HW3车辆公开发布 特斯拉FSD v14 Lite（软件版本2026.20.6.10）已正式向搭载Hardware 3（HW3）硬件的车辆启动大规模公开发布，标志着长期以来的测试阶段正式结束。FSD v14 Lite是FSD v14主模型的精简优化版本，专为克服HW3平台有限的内存和算力瓶颈而设计，旨在将原本为Hardware 4（HW4）开发的先进特性、逻辑和驾驶行为 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-21/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉日报 2026-07-17</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-17/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-17/</guid>
@@ -327,17 +338,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉FSD v14.3.3驾驶员监控系统更新，加强眼球追踪和眼镜处理能力。 特斯拉在奥斯汀全面扩展无人监督Robotaxi服务，覆盖整个城市地理围栏。 FSD v14即将登陆澳大利亚和新西兰的HW4车辆。 HW3车辆的FSD v14 Lite版本预计本月发布。 特斯拉5月在挪威销量夺冠，Model Y成首款累计注册量突破10万辆的电动车。 特斯拉首次在官网销售二手Cybertruck，在24小时 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-03/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉日报 2026-06-02</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-02/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-02/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>Tesla发布基于网络的行车记录仪查看器 (dashcam.tesla.com)。 软件更新2026.20引入行车记录仪加密功能和新的家长控制。 Tesla行车记录仪和哨兵模式最长可记录24小时循环录像，需HW3以上、AMD Ryzen芯片及1TB以上存储。 SpaceX修订的S-1文件暗示未来可能进行股权交易，引发市场对与Tesla合并的猜测，导致Tesla股价单日下跌5%。 Tesla中国5月 …</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-02/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>Tesla发布基于网络的行车记录仪查看器 (dashcam.tesla.com)。 软件更新2026.20引入行车记录仪加密功能和新的家长控制。 Tesla行车记录仪和哨兵模式最长可记录24小时循环录像，需HW3以上、AMD Ryzen芯片及1TB以上存储。 SpaceX修订的S-1文件暗示未来可能进行股权交易，引发市场对与Tesla合并的猜测，导致Tesla股价单日下跌5%。 Tesla中国5月 …</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-06-02/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
