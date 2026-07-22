@@ -5,7 +5,42 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 22 Jul 2026 14:02:43 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Wed, 22 Jul 2026 17:31:22 &#43;0000</lastBuildDate><item>
+      <title>NHTSA审查特斯拉雷达文件：自动驾驶安全边界与多传感器融合趋势的再考量</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260722-nhtsa%E5%AE%A1%E6%9F%A5%E7%89%B9%E6%96%AF%E6%8B%89%E9%9B%B7%E8%BE%BE%E6%96%87%E4%BB%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E4%B8%8E%E5%A4%9A%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF%E7%9A%84%E5%86%8D%E8%80%83%E9%87%8F/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260722-nhtsa%E5%AE%A1%E6%9F%A5%E7%89%B9%E6%96%AF%E6%8B%89%E9%9B%B7%E8%BE%BE%E6%96%87%E4%BB%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E4%B8%8E%E5%A4%9A%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF%E7%9A%84%E5%86%8D%E8%80%83%E9%87%8F/</guid>
+      <pubDate>Wed, 22 Jul 2026 17:18:24 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 近期，美国国家公路交通安全管理局（NHTSA）要求特斯拉提交涉及其雷达系统，特别是“雷达拯救我们”（Radar Saves Us）内部文件的举动，不仅是对单一企业特定技术路线的审查，更是对整个自动驾驶产业安全边界与技术选型的一次深刻拷问。作为深耕新能源与AI产业链的行业观察家，我们认为此事件的宏观影响远超特斯拉本身，它将对自动驾驶的商业模式、竞争格局乃至全球…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-nhtsa%E5%AE%A1%E6%9F%A5%E7%89%B9%E6%96%AF%E6%8B%89%E9%9B%B7%E8%BE%BE%E6%96%87%E4%BB%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E4%B8%8E%E5%A4%9A%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF%E7%9A%84%E5%86%8D%E8%80%83%E9%87%8F/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>近期，美国国家公路交通安全管理局（NHTSA）要求特斯拉提交涉及其雷达系统，特别是“雷达拯救我们”（Radar Saves Us）内部文件的举动，不仅是对单一企业特定技术路线的审查，更是对整个自动驾驶产业安全边界与技术选型的一次深刻拷问。作为深耕新能源与AI产业链的行业观察家，我们认为此事件的宏观影响远超特斯拉本身，它将对自动驾驶的商业模式、竞争格局乃至全球…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-nhtsa%E5%AE%A1%E6%9F%A5%E7%89%B9%E6%96%AF%E6%8B%89%E9%9B%B7%E8%BE%BE%E6%96%87%E4%BB%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E8%BE%B9%E7%95%8C%E4%B8%8E%E5%A4%9A%E4%BC%A0%E6%84%9F%E5%99%A8%E8%9E%8D%E5%90%88%E8%B6%8B%E5%8A%BF%E7%9A%84%E5%86%8D%E8%80%83%E9%87%8F/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category><category>特斯拉</category></item><item>
+      <title>特斯拉Q2财报前瞻：不只数字！FSD、Optimus、Grok，颠覆未来科技狂潮来袭！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89q2%E8%B4%A2%E6%8A%A5%E5%89%8D%E7%9E%BB%E4%B8%8D%E5%8F%AA%E6%95%B0%E5%AD%97fsdoptimusgrok%E9%A2%A0%E8%A6%86%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E7%8B%82%E6%BD%AE%E6%9D%A5%E8%A2%AD/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89q2%E8%B4%A2%E6%8A%A5%E5%89%8D%E7%9E%BB%E4%B8%8D%E5%8F%AA%E6%95%B0%E5%AD%97fsdoptimusgrok%E9%A2%A0%E8%A6%86%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E7%8B%82%E6%BD%AE%E6%9D%A5%E8%A2%AD/</guid>
+      <pubDate>Wed, 22 Jul 2026 17:17:50 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong>  我们极客圈的目光，从不只停留在财报的冰冷数字上！ 今晚（美东时间）收盘后，特斯拉（NASDAQ: TSLA）即将发布2026年第二季度财报，华尔街的分析师们或许只关心EPS和营收，但我们这些骨灰级科技狂热者，更期待的是马斯克和团队将揭示的那些足以改变世界的“黑科技”路线图！这不只是一份财报，更是一场未来科技的预演！
+财报数据速览：数字背后的“冰山一角” 华尔街对特斯拉Q2的财务预期是每股收益（EPS）0.53美元，营收约为264亿美元。这与去年同期Q2 2025的EPS 0.39美元 …</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89q2%E8%B4%A2%E6%8A%A5%E5%89%8D%E7%9E%BB%E4%B8%8D%E5%8F%AA%E6%95%B0%E5%AD%97fsdoptimusgrok%E9%A2%A0%E8%A6%86%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E7%8B%82%E6%BD%AE%E6%9D%A5%E8%A2%AD/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p> 我们极客圈的目光，从不只停留在财报的冰冷数字上！ 今晚（美东时间）收盘后，特斯拉（NASDAQ: TSLA）即将发布2026年第二季度财报，华尔街的分析师们或许只关心EPS和营收，但我们这些骨灰级科技狂热者，更期待的是马斯克和团队将揭示的那些足以改变世界的“黑科技”路线图！这不只是一份财报，更是一场未来科技的预演！
+财报数据速览：数字背后的“冰山一角” 华尔街对特斯拉Q2的财务预期是每股收益（EPS）0.53美元，营收约为264亿美元。这与去年同期Q2 2025的EPS 0.39美元 …</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89q2%E8%B4%A2%E6%8A%A5%E5%89%8D%E7%9E%BB%E4%B8%8D%E5%8F%AA%E6%95%B0%E5%AD%97fsdoptimusgrok%E9%A2%A0%E8%A6%86%E6%9C%AA%E6%9D%A5%E7%A7%91%E6%8A%80%E7%8B%82%E6%BD%AE%E6%9D%A5%E8%A2%AD/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category><category>AI</category><category>Optimus</category><category>FSD</category><category>特斯拉</category></item><item>
+      <title>特斯拉手机应用为擎天柱机器人做准备</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E4%B8%BA%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%87%86%E5%A4%87/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E4%B8%BA%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%87%86%E5%A4%87/</guid>
+      <pubDate>Wed, 22 Jul 2026 17:17:19 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉手机应用代码显示，公司正为擎天柱（Optimus）机器人发布做准备：</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E4%B8%BA%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%87%86%E5%A4%87/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉手机应用代码显示，公司正为擎天柱（Optimus）机器人发布做准备：</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E4%B8%BA%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%87%86%E5%A4%87/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>自动驾驶</category><category>特斯拉</category></item><item>
       <title>WhatsApp重磅升级：CarPlay/Android Auto深度整合，iPad独立注册，Meta多设备生态野心初显？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260722-whatsapp%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7carplayandroid-auto%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88ipad%E7%8B%AC%E7%AB%8B%E6%B3%A8%E5%86%8Cmeta%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%94%9F%E6%80%81%E9%87%8E%E5%BF%83%E5%88%9D%E6%98%BE/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260722-whatsapp%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7carplayandroid-auto%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88ipad%E7%8B%AC%E7%AB%8B%E6%B3%A8%E5%86%8Cmeta%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%94%9F%E6%80%81%E9%87%8E%E5%BF%83%E5%88%9D%E6%98%BE/</guid>
@@ -54,11 +89,11 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-22/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-22/</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> SpaceX宣布将其庞大的工程数据语料库（排除ITAR受限材料）注入Grok的下一代AI模型“2T run”训练，旨在大幅提升Grok的工程分析与解决能力。 特斯拉发布2026夏季更新，其移动应用新增“从移动应用发送自定义车衣”功能，简化了车辆数字外观的个性化定制流程，同时还扩展了Grok语音命令、自动导航学习以及在应用内查看自驾统计数据的功能。</p>
+<p><strong>[每日特报]</strong> 特斯拉Q2 2026财报今晚发布，市场预期EPS为0.53美元，营收约264亿美元。 特斯拉App更新，开始为Optimus机器人做上线准备，包括机器人手机钥匙认证和家庭数据收集功能。 埃隆·马斯克宣布，SpaceX的工程数据将用于Grok下一代AI模型训练，以显著提升其工程能力。 特斯拉移动应用2026夏季更新，车主可直接通过App上传自定义车辆数字贴膜设计，无需再使用USB驱动器。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-22/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>SpaceX宣布将其庞大的工程数据语料库（排除ITAR受限材料）注入Grok的下一代AI模型“2T run”训练，旨在大幅提升Grok的工程分析与解决能力。 特斯拉发布2026夏季更新，其移动应用新增“从移动应用发送自定义车衣”功能，简化了车辆数字外观的个性化定制流程，同时还扩展了Grok语音命令、自动导航学习以及在应用内查看自驾统计数据的功能。</p>
+<p>特斯拉Q2 2026财报今晚发布，市场预期EPS为0.53美元，营收约264亿美元。 特斯拉App更新，开始为Optimus机器人做上线准备，包括机器人手机钥匙认证和家庭数据收集功能。 埃隆·马斯克宣布，SpaceX的工程数据将用于Grok下一代AI模型训练，以显著提升其工程能力。 特斯拉移动应用2026夏季更新，车主可直接通过App上传自定义车辆数字贴膜设计，无需再使用USB驱动器。</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-07-22/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>FSD</category><category>Optimus</category><category>Supercharger</category><category>Cybertruck</category><category>Model Y</category></item><item>
       <title>Einride 3800万美元收购Flipturn，布局电动卡车充电</title>
@@ -522,38 +557,5 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
 <p>2026年，美国电动汽车（EV）市场正经历显著调整。多款EV车型停产或退出美国市场，本田Prologue的停产是最新例证，反映出行业从美国市场部分撤退的趋势，与全球其他地区形成对比。</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%BE%8E%E5%9B%BD2026%E5%B9%B4%E5%A4%9A%E6%AC%BE%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%81%9C%E4%BA%A7%E9%80%80%E5%B8%82%E5%B8%82%E5%9C%BA%E8%B0%83%E6%95%B4%E4%BF%A1%E5%8F%B7/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category></item><item>
-      <title>电动车电池耐久性新洞察：LFP技术如何重塑产业竞争格局与投资逻辑</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%B5%E6%B1%A0%E8%80%90%E4%B9%85%E6%80%A7%E6%96%B0%E6%B4%9E%E5%AF%9Flfp%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BA%A7%E4%B8%9A%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%B5%E6%B1%A0%E8%80%90%E4%B9%85%E6%80%A7%E6%96%B0%E6%B4%9E%E5%AF%9Flfp%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BA%A7%E4%B8%9A%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/</guid>
-      <pubDate>Sat, 18 Jul 2026 16:57:55 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 电动汽车（EV）产业正从早期的高速扩张阶段迈入成熟期，消费者对车辆的长期持有成本和残值表现日益关注，其中电池的耐久性无疑是核心考量之一。电池作为电动车的“心脏”，其容量衰减直接影响用户体验、二手车价值乃至整个电动化进程的可持续性。近期一项针对瑞典电动车市场的实证研究，为我们深入理解不同电池化学体系的长期表现提供了宝贵数据，并揭示了磷酸铁锂（LFP）电池在耐久…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%B5%E6%B1%A0%E8%80%90%E4%B9%85%E6%80%A7%E6%96%B0%E6%B4%9E%E5%AF%9Flfp%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BA%A7%E4%B8%9A%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>电动汽车（EV）产业正从早期的高速扩张阶段迈入成熟期，消费者对车辆的长期持有成本和残值表现日益关注，其中电池的耐久性无疑是核心考量之一。电池作为电动车的“心脏”，其容量衰减直接影响用户体验、二手车价值乃至整个电动化进程的可持续性。近期一项针对瑞典电动车市场的实证研究，为我们深入理解不同电池化学体系的长期表现提供了宝贵数据，并揭示了磷酸铁锂（LFP）电池在耐久…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%94%B5%E6%B1%A0%E8%80%90%E4%B9%85%E6%80%A7%E6%96%B0%E6%B4%9E%E5%AF%9Flfp%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E4%BA%A7%E4%B8%9A%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
-      <title>特斯拉体验店：品牌生态构建与商业模式创新的前沿探索</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%93%E9%AA%8C%E5%BA%97%E5%93%81%E7%89%8C%E7%94%9F%E6%80%81%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E7%9A%84%E5%89%8D%E6%B2%BF%E6%8E%A2%E7%B4%A2/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%93%E9%AA%8C%E5%BA%97%E5%93%81%E7%89%8C%E7%94%9F%E6%80%81%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E7%9A%84%E5%89%8D%E6%B2%BF%E6%8E%A2%E7%B4%A2/</guid>
-      <pubDate>Sat, 18 Jul 2026 16:57:33 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 近日，特斯拉位于好莱坞的复古未来主义“得来速”餐厅（Tesla Diner）迎来开业一周年庆典，引发市场关注。尽管表面上这是一场品牌周年活动，但作为深耕新能源与AI产业链的行业观察家，我们认为，此举并非简单的营销事件，而是特斯拉在构建其独特品牌生态、深化商业模式创新，以及重塑用户体验方面的一次前瞻性战略布局。它标志着电动汽车充电基础设施正从单一功能性节点，向…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%93%E9%AA%8C%E5%BA%97%E5%93%81%E7%89%8C%E7%94%9F%E6%80%81%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E7%9A%84%E5%89%8D%E6%B2%BF%E6%8E%A2%E7%B4%A2/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>近日，特斯拉位于好莱坞的复古未来主义“得来速”餐厅（Tesla Diner）迎来开业一周年庆典，引发市场关注。尽管表面上这是一场品牌周年活动，但作为深耕新能源与AI产业链的行业观察家，我们认为，此举并非简单的营销事件，而是特斯拉在构建其独特品牌生态、深化商业模式创新，以及重塑用户体验方面的一次前瞻性战略布局。它标志着电动汽车充电基础设施正从单一功能性节点，向…</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E7%89%B9%E6%96%AF%E6%8B%89%E4%BD%93%E9%AA%8C%E5%BA%97%E5%93%81%E7%89%8C%E7%94%9F%E6%80%81%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%88%9B%E6%96%B0%E7%9A%84%E5%89%8D%E6%B2%BF%E6%8E%A2%E7%B4%A2/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category></item><item>
-      <title>星舰13号再战苍穹！Raptor引擎硬核升级，SpaceX新发射窗口锁定！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E6%98%9F%E8%88%B013%E5%8F%B7%E5%86%8D%E6%88%98%E8%8B%8D%E7%A9%B9raptor%E5%BC%95%E6%93%8E%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7spacex%E6%96%B0%E5%8F%91%E5%B0%84%E7%AA%97%E5%8F%A3%E9%94%81%E5%AE%9A/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E6%98%9F%E8%88%B013%E5%8F%B7%E5%86%8D%E6%88%98%E8%8B%8D%E7%A9%B9raptor%E5%BC%95%E6%93%8E%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7spacex%E6%96%B0%E5%8F%91%E5%B0%84%E7%AA%97%E5%8F%A3%E9%94%81%E5%AE%9A/</guid>
-      <pubDate>Sat, 18 Jul 2026 16:57:10 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 兄弟们，大新闻！我们翘首以盼的SpaceX星舰第13次试飞终于有了新消息！尽管上周四的发射尝试在T-0那一刻被紧急中止，但SpaceX效率惊人，已经迅速锁定了新的发射窗口：北京时间下周一（7月20日）上午6:45 ET/5:45 CT。这简直是航天迷的福音，又一次见证人类探索极限的时刻即将到来！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E6%98%9F%E8%88%B013%E5%8F%B7%E5%86%8D%E6%88%98%E8%8B%8D%E7%A9%B9raptor%E5%BC%95%E6%93%8E%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7spacex%E6%96%B0%E5%8F%91%E5%B0%84%E7%AA%97%E5%8F%A3%E9%94%81%E5%AE%9A/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>兄弟们，大新闻！我们翘首以盼的SpaceX星舰第13次试飞终于有了新消息！尽管上周四的发射尝试在T-0那一刻被紧急中止，但SpaceX效率惊人，已经迅速锁定了新的发射窗口：北京时间下周一（7月20日）上午6:45 ET/5:45 CT。这简直是航天迷的福音，又一次见证人类探索极限的时刻即将到来！</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260718-%E6%98%9F%E8%88%B013%E5%8F%B7%E5%86%8D%E6%88%98%E8%8B%8D%E7%A9%B9raptor%E5%BC%95%E6%93%8E%E7%A1%AC%E6%A0%B8%E5%8D%87%E7%BA%A7spacex%E6%96%B0%E5%8F%91%E5%B0%84%E7%AA%97%E5%8F%A3%E9%94%81%E5%AE%9A/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>Spacex</category></item></channel>
+]]></content:encoded><category>特新消息</category></item></channel>
 </rss>
