@@ -5,7 +5,29 @@
     <description>Recent content in Posts</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Aug 2026 13:28:19 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sun, 02 Aug 2026 17:08:05 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>自动驾驶：监管与商业化双向分化</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9B%91%E7%AE%A1%E4%B8%8E%E5%95%86%E4%B8%9A%E5%8C%96%E5%8F%8C%E5%90%91%E5%88%86%E5%8C%96/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9B%91%E7%AE%A1%E4%B8%8E%E5%95%86%E4%B8%9A%E5%8C%96%E5%8F%8C%E5%90%91%E5%88%86%E5%8C%96/</guid>
+      <pubDate>Sun, 02 Aug 2026 16:57:18 &#43;0000</pubDate><description><![CDATA[
+<p>联邦政府加速： 国家公路交通安全管理局（NHTSA）豁免Zoox八项联邦机动车安全标准。 此举允许Zoox向客户收取机器人出租车费用，商业化服务即将启动，首站拉斯维加斯。 地方政府制动： Waymo及其他机器人出租车运营商面临审查，尤其针对与紧急响应人员的互动。 旧金山市长Daniel Lurie呼吁加强自动驾驶车辆监管，此前Waymo车辆曾因故障阻塞交通。…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9B%91%E7%AE%A1%E4%B8%8E%E5%95%86%E4%B8%9A%E5%8C%96%E5%8F%8C%E5%90%91%E5%88%86%E5%8C%96/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>联邦政府加速： 国家公路交通安全管理局（NHTSA）豁免Zoox八项联邦机动车安全标准。 此举允许Zoox向客户收取机器人出租车费用，商业化服务即将启动，首站拉斯维加斯。 地方政府制动： Waymo及其他机器人出租车运营商面临审查，尤其针对与紧急响应人员的互动。 旧金山市长Daniel Lurie呼吁加强自动驾驶车辆监管，此前Waymo车辆曾因故障阻塞交通。…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9B%91%E7%AE%A1%E4%B8%8E%E5%95%86%E4%B8%9A%E5%8C%96%E5%8F%8C%E5%90%91%E5%88%86%E5%8C%96/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉开放Model S和Model X软硬件设计：深度解析其战略意图与产业影响</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/</guid>
+      <pubDate>Sun, 02 Aug 2026 16:56:58 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉宣布将开放其已停产的Model S和Model X车型（特指早期版本）的软硬件设计与理论文档，此举延续了其此前对初代Roadster的开源策略，标志着这家电动汽车先驱在知识产权管理和产业生态建设方面迈出了重要一步。作为深耕新能源与AI产业链的行业观察家，我们认为，此举并非简单的技术文档公开，而是特斯拉在宏观产业格局下的一次深思熟虑的战略部署，其深远影响…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉宣布将开放其已停产的Model S和Model X车型（特指早期版本）的软硬件设计与理论文档，此举延续了其此前对初代Roadster的开源策略，标志着这家电动汽车先驱在知识产权管理和产业生态建设方面迈出了重要一步。作为深耕新能源与AI产业链的行业观察家，我们认为，此举并非简单的技术文档公开，而是特斯拉在宏观产业格局下的一次深思熟虑的战略部署，其深远影响…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>星舰部署、擎天柱产能破千万，马斯克AI帝国多线并进：深度剖析特斯拉与SpaceX的投资逻辑</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E6%98%9F%E8%88%B0%E9%83%A8%E7%BD%B2%E6%93%8E%E5%A4%A9%E6%9F%B1%E4%BA%A7%E8%83%BD%E7%A0%B4%E5%8D%83%E4%B8%87%E9%A9%AC%E6%96%AF%E5%85%8Bai%E5%B8%9D%E5%9B%BD%E5%A4%9A%E7%BA%BF%E5%B9%B6%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Espacex%E7%9A%84%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E6%98%9F%E8%88%B0%E9%83%A8%E7%BD%B2%E6%93%8E%E5%A4%A9%E6%9F%B1%E4%BA%A7%E8%83%BD%E7%A0%B4%E5%8D%83%E4%B8%87%E9%A9%AC%E6%96%AF%E5%85%8Bai%E5%B8%9D%E5%9B%BD%E5%A4%9A%E7%BA%BF%E5%B9%B6%E8%BF%9B%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8Espacex%E7%9A%84%E6%8A%95%E8%B5%84%E9%80%BB%E8%BE%91/</guid>
@@ -314,28 +336,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉手机应用代码显示，公司正为擎天柱（Optimus）机器人发布做准备：</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E4%B8%BA%E6%93%8E%E5%A4%A9%E6%9F%B1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%81%9A%E5%87%86%E5%A4%87/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>WhatsApp重磅升级：CarPlay/Android Auto深度整合，iPad独立注册，Meta多设备生态野心初显？</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260722-whatsapp%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7carplayandroid-auto%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88ipad%E7%8B%AC%E7%AB%8B%E6%B3%A8%E5%86%8Cmeta%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%94%9F%E6%80%81%E9%87%8E%E5%BF%83%E5%88%9D%E6%98%BE/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260722-whatsapp%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7carplayandroid-auto%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88ipad%E7%8B%AC%E7%AB%8B%E6%B3%A8%E5%86%8Cmeta%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%94%9F%E6%80%81%E9%87%8E%E5%BF%83%E5%88%9D%E6%98%BE/</guid>
-      <pubDate>Wed, 22 Jul 2026 13:50:43 &#43;0000</pubDate><description><![CDATA[
-<p>WhatsApp近期推出一系列重磅功能更新，包括对Apple CarPlay和Android Auto的深度优化、iPad独立注册功能，以及PDF处理与音乐分享等。分析认为，这些举措不仅旨在提升用户体验，更关键的是，它们是Meta公司将WhatsApp从单一移动消息应用转型为全方位跨设备通信平台，并进一步巩固其生态版图的关键一步。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-whatsapp%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7carplayandroid-auto%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88ipad%E7%8B%AC%E7%AB%8B%E6%B3%A8%E5%86%8Cmeta%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%94%9F%E6%80%81%E9%87%8E%E5%BF%83%E5%88%9D%E6%98%BE/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>WhatsApp近期推出一系列重磅功能更新，包括对Apple CarPlay和Android Auto的深度优化、iPad独立注册功能，以及PDF处理与音乐分享等。分析认为，这些举措不仅旨在提升用户体验，更关键的是，它们是Meta公司将WhatsApp从单一移动消息应用转型为全方位跨设备通信平台，并进一步巩固其生态版图的关键一步。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-whatsapp%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7carplayandroid-auto%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88ipad%E7%8B%AC%E7%AB%8B%E6%B3%A8%E5%86%8Cmeta%E5%A4%9A%E8%AE%BE%E5%A4%87%E7%94%9F%E6%80%81%E9%87%8E%E5%BF%83%E5%88%9D%E6%98%BE/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>记忆的疆域：马斯克FSD的泊车新篇与自动驾驶的漫长征途</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E8%AE%B0%E5%BF%86%E7%9A%84%E7%96%86%E5%9F%9F%E9%A9%AC%E6%96%AF%E5%85%8Bfsd%E7%9A%84%E6%B3%8A%E8%BD%A6%E6%96%B0%E7%AF%87%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%BC%AB%E9%95%BF%E5%BE%81%E9%80%94/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E8%AE%B0%E5%BF%86%E7%9A%84%E7%96%86%E5%9F%9F%E9%A9%AC%E6%96%AF%E5%85%8Bfsd%E7%9A%84%E6%B3%8A%E8%BD%A6%E6%96%B0%E7%AF%87%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%BC%AB%E9%95%BF%E5%BE%81%E9%80%94/</guid>
-      <pubDate>Wed, 22 Jul 2026 13:50:14 &#43;0000</pubDate><description><![CDATA[
-<p>夜幕低垂，华灯初上。在硅谷一家购物中心的地下停车场，一辆特斯拉Model 3正缓缓驶入。驾驶座上，一位疲惫的父亲正努力辨认着密密麻麻的车位标识。这是他每天下班后的例行“挑战赛”，而今天，他只希望FSD（Full Self-Driving，全自动驾驶）能像传说中那样，真正帮他摆脱这恼人的琐事。车辆在狭窄的车道中穿梭，屏幕上，密集的传感器数据流构建出周围环境的数…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E8%AE%B0%E5%BF%86%E7%9A%84%E7%96%86%E5%9F%9F%E9%A9%AC%E6%96%AF%E5%85%8Bfsd%E7%9A%84%E6%B3%8A%E8%BD%A6%E6%96%B0%E7%AF%87%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%BC%AB%E9%95%BF%E5%BE%81%E9%80%94/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>夜幕低垂，华灯初上。在硅谷一家购物中心的地下停车场，一辆特斯拉Model 3正缓缓驶入。驾驶座上，一位疲惫的父亲正努力辨认着密密麻麻的车位标识。这是他每天下班后的例行“挑战赛”，而今天，他只希望FSD（Full Self-Driving，全自动驾驶）能像传说中那样，真正帮他摆脱这恼人的琐事。车辆在狭窄的车道中穿梭，屏幕上，密集的传感器数据流构建出周围环境的数…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260722-%E8%AE%B0%E5%BF%86%E7%9A%84%E7%96%86%E5%9F%9F%E9%A9%AC%E6%96%AF%E5%85%8Bfsd%E7%9A%84%E6%B3%8A%E8%BD%A6%E6%96%B0%E7%AF%87%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%BC%AB%E9%95%BF%E5%BE%81%E9%80%94/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
