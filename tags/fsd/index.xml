@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 03 Aug 2026 07:12:51 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 03 Aug 2026 11:32:11 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉FSDv14.3.7：从事故规避看自动驾驶商业化进程与技术护城河</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/</guid>
@@ -21,10 +21,10 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-08-02/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-08-02/</guid>
       <pubDate>Sun, 02 Aug 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉发布FSD v14.3.7版本，用户反馈驾驶体验显著改善，成功避免一起交通事故。 马斯克宣布未来将开源Model S和Model X的设计与软件文档，与此前开源Roadster保持一致。 自动驾驶行业面临联邦政府加速推进与州地方政府加强监管并存的复杂局面。 马斯克公开否认《华尔街日报》关于特斯拉中国业务分拆及与SpaceX合并的报道。</p>
+<p>此版本在修复关键性回归问题上的表现令人鼓舞，显著提升了用户对FSD系统的信任。然而，用户仍指出在速度曲线优化方面有待改进，如有时过快有时过慢，仍需驾驶员频繁调整“速度配置文件”，这表明FSD仍处于“监督式”驾驶辅助阶段，尚未完全脱离人工干预。因此，尽管v14.3.7是一个重要的里程碑，但特斯拉仍需在精细化控制和减少人工干预需求方面持续投入，以加速向L4/L5级自动驾驶迈进，并应对日益复杂的监管环 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-08-02/">在特斯拉日报查看全文</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>特斯拉发布FSD v14.3.7版本，用户反馈驾驶体验显著改善，成功避免一起交通事故。 马斯克宣布未来将开源Model S和Model X的设计与软件文档，与此前开源Roadster保持一致。 自动驾驶行业面临联邦政府加速推进与州地方政府加强监管并存的复杂局面。 马斯克公开否认《华尔街日报》关于特斯拉中国业务分拆及与SpaceX合并的报道。</p>
+<p>此版本在修复关键性回归问题上的表现令人鼓舞，显著提升了用户对FSD系统的信任。然而，用户仍指出在速度曲线优化方面有待改进，如有时过快有时过慢，仍需驾驶员频繁调整“速度配置文件”，这表明FSD仍处于“监督式”驾驶辅助阶段，尚未完全脱离人工干预。因此，尽管v14.3.7是一个重要的里程碑，但特斯拉仍需在精细化控制和减少人工干预需求方面持续投入，以加速向L4/L5级自动驾驶迈进，并应对日益复杂的监管环 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-08-02/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
