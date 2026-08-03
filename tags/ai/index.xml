@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Aug 2026 21:06:07 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/ai/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 03 Aug 2026 02:50:58 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/ai/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>SpaceX Q2财报与千亿解禁潮：马斯克“太空&#43;AI”帝国迎来“估值大考”？</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-spacex-q2%E8%B4%A2%E6%8A%A5%E4%B8%8E%E5%8D%83%E4%BA%BF%E8%A7%A3%E7%A6%81%E6%BD%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A4%AA%E7%A9%BAai%E5%B8%9D%E5%9B%BD%E8%BF%8E%E6%9D%A5%E4%BC%B0%E5%80%BC%E5%A4%A7%E8%80%83/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-spacex-q2%E8%B4%A2%E6%8A%A5%E4%B8%8E%E5%8D%83%E4%BA%BF%E8%A7%A3%E7%A6%81%E6%BD%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A4%AA%E7%A9%BAai%E5%B8%9D%E5%9B%BD%E8%BF%8E%E6%9D%A5%E4%BC%B0%E5%80%BC%E5%A4%A7%E8%80%83/</guid>
@@ -15,6 +15,17 @@
 ]]></description><content:encoded><![CDATA[
 <p>本周，埃隆·马斯克旗下的太空探索技术公司SpaceX将迎来其上市以来的首次季度财报发布。这不仅是一份常规的业绩报告，更是其作为上市公司接受市场审视的“成人礼”。更为关键的是，财报发布后的两天，高达9.115亿股、市值逾千亿美元的内部及员工持股解禁期将至，这无疑是华尔街历史上规模最大的解禁潮之一，对SpaceX的股价稳定性和市场信心构成严峻考验。作为一名拥有十…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-spacex-q2%E8%B4%A2%E6%8A%A5%E4%B8%8E%E5%8D%83%E4%BA%BF%E8%A7%A3%E7%A6%81%E6%BD%AE%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A4%AA%E7%A9%BAai%E5%B8%9D%E5%9B%BD%E8%BF%8E%E6%9D%A5%E4%BC%B0%E5%80%BC%E5%A4%A7%E8%80%83/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉FSDv14.3.7：从事故规避看自动驾驶商业化进程与技术护城河</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/</guid>
+      <pubDate>Sun, 02 Aug 2026 02:40:14 &#43;0000</pubDate><description><![CDATA[
+<p>自动驾驶技术作为新能源汽车与AI深度融合的核心产物，正经历着从辅助驾驶向全自动驾驶的渐进式演进。近期，特斯拉FSD (Full Self-Driving) v14.3.7版本的发布及其在实际驾驶中展现的事故规避能力，再次引发了行业对L2+ (Level 2 Plus) 自动驾驶系统成熟度与未来商业化路径的广泛关注。这一事件不仅仅是软件的一次迭代更新，更是特斯…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>自动驾驶技术作为新能源汽车与AI深度融合的核心产物，正经历着从辅助驾驶向全自动驾驶的渐进式演进。近期，特斯拉FSD (Full Self-Driving) v14.3.7版本的发布及其在实际驾驶中展现的事故规避能力，再次引发了行业对L2+ (Level 2 Plus) 自动驾驶系统成熟度与未来商业化路径的广泛关注。这一事件不仅仅是软件的一次迭代更新，更是特斯…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
       <title>Uber的自动驾驶帝国崛起：硬核盘点其全球AV朋友圈，这波操作太炸裂！</title>
@@ -325,17 +336,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>埃隆·马斯克（Elon Musk）领导下的SpaceX与Tesla正通过一系列关键进展，深刻影响着全球新能源与AI产业链的未来格局。从星链（Starlink）在“空军一号”上的部署，到星舰（Starship）V3的迭代升级，再到Tesla Semi的量产提速和马斯克对华访问所折射的地缘政治考量，这些事件无不体现其在技术创新、商业模式重塑和地缘政治影响力上的多…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260513-%E6%98%9F%E9%93%BE%E6%98%9F%E8%88%B0%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%91%E6%8A%80%E7%89%88%E5%9B%BE%E9%87%8D%E5%A1%91%E5%85%A8%E7%90%83%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8Eai%E4%BA%A7%E4%B8%9A%E7%94%9F%E6%80%81/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>炸裂！FSD V12要横扫欧洲了？爱尔兰谈判或成引爆点！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260511-%E7%82%B8%E8%A3%82fsd-v12%E8%A6%81%E6%A8%AA%E6%89%AB%E6%AC%A7%E6%B4%B2%E4%BA%86%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%88%E5%88%A4%E6%88%96%E6%88%90%E5%BC%95%E7%88%86%E7%82%B9/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260511-%E7%82%B8%E8%A3%82fsd-v12%E8%A6%81%E6%A8%AA%E6%89%AB%E6%AC%A7%E6%B4%B2%E4%BA%86%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%88%E5%88%A4%E6%88%96%E6%88%90%E5%BC%95%E7%88%86%E7%82%B9/</guid>
-      <pubDate>Mon, 11 May 2026 14:49:18 &#43;0000</pubDate><description><![CDATA[
-<p>兄弟们，科技圈又爆出个惊天大新闻！爱尔兰竟然确认正在和特斯拉洽谈FSD（完全自动驾驶）的批准事宜！这简直是硬核玩家们期待已久的里程碑啊！作为一名资深科技极客，我听到这消息直接原地起飞，这不仅仅是爱尔兰的一小步，更是FSD迈向全球，尤其是欧洲市场的一大步！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260511-%E7%82%B8%E8%A3%82fsd-v12%E8%A6%81%E6%A8%AA%E6%89%AB%E6%AC%A7%E6%B4%B2%E4%BA%86%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%88%E5%88%A4%E6%88%96%E6%88%90%E5%BC%95%E7%88%86%E7%82%B9/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>兄弟们，科技圈又爆出个惊天大新闻！爱尔兰竟然确认正在和特斯拉洽谈FSD（完全自动驾驶）的批准事宜！这简直是硬核玩家们期待已久的里程碑啊！作为一名资深科技极客，我听到这消息直接原地起飞，这不仅仅是爱尔兰的一小步，更是FSD迈向全球，尤其是欧洲市场的一大步！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260511-%E7%82%B8%E8%A3%82fsd-v12%E8%A6%81%E6%A8%AA%E6%89%AB%E6%AC%A7%E6%B4%B2%E4%BA%86%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%88%E5%88%A4%E6%88%96%E6%88%90%E5%BC%95%E7%88%86%E7%82%B9/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>

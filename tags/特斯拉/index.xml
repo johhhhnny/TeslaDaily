@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 02 Aug 2026 21:06:10 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E7%89%B9%E6%96%AF%E6%8B%89/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 03 Aug 2026 02:51:00 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/%E7%89%B9%E6%96%AF%E6%8B%89/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉开放Model S和Model X软硬件设计：深度解析其战略意图与产业影响</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/</guid>
@@ -15,6 +15,17 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉宣布将开放其已停产的Model S和Model X车型（特指早期版本）的软硬件设计与理论文档，此举延续了其此前对初代Roadster的开源策略，标志着这家电动汽车先驱在知识产权管理和产业生态建设方面迈出了重要一步。作为深耕新能源与AI产业链的行业观察家，我们认为，此举并非简单的技术文档公开，而是特斯拉在宏观产业格局下的一次深思熟虑的战略部署，其深远影响…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉FSDv14.3.7：从事故规避看自动驾驶商业化进程与技术护城河</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/</guid>
+      <pubDate>Sun, 02 Aug 2026 02:40:14 &#43;0000</pubDate><description><![CDATA[
+<p>自动驾驶技术作为新能源汽车与AI深度融合的核心产物，正经历着从辅助驾驶向全自动驾驶的渐进式演进。近期，特斯拉FSD (Full Self-Driving) v14.3.7版本的发布及其在实际驾驶中展现的事故规避能力，再次引发了行业对L2+ (Level 2 Plus) 自动驾驶系统成熟度与未来商业化路径的广泛关注。这一事件不仅仅是软件的一次迭代更新，更是特斯…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>自动驾驶技术作为新能源汽车与AI深度融合的核心产物，正经历着从辅助驾驶向全自动驾驶的渐进式演进。近期，特斯拉FSD (Full Self-Driving) v14.3.7版本的发布及其在实际驾驶中展现的事故规避能力，再次引发了行业对L2+ (Level 2 Plus) 自动驾驶系统成熟度与未来商业化路径的广泛关注。这一事件不仅仅是软件的一次迭代更新，更是特斯…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89fsdv1437%E4%BB%8E%E4%BA%8B%E6%95%85%E8%A7%84%E9%81%BF%E7%9C%8B%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%8A%80%E6%9C%AF%E6%8A%A4%E5%9F%8E%E6%B2%B3/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
       <title>智能驾驶安全与责任边界：特斯拉诉讼案透视产业风险与机遇</title>
@@ -325,17 +336,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉近期发布的夏季软件更新，表面上是功能性的迭代，但从产业观察家的宏观视角来看，这并非一系列孤立的用户体验改进，而是特斯拉在“软件定义汽车”（Software-Defined Vehicle, SDV）战略上持续深耕，并加速人工智能（AI）技术与核心产品深度融合的关键一步。此次更新通过强化Grok AI在座舱内的应用、优化FSD（Full Self-Dri…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260721-%E7%89%B9%E6%96%AF%E6%8B%89%E5%A4%8F%E5%AD%A3%E6%9B%B4%E6%96%B0grok%E4%B8%8Efsd%E6%B7%B1%E5%8C%96%E8%9E%8D%E5%90%88%E9%87%8D%E5%A1%91%E6%99%BA%E8%83%BD%E5%BA%A7%E8%88%B1%E4%B8%8E%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BE%B9%E7%95%8C/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>佛罗里达的无形之手：特斯拉Robotaxi如何重塑阳光之州的未来</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260721-%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%9A%84%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%98%B3%E5%85%89%E4%B9%8B%E5%B7%9E%E7%9A%84%E6%9C%AA%E6%9D%A5/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260721-%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%9A%84%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%98%B3%E5%85%89%E4%B9%8B%E5%B7%9E%E7%9A%84%E6%9C%AA%E6%9D%A5/</guid>
-      <pubDate>Tue, 21 Jul 2026 17:18:57 &#43;0000</pubDate><description><![CDATA[
-<p>奥兰多夜幕低垂，迪士尼乐园的灯火在远方闪烁。一辆Model Y在街角无声地滑行，在指定地点精准停下。车门轻启，却不见驾驶座上有人。一对从主题公园归来的夫妇，带着一丝好奇与忐忑，坐进了这辆没有司机的“未来出租车”。这是2026年7月的一个寻常夜晚，也是特斯拉Robotaxi在佛罗里达州奥兰多和坦帕两座新城扩展服务后，无数次无监督自动驾驶旅程中的一次。这不仅仅是…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260721-%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%9A%84%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%98%B3%E5%85%89%E4%B9%8B%E5%B7%9E%E7%9A%84%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>奥兰多夜幕低垂，迪士尼乐园的灯火在远方闪烁。一辆Model Y在街角无声地滑行，在指定地点精准停下。车门轻启，却不见驾驶座上有人。一对从主题公园归来的夫妇，带着一丝好奇与忐忑，坐进了这辆没有司机的“未来出租车”。这是2026年7月的一个寻常夜晚，也是特斯拉Robotaxi在佛罗里达州奥兰多和坦帕两座新城扩展服务后，无数次无监督自动驾驶旅程中的一次。这不仅仅是…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260721-%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E7%9A%84%E6%97%A0%E5%BD%A2%E4%B9%8B%E6%89%8B%E7%89%B9%E6%96%AF%E6%8B%89robotaxi%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E9%98%B3%E5%85%89%E4%B9%8B%E5%B7%9E%E7%9A%84%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
