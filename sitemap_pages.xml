@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
     <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
-    <lastmod>2026-08-03T21:13:44&#43;00:00</lastmod>
+    <lastmod>2026-08-04T02:37:09&#43;00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url><url>
       <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
-      <lastmod>2026-08-03T21:13:44&#43;00:00</lastmod>
+      <lastmod>2026-08-04T02:37:09&#43;00:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url><url>
@@ -20995,6 +20995,11 @@
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url><url>
+        <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260803-%E6%BD%AE%E6%B1%90%E4%B8%8E%E6%9A%97%E6%B5%81%E7%89%B9%E6%96%AF%E6%8B%89%E6%AC%A7%E6%B4%B2%E7%89%88%E5%9B%BE%E7%9A%84%E4%B8%83%E6%9C%88%E8%B0%9C%E5%B1%80/</loc>
+        <lastmod>2026-08-03T02:24:52&#43;00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url><url>
         <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260802-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%80%E6%94%BEmodel-s%E5%92%8Cmodel-x%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%85%B6%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D/</loc>
         <lastmod>2026-08-02T16:56:58&#43;00:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -41502,6 +41507,11 @@
       </url><url>
         <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260803-%E5%8C%97%E7%BE%8E%E7%89%B9%E6%96%AF%E6%8B%89model-y-l%E5%8F%91%E5%B8%83%E7%8B%AC%E6%9C%89%E9%85%8D%E7%BD%AE%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BA%AE%E7%82%B9/</loc>
         <lastmod>2026-08-03T17:50:04&#43;00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url><url>
+        <loc>https://johhhhnny.github.io/TeslaDaily/posts/20260803-%E6%BD%AE%E6%B1%90%E4%B8%8E%E6%9A%97%E6%B5%81%E7%89%B9%E6%96%AF%E6%8B%89%E6%AC%A7%E6%B4%B2%E7%89%88%E5%9B%BE%E7%9A%84%E4%B8%83%E6%9C%88%E8%B0%9C%E5%B1%80/</loc>
+        <lastmod>2026-08-03T02:24:52&#43;00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url><url>
