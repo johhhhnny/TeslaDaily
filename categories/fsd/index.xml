@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 21:26:17 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 05 Aug 2026 02:37:09 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>特斯拉Semi卡车重磅登陆欧洲：全球电动重卡市场的新格局与投资前瞻</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260804-%E7%89%B9%E6%96%AF%E6%8B%89semi%E5%8D%A1%E8%BD%A6%E9%87%8D%E7%A3%85%E7%99%BB%E9%99%86%E6%AC%A7%E6%B4%B2%E5%85%A8%E7%90%83%E7%94%B5%E5%8A%A8%E9%87%8D%E5%8D%A1%E5%B8%82%E5%9C%BA%E7%9A%84%E6%96%B0%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E5%89%8D%E7%9E%BB/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260804-%E7%89%B9%E6%96%AF%E6%8B%89semi%E5%8D%A1%E8%BD%A6%E9%87%8D%E7%A3%85%E7%99%BB%E9%99%86%E6%AC%A7%E6%B4%B2%E5%85%A8%E7%90%83%E7%94%B5%E5%8A%A8%E9%87%8D%E5%8D%A1%E5%B8%82%E5%9C%BA%E7%9A%84%E6%96%B0%E6%A0%BC%E5%B1%80%E4%B8%8E%E6%8A%95%E8%B5%84%E5%89%8D%E7%9E%BB/</guid>
@@ -26,6 +26,17 @@
 ]]></description><content:encoded><![CDATA[
 <p>清晨，阿姆斯特丹的运河泛着微光，亨德里克·范德比尔特（Hendrik van der Bilt）的手机屏幕突然亮起，一封来自特斯拉的邮件打破了宁静。邮件标题简短而有力：“您的FSD（监督版）2个月免费试用已开启！” 对于这位长期关注自动驾驶技术演进的Model 3车主而言，这不仅仅是一封通知，更像是一张通往未来的邀请函，一张特斯拉在欧洲大陆深耕已久的宏大棋局…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260804-%E7%A1%85%E8%B0%B7%E9%9B%84%E5%BF%83%E6%AC%A7%E6%B4%B2%E8%BF%B7%E9%80%94%E7%89%B9%E6%96%AF%E6%8B%89fsd%E7%9A%84%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%89%88%E5%9B%BE%E4%BA%89%E5%A4%BA%E6%88%98/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
+      <title>特斯拉FSD V14 Lite：HW3老兵竟“高烧不退”？性能极限与散热瓶颈大揭秘！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260804-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-litehw3%E8%80%81%E5%85%B5%E7%AB%9F%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E6%80%A7%E8%83%BD%E6%9E%81%E9%99%90%E4%B8%8E%E6%95%A3%E7%83%AD%E7%93%B6%E9%A2%88%E5%A4%A7%E6%8F%AD%E7%A7%98/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260804-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-litehw3%E8%80%81%E5%85%B5%E7%AB%9F%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E6%80%A7%E8%83%BD%E6%9E%81%E9%99%90%E4%B8%8E%E6%95%A3%E7%83%AD%E7%93%B6%E9%A2%88%E5%A4%A7%E6%8F%AD%E7%A7%98/</guid>
+      <pubDate>Tue, 04 Aug 2026 02:24:23 &#43;0000</pubDate><description><![CDATA[
+<p>各位硬核科技粉和早期采用者们，我最近被一个爆炸性消息震惊了！特斯拉FSD（Full Self-Driving）V14 Lite，这个被寄予厚望、旨在让老款HW3（Hardware 3）车型也能体验最新自动驾驶黑科技的版本，竟然在实际应用中“翻车”了——大量车主反馈，他们的HW3电脑竟然出现了严重过热现象，甚至直接“罢工”！这简直是给我们的“老战友”HW3电脑…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260804-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-litehw3%E8%80%81%E5%85%B5%E7%AB%9F%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E6%80%A7%E8%83%BD%E6%9E%81%E9%99%90%E4%B8%8E%E6%95%A3%E7%83%AD%E7%93%B6%E9%A2%88%E5%A4%A7%E6%8F%AD%E7%A7%98/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>各位硬核科技粉和早期采用者们，我最近被一个爆炸性消息震惊了！特斯拉FSD（Full Self-Driving）V14 Lite，这个被寄予厚望、旨在让老款HW3（Hardware 3）车型也能体验最新自动驾驶黑科技的版本，竟然在实际应用中“翻车”了——大量车主反馈，他们的HW3电脑竟然出现了严重过热现象，甚至直接“罢工”！这简直是给我们的“老战友”HW3电脑…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260804-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-litehw3%E8%80%81%E5%85%B5%E7%AB%9F%E9%AB%98%E7%83%A7%E4%B8%8D%E9%80%80%E6%80%A7%E8%83%BD%E6%9E%81%E9%99%90%E4%B8%8E%E6%95%A3%E7%83%AD%E7%93%B6%E9%A2%88%E5%A4%A7%E6%8F%AD%E7%A7%98/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
       <title>特斯拉FSD保险优惠大扩张：自动驾驶商业化里程碑还是市场新博弈？</title>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>当一辆特斯拉在寂静的街头，以一种近乎科幻的方式，自主地穿梭于车流之中时，它所承载的不仅仅是电力与钢铁，更是背后那座不为人知的、庞大而复杂的数字帝国。这个帝国的基石，由无数高速运转的GPU集群堆砌而成，支撑着FSD（完全自动驾驶）系统每一次精妙的决策。而今，这座帝国的核心筑梦者之一，拉吉·杰加纳坦（Raj Jegannathan），悄然转身，告别了他十三年的特…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260605-%E7%A1%85%E8%B0%B7%E5%B7%A8%E5%85%BD%E7%9A%84%E5%B9%95%E5%90%8E%E6%94%AF%E6%9F%B1fsd%E9%9A%90%E5%BD%A2%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9A%84%E5%91%8A%E5%88%AB%E4%B8%8E%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84ai%E6%96%B0%E7%BA%AA%E5%85%83/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>跨洋谜局：特斯拉增长引擎的东方秘匙与西方困境</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260604-%E8%B7%A8%E6%B4%8B%E8%B0%9C%E5%B1%80%E7%89%B9%E6%96%AF%E6%8B%89%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E%E7%9A%84%E4%B8%9C%E6%96%B9%E7%A7%98%E5%8C%99%E4%B8%8E%E8%A5%BF%E6%96%B9%E5%9B%B0%E5%A2%83/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260604-%E8%B7%A8%E6%B4%8B%E8%B0%9C%E5%B1%80%E7%89%B9%E6%96%AF%E6%8B%89%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E%E7%9A%84%E4%B8%9C%E6%96%B9%E7%A7%98%E5%8C%99%E4%B8%8E%E8%A5%BF%E6%96%B9%E5%9B%B0%E5%A2%83/</guid>
-      <pubDate>Thu, 04 Jun 2026 21:40:42 &#43;0000</pubDate><description><![CDATA[
-<p>加州的阳光透过玻璃窗，洒在一张张焦急的面孔上。在圣何塞的某个特斯拉展厅里，一位母亲正试图将两个蹒跚学步的孩子和一周的杂货塞进一辆Model Y的后备箱，她的脸上写满了无奈。空间，对于典型的美国家庭而言，是日常出行的刚需，也是他们选择汽车时最核心的考量之一。然而，在电动汽车的先锋特斯拉这里，这种最朴素的需求，却似乎成了CEO埃隆·马斯克宏大愿景下的一个次要变量…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260604-%E8%B7%A8%E6%B4%8B%E8%B0%9C%E5%B1%80%E7%89%B9%E6%96%AF%E6%8B%89%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E%E7%9A%84%E4%B8%9C%E6%96%B9%E7%A7%98%E5%8C%99%E4%B8%8E%E8%A5%BF%E6%96%B9%E5%9B%B0%E5%A2%83/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>加州的阳光透过玻璃窗，洒在一张张焦急的面孔上。在圣何塞的某个特斯拉展厅里，一位母亲正试图将两个蹒跚学步的孩子和一周的杂货塞进一辆Model Y的后备箱，她的脸上写满了无奈。空间，对于典型的美国家庭而言，是日常出行的刚需，也是他们选择汽车时最核心的考量之一。然而，在电动汽车的先锋特斯拉这里，这种最朴素的需求，却似乎成了CEO埃隆·马斯克宏大愿景下的一个次要变量…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260604-%E8%B7%A8%E6%B4%8B%E8%B0%9C%E5%B1%80%E7%89%B9%E6%96%AF%E6%8B%89%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E%E7%9A%84%E4%B8%9C%E6%96%B9%E7%A7%98%E5%8C%99%E4%B8%8E%E8%A5%BF%E6%96%B9%E5%9B%B0%E5%A2%83/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
