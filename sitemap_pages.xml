@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
     <loc>https://johhhhnny.github.io/TeslaDaily/</loc>
-    <lastmod>2026-08-06T10:49:34&#43;00:00</lastmod>
+    <lastmod>2026-08-06T14:17:16&#43;00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url><url>
       <loc>https://johhhhnny.github.io/TeslaDaily/posts/</loc>
-      <lastmod>2026-08-06T10:49:34&#43;00:00</lastmod>
+      <lastmod>2026-08-06T14:17:16&#43;00:00</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url><url>
@@ -2487,6 +2487,11 @@
       </url><url>
         <loc>https://johhhhnny.github.io/TeslaDaily/posts/20251107-%E9%87%8D%E7%A3%85%E7%89%B9%E6%96%AF%E6%8B%89cybercab%E9%87%8F%E4%BA%A7%E5%80%92%E8%AE%A1%E6%97%B62026%E5%B9%B44%E6%9C%88%E5%90%AF%E7%A8%8B%E7%8B%AC%E5%AE%B6%E6%8F%AD%E7%A7%98%E8%A7%A3%E6%9E%84%E5%BC%8F%E6%99%BA%E9%80%A0%E5%8F%98%E9%9D%A9/</loc>
         <lastmod>2025-11-07T23:02:45&#43;00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      </url><url>
+        <loc>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-08-06/</loc>
+        <lastmod>2026-08-06T00:00:00&#43;00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url><url>
