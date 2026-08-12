@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<meta name="google-site-verification" content="v2g5WeUWzHxKcSYMyfBqkcQy0Hnw82Kqp6nwJyxd5yE" />
+
+<title>Uber Freight被黑，WTF？！揭秘Helix黑客团伙的社工“黑科技”与企业安全攻防战！ | 特斯拉日报</title>
+
+<meta name="description" content="嘿，各位硬核极客们！今天我们不聊AI大模型，不谈元宇宙，来聊点更接地气，却同样令人肾上腺素飙升的——网络安全！最近，物流巨头Uber Freight被爆遭遇黑客入侵，数据可能已经泄露，而幕后黑手直指臭名昭著的Helix黑客团伙。这波操作简直是赤裸裸的挑衅，不得不让我们深入挖掘一下，这帮家伙到底用了什么“黑科技”来攻破企业防线？">
+
+
+<link rel="canonical" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-uber-freight%E8%A2%AB%E9%BB%91wtf%E6%8F%AD%E7%A7%98helix%E9%BB%91%E5%AE%A2%E5%9B%A2%E4%BC%99%E7%9A%84%E7%A4%BE%E5%B7%A5%E9%BB%91%E7%A7%91%E6%8A%80%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/">
+
+
+<meta property="og:title" content="Uber Freight被黑，WTF？！揭秘Helix黑客团伙的社工“黑科技”与企业安全攻防战！ | 特斯拉日报">
+<meta property="og:description" content="嘿，各位硬核极客们！今天我们不聊AI大模型，不谈元宇宙，来聊点更接地气，却同样令人肾上腺素飙升的——网络安全！最近，物流巨头Uber Freight被爆遭遇黑客入侵，数据可能已经泄露，而幕后黑手直指臭名昭著的Helix黑客团伙。这波操作简直是赤裸裸的挑衅，不得不让我们深入挖掘一下，这帮家伙到底用了什么“黑科技”来攻破企业防线？">
+<meta property="og:url" content="https://johhhhnny.github.io/TeslaDaily/posts/20260812-uber-freight%E8%A2%AB%E9%BB%91wtf%E6%8F%AD%E7%A7%98helix%E9%BB%91%E5%AE%A2%E5%9B%A2%E4%BC%99%E7%9A%84%E7%A4%BE%E5%B7%A5%E9%BB%91%E7%A7%91%E6%8A%80%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/">
+<meta property="og:type" content="article">
+
+
+
+<meta property="article:published_time" content="2026-08-12T20:42:46Z">
+
+<meta property="article:modified_time" content="2026-08-12T20:42:46Z">
+
+
+<meta property="article:author" content="Ada">
+
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Uber Freight被黑，WTF？！揭秘Helix黑客团伙的社工“黑科技”与企业安全攻防战！ | 特斯拉日报">
+<meta name="twitter:description" content="嘿，各位硬核极客们！今天我们不聊AI大模型，不谈元宇宙，来聊点更接地气，却同样令人肾上腺素飙升的——网络安全！最近，物流巨头Uber Freight被爆遭遇黑客入侵，数据可能已经泄露，而幕后黑手直指臭名昭著的Helix黑客团伙。这波操作简直是赤裸裸的挑衅，不得不让我们深入挖掘一下，这帮家伙到底用了什么“黑科技”来攻破企业防线？">
+<meta name="twitter:site" content="@TeslaDaily">
+
+
+<meta name="keywords" content=", 特斯拉, Tesla">
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Uber Freight被黑，WTF？！揭秘Helix黑客团伙的社工“黑科技”与企业安全攻防战！",
+  "description": "嘿，各位硬核极客们！今天我们不聊AI大模型，不谈元宇宙，来聊点更接地气，却同样令人肾上腺素飙升的——网络安全！最近，物流巨头Uber Freight被爆遭遇黑客入侵，数据可能已经泄露，而幕后黑手直指臭名昭著的Helix黑客团伙。这波操作简直是赤裸裸的挑衅，不得不让我们深入挖掘一下，这帮家伙到底用了什么“黑科技”来攻破企业防线？",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20260812-uber-freight%E8%A2%AB%E9%BB%91wtf%E6%8F%AD%E7%A7%98helix%E9%BB%91%E5%AE%A2%E5%9B%A2%E4%BC%99%E7%9A%84%E7%A4%BE%E5%B7%A5%E9%BB%91%E7%A7%91%E6%8A%80%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98\/"
+  },
+  "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/posts\/20260812-uber-freight%E8%A2%AB%E9%BB%91wtf%E6%8F%AD%E7%A7%98helix%E9%BB%91%E5%AE%A2%E5%9B%A2%E4%BC%99%E7%9A%84%E7%A4%BE%E5%B7%A5%E9%BB%91%E7%A7%91%E6%8A%80%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98\/",
+  "datePublished": "2026-08-12T20:42:46Z",
+  "dateModified": "2026-08-12T20:42:46Z",
+  "author": {
+    "@type": "Person",
+    "name": "Ada"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "特斯拉日报",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https:\/\/johhhhnny.github.io\/TeslaDaily\/images\/logo-tire-classic.svg"
+    }
+  }
+}
+</script>
+
+
+
+      <link rel="stylesheet" href="/TeslaDaily/css/main.min.0ed04894cb44c2b94c2fc3cd4eab1b7622f25031fb03aa77974e360e68b77dba.css" integrity="sha256-DtBIlMtEwrlML8PNTqsbdiLyUDH7A6p3l042Dmi3fbo=" crossorigin="anonymous">
+
+<link rel="icon" type="image/svg+xml" href="https://johhhhnny.github.io/TeslaDaily/favicon.svg"> 
+<link rel="icon" type="image/x-icon" href="https://johhhhnny.github.io/TeslaDaily/favicon.ico"> 
+<link rel="icon" type="image/png" sizes="16x16" href="https://johhhhnny.github.io/TeslaDaily/favicon.png"> 
+<link rel="icon" type="image/png" sizes="32x32" href="https://johhhhnny.github.io/TeslaDaily/favicon-32.png"> 
+<link rel="icon" type="image/png" sizes="64x64" href="https://johhhhnny.github.io/TeslaDaily/favicon-64.png"> 
+
+</head>
+<body>
+  <header class="py-6"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 flex flex-col">
+	<div class="flex items-center">
+		<div class="flex items-center">
+			<button class="flex items-center space-x-2 rounded-full border py-1 pr-[5px] pl-3 group bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="menu-bar">
+				<svg width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+					<path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"></path>
+				</svg>
+				<span class="rounded-full p-2.5">
+					<img src="/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="group-hover:animate-spin" />
+				</span>
+			</button>
+			<div class="relative rounded-full py-1.5 px-6 bg-zinc-100 hover:bg-zinc-200 text-xl font-bold uppercase mx-2">
+				<h2><a class="before:content-[''] before:z-10 before:top-0 before:right-0 before:left-0 before:bottom-0 before:absolute before:pointer-events-auto" href="https://johhhhnny.github.io/TeslaDaily/">
+				<span class="uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+				</a></h2>
+			</div>
+		</div>
+		<div class="flex items-center ml-auto space-x-2">
+			<button class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200 toggle-button" data-target="search-bar">
+				<svg width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path id="path1" class="transition-all ease-linear" d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+					<path id="path2" class="transition-all ease-linear hidden" d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"></path>
+				</svg>
+			</button>
+			<a class="flex items-center rounded-full p-3 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/feed.xml" rel="noopener" aria-label="订阅RSS">
+				<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" viewBox="0 0 16 16">
+					<path d="M2 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"></path>
+					<path d="M2 2.5a.5.5 0 0 1 .5-.5c6.627 0 12 5.373 12 12a.5.5 0 0 1-1 0C13.5 8.134 7.866 2.5 2.5 2.5a.5.5 0 0 1-.5-.5z"></path>
+					<path d="M2 6a.5.5 0 0 1 .5-.5A7.5 7.5 0 0 1 10 13.5a.5.5 0 0 1-1 0A6.5 6.5 0 0 0 2.5 6.5.5.5 0 0 1 2 6z"></path>
+				</svg>
+			</a>
+		</div>
+	</div>
+  <nav id="menu-bar" class="block mt-3 open">
+    <ul class="flex items-center flex flex-nowrap whitespace-nowrap overflow-x-auto space-x-4">
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/">首页</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/daily/">每日特报</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/story/">特有故事</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/archives/">特新消息</a>
+    </li>
+    <li class="my-2">
+      <a class="rounded-full border px-6 py-2 bg-zinc-100 hover:bg-zinc-200" href="/TeslaDaily/about/">关于</a>
+    </li>
+    </ul>
+  </nav>
+<div id="search-bar" class="block mt-3 close">
+	<form id="search" class="flex items-stretch" action="https://www.google.com/search" method="get" target="_blank">
+		<input type="hidden" name="sitesearch" value="johhhhnny.github.io/TeslaDaily">
+		<input class="w-full block px-6 py-2 rounded-l-full focus:outline-none border border-zinc-200" type="text" name="q" placeholder="搜索...">
+		<button class="flex items-center px-7 py-2.5 rounded-r-full border border-zinc-200" type="submit">
+			<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" class="group-hover:animate-pulse" viewBox="0 0 16 16">
+				<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+			</svg>
+		</button>
+	</form>
+</div></div></header>
+  <main class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8"><div id="breadcrumb" class="max-w-7xl mx-auto py-8">
+	<ul class="flex space-x-4 text-sm text-zinc-500">
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/">特斯拉日报</a>
+		</li>
+		<li class="after:content-['❯'] after:ml-4 after:opacity-30 last:after:content-none uppercase"><a href="https://johhhhnny.github.io/TeslaDaily/posts/">文章</a>
+		</li>
+	</ul>
+</div><div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-14">
+
+  <article class="md:col-span-2 prose lg:prose-lg">
+
+    <header class="not-prose">
+
+      <h1 id="title" class="text-4xl font-bold leading-normal">Uber Freight被黑，WTF？！揭秘Helix黑客团伙的社工“黑科技”与企业安全攻防战！</h1>
+
+      <div id="lead" class="my-6">
+
+        <p class="font-bold">嘿，各位硬核极客们！今天我们不聊AI大模型，不谈元宇宙，来聊点更接地气，却同样令人肾上腺素飙升的——网络安全！最近，物流巨头Uber Freight被爆遭遇黑客入侵，数据可能已经泄露，而幕后黑手直指臭名昭著的Helix黑客团伙。这波操作简直是赤裸裸的挑衅，不得不让我们深入挖掘一下，这帮家伙到底用了什么“黑科技”来攻破企业防线？ </p>
+
+      </div>
+
+      <div id="writer" class="flex items-center space-x-4"><img class="w-12 h-12 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/ada.png" alt="Ada avatar"><ul class="flex items-center space-x-4 flex-nowrap whitespace-nowrap overflow-x-auto">
+
+          <li class="font-semibold my-2">Ada</li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2"><time datetime="2026-08-12T20:42:46&#43;00:00">August 12, 2026</time>
+          </li>
+
+          <li class="before:content-['•'] before:mr-2 before:opacity-50 my-2">
+            1 min read
+          </li>
+
+        </ul>
+
+      </div>
+
+    </header>
+
+    <figure id="featureimage" class="rounded-xl aspect-video">
+      <img class="rounded-lg" src="https://johhhhnny.github.io/TeslaDaily/images/20260805-moove%E6%96%A9%E8%8E%B725%E4%BA%BF%E7%BE%8E%E5%85%83c%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC%E9%A3%99%E5%8D%87%E8%87%B321%E4%BA%BF%E7%BE%8E%E5%85%83robotaxi%E5%B9%95%E5%90%8E%E8%BF%90%E8%90%A5%E5%95%86%E7%9A%84%E6%96%B0%E6%98%9F%E5%B4%9B%E8%B5%B7/625dba2e05ee33238e5b63c8d3b4483b_hu_de751ad3facad129.png" alt="" width="750"
+        height="156" loading="lazy">
+
+    </figure>
+
+    <div id="content" class="mb-14">
+      <p>嘿，各位硬核极客们！今天我们不聊AI大模型，不谈元宇宙，来聊点更接地气，却同样令人肾上腺素飙升的——网络安全！最近，物流巨头Uber Freight被爆遭遇黑客入侵，数据可能已经泄露，而幕后黑手直指臭名昭著的Helix黑客团伙。这波操作简直是赤裸裸的挑衅，不得不让我们深入挖掘一下，这帮家伙到底用了什么“黑科技”来攻破企业防线？</p>
+<h2 id="helix团伙的硬核攻击手法不走寻常路">Helix团伙的“硬核”攻击手法：不走寻常路！</h2>
+<p>首先，我们要明白，Helix这个团伙可不是泛泛之辈。他们可不是那种只会用老旧漏洞的脚本小子，而是以其独特的攻击模式闻名，尤其擅长从企业的云环境中大规模窃取数据，然后以发布这些敏感数据为要挟，勒索巨额赎金。根据路透社的报道，Uber Freight的发言人表示，目前业务运营未受影响，系统也运行正常。尽管如此，我们对这种“嘴硬”的官方声明，总是要打个问号，毕竟黑客已经声称拿到了大量数据，这可不是小事！</p>
+<p><strong>极客点评：社工攻防战的诡计与反制</strong></p>
+<p>更为关键的是，Google最近的一份报告揭示了Helix团伙（他们被Google追踪为UNC6671）的核心“黑科技”：<strong>社会工程学（Social Engineering）</strong>，特别是其中的<strong>语音钓鱼（Voice Phishing）</strong>！</p>
+<p>这玩意儿听起来可能没那么高大上，不像零日漏洞（Zero-day exploit）那么炫酷，但它的杀伤力却异常惊人。简单来说，语音钓鱼就是黑客们通过电话，冒充IT帮助台或内部员工，以各种理由诱骗目标公司员工重置密码，从而获取系统访问权限。</p>
+<ul>
+<li><strong>传统黑客攻击：</strong> 寻找系统代码漏洞、网络配置错误。</li>
+<li><strong>Helix的社会工程学：</strong> 针对“人”的漏洞，利用信任、恐惧、好奇等心理弱点。</li>
+</ul>
+<p>这就像是黑客们玩起了“皇帝的新装”：他们不直接攻击坚固的城墙，而是巧妙地通过“口才”和“伪装”说服守卫打开大门。安全研究人员早就警告过，这类攻击虽然看似“原始”，但对人类的欺骗性极高，往往能轻松绕过最先进的技术防火墙。Google审查了该团伙的比特币钱包，发现仅今年1月至5月，他们就通过勒索获得了至少1060万美元，这足以证明其策略的有效性和危害性！</p>
+<h2 id="uber-freight的应对与行业警示">Uber Freight的应对与行业警示</h2>
+<p>Helix黑客声称，他们从Uber Freight窃取了包括邮件往来、云存储驱动器、应付账款相关文件以及调度文件等大量敏感数据。TechCrunch看到的一些文件似乎显示了Uber Freight与其几个客户之间的电子邮件往来，日期大约在6月中旬。尽管TechCrunch未能立即验证这些文件的真实性，但如果属实，这意味着客户信息、财务数据乃至运营细节都可能面临泄露风险。目前，Uber Freight尚未透露是否收到黑客的勒索信，也未说明是否支付了赎金。</p>
+<p>这不只是Uber Freight的个案，而是整个物流、交通乃至金融行业都面临的严峻挑战。Helix团伙在最近几周内已经连续攻击了多家运输公司、金融巨头和私募股权公司，他们专门针对那些拥有大量敏感数据和较高支付能力的机构。这敲响了警钟：即使是看似运行正常的系统，也可能在看不见的角落里被悄然渗透。</p>
+<h2 id="未来展望企业安全护城河的构建">未来展望：企业安全护城河的构建</h2>
+<p>面对这种以“人”为突破口的攻击，仅仅依靠技术防御是远远不够的。未来的企业安全护城河，必须是技术与人性的双重加固：</p>
+<ul>
+<li><strong>多因素认证（MFA）普及：</strong> 即使密码被骗，黑客也无法一步登天。</li>
+<li><strong>员工安全意识培训：</strong> 持续、生动的培训，让每一位员工都成为一道“人肉防火墙”，识别并抵御社会工程学攻击。</li>
+<li><strong>AI驱动的异常行为检测：</strong> 通过大数据和机器学习，实时监控用户行为和系统访问模式，及时发现异常。</li>
+<li><strong>零信任架构（Zero Trust Architecture）：</strong> 默认不信任任何内部或外部的用户和设备，所有访问都需要验证。</li>
+</ul>
+<p>在这场永无止境的数字攻防战中，我们作为科技极客，不仅要关注最新技术，更要深刻理解这些技术的双刃剑效应，并积极思考如何构建更坚固、更智能的安全防线。毕竟，当“黑科技”被滥用时，它带来的破坏力远超想象！我们必须时刻保持警惕，不断升级我们的“装备”和“战术”，才能在未来立于不败之地！</p>
+<div class="flex items-center space-x-4 my-8">
+    <span class="font-semibold">分享:</span>
+
+    
+    <a href="https://twitter.com/intent/tweet?url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260812-uber-freight%25E8%25A2%25AB%25E9%25BB%2591wtf%25E6%258F%25AD%25E7%25A7%2598helix%25E9%25BB%2591%25E5%25AE%25A2%25E5%259B%25A2%25E4%25BC%2599%25E7%259A%2584%25E7%25A4%25BE%25E5%25B7%25A5%25E9%25BB%2591%25E7%25A7%2591%25E6%258A%2580%25E4%25B8%258E%25E4%25BC%2581%25E4%25B8%259A%25E5%25AE%2589%25E5%2585%25A8%25E6%2594%25BB%25E9%2598%25B2%25E6%2588%2598%2f&text=Uber%20Freight%e8%a2%ab%e9%bb%91%ef%bc%8cWTF%ef%bc%9f%ef%bc%81%e6%8f%ad%e7%a7%98Helix%e9%bb%91%e5%ae%a2%e5%9b%a2%e4%bc%99%e7%9a%84%e7%a4%be%e5%b7%a5%e2%80%9c%e9%bb%91%e7%a7%91%e6%8a%80%e2%80%9d%e4%b8%8e%e4%bc%81%e4%b8%9a%e5%ae%89%e5%85%a8%e6%94%bb%e9%98%b2%e6%88%98%ef%bc%81" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260812-uber-freight%25E8%25A2%25AB%25E9%25BB%2591wtf%25E6%258F%25AD%25E7%25A7%2598helix%25E9%25BB%2591%25E5%25AE%25A2%25E5%259B%25A2%25E4%25BC%2599%25E7%259A%2584%25E7%25A4%25BE%25E5%25B7%25A5%25E9%25BB%2591%25E7%25A7%2591%25E6%258A%2580%25E4%25B8%258E%25E4%25BC%2581%25E4%25B8%259A%25E5%25AE%2589%25E5%2585%25A8%25E6%2594%25BB%25E9%2598%25B2%25E6%2588%2598%2f" target="_blank" rel="noopener"
+        class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+        </svg>
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fjohhhhnny.github.io%2fTeslaDaily%2fposts%2f20260812-uber-freight%25E8%25A2%25AB%25E9%25BB%2591wtf%25E6%258F%25AD%25E7%25A7%2598helix%25E9%25BB%2591%25E5%25AE%25A2%25E5%259B%25A2%25E4%25BC%2599%25E7%259A%2584%25E7%25A4%25BE%25E5%25B7%25A5%25E9%25BB%2591%25E7%25A7%2591%25E6%258A%2580%25E4%25B8%258E%25E4%25BC%2581%25E4%25B8%259A%25E5%25AE%2589%25E5%2585%25A8%25E6%2594%25BB%25E9%2598%25B2%25E6%2588%2598%2f&title=Uber%20Freight%e8%a2%ab%e9%bb%91%ef%bc%8cWTF%ef%bc%9f%ef%bc%81%e6%8f%ad%e7%a7%98Helix%e9%bb%91%e5%ae%a2%e5%9b%a2%e4%bc%99%e7%9a%84%e7%a4%be%e5%b7%a5%e2%80%9c%e9%bb%91%e7%a7%91%e6%8a%80%e2%80%9d%e4%b8%8e%e4%bc%81%e4%b8%9a%e5%ae%89%e5%85%a8%e6%94%bb%e9%98%b2%e6%88%98%ef%bc%81" target="_blank"
+        rel="noopener" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition-colors">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path
+                d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854V1.146zm4.943 12.248V6.169H2.542v7.225h2.401zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248-.822 0-1.359.54-1.359 1.248 0 .694.521 1.248 1.327 1.248h.016zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z" />
+        </svg>
+    </a>
+
+</div></div>
+
+    <footer id="content-footer" class="not-prose">
+
+      <div id="comment" class="border p-8 bg-zinc-100 rounded-2xl">
+
+        <h2 class="text-xl font-semibold">Comment</h2>
+
+        <p>Disqus comment here</p></div>
+
+      <div id="author-box" class="my-8 md:my-14 border p-8 bg-zinc-100 rounded-2xl"><img class="w-20 h-20 bg-zinc-100 rounded-full object-cover border border-zinc-200"
+          src="https://johhhhnny.github.io/TeslaDaily/images/authors/ada.png" alt="Ada"><h2 class="text-xl font-bold my-4">Written by : Ada</h2><p class="mb-4">硬核科技极客，痴迷于FSD算法、4680电池和Optimus机器人。用代码思维解析技术细节，不仅看热闹，更看门道。</p>
+
+        <ul class="flex flex-wrap space-x-4">
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z" />
+              </svg>
+              <span class="ml-2">Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z" />
+              </svg>
+              <span class="ml-2">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a class="flex items-center decoration-auto hover:underline" href="https://facebook.com/#" target="_blank"
+              rel="noopener">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                <path
+                  d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z" />
+
+              </svg>
+              <span class="ml-2">Instagram</span>
+            </a>
+          </li>
+
+        </ul>
+
+      </div>
+
+      <div id="related-post" class="">
+
+        <h2 class="text-xl md:text-2xl font-bold mb-6 md:mb-8">Recommended for You</h2><div class="grid grid-cols-1 md:grid-cols-2 gap-6"><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-rivian%E6%89%A9%E5%A4%A7r1sr1t%E5%8F%AC%E5%9B%9E%E8%BD%AC%E5%90%91%E7%81%AF%E6%95%85%E9%9A%9C%E5%BD%B1%E5%93%8D%E6%95%B0%E4%B8%87%E8%BE%86/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260319-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%86%8D%E9%81%ADnhtsa%E5%8D%87%E7%BA%A7%E5%AE%A1%E6%9F%A5320%E4%B8%87%E8%BE%86%E8%BD%A6%E9%9D%A2%E4%B8%B4%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA%E8%80%83%E9%AA%8C/16d1248e5093ff2c0c2bd97e4971f82a_hu_1ff967e2a4a3224b.jpg" alt="Rivian扩大R1S/R1T召回：转向灯故障影响数万辆" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">Rivian扩大R1S/R1T召回：转向灯故障影响数万辆</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">事件概述: Rivian宣布扩大R1S SUV和R1T皮卡的召回范围。 核心问题: 车辆转向灯存在故障，可能导致转向信号无法正常激活。 安全风险**: 转向灯故障增加交通事故风险，构成安全隐患。</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/subaojun.png" alt="速报君"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">速报君</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2026-08-12T20:42:24&#43;00:00">2026-08-12</time>
+		</div>
+
+	</div>
+</article><article class="relative group bg-zinc-100 hover:bg-blue-100 rounded-3xl h-full flex flex-col">
+
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-%E8%B5%B7%E4%BA%9Aev3%E5%BC%95%E7%88%863%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%A5%E4%B8%8B%E5%B8%82%E5%9C%BA%E5%85%A8%E7%90%83%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%A4%A7%E4%BC%97%E5%8C%96%E6%B5%AA%E6%BD%AE%E7%9A%84%E5%8A%A0%E9%80%9F%E5%99%A8%E4%B8%8E%E4%BA%A7%E4%B8%9A%E9%87%8D%E6%9E%84/"></a>
+
+	<figure class="w-full aspect-video overflow-hidden rounded-3xl flex-none"><img class="object-cover w-full h-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251119-%E6%8F%AD%E7%A7%98%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%BF%E4%B8%BA%E8%8B%B9%E6%9E%9Csiri%E8%BE%93%E8%A1%80grokai%E5%B7%A8%E5%A4%B4%E5%90%88%E4%BD%93%E6%98%AF%E9%A2%A0%E8%A6%86%E8%BF%98%E6%98%AF%E7%A9%BA%E8%B0%88/90b74d17f7a3e1706a235faa59439ed4_hu_ae40e835d15a437.jpg" alt="《起亚EV3引爆3万美元以下市场：全球电动汽车大众化浪潮的加速器与产业重构》" width="750"
+			height="422">
+
+	</figure>
+
+	<div class="p-6 flex flex-col flex-1 min-h-[180px]">
+
+		<h3 class="my-4 text-xl font-bold leading-relaxed line-clamp-3">《起亚EV3引爆3万美元以下市场：全球电动汽车大众化浪潮的加速器与产业重构》</h3>
+
+		<p class="text-normal leading-normal text-zinc-500 line-clamp-2">起亚EV3在美国市场宣布低于3万美元的定价，这不仅仅是一款新车型的发布，更是全球电动汽车产业迈向大众化、引爆规模化竞争的一个重要信号。作为深耕新能源与AI产业链的行业观察家，我们认为，这一价格策略将对全球电动汽车（EV）的商业模式、竞争格局、产业链上下游以及政策制定产生深远影响，预示着一个由成本效率驱动的新时代正在加速到来。</p>
+
+		<div class="flex items-center mt-auto pt-3 text-sm">
+
+			<div class="flex items-center gap-2">
+				<img src="https://johhhhnny.github.io/TeslaDaily/images/authors/lao_zhang.png" alt="老张"
+					class="w-6 h-6 rounded-full object-cover border border-zinc-200" style="width: 24px; height: 24px;">
+				<span class="font-medium text-zinc-600">老张</span>
+			</div>
+			<time class="ml-auto text-zinc-400" datetime=" 2026-08-12T16:56:57&#43;00:00">2026-08-12</time>
+		</div>
+
+	</div>
+</article>
+
+        </div>
+      </div>
+
+    </footer>
+
+  </article>
+
+  
+  <aside class="md:col-span-1"><div class="lg:sticky lg:top-8"><div class="rounded-2xl p-4 bg-zinc-100 mb-10">
+  <img class="aspect-video rounded" src="/TeslaDaily/images/ad-slot.svg" alt="广告位">
+  <p class="text-right text-xs mt-2 leading-none text-zinc-500">广告位</p>
+</div>
+	<div class="mb-6">
+		<h2 class="font-bold text-xl mb-4">目录</h2>
+		<div class="prose prose-sm max-w-none">
+			<nav id="TableOfContents">
+  <ul>
+    <li><a href="#helix团伙的硬核攻击手法不走寻常路">Helix团伙的“硬核”攻击手法：不走寻常路！</a></li>
+    <li><a href="#uber-freight的应对与行业警示">Uber Freight的应对与行业警示</a></li>
+    <li><a href="#未来展望企业安全护城河的构建">未来展望：企业安全护城河的构建</a></li>
+  </ul>
+</nav>
+		</div>
+	</div>
+	
+
+	<div class="space-y-6">
+
+		<h2 class="font-bold text-xl mb-8">Recent Post</h2>
+
+		<article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-uber-freight%E8%A2%AB%E9%BB%91wtf%E6%8F%AD%E7%A7%98helix%E9%BB%91%E5%AE%A2%E5%9B%A2%E4%BC%99%E7%9A%84%E7%A4%BE%E5%B7%A5%E9%BB%91%E7%A7%91%E6%8A%80%E4%B8%8E%E4%BC%81%E4%B8%9A%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260805-moove%E6%96%A9%E8%8E%B725%E4%BA%BF%E7%BE%8E%E5%85%83c%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%BC%B0%E5%80%BC%E9%A3%99%E5%8D%87%E8%87%B321%E4%BA%BF%E7%BE%8E%E5%85%83robotaxi%E5%B9%95%E5%90%8E%E8%BF%90%E8%90%A5%E5%95%86%E7%9A%84%E6%96%B0%E6%98%9F%E5%B4%9B%E8%B5%B7/625dba2e05ee33238e5b63c8d3b4483b_hu_6547ae4d81328084.png" alt="Uber Freight被黑，WTF？！揭秘Helix黑客团伙的社工“黑科技”与企业安全攻防战！" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Uber Freight被黑，WTF？！揭秘Helix黑客团伙的社工“黑科技”与企业安全攻防战！</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-rivian%E6%89%A9%E5%A4%A7r1sr1t%E5%8F%AC%E5%9B%9E%E8%BD%AC%E5%90%91%E7%81%AF%E6%95%85%E9%9A%9C%E5%BD%B1%E5%93%8D%E6%95%B0%E4%B8%87%E8%BE%86/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260319-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E5%86%8D%E9%81%ADnhtsa%E5%8D%87%E7%BA%A7%E5%AE%A1%E6%9F%A5320%E4%B8%87%E8%BE%86%E8%BD%A6%E9%9D%A2%E4%B8%B4%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA%E8%80%83%E9%AA%8C/16d1248e5093ff2c0c2bd97e4971f82a_hu_67e887420c82392.jpg" alt="Rivian扩大R1S/R1T召回：转向灯故障影响数万辆" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">Rivian扩大R1S/R1T召回：转向灯故障影响数万辆</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 速报君</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-%E8%B5%B7%E4%BA%9Aev3%E5%BC%95%E7%88%863%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%A5%E4%B8%8B%E5%B8%82%E5%9C%BA%E5%85%A8%E7%90%83%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%A4%A7%E4%BC%97%E5%8C%96%E6%B5%AA%E6%BD%AE%E7%9A%84%E5%8A%A0%E9%80%9F%E5%99%A8%E4%B8%8E%E4%BA%A7%E4%B8%9A%E9%87%8D%E6%9E%84/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20251119-%E6%8F%AD%E7%A7%98%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%BF%E4%B8%BA%E8%8B%B9%E6%9E%9Csiri%E8%BE%93%E8%A1%80grokai%E5%B7%A8%E5%A4%B4%E5%90%88%E4%BD%93%E6%98%AF%E9%A2%A0%E8%A6%86%E8%BF%98%E6%98%AF%E7%A9%BA%E8%B0%88/90b74d17f7a3e1706a235faa59439ed4_hu_7eee6eb83e2781f4.jpg" alt="《起亚EV3引爆3万美元以下市场：全球电动汽车大众化浪潮的加速器与产业重构》" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">《起亚EV3引爆3万美元以下市场：全球电动汽车大众化浪潮的加速器与产业重构》</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 老张</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-%E7%A0%B4%E6%99%93%E4%B9%8B%E5%89%8D%E7%89%B9%E6%96%AF%E6%8B%89model-3%E5%9C%A8%E9%9D%A9%E6%96%B0%E4%B8%8E%E4%BC%A0%E6%89%BF%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260812-%E7%A0%B4%E6%99%93%E4%B9%8B%E5%89%8D%E7%89%B9%E6%96%AF%E6%8B%89model-3%E5%9C%A8%E9%9D%A9%E6%96%B0%E4%B8%8E%E4%BC%A0%E6%89%BF%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3/01c1cf07518e4534df80a243c6f2e0bf_hu_72013196ec1c81d9.jpg" alt="破晓之前：特斯拉Model 3，在革新与传承的十字路口" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">破晓之前：特斯拉Model 3，在革新与传承的十字路口</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ 安妮</span>
+		</div>
+	</div>
+</article><article class="relative group flex flex-row">
+	<a class="insert-link" href="https://johhhhnny.github.io/TeslaDaily/posts/20260812-%E9%A6%96%E5%85%88%E5%B0%86%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98%E7%BF%BB%E8%AF%91%E6%88%90%E4%B8%AD%E6%96%87%E4%BD%9C%E4%B8%BA%E9%87%8D%E5%86%99%E5%90%8E%E6%96%87%E7%AB%A0%E7%9A%84%E6%A0%87%E9%A2%98/"></a>
+	<figure class="basis-1/3 aspect-video overflow-hidden rounded-2xl bg-zinc-100 relative"><img class="absolute inset-0 object-cover h-full w-full group-hover:scale-105 transition duration-500 cursor-pointer"
+			src="/TeslaDaily/images/20260812-%E9%A6%96%E5%85%88%E5%B0%86%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98%E7%BF%BB%E8%AF%91%E6%88%90%E4%B8%AD%E6%96%87%E4%BD%9C%E4%B8%BA%E9%87%8D%E5%86%99%E5%90%8E%E6%96%87%E7%AB%A0%E7%9A%84%E6%A0%87%E9%A2%98/82a22eb8840f56834e7c4cd2f743c81f_hu_afa4ba319a58b954.jpg" alt="首先将文章标题翻译成中文，作为重写后文章的标题：" width="320"
+			height="180">
+
+	</figure>
+	<div class="basis-2/3 self-center ml-4">
+		<h3 class="font-bold group-hover:underline decoration-auto">首先将文章标题翻译成中文，作为重写后文章的标题：</h3>
+		<div class="text-sm text-zinc-500 mt-1">
+			<span>✍️ Ada</span>
+		</div>
+	</div>
+</article>
+
+	</div>
+
+</div></aside>
+
+</div>
+
+</main>
+  <footer class="bg-zinc-100 py-10 md:py-14"><div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+
+  <div class="flex flex-wrap space-y-6 mb-4">
+
+    <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+
+      <a class="flex items-center group" href="https://johhhhnny.github.io/TeslaDaily/">
+        <img src="https://johhhhnny.github.io/TeslaDaily/images/logo-tire-classic.svg" width="32" height="32" alt="特斯拉日报" class="mr-2 group-hover:animate-spin" />
+        <span class="text-2xl font-semibold uppercase">特斯拉日报<span class="ml-2 opacity-70">TeslaDaily</span></span>
+      </a>
+
+      <p class="font-semibold">
+        每日精选，速览特斯拉动态。<br>专注高效与纯净的阅读体验。
+      </p>
+
+      <p>如果你是投资者、车主、从业者或研究者，特斯拉日报能帮助你更高效地获得关键信息与背景脉络。</p>
+
+    </div>
+
+    <div class="self-center flex flex-col w-full md:w-2/5">
+
+<ul id="social-media" class="flex items-center space-x-4">
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.facebook.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+				<path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.twitter.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865l8.875 11.633Z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.github.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
+			</svg>
+		</a>
+	</li>
+	<li>
+		<a class="w-12 h-12 rounded-full bg-white hover:bg-zinc-200 flex items-center justify-center p-2" href="https://www.instagram.com/#" target="_blank" rel="noopener noreferrer">
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="currentColor" viewBox="0 0 16 16">
+				  <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"></path>
+			</svg>
+		</a>
+	</li>
+</ul>
+
+    </div>
+    
+  </div>
+
+  <div class="my-8">
+    <ul class="flex items-center space-x-4">
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/">首页</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/daily/">每日特报</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/story/">特有故事</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/archives/">特新消息</a></li>
+      
+        <li><a class="decoration-auto hover:underline font-semibold" href="/TeslaDaily/about/">关于</a></li>
+      
+    </ul>
+  </div>
+
+  <div class="border-t pt-4">
+
+    <p class="text-sm">Copyright © 2025. All rights reserved. 特斯拉日报 · TeslaDaily</p>
+    <p class="text-xs text-zinc-500 mt-2">本网站为独立媒体，与特斯拉公司无关。</p>
+
+  </div>
+  
+</div></footer>
+      <script defer src="/TeslaDaily/js/search.2aa505bea24ff6b2d06c4b3bc39fbded258d41001148b9d70c82f1a803c2954d.js" integrity="sha256-KqUFvqJP9rLQbEs7w5&#43;97SWNQQARSLnXDILxqAPClU0=" crossorigin="anonymous"></script>
+</body>
+</html>
