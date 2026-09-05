@@ -5,7 +5,29 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:18:19 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Sat, 05 Sep 2026 14:51:51 &#43;0000</lastBuildDate><item>
+      <title>特斯拉FSD V14.3.9重磅升级：紧急时刻系统可“接管”人工驾驶，自动驾驶安全护城河再加固</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260905-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7%E7%B4%A7%E6%80%A5%E6%97%B6%E5%88%BB%E7%B3%BB%E7%BB%9F%E5%8F%AF%E6%8E%A5%E7%AE%A1%E4%BA%BA%E5%B7%A5%E9%A9%BE%E9%A9%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E6%8A%A4%E5%9F%8E%E6%B2%B3%E5%86%8D%E5%8A%A0%E5%9B%BA/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260905-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7%E7%B4%A7%E6%80%A5%E6%97%B6%E5%88%BB%E7%B3%BB%E7%BB%9F%E5%8F%AF%E6%8E%A5%E7%AE%A1%E4%BA%BA%E5%B7%A5%E9%A9%BE%E9%A9%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E6%8A%A4%E5%9F%8E%E6%B2%B3%E5%86%8D%E5%8A%A0%E5%9B%BA/</guid>
+      <pubDate>Sat, 05 Sep 2026 14:37:42 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 特斯拉近期向用户推送了FSD（Full Self-Driving）Supervised v14.3.9版本，此次更新引入了一项开创性的主动安全功能层，使得车辆在侦测到即将发生碰撞且自动紧急制动（AEB）可能不足以避免时，即使驾驶员正在手动操控车辆，FSD系统也能主动激活并介入。分析认为，这一升级标志着特斯拉在自动驾驶安全策略上迈出了关键一步，从被动辅助转向了…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260905-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7%E7%B4%A7%E6%80%A5%E6%97%B6%E5%88%BB%E7%B3%BB%E7%BB%9F%E5%8F%AF%E6%8E%A5%E7%AE%A1%E4%BA%BA%E5%B7%A5%E9%A9%BE%E9%A9%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E6%8A%A4%E5%9F%8E%E6%B2%B3%E5%86%8D%E5%8A%A0%E5%9B%BA/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>特斯拉近期向用户推送了FSD（Full Self-Driving）Supervised v14.3.9版本，此次更新引入了一项开创性的主动安全功能层，使得车辆在侦测到即将发生碰撞且自动紧急制动（AEB）可能不足以避免时，即使驾驶员正在手动操控车辆，FSD系统也能主动激活并介入。分析认为，这一升级标志着特斯拉在自动驾驶安全策略上迈出了关键一步，从被动辅助转向了…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260905-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7%E7%B4%A7%E6%80%A5%E6%97%B6%E5%88%BB%E7%B3%BB%E7%BB%9F%E5%8F%AF%E6%8E%A5%E7%AE%A1%E4%BA%BA%E5%B7%A5%E9%A9%BE%E9%A9%B6%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E6%8A%A4%E5%9F%8E%E6%B2%B3%E5%86%8D%E5%8A%A0%E5%9B%BA/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>FSD</category><category>自动驾驶</category></item><item>
+      <title>特斯拉日报 2026-09-05</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-05/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-05/</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[每日特报]</strong> 特斯拉开始推送FSD Supervised v14.3.9版本。 新版本引入“主动安全层”，可在驾驶员手动驾驶时自动接管车辆以规避即将发生的碰撞。 * 该功能利用转向、制动和加速协同作用，寻找更安全的避险路径，而非仅依赖直线制动。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-05/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
+<p>特斯拉开始推送FSD Supervised v14.3.9版本。 新版本引入“主动安全层”，可在驾驶员手动驾驶时自动接管车辆以规避即将发生的碰撞。 * 该功能利用转向、制动和加速协同作用，寻找更安全的避险路径，而非仅依赖直线制动。</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-05/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>每日特报</category><category>FSD</category><category>Optimus</category><category>Cybertruck</category><category>Model Y</category></item><item>
       <title>很抱歉，我无法完成您的请求。</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260904-%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E6%97%A0%E6%B3%95%E5%AE%8C%E6%88%90%E6%82%A8%E7%9A%84%E8%AF%B7%E6%B1%82/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260904-%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E6%97%A0%E6%B3%95%E5%AE%8C%E6%88%90%E6%82%A8%E7%9A%84%E8%AF%B7%E6%B1%82/</guid>
@@ -533,27 +555,5 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
 <p>近期，自动驾驶领域两大巨头——Alphabet旗下的Waymo与特斯拉——之间的技术路线之争再次白热化。在特斯拉即将正式发布其双座无人驾驶出租车Cybercab之际，Waymo突然高调发声，明确指出纯粹的“端到端”（End-to-End）AI系统在没有多传感器融合的情况下无法实现完全自动驾驶，且安全性不足。此举虽未点名特斯拉，但其指向性不言而喻，预示着这场价…</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%8F%8C%E9%9B%84%E5%AF%B9%E5%86%B3waymo%E5%85%88%E5%8F%91%E5%88%B6%E4%BA%BA%E7%9B%B4%E6%8C%87%E7%89%B9%E6%96%AF%E6%8B%89%E7%BA%AF%E8%A7%86%E8%A7%89%E8%B7%AF%E7%BA%BF%E7%9B%B2%E5%8C%BA/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>自动驾驶</category></item><item>
-      <title>《云端上的告别：Pivotal CEO谢幕，飞行汽车的梦想与现实》</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E4%BA%91%E7%AB%AF%E4%B8%8A%E7%9A%84%E5%91%8A%E5%88%ABpivotal-ceo%E8%B0%A2%E5%B9%95%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%A2%A6%E6%83%B3%E4%B8%8E%E7%8E%B0%E5%AE%9E/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E4%BA%91%E7%AB%AF%E4%B8%8A%E7%9A%84%E5%91%8A%E5%88%ABpivotal-ceo%E8%B0%A2%E5%B9%95%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%A2%A6%E6%83%B3%E4%B8%8E%E7%8E%B0%E5%AE%9E/</guid>
-      <pubDate>Tue, 01 Sep 2026 08:26:10 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 晨曦微露，硅谷的空气中弥漫着创新与变革的气息，无数梦想在此起飞，亦有无数故事在此悄然落幕。然而，当一则关于“飞行汽车”公司高层变动的消息传来时，其背后所承载的，远不止一次寻常的人事更迭。它像是一面镜子，映照出先进空中交通（Advanced Air Mobility, AAM）这一新兴产业在腾飞前的阵痛与抉择。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E4%BA%91%E7%AB%AF%E4%B8%8A%E7%9A%84%E5%91%8A%E5%88%ABpivotal-ceo%E8%B0%A2%E5%B9%95%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%A2%A6%E6%83%B3%E4%B8%8E%E7%8E%B0%E5%AE%9E/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>晨曦微露，硅谷的空气中弥漫着创新与变革的气息，无数梦想在此起飞，亦有无数故事在此悄然落幕。然而，当一则关于“飞行汽车”公司高层变动的消息传来时，其背后所承载的，远不止一次寻常的人事更迭。它像是一面镜子，映照出先进空中交通（Advanced Air Mobility, AAM）这一新兴产业在腾飞前的阵痛与抉择。</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E4%BA%91%E7%AB%AF%E4%B8%8A%E7%9A%84%E5%91%8A%E5%88%ABpivotal-ceo%E8%B0%A2%E5%B9%95%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E7%9A%84%E6%A2%A6%E6%83%B3%E4%B8%8E%E7%8E%B0%E5%AE%9E/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category></item><item>
-      <title>特斯拉Model Y L车主报告中国市场后悬架问题</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E7%89%B9%E6%96%AF%E6%8B%89model-y-l%E8%BD%A6%E4%B8%BB%E6%8A%A5%E5%91%8A%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%90%8E%E6%82%AC%E6%9E%B6%E9%97%AE%E9%A2%98/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E7%89%B9%E6%96%AF%E6%8B%89model-y-l%E8%BD%A6%E4%B8%BB%E6%8A%A5%E5%91%8A%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%90%8E%E6%82%AC%E6%9E%B6%E9%97%AE%E9%A2%98/</guid>
-      <pubDate>Tue, 01 Sep 2026 08:25:44 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 问题类型: 特斯拉Model Y L车型后悬架故障。 报告地点: 主要集中于中国市场车主。 首次报告: 2024年X月起，车主投诉量显著上升。 影响: 异响、行驶稳定性下降，部分车主担忧安全隐患。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E7%89%B9%E6%96%AF%E6%8B%89model-y-l%E8%BD%A6%E4%B8%BB%E6%8A%A5%E5%91%8A%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%90%8E%E6%82%AC%E6%9E%B6%E9%97%AE%E9%A2%98/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>问题类型: 特斯拉Model Y L车型后悬架故障。 报告地点: 主要集中于中国市场车主。 首次报告: 2024年X月起，车主投诉量显著上升。 影响: 异响、行驶稳定性下降，部分车主担忧安全隐患。</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260901-%E7%89%B9%E6%96%AF%E6%8B%89model-y-l%E8%BD%A6%E4%B8%BB%E6%8A%A5%E5%91%8A%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%90%8E%E6%82%AC%E6%9E%B6%E9%97%AE%E9%A2%98/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>特斯拉</category></item></channel>
+]]></content:encoded><category>特新消息</category><category>特斯拉</category><category>自动驾驶</category></item></channel>
 </rss>
