@@ -5,15 +5,26 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:53:55 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 09 Sep 2026 16:13:22 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉FSD重大安全升级，Cybercab批量集成星链，马斯克暗示欧洲扩张</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E9%87%8D%E5%A4%A7%E5%AE%89%E5%85%A8%E5%8D%87%E7%BA%A7cybercab%E6%89%B9%E9%87%8F%E9%9B%86%E6%88%90%E6%98%9F%E9%93%BE%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E6%AC%A7%E6%B4%B2%E6%89%A9%E5%BC%A0/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E9%87%8D%E5%A4%A7%E5%AE%89%E5%85%A8%E5%8D%87%E7%BA%A7cybercab%E6%89%B9%E9%87%8F%E9%9B%86%E6%88%90%E6%98%9F%E9%93%BE%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E6%AC%A7%E6%B4%B2%E6%89%A9%E5%BC%A0/</guid>
+      <pubDate>Wed, 09 Sep 2026 15:58:14 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉正向部分车主推送FSD v14.3.9版本及2026.27.6软件更新，核心新增“自动防撞规避”（Automatic Collision Evasion）安全功能。 功能描述: 在手动驾驶模式下，FSD系统将主动介入，以规避潜在碰撞并继续行驶。 触发场景: 前方碰撞迫在眉睫，仅靠制动不足以避免。 车辆检测到驾驶员注意力不足（如向后座伸手），或FSD（受…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E9%87%8D%E5%A4%A7%E5%AE%89%E5%85%A8%E5%8D%87%E7%BA%A7cybercab%E6%89%B9%E9%87%8F%E9%9B%86%E6%88%90%E6%98%9F%E9%93%BE%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E6%AC%A7%E6%B4%B2%E6%89%A9%E5%BC%A0/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉正向部分车主推送FSD v14.3.9版本及2026.27.6软件更新，核心新增“自动防撞规避”（Automatic Collision Evasion）安全功能。 功能描述: 在手动驾驶模式下，FSD系统将主动介入，以规避潜在碰撞并继续行驶。 触发场景: 前方碰撞迫在眉睫，仅靠制动不足以避免。 车辆检测到驾驶员注意力不足（如向后座伸手），或FSD（受…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E9%87%8D%E5%A4%A7%E5%AE%89%E5%85%A8%E5%8D%87%E7%BA%A7cybercab%E6%89%B9%E9%87%8F%E9%9B%86%E6%88%90%E6%98%9F%E9%93%BE%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BA%E6%AC%A7%E6%B4%B2%E6%89%A9%E5%BC%A0/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉日报 2026-09-09</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-09/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-09/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉德州超级工厂已开始批量交付集成星链（Starlink）硬件的Cybercab车型，星链模块首次实现标准化配置。 部分Model Y长轴距版也首次被观察到配备了星链模块。 星链集成旨在为Cybercab提供稳定连接，用于导航、客户服务、车队管理及高带宽娱乐。 特斯拉的Robotaxi服务已于9月3日在奥斯汀地区向公众开放。</p>
+<p>特斯拉FSD新版本2026.27.6开始向部分车主推送，核心功能“自动避撞”上线，FSD v14.3.9同步发布。 Cybertruck制造工艺持续优化，侧方中继摄像头外壳经过重新设计，利用被动气流提升雨天视线清晰度，且无额外成本。 * 特斯拉Cybercab正从得州超级工厂大批量出货，并首次将Starlink硬件作为标准配置内置，支持车内4K流媒体和高带宽游戏。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-09/">在特斯拉日报查看全文</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>特斯拉德州超级工厂已开始批量交付集成星链（Starlink）硬件的Cybercab车型，星链模块首次实现标准化配置。 部分Model Y长轴距版也首次被观察到配备了星链模块。 星链集成旨在为Cybercab提供稳定连接，用于导航、客户服务、车队管理及高带宽娱乐。 特斯拉的Robotaxi服务已于9月3日在奥斯汀地区向公众开放。</p>
+<p>特斯拉FSD新版本2026.27.6开始向部分车主推送，核心功能“自动避撞”上线，FSD v14.3.9同步发布。 Cybertruck制造工艺持续优化，侧方中继摄像头外壳经过重新设计，利用被动气流提升雨天视线清晰度，且无额外成本。 * 特斯拉Cybercab正从得州超级工厂大批量出货，并首次将Starlink硬件作为标准配置内置，支持车内4K流媒体和高带宽游戏。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-09/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>特斯拉Robotaxi车队在三周内规模激增七倍，接近200辆。 特斯拉Cybercab注册数量从7辆增至45辆，为本周发布会做准备。 特斯拉Robotaxi应用内迷你地图图标更新，预示未来FSD消费者版UI改进。 特斯拉车载Grok语音助手升级至“Think Fast 2.0”版本，提升速度和智能。 Waymo在特斯拉Cybercab发布前夕将其Robotaxi服务扩展至丹佛、圣地亚哥和坦帕，现已 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-01/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉FSD v14 Lite出海：智能驾驶全球化进程的策略洞察</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260831-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-lite%E5%87%BA%E6%B5%B7%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E7%9A%84%E7%AD%96%E7%95%A5%E6%B4%9E%E5%AF%9F/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260831-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-lite%E5%87%BA%E6%B5%B7%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E7%9A%84%E7%AD%96%E7%95%A5%E6%B4%9E%E5%AF%9F/</guid>
-      <pubDate>Mon, 31 Aug 2026 09:12:19 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉宣布正在为澳大利亚和新西兰市场开发FSD v14 Lite版本，这不仅是其全自动驾驶（FSD）技术全球化战略的最新一步，更是智能驾驶产业在全球范围进行市场渗透和商业模式验证的关键信号。作为深耕新能源与AI产业链的行业观察家，我们认为此举预示着自动驾驶技术将加速从少数重点市场向更多区域扩散，并在适应性、合规性与商业化之间寻求新的平衡点，对整个产业链的上下…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260831-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-lite%E5%87%BA%E6%B5%B7%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E7%9A%84%E7%AD%96%E7%95%A5%E6%B4%9E%E5%AF%9F/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>特斯拉宣布正在为澳大利亚和新西兰市场开发FSD v14 Lite版本，这不仅是其全自动驾驶（FSD）技术全球化战略的最新一步，更是智能驾驶产业在全球范围进行市场渗透和商业模式验证的关键信号。作为深耕新能源与AI产业链的行业观察家，我们认为此举预示着自动驾驶技术将加速从少数重点市场向更多区域扩散，并在适应性、合规性与商业化之间寻求新的平衡点，对整个产业链的上下…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260831-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v14-lite%E5%87%BA%E6%B5%B7%E6%99%BA%E8%83%BD%E9%A9%BE%E9%A9%B6%E5%85%A8%E7%90%83%E5%8C%96%E8%BF%9B%E7%A8%8B%E7%9A%84%E7%AD%96%E7%95%A5%E6%B4%9E%E5%AF%9F/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
