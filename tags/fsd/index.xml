@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Sep 2026 15:14:21 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 12 Sep 2026 18:15:41 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/tags/fsd/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>代码深处：特斯拉FSD v15的智驾安全攻防战</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260912-%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%A4%84%E7%89%B9%E6%96%AF%E6%8B%89fsd-v15%E7%9A%84%E6%99%BA%E9%A9%BE%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260912-%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%A4%84%E7%89%B9%E6%96%AF%E6%8B%89fsd-v15%E7%9A%84%E6%99%BA%E9%A9%BE%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/</guid>
@@ -21,10 +21,10 @@
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-12/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-12/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉FSD v15即将推出，重点提升安全性与事故规避能力。 特斯拉AI负责人Ashok Elluswamy确认v15将带来更早的危险预测和更快的反应时间。 FSD（监督版）在北美的重大碰撞事故间隔里程达510万至570万英里。 FSD（监督版）的重大碰撞事故发生率比美国平均水平低约7倍，比特斯拉手动驾驶（带主动安全功能）低2.4至2.7倍。 * 早期v15软件已用于部分Robotaxi运营。</p>
+<p>FSD v15升级预告：特斯拉AI负责人Ashok Elluswamy确认FSD v15将带来显著安全改进，包括更早的危险预测和更快的反应时间。 架构性进步：FSD v15被描述为一个更大的架构性步骤，采用更大的神经网络和更紧密的预测与控制耦合。 Robotaxi应用：部分Robotaxi运营已开始使用早期FSD v15软件。 安全功能拓展：特斯拉正向客户车辆推出“自动碰撞规避”等功能，即使在手动 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-12/">在特斯拉日报查看全文</a></p>
 ]]></description><content:encoded><![CDATA[
-<p>特斯拉FSD v15即将推出，重点提升安全性与事故规避能力。 特斯拉AI负责人Ashok Elluswamy确认v15将带来更早的危险预测和更快的反应时间。 FSD（监督版）在北美的重大碰撞事故间隔里程达510万至570万英里。 FSD（监督版）的重大碰撞事故发生率比美国平均水平低约7倍，比特斯拉手动驾驶（带主动安全功能）低2.4至2.7倍。 * 早期v15软件已用于部分Robotaxi运营。</p>
+<p>FSD v15升级预告：特斯拉AI负责人Ashok Elluswamy确认FSD v15将带来显著安全改进，包括更早的危险预测和更快的反应时间。 架构性进步：FSD v15被描述为一个更大的架构性步骤，采用更大的神经网络和更紧密的预测与控制耦合。 Robotaxi应用：部分Robotaxi运营已开始使用早期FSD v15软件。 安全功能拓展：特斯拉正向客户车辆推出“自动碰撞规避”等功能，即使在手动 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-12/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item><item>
