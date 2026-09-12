@@ -5,7 +5,18 @@
     <description>Recent content in Posts</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:34:39 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 12 Sep 2026 15:14:21 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>代码深处：特斯拉FSD v15的智驾安全攻防战</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260912-%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%A4%84%E7%89%B9%E6%96%AF%E6%8B%89fsd-v15%E7%9A%84%E6%99%BA%E9%A9%BE%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260912-%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%A4%84%E7%89%B9%E6%96%AF%E6%8B%89fsd-v15%E7%9A%84%E6%99%BA%E9%A9%BE%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/</guid>
+      <pubDate>Sat, 12 Sep 2026 15:02:02 &#43;0000</pubDate><description><![CDATA[
+<p>加州的阳光依旧炽热，沥青路面蒸腾着模糊的热浪。一辆特斯拉Model 3正平稳地行驶在街区小路上，车主的心情或许和这天气一样平静。然而，就在前方，一辆车猛地从路边停车位驶出，毫无预兆地切入主车道。刹那间，电光石火，Model 3的系统迅速介入，车辆猛地向一侧规避，一场本可能发生的碰撞被化解于无形。车主心跳加速，冷汗涔涔。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260912-%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%A4%84%E7%89%B9%E6%96%AF%E6%8B%89fsd-v15%E7%9A%84%E6%99%BA%E9%A9%BE%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>加州的阳光依旧炽热，沥青路面蒸腾着模糊的热浪。一辆特斯拉Model 3正平稳地行驶在街区小路上，车主的心情或许和这天气一样平静。然而，就在前方，一辆车猛地从路边停车位驶出，毫无预兆地切入主车道。刹那间，电光石火，Model 3的系统迅速介入，车辆猛地向一侧规避，一场本可能发生的碰撞被化解于无形。车主心跳加速，冷汗涔涔。</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260912-%E4%BB%A3%E7%A0%81%E6%B7%B1%E5%A4%84%E7%89%B9%E6%96%AF%E6%8B%89fsd-v15%E7%9A%84%E6%99%BA%E9%A9%BE%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E6%88%98/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉Oasis超充站假日峰值：6038次充电背后的市场信号与投资潜力</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260911-%E7%89%B9%E6%96%AF%E6%8B%89oasis%E8%B6%85%E5%85%85%E7%AB%99%E5%81%87%E6%97%A5%E5%B3%B0%E5%80%BC6038%E6%AC%A1%E5%85%85%E7%94%B5%E8%83%8C%E5%90%8E%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BF%A1%E5%8F%B7%E4%B8%8E%E6%8A%95%E8%B5%84%E6%BD%9C%E5%8A%9B/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260911-%E7%89%B9%E6%96%AF%E6%8B%89oasis%E8%B6%85%E5%85%85%E7%AB%99%E5%81%87%E6%97%A5%E5%B3%B0%E5%80%BC6038%E6%AC%A1%E5%85%85%E7%94%B5%E8%83%8C%E5%90%8E%E7%9A%84%E5%B8%82%E5%9C%BA%E4%BF%A1%E5%8F%B7%E4%B8%8E%E6%8A%95%E8%B5%84%E6%BD%9C%E5%8A%9B/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>网约车平台inDrive正积极拓展核心业务，将广告、配送、金融服务等纳入其生态系统，重点布局新兴市场。此举旨在超越传统网约车的薄利模式，捕捉更广泛的消费者支出。</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260909-indrive%E5%A4%9A%E5%85%83%E5%8C%96%E6%88%98%E7%95%A5%E5%8F%91%E5%8A%9B%E5%B9%BF%E5%91%8A%E9%85%8D%E9%80%81%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8A%A1/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉 Cybercab 杀疯了？！自动驾驶出行新纪元降临欧洲！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89-cybercab-%E6%9D%80%E7%96%AF%E4%BA%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E8%A1%8C%E6%96%B0%E7%BA%AA%E5%85%83%E9%99%8D%E4%B8%B4%E6%AC%A7%E6%B4%B2/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89-cybercab-%E6%9D%80%E7%96%AF%E4%BA%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E8%A1%8C%E6%96%B0%E7%BA%AA%E5%85%83%E9%99%8D%E4%B8%B4%E6%AC%A7%E6%B4%B2/</guid>
-      <pubDate>Wed, 09 Sep 2026 15:58:37 &#43;0000</pubDate><description><![CDATA[
-<p>兄弟们，大新闻！马斯克又出来炸场了！最近，这位科技狂人亲口证实，特斯拉的未来出行神器 Cybercab 很有可能进军欧洲市场。这消息简直是平地一声雷，瞬间点燃了我们这些对未来出行充满无限遐想的极客们的热情！这不只是一辆车，这可是特斯拉描绘的未来城市出行的终极蓝图，一旦落地欧洲，那可真是要掀翻整个出行市场，带来一场彻底的范式革命啊！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89-cybercab-%E6%9D%80%E7%96%AF%E4%BA%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E8%A1%8C%E6%96%B0%E7%BA%AA%E5%85%83%E9%99%8D%E4%B8%B4%E6%AC%A7%E6%B4%B2/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>兄弟们，大新闻！马斯克又出来炸场了！最近，这位科技狂人亲口证实，特斯拉的未来出行神器 Cybercab 很有可能进军欧洲市场。这消息简直是平地一声雷，瞬间点燃了我们这些对未来出行充满无限遐想的极客们的热情！这不只是一辆车，这可是特斯拉描绘的未来城市出行的终极蓝图，一旦落地欧洲，那可真是要掀翻整个出行市场，带来一场彻底的范式革命啊！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260909-%E7%89%B9%E6%96%AF%E6%8B%89-cybercab-%E6%9D%80%E7%96%AF%E4%BA%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%87%BA%E8%A1%8C%E6%96%B0%E7%BA%AA%E5%85%83%E9%99%8D%E4%B8%B4%E6%AC%A7%E6%B4%B2/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
