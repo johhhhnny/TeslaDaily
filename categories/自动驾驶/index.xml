@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:12:28 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Mon, 21 Sep 2026 23:19:41 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉FSD软件瑕疵透视：自动驾驶AI感知系统迭代的深层挑战与产业启示</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260921-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BD%AF%E4%BB%B6%E7%91%95%E7%96%B5%E9%80%8F%E8%A7%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E8%BF%AD%E4%BB%A3%E7%9A%84%E6%B7%B1%E5%B1%82%E6%8C%91%E6%88%98%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%90%AF%E7%A4%BA/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260921-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BD%AF%E4%BB%B6%E7%91%95%E7%96%B5%E9%80%8F%E8%A7%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E8%BF%AD%E4%BB%A3%E7%9A%84%E6%B7%B1%E5%B1%82%E6%8C%91%E6%88%98%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%90%AF%E7%A4%BA/</guid>
+      <pubDate>Mon, 21 Sep 2026 23:02:53 &#43;0000</pubDate><description><![CDATA[
+<p>近期，特斯拉FSD（Full Self-Driving）V14.3.9版本中出现的虚假摄像头服务警报软件缺陷，虽被特斯拉官方迅速确认为非硬件问题，并承诺通过OTA（Over-The-Air）更新修复，但这一看似微小的技术瑕疵，却为我们提供了一个审视自动驾驶（Autonomous Driving, AD）AI感知系统复杂性、软件定义汽车（Software-De…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260921-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BD%AF%E4%BB%B6%E7%91%95%E7%96%B5%E9%80%8F%E8%A7%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E8%BF%AD%E4%BB%A3%E7%9A%84%E6%B7%B1%E5%B1%82%E6%8C%91%E6%88%98%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%90%AF%E7%A4%BA/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>近期，特斯拉FSD（Full Self-Driving）V14.3.9版本中出现的虚假摄像头服务警报软件缺陷，虽被特斯拉官方迅速确认为非硬件问题，并承诺通过OTA（Over-The-Air）更新修复，但这一看似微小的技术瑕疵，却为我们提供了一个审视自动驾驶（Autonomous Driving, AD）AI感知系统复杂性、软件定义汽车（Software-De…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260921-%E7%89%B9%E6%96%AF%E6%8B%89fsd%E8%BD%AF%E4%BB%B6%E7%91%95%E7%96%B5%E9%80%8F%E8%A7%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6ai%E6%84%9F%E7%9F%A5%E7%B3%BB%E7%BB%9F%E8%BF%AD%E4%BB%A3%E7%9A%84%E6%B7%B1%E5%B1%82%E6%8C%91%E6%88%98%E4%B8%8E%E4%BA%A7%E4%B8%9A%E5%90%AF%E7%A4%BA/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>特斯拉本季度即将推出的功能与活动</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260921-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%AC%E5%AD%A3%E5%BA%A6%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E6%B4%BB%E5%8A%A8/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260921-%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%AC%E5%AD%A3%E5%BA%A6%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9A%84%E5%8A%9F%E8%83%BD%E4%B8%8E%E6%B4%BB%E5%8A%A8/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>夜幕低垂，硅谷山峦的剪影在星光下显得格外深邃。在无数个这样的夜晚，特拉维斯·卡兰尼克——那位曾一手缔造出行帝国Uber、又因风暴黯然离场的传奇人物——或许正凝视着窗外，心中激荡着一股未竟的宏图。他曾用Uber改变了世界的出行方式，如今，他带着他那蛰伏已久的新公司Atoms，再次站在了时代的风口浪尖。这一次，他瞄准的，是无人驾驶的未来，一场新的、充满未知与挑战…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260906-%E6%9C%AA%E7%AB%9F%E4%B9%8B%E6%A3%8B%E5%B1%80%E5%8D%A1%E5%85%B0%E5%B0%BC%E5%85%8B%E4%B8%8E%E4%BB%96%E9%82%A3%E8%BE%86%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%87%BA%E7%A7%9F%E8%BD%A6/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉FSD v14.3.9前瞻：主动避障技术如何重塑自动驾驶产业格局</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260906-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E5%89%8D%E7%9E%BB%E4%B8%BB%E5%8A%A8%E9%81%BF%E9%9A%9C%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260906-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E5%89%8D%E7%9E%BB%E4%B8%BB%E5%8A%A8%E9%81%BF%E9%9A%9C%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/</guid>
-      <pubDate>Sun, 06 Sep 2026 03:06:04 &#43;0000</pubDate><description><![CDATA[
-<p>特斯拉（Tesla）FSD（Full Self-Driving）系统v14.3.9版本，预计在2026年下半年通过内部员工测试发布，其核心亮点是引入了革命性的“自动碰撞避免”功能。这一功能标志着自动驾驶技术从被动预警向主动干预的关键跃迁，预示着L3（有条件自动驾驶）及更高等级自动驾驶商业化进程的加速。作为深耕新能源与AI产业链的观察者，本文将从宏观视角深入剖…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260906-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E5%89%8D%E7%9E%BB%E4%B8%BB%E5%8A%A8%E9%81%BF%E9%9A%9C%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>特斯拉（Tesla）FSD（Full Self-Driving）系统v14.3.9版本，预计在2026年下半年通过内部员工测试发布，其核心亮点是引入了革命性的“自动碰撞避免”功能。这一功能标志着自动驾驶技术从被动预警向主动干预的关键跃迁，预示着L3（有条件自动驾驶）及更高等级自动驾驶商业化进程的加速。作为深耕新能源与AI产业链的观察者，本文将从宏观视角深入剖…</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260906-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E5%89%8D%E7%9E%BB%E4%B8%BB%E5%8A%A8%E9%81%BF%E9%9A%9C%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%A1%91%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
