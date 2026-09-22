@@ -5,7 +5,18 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Sep 2026 09:12:04 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 22 Sep 2026 16:35:17 &#43;0000</lastBuildDate><atom:link href="https://johhhhnny.github.io/TeslaDaily/categories/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>特斯拉FSD v14.3.9故障风波：软件缺陷如何影响自动驾驶的信任与估值？</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260922-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E6%95%85%E9%9A%9C%E9%A3%8E%E6%B3%A2%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E4%BF%A1%E4%BB%BB%E4%B8%8E%E4%BC%B0%E5%80%BC/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260922-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E6%95%85%E9%9A%9C%E9%A3%8E%E6%B3%A2%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E4%BF%A1%E4%BB%BB%E4%B8%8E%E4%BC%B0%E5%80%BC/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:20:43 &#43;0000</pubDate><description><![CDATA[
+<p>特斯拉最新发布的FSD（Full Self-Driving）v14.3.9版本软件近日被曝出存在导致“摄像头服务警报”误报的严重软件缺陷，公司已确认此问题。这一事件再次将公众和投资者对自动驾驶技术成熟度与可靠性的关注推向风口浪尖。作为资深科技投资分析师，我们认为，尽管此类软件bug在复杂系统开发中屡见不鲜，但对于肩负着重塑交通出行未来的FSD而言，任何瑕疵都…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260922-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E6%95%85%E9%9A%9C%E9%A3%8E%E6%B3%A2%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E4%BF%A1%E4%BB%BB%E4%B8%8E%E4%BC%B0%E5%80%BC/">在特斯拉日报查看全文</a></p>
+]]></description><content:encoded><![CDATA[
+<p>特斯拉最新发布的FSD（Full Self-Driving）v14.3.9版本软件近日被曝出存在导致“摄像头服务警报”误报的严重软件缺陷，公司已确认此问题。这一事件再次将公众和投资者对自动驾驶技术成熟度与可靠性的关注推向风口浪尖。作为资深科技投资分析师，我们认为，尽管此类软件bug在复杂系统开发中屡见不鲜，但对于肩负着重塑交通出行未来的FSD而言，任何瑕疵都…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260922-%E7%89%B9%E6%96%AF%E6%8B%89fsd-v1439%E6%95%85%E9%9A%9C%E9%A3%8E%E6%B3%A2%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E7%9A%84%E4%BF%A1%E4%BB%BB%E4%B8%8E%E4%BC%B0%E5%80%BC/">在特斯拉日报查看全文</a></p>
+]]></content:encoded>
+    </item><item>
       <title>车企持续拒绝特斯拉FSD授权：核心障碍浮现</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260922-%E8%BD%A6%E4%BC%81%E6%8C%81%E7%BB%AD%E6%8B%92%E7%BB%9D%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%88%E6%9D%83%E6%A0%B8%E5%BF%83%E9%9A%9C%E7%A2%8D%E6%B5%AE%E7%8E%B0/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260922-%E8%BD%A6%E4%BC%81%E6%8C%81%E7%BB%AD%E6%8B%92%E7%BB%9D%E7%89%B9%E6%96%AF%E6%8B%89fsd%E6%8E%88%E6%9D%83%E6%A0%B8%E5%BF%83%E9%9A%9C%E7%A2%8D%E6%B5%AE%E7%8E%B0/</guid>
@@ -323,17 +334,6 @@
 ]]></description><content:encoded><![CDATA[
 <p>埃隆·马斯克（Elon Musk）近期暗示特斯拉Cybercab有望进军欧洲市场，这一表态不仅是特斯拉自身业务扩张的关键一步，更标志着全球自动驾驶商业化进程进入了全球化深水区。作为深耕新能源与AI产业链的行业观察家，我们认为，此举将对全球自动驾驶产业的上下游、商业模式、竞争格局以及政策制定产生深远影响，尤其是在技术创新与复杂监管环境之间的博弈中，展现出自动驾…</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260908-%E7%89%B9%E6%96%AF%E6%8B%89cybercab%E5%85%A8%E7%90%83%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%95%86%E4%B8%9A%E5%8C%96%E8%BF%9B%E7%A8%8B%E4%B8%AD%E7%9A%84%E6%AC%A7%E6%B4%B2%E6%A3%8B%E5%B1%80%E4%B8%8E%E7%9B%91%E7%AE%A1%E5%8D%9A%E5%BC%88/">在特斯拉日报查看全文</a></p>
-]]></content:encoded>
-    </item><item>
-      <title>特斯拉FSD (Supervised) 欧洲再下一城：斯洛文尼亚开绿灯！全自动驾驶时代提速了吗？！</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260907-%E7%89%B9%E6%96%AF%E6%8B%89fsd-supervised-%E6%AC%A7%E6%B4%B2%E5%86%8D%E4%B8%8B%E4%B8%80%E5%9F%8E%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E5%BC%80%E7%BB%BF%E7%81%AF%E5%85%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%97%B6%E4%BB%A3%E6%8F%90%E9%80%9F%E4%BA%86%E5%90%97/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260907-%E7%89%B9%E6%96%AF%E6%8B%89fsd-supervised-%E6%AC%A7%E6%B4%B2%E5%86%8D%E4%B8%8B%E4%B8%80%E5%9F%8E%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E5%BC%80%E7%BB%BF%E7%81%AF%E5%85%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%97%B6%E4%BB%A3%E6%8F%90%E9%80%9F%E4%BA%86%E5%90%97/</guid>
-      <pubDate>Mon, 07 Sep 2026 22:31:36 &#43;0000</pubDate><description><![CDATA[
-<p>各位硬核极客们，激动人心的消息来了！特斯拉FSD (Supervised) 在欧洲的扩张版图又添新丁——斯洛文尼亚正式批准了这项黑科技上路！这简直是打破了欧洲市场两个月的“审批荒”，让沉寂已久的FSD欧洲部署再次燃起了熊熊烈火！作为一名资深早期采用者，我看到这个消息时，肾上腺素直接飙升，这不就是我们一直在期待的未来吗？！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260907-%E7%89%B9%E6%96%AF%E6%8B%89fsd-supervised-%E6%AC%A7%E6%B4%B2%E5%86%8D%E4%B8%8B%E4%B8%80%E5%9F%8E%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E5%BC%80%E7%BB%BF%E7%81%AF%E5%85%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%97%B6%E4%BB%A3%E6%8F%90%E9%80%9F%E4%BA%86%E5%90%97/">在特斯拉日报查看全文</a></p>
-]]></description><content:encoded><![CDATA[
-<p>各位硬核极客们，激动人心的消息来了！特斯拉FSD (Supervised) 在欧洲的扩张版图又添新丁——斯洛文尼亚正式批准了这项黑科技上路！这简直是打破了欧洲市场两个月的“审批荒”，让沉寂已久的FSD欧洲部署再次燃起了熊熊烈火！作为一名资深早期采用者，我看到这个消息时，肾上腺素直接飙升，这不就是我们一直在期待的未来吗？！</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260907-%E7%89%B9%E6%96%AF%E6%8B%89fsd-supervised-%E6%AC%A7%E6%B4%B2%E5%86%8D%E4%B8%8B%E4%B8%80%E5%9F%8E%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A%E5%BC%80%E7%BB%BF%E7%81%AF%E5%85%A8%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E6%97%B6%E4%BB%A3%E6%8F%90%E9%80%9F%E4%BA%86%E5%90%97/">在特斯拉日报查看全文</a></p>
 ]]></content:encoded>
     </item></channel>
 </rss>
