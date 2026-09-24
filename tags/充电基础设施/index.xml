@@ -5,7 +5,7 @@
     <description>特斯拉日报(TeslaDaily)提供特斯拉、SpaceX、FSD自动驾驶、电动汽车及人工智能领域的最新资讯。每日精选深度分析与实时动态，助您把握科技前沿脉搏。</description>
     <generator>Hugo + Custom</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Sep 2026 22:53:13 &#43;0000</lastBuildDate><item>
+    <lastBuildDate>Thu, 24 Sep 2026 03:24:44 &#43;0000</lastBuildDate><item>
       <title>Zoox亚特兰大测试车队停摆：自动驾驶安全与技术路线的深度拷问</title>
       <link>https://johhhhnny.github.io/TeslaDaily/posts/20260923-zoox%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E6%B5%8B%E8%AF%95%E8%BD%A6%E9%98%9F%E5%81%9C%E6%91%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E4%B8%8E%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E7%9A%84%E6%B7%B1%E5%BA%A6%E6%8B%B7%E9%97%AE/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260923-zoox%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E6%B5%8B%E8%AF%95%E8%BD%A6%E9%98%9F%E5%81%9C%E6%91%86%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E5%AE%89%E5%85%A8%E4%B8%8E%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF%E7%9A%84%E6%B7%B1%E5%BA%A6%E6%8B%B7%E9%97%AE/</guid>
@@ -138,15 +138,26 @@
 <p>近日，特斯拉（Tesla）在电动重卡市场取得里程碑式突破，与美国新兴托运商和承运商联盟ZET SCALE达成一项历史性协议，成为其首批2,500辆电动Class 8卡车订单的主要制造商。分析认为，这笔巨额订单不仅将使美国现有的电动重型卡车数量几乎翻倍，更预示着商业物流领域向电动化转型的步伐正在显著加速，对特斯拉的商业模式和市场估值都将产生深远影响。</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260923-%E7%89%B9%E6%96%AF%E6%8B%89semi%E6%96%A9%E8%8E%B7%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E8%AE%A2%E5%8D%95%E5%95%86%E4%B8%9A%E7%89%A9%E6%B5%81%E7%94%B5%E5%8A%A8%E5%8C%96%E6%8F%90%E9%80%9F%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>特新消息</category></item><item>
+      <title>Rivian这波OTA神操作，把召回玩出了新高度？！倒车影像bug秒修复，这才是未来！</title>
+      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260923-rivian%E8%BF%99%E6%B3%A2ota%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%8A%8A%E5%8F%AC%E5%9B%9E%E7%8E%A9%E5%87%BA%E4%BA%86%E6%96%B0%E9%AB%98%E5%BA%A6%E5%80%92%E8%BD%A6%E5%BD%B1%E5%83%8Fbug%E7%A7%92%E4%BF%AE%E5%A4%8D%E8%BF%99%E6%89%8D%E6%98%AF%E6%9C%AA%E6%9D%A5/</link>
+      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260923-rivian%E8%BF%99%E6%B3%A2ota%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%8A%8A%E5%8F%AC%E5%9B%9E%E7%8E%A9%E5%87%BA%E4%BA%86%E6%96%B0%E9%AB%98%E5%BA%A6%E5%80%92%E8%BD%A6%E5%BD%B1%E5%83%8Fbug%E7%A7%92%E4%BF%AE%E5%A4%8D%E8%BF%99%E6%89%8D%E6%98%AF%E6%9C%AA%E6%9D%A5/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:15:10 &#43;0000</pubDate><description><![CDATA[
+<p><strong>[特新消息]</strong> 作为一名狂热的科技极客和早期采用者，我常常感叹科技如何颠覆传统，而Rivian这次对倒车摄像头问题的处理，简直是“软件定义汽车”理念的最佳注脚！当传统车企还在为物理召回焦头烂额时，Rivian直接用一次OTA（Over-The-Air，空中下载）更新，将潜在的安全隐患“无形”解决，这不就是我们这些极客一直以来对未来汽车的终极幻想吗？这种效率和用户体验，简直是…</p>
+<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260923-rivian%E8%BF%99%E6%B3%A2ota%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%8A%8A%E5%8F%AC%E5%9B%9E%E7%8E%A9%E5%87%BA%E4%BA%86%E6%96%B0%E9%AB%98%E5%BA%A6%E5%80%92%E8%BD%A6%E5%BD%B1%E5%83%8Fbug%E7%A7%92%E4%BF%AE%E5%A4%8D%E8%BF%99%E6%89%8D%E6%98%AF%E6%9C%AA%E6%9D%A5/">在特斯拉日报查看全文 →</a></p>
+]]></description><content:encoded><![CDATA[
+<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
+<p>作为一名狂热的科技极客和早期采用者，我常常感叹科技如何颠覆传统，而Rivian这次对倒车摄像头问题的处理，简直是“软件定义汽车”理念的最佳注脚！当传统车企还在为物理召回焦头烂额时，Rivian直接用一次OTA（Over-The-Air，空中下载）更新，将潜在的安全隐患“无形”解决，这不就是我们这些极客一直以来对未来汽车的终极幻想吗？这种效率和用户体验，简直是…</p>
+<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260923-rivian%E8%BF%99%E6%B3%A2ota%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%8A%8A%E5%8F%AC%E5%9B%9E%E7%8E%A9%E5%87%BA%E4%BA%86%E6%96%B0%E9%AB%98%E5%BA%A6%E5%80%92%E8%BD%A6%E5%BD%B1%E5%83%8Fbug%E7%A7%92%E4%BF%AE%E5%A4%8D%E8%BF%99%E6%89%8D%E6%98%AF%E6%9C%AA%E6%9D%A5/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
+]]></content:encoded><category>特新消息</category><category>OTA</category></item><item>
       <title>特斯拉日报 2026-09-23</title>
       <link>https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-23/</link>
       <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-23/</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[每日特报]</strong> FSD v14.2 Lite首次向HW3 Model S/Model X车型推送，更新版本为2026.27.10和2026.27.11。 特斯拉Semi获得美国史上最大电动卡车订单，成为ZET SCALE联盟2,500辆Class 8电动卡车初始订单的主要制造商。 特斯拉Powerwall 3的反向兼容功能扩展至北美，允许现有Powerwall 2用户增加Powerwall 3单元。 特斯拉App意外泄露Optimus Gen 3机器人生产就绪设计，展示流线型外观和改进的手部功能。 特斯 …</p>
+<p><strong>[每日特报]</strong> FSD v14.2 Lite开始向HW3 Model S和Model X车型推送，这是S/X首次获得v14 Lite版本。 特斯拉Semi电动卡车获得美国史上最大的电动卡车订单，作为ZET SCALE联盟的主要制造商，首批订单2,500辆。 Powerwall 3在北美地区扩展了对Powerwall 2的向后兼容性，允许现有用户混合搭配新旧电池单元。 特斯拉App泄露了Optimus Gen 3机器人的新设计，展示了更流线型、为量产准备的外观。 沉浸式音效Immersive Audio X功能在 …</p>
 <p><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-23/">在特斯拉日报查看全文 →</a></p>
 ]]></description><content:encoded><![CDATA[
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
-<p>FSD v14.2 Lite首次向HW3 Model S/Model X车型推送，更新版本为2026.27.10和2026.27.11。 特斯拉Semi获得美国史上最大电动卡车订单，成为ZET SCALE联盟2,500辆Class 8电动卡车初始订单的主要制造商。 特斯拉Powerwall 3的反向兼容功能扩展至北美，允许现有Powerwall 2用户增加Powerwall 3单元。 特斯拉App意外泄露Optimus Gen 3机器人生产就绪设计，展示流线型外观和改进的手部功能。 特斯 …</p>
+<p>FSD v14.2 Lite开始向HW3 Model S和Model X车型推送，这是S/X首次获得v14 Lite版本。 特斯拉Semi电动卡车获得美国史上最大的电动卡车订单，作为ZET SCALE联盟的主要制造商，首批订单2,500辆。 Powerwall 3在北美地区扩展了对Powerwall 2的向后兼容性，允许现有用户混合搭配新旧电池单元。 特斯拉App泄露了Optimus Gen 3机器人的新设计，展示了更流线型、为量产准备的外观。 沉浸式音效Immersive Audio X功能在 …</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-23/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
 ]]></content:encoded><category>每日特报</category><category>FSD</category><category>Autopilot</category><category>Optimus</category><category>Gigafactory</category><category>4680</category><category>NACS</category></item><item>
       <title>Waymo纳什维尔向13岁青少年开放自动驾驶出租车服务</title>
@@ -544,16 +555,5 @@
 <div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">每日特报</span></div>
 <p>美国国家公路交通安全管理局（NHTSA）与SAE国际合作，启动ASCEND计划，旨在加速数据驱动的自动驾驶汽车性能标准制定。 特斯拉AI助手Grok将随即将发布的2026.32.6软件更新，扩展至中东多个国家和摩洛哥市场。 联邦航空管理局（FAA）在SpaceX麦格雷戈测试场设立临时禁飞区，预示特斯拉Roadster发布会可能包含火箭推进器演示。 埃隆·马斯克透露，The Boring Company正在规划连接奥斯汀和圣安东尼奥的Hyperloop前身项目。</p>
 <p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/daily/daily-%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A5%E6%8A%A5-2026-09-20/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>每日特报</category><category>Supercharger</category><category>Cybertruck</category><category>Model 3</category><category>Model Y</category><category>Powerwall</category></item><item>
-      <title>SpaceX限制麦格雷戈空域，或为特斯拉Roadster活动准备</title>
-      <link>https://johhhhnny.github.io/TeslaDaily/posts/20260919-spacex%E9%99%90%E5%88%B6%E9%BA%A6%E6%A0%BC%E9%9B%B7%E6%88%88%E7%A9%BA%E5%9F%9F%E6%88%96%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89roadster%E6%B4%BB%E5%8A%A8%E5%87%86%E5%A4%87/</link>
-      <guid isPermaLink="true">https://johhhhnny.github.io/TeslaDaily/posts/20260919-spacex%E9%99%90%E5%88%B6%E9%BA%A6%E6%A0%BC%E9%9B%B7%E6%88%88%E7%A9%BA%E5%9F%9F%E6%88%96%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89roadster%E6%B4%BB%E5%8A%A8%E5%87%86%E5%A4%87/</guid>
-      <pubDate>Sat, 19 Sep 2026 22:08:15 &#43;0000</pubDate><description><![CDATA[
-<p><strong>[特新消息]</strong> 【内容缺失声明】 因原文内容缺失，以下仅为基于原标题的结构框架和假设性内容，以展示极简新闻快报的改写风格。实际新闻快报将填充具体事实、数据和专业分析。</p>
-<p><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260919-spacex%E9%99%90%E5%88%B6%E9%BA%A6%E6%A0%BC%E9%9B%B7%E6%88%88%E7%A9%BA%E5%9F%9F%E6%88%96%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89roadster%E6%B4%BB%E5%8A%A8%E5%87%86%E5%A4%87/">在特斯拉日报查看全文 →</a></p>
-]]></description><content:encoded><![CDATA[
-<div style="margin-bottom: 10px;"><span style="background-color: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-size: 12px;">特新消息</span></div>
-<p>【内容缺失声明】 因原文内容缺失，以下仅为基于原标题的结构框架和假设性内容，以展示极简新闻快报的改写风格。实际新闻快报将填充具体事实、数据和专业分析。</p>
-<p style="margin-top: 15px;"><a href="https://johhhhnny.github.io/TeslaDaily/posts/20260919-spacex%E9%99%90%E5%88%B6%E9%BA%A6%E6%A0%BC%E9%9B%B7%E6%88%88%E7%A9%BA%E5%9F%9F%E6%88%96%E4%B8%BA%E7%89%B9%E6%96%AF%E6%8B%89roadster%E6%B4%BB%E5%8A%A8%E5%87%86%E5%A4%87/" style="color: #0066cc; text-decoration: none;">📖 在特斯拉日报查看全文 →</a></p>
-]]></content:encoded><category>特新消息</category><category>Spacex</category></item></channel>
+]]></content:encoded><category>每日特报</category><category>Supercharger</category><category>Cybertruck</category><category>Model 3</category><category>Model Y</category><category>Powerwall</category></item></channel>
 </rss>
